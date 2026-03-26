@@ -1,0 +1,41 @@
+[
+  {
+    "id": "commissariat_aux_comptes_easy_001",
+    "question": "Le commissaire aux comptes est nommé par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Le directeur", "L'assemblée générale", "Le conseil d'administration", "Le ministre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_easy_002",
+    "question": "Le CAC exerce un contrôle à titre obligatoire.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_easy_003",
+    "question": "Le rapport du CAC est adressé à l'_____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "assemblée générale"
+  },
+  {
+    "id": "commissariat_aux_comptes_easy_004",
+    "question": "Quelles sont les principales missions du CAC?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Certification des comptes", "Contrôle interne", "Prévention des fraudes", "Etablissement des budgets"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "commissariat_aux_comptes_easy_005",
+    "question": "Le mandat du CAC dure généralement:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["1 an", "3 ans", "5 ans", "7 ans"],
+    "correctIndex": 2
+  }
+]

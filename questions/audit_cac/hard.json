@@ -1,0 +1,41 @@
+[
+  {
+    "id": "audit_cac_hard_001",
+    "question": "Le risque d'audit CAC est évalué selon:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Risque commercial uniquement", "Modèle ISA standard", "Jugement professionnel", "Données historiques"],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_002",
+    "question": "Lesquels sont des éléments critiques de l'audit CAC?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Tests de contrôle", "Tests de substance", "Procédures analytiques", "Observation continue"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "audit_cac_hard_003",
+    "question": "Le CAC communique les faiblesses au _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "Comité d'audit"
+  },
+  {
+    "id": "audit_cac_hard_004",
+    "question": "L'opinion sans réserve signifie la conformité complète.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_cac_hard_005",
+    "question": "Le rapport sur le contrôle interne par le CAC est:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Obligatoire", "Recommandé", "Optionnel", "Confidentiel toujours"],
+    "correctIndex": 0
+  }
+]

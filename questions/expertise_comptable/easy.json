@@ -1,0 +1,41 @@
+[
+  {
+    "id": "expertise_comptable_easy_001",
+    "question": "L'expertise comptable est une discipline consacrée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["L'audit interne", "L'examen technique des comptes", "La gestion personnelle", "La fiscalité uniquement"],
+    "correctIndex": 1
+  },
+  {
+    "id": "expertise_comptable_easy_002",
+    "question": "L'expert-comptable peut éxercer seul ou en cabinet.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "expertise_comptable_easy_003",
+    "question": "L'inscription d'un expert-comptable se fait auprès du _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "tableau de l'Ordre"
+  },
+  {
+    "id": "expertise_comptable_easy_004",
+    "question": "Quelles sont les missions principales d'un expert-comptable?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Tenue des comptes", "Établissement de bilan", "Conseils fiscaux", "Audit obligatoire"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "expertise_comptable_easy_005",
+    "question": "L'expert-comptable doit suivre une formation continue de:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["20 heures/an", "40 heures/an", "60 heures/an", "Aucune"],
+    "correctIndex": 1
+  }
+]

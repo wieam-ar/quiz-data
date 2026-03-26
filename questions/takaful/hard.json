@@ -1,0 +1,41 @@
+[
+  {
+    "id": "takaful_hard_001",
+    "question": "Le modèle d'administration Takaful repose sur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["L'opérateur comme propriétaire", "L'opérateur comme agent", "Le client comme propriétaire", "L'État comme régulateur"],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_002",
+    "question": "Lesquels sont des défis du développement du Takaful?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Harmonisation réglementaire", "Standardisation des produits", "Manque de capital", "Faible demande"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "takaful_hard_003",
+    "question": "La réserve de stabilisation Takaful est gérée selon le régime _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "Wakala"
+  },
+  {
+    "id": "takaful_hard_004",
+    "question": "Le Takaful peut accepter des demandes de sinistre sans justification.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_005",
+    "question": "Le portefeuille Takaful doit être diversifié à minimum de:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["10 branches", "15 branches", "20 branches", "25 branches"],
+    "correctIndex": 1
+  }
+]

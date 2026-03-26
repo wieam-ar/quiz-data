@@ -1,0 +1,41 @@
+[
+  {
+    "id": "comptabilite_hard_001",
+    "question": "Selon les IFRS, quel traitement est obligatoire pour les immobilisations incorporelles générées en interne?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Comptabilisation en actif", "Passation immédiate en charge", "Amortissement accéléré", "Réévaluation annuelle"],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_hard_002",
+    "question": "Lesquels de ces éléments font partie du calcul du cash-flow d'exploitation?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Résultat net", "Variation des stocks", "Amortissements", "Acquisitions d'immobilisations"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "comptabilite_hard_003",
+    "question": "La provision pour dépréciations est une charge _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "exceptionnelle"
+  },
+  {
+    "id": "comptabilite_hard_004",
+    "question": "L'ajustement de la valeur d'une créance douteuse s'effectue via une provision.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "comptabilite_hard_005",
+    "question": "En fin d'exercice, quel solde ne doit jamais apparaître au bilan?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Bénéfice", "Perte", "Bénéfice à reporter", "Compte de résultat"],
+    "correctIndex": 3
+  }
+]

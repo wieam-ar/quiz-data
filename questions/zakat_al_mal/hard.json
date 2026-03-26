@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_mal_hard_001",
+    "question": "L'ajustement du Nisab pour l'inflation est:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Obligatoire", "Recommandé", "Interdit", "Non applicable"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_hard_002",
+    "question": "Lesquels sont des défis du calcul de Zakat Al-Mal?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Identification des actifs", "Évaluation des dettes", "Détermination du Nisab", "Variations des taux"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "zakat_al_mal_hard_003",
+    "question": "La Zakat Al-Mal est basée sur le principe de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "la purification des biens"
+  },
+  {
+    "id": "zakat_al_mal_hard_004",
+    "question": "L'absence du versement de Zakat Al-Mal annule les transactions.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_hard_005",
+    "question": "Le versement est considéré complet si:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Partiellement versé", "Verser au Nisab", "Verser la totalité obligatoire", "Verser l'année suivante"],
+    "correctIndex": 2
+  }
+]

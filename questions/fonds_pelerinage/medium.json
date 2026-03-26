@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fonds_pelerinage_medium_001",
+    "question": "Le critère principal pour bénéficier du fonds est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["L'âge", "La nationalité", "Le revenu", "L'éducation"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_medium_002",
+    "question": "Lesquels sont des critères d'éligibilité au fonds?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Revenu < seuil", "Habitude de culte", "Engagement communautaire", "Antécédents judiciaires"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "fonds_pelerinage_medium_003",
+    "question": "Le taux d'aide du fonds couvre _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "50% à 100%"
+  },
+  {
+    "id": "fonds_pelerinage_medium_004",
+    "question": "Le fonds de pèlerinage finance uniquement le Hajj.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_medium_005",
+    "question": "Quel est le budget annuel approximatif du fonds?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["$10 millions", "$50 millions", "$100 millions", "$500 millions"],
+    "correctIndex": 2
+  }
+]

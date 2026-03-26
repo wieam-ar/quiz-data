@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_hard_001",
+    "question": "La théorie du Waqf selon l'école malékite privilégie:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["L'intention du donateur", "L'objectif du bien", "La perpétuité", "L'intérêt public"],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_hard_002",
+    "question": "Lesquels sont des principes de gestion moderne du Waqf?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Transparence", "Audit régulier", "Rapport public", "Protection des actifs"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "waqf_hard_003",
+    "question": "Le Waqf peut être transformé selon le concept de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "Istihalah"
+  },
+  {
+    "id": "waqf_hard_004",
+    "question": "Un Waqf devient invalide après l'extinction des bénéficiaires.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_hard_005",
+    "question": "La succession des Mutawalli en Waqf est régie par:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Hérédité", "Droit civil", "Waqfnama", "Élection démocratique"],
+    "correctIndex": 2
+  }
+]

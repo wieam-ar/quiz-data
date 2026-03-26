@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_mal_easy_001",
+    "question": "La Zakat Al-Mal s'applique sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Le revenu annuel", "Les richesses accumulées", "Les dons", "Les héritages"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_easy_002",
+    "question": "La Zakat Al-Mal doit être versée une fois par an.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_easy_003",
+    "question": "Le taux de Zakat Al-Mal est de _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "2.5%"
+  },
+  {
+    "id": "zakat_al_mal_easy_004",
+    "question": "Lesquels des biens sont soumis à la Zakat Al-Mal?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Or", "Argent", "Immeubles de rapport", "Véhicules personnels"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "zakat_al_mal_easy_005",
+    "question": "La Zakat Al-Mal est calculée après:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["1 mois", "6 mois", "1 an civil", "Déduction des dettes"],
+    "correctIndex": 3
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fonds_pelerinage_easy_001",
+    "question": "Le fonds de pèlerinage est établi pour:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["La santé", "L'éducation", "Le Hajj", "Le commerce"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_002",
+    "question": "Le fonds de pèlerinage aide les musulmans ayant revenus faibles.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_easy_003",
+    "question": "Le fonds de pèlerinage utilise les revenus de la _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "Zakat"
+  },
+  {
+    "id": "fonds_pelerinage_easy_004",
+    "question": "Quels services le fonds de pèlerinage offre-t-il?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Transport", "Hébergement", "Guide spirituel", "Financement complet"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "fonds_pelerinage_easy_005",
+    "question": "Comment le fonds de pèlerinage est-il géré?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Par l'État", "Par une organisation religieuse", "Par les banques", "Par les donateurs"],
+    "correctIndex": 1
+  }
+]

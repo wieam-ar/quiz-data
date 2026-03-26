@@ -1,0 +1,41 @@
+[
+  {
+    "id": "banque_islamique_easy_001",
+    "question": "La première banque islamique moderne est créée en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["1950", "1975", "1990", "2000"],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_002",
+    "question": "Une banque islamique finance uniquement des secteurs Halal.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_easy_003",
+    "question": "La rémunération des dépôts dans une banque islamique est basée sur _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "la participation aux bénéfices"
+  },
+  {
+    "id": "banque_islamique_easy_004",
+    "question": "Quels sont les services offerts par une banque islamique?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Financement Murabaha", "Comptes de dépôts", "Services de change", "Trading Forex"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "banque_islamique_easy_005",
+    "question": "Le rapport de conformité Charia est publié",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Mensuellement", "Trimestriellement", "Annuellement", "Biennalement"],
+    "correctIndex": 2
+  }
+]

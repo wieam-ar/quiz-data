@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_public_easy_001",
+    "question": "Un Waqf public est un bien donné à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Une personne", "L'État", "L'utilité publique", "Une banque"],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_public_easy_002",
+    "question": "Un Waqf public s'adresse à la majorité des musulmans.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_public_easy_003",
+    "question": "Un Waqf public est géré par un _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "Mutawalli"
+  },
+  {
+    "id": "waqf_public_easy_004",
+    "question": "Quels sont les types de Waqf public courants?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Mosquée", "École", "Hôpital", "Bibliothèque"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "waqf_public_easy_005",
+    "question": "Le Waqf public peut-il être vendu?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Toujours", "Jamais", "Rarement", "Avec autorisation"],
+    "correctIndex": 1
+  }
+]

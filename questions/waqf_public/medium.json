@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_public_medium_001",
+    "question": "Les revenus du Waqf public doivent être utilisés pour:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["L'enrichissement personnel", "L'objectif du Waqf", "L'accumulation", "Les investissements"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_medium_002",
+    "question": "Lesquels sont des conditions du Waqf public valide?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Intention claire", "Bien spécifié", "Bien réel et valuable", "Acceptation implicite"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "waqf_public_medium_003",
+    "question": "Le Waqf public est établi selon les termes du _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "Waqfnama"
+  },
+  {
+    "id": "waqf_public_medium_004",
+    "question": "Le Mutawalli peut modifier les conditions du Waqf public.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_medium_005",
+    "question": "Le Waqf public est soumis à l'impôt?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Toujours", "Jamais", "Partiellement", "Selon les juridictions"],
+    "correctIndex": 1
+  }
+]

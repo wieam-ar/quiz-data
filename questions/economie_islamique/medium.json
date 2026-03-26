@@ -1,0 +1,41 @@
+[
+  {
+    "id": "economie_islamique_medium_001",
+    "question": "La notion d'Ijara fait référence à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["L'achat-revente", "La location", "L'assurance", "L'emprunt"],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_002",
+    "question": "Lesquels sont des secteurs interdits dans la finance islamique?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Alcool", "Tabac", "Jeux d'argent", "Restauration"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "economie_islamique_medium_003",
+    "question": "Le Murabaha est un contrat de _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "vente à marge"
+  },
+  {
+    "id": "economie_islamique_medium_004",
+    "question": "L'intérêt versé par la banque sur les dépôts est considéré comme du Riba.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "economie_islamique_medium_005",
+    "question": "Qui valide la conformité Charia d'un produit?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Le banquier", "Le client", "Le Charia board", "L'État"],
+    "correctIndex": 2
+  }
+]

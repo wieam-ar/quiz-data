@@ -1,0 +1,41 @@
+[
+  {
+    "id": "comptabilite_medium_001",
+    "question": "La méthode de l'amortissement linéaire se base sur le calcul suivant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Valeur brute / Durée d'utilité", "Valeur résiduelle × Taux annuel", "Valeur courante / Durée restante", "Valeur nette / Nombre d'années"],
+    "correctIndex": 0
+  },
+  {
+    "id": "comptabilite_medium_002",
+    "question": "Lequel de ces comptes doit être régularisé en fin d'exercice?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Intérêts à payer", "Charges constatées d'avance", "Produits à recevoir", "Fournitures consommées"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "comptabilite_medium_003",
+    "question": "La comptabilité analytique permet de déterminer le coût de _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "revient"
+  },
+  {
+    "id": "comptabilite_medium_004",
+    "question": "L'équation comptable fondamentale est: Actif = Passif + Capitaux propres",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "comptabilite_medium_005",
+    "question": "Quelle méthode permet de valoriser les stocks?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["PEPS uniquement", "PEPS et FIFO", "LIFO et FIFO", "Coût moyen pondéré"],
+    "correctIndex": 3
+  }
+]

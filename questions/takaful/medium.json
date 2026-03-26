@@ -1,0 +1,41 @@
+[
+  {
+    "id": "takaful_medium_001",
+    "question": "Le Mudharaba en Takaful signifie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Partage du risque", "Partage des profits", "Partage des pertes", "Mutualisation du risque"],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_medium_002",
+    "question": "Lesquels sont des principes du Takaful?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Transparence", "Équité", "Mutualisation des risques", "Maximisation des profits"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "takaful_medium_003",
+    "question": "Le fonds de Takaful est géré selon le régime _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "Mudharaba"
+  },
+  {
+    "id": "takaful_medium_004",
+    "question": "L'assureur Takaful prend simplement le rôle d'administrateur.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_medium_005",
+    "question": "Quel est le ratio minimum de solvabilité Takaful?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["50%", "75%", "100%", "125%"],
+    "correctIndex": 1
+  }
+]

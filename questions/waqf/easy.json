@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_easy_001",
+    "question": "Le Waqf est une forme de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Vente", "Donation irrevocable", "Location", "Héritage"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_easy_002",
+    "question": "Le bien offert en Waqf ne peut plus être vendu.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_easy_003",
+    "question": "Le terme Waqf signifie littéralement _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "arrêt ou immobilisation"
+  },
+  {
+    "id": "waqf_easy_004",
+    "question": "Quels types de biens peuvent être waqfs?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Immeubles", "Terrains", "Meubles", "Droits d'usufruit"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "waqf_easy_005",
+    "question": "Le Waqf primitif repose sur le désir de:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Richesse", "Piété", "Prochain", "Reconnaissance"],
+    "correctIndex": 1
+  }
+]

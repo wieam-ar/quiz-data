@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_prive_hard_001",
+    "question": "Le Waqf privé peut être invalide si:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Pas de bénéficiaires indiqués", "Total indétermination", "Conditions impossibles", "Tous les cas ci-dessus"],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_hard_002",
+    "question": "Lesquels sont des caractéristiques du Waqf privé?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Contrôle du donateur limité", "Irrévocabilité", "Autonomie du bien", "Fiscalité spéciale"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "waqf_prive_hard_003",
+    "question": "La succession dans le Waqf privé suit la méthode de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "dévolution spécifiée"
+  },
+  {
+    "id": "waqf_prive_hard_004",
+    "question": "Le Waqf privé peut devenir public via dévolution.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_hard_005",
+    "question": "La responsabilité du Mutawalli en Waqf privé est:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Moins stricte", "Égale au public", "Plus stricte", "Non applicable"],
+    "correctIndex": 0
+  }
+]

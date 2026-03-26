@@ -1,0 +1,41 @@
+[
+  {
+    "id": "audit_externe_hard_001",
+    "question": "Le risque de non-détection en audit représente:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Le risque de non-détecter les anomalies significatives", "Le risque d'erreur comptable", "Le risque de fraude", "Le risque réglementaire"],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_hard_002",
+    "question": "Lesquels sont des indicateurs de fraude en audit?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Transactions complexes", "Pressions financières", "Faiblesses de contrôle interne", "Croissance normale de l'entreprise"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "audit_externe_hard_003",
+    "question": "L'évaluation du risque d'anomalies importantes est basée sur le risque _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "inhérent"
+  },
+  {
+    "id": "audit_externe_hard_004",
+    "question": "Toute fraude détectée doit être communiquée aux tiers externes.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_hard_005",
+    "question": "Quel est le niveau de confiance pour valider une opération auditée?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["50%", "70%", "95%", "100%"],
+    "correctIndex": 2
+  }
+]

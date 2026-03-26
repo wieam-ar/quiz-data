@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_medium_001",
+    "question": "Les huit catégories des bénéficiaires de Zakat selon le Coran sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Pauvres et nécessiteux uniquement", "Les huit mentionnées dans la sourate", "Famille et proches", "Qui a besoin"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_medium_002",
+    "question": "Lesquels parmi ces groupes peuvent bénéficier de Zakat?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Pauvres", "Askar", "Muallaf", "Prisoniers"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "zakat_medium_003",
+    "question": "La Zakat Al-Fitr donne priorité aux _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "proches pauvres"
+  },
+  {
+    "id": "zakat_medium_004",
+    "question": "Le Zakat peut être versé en avance par anticipation.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_medium_005",
+    "question": "Le calcul du Nisab prend en compte:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Or uniquement", "Argent uniquement", "Or et argent", "Biens immobiliers"],
+    "correctIndex": 2
+  }
+]

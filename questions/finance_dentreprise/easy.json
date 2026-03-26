@@ -1,0 +1,41 @@
+[
+  {
+    "id": "finance_dentreprise_easy_001",
+    "question": "Quel est l'objectif principal de la finance d'entreprise?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Maximiser les dépenses", "Optimiser la création de valeur", "Réduire les dettes", "Augmenter les ventes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_easy_002",
+    "question": "Le coût du capital est la moyenne des coûts de financement.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_easy_003",
+    "question": "Les sources de financement interne sont l'autofinancement et les _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "cessions d'actifs"
+  },
+  {
+    "id": "finance_dentreprise_easy_004",
+    "question": "Quels sont les éléments du besoin en fonds de roulement?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Créances clients", "Stocks", "Dettes fournisseurs", "Disponibilités"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "finance_dentreprise_easy_005",
+    "question": "Quel ratio mesure la liquidité d'une entreprise?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Ratio de rentabilité", "Ratio de solvabilité", "Ratio de liquidité", "Ratio de profitabilité"],
+    "correctIndex": 2
+  }
+]

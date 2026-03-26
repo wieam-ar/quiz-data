@@ -1,0 +1,41 @@
+[
+  {
+    "id": "expertise_comptable_medium_001",
+    "question": "L'expertise comptable se distingue de l'audit par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Les responsabilités", "L'indépendance requise", "Les techniques", "Les rapports émis"],
+    "correctIndex": 0
+  },
+  {
+    "id": "expertise_comptable_medium_002",
+    "question": "Lesquels sont des services additionnels d'un expert-comptable?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Conseils financiers", "Restructuration", "Transmission d'entreprise", "Gestion de salaires"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "expertise_comptable_medium_003",
+    "question": "Le secret professionnel de l'expert-comptable est _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "inviolable"
+  },
+  {
+    "id": "expertise_comptable_medium_004",
+    "question": "L'expert-comptable peut refuser une mission.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "expertise_comptable_medium_005",
+    "question": "La signature de l'expert-comptable rend les comptes:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Certifiés", "Régulièrement tenus", "Contrôlés", "Automatiquement acceptés"],
+    "correctIndex": 1
+  }
+]

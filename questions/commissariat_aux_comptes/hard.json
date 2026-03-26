@@ -1,0 +1,41 @@
+[
+  {
+    "id": "commissariat_aux_comptes_hard_001",
+    "question": "Le CAC doit reporter les irrégularités à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["L'administration uniquement", "L'assemblée générale et l'administration", "Le directeur général", "La presse"],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_hard_002",
+    "question": "Lesquels sont des cas de révocation du CAC?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Faillite personnelle", "Dépôt de bilan", "Incompétence manifeste", "Changement d'assemblée"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "commissariat_aux_comptes_hard_003",
+    "question": "La responsabilité civile du CAC est engagée en cas de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "négligence"
+  },
+  {
+    "id": "commissariat_aux_comptes_hard_004",
+    "question": "Le CAC peut être poursuivi pénalement pour ses omissions.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_hard_005",
+    "question": "Quelle est la structure d'audit minimale requise pour une CAC?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Un seul auditeur", "Au moins deux auditeurs", "Une équipe d'au moins 5 personnes", "Un cabinet international"],
+    "correctIndex": 1
+  }
+]

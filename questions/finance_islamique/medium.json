@@ -1,0 +1,41 @@
+[
+  {
+    "id": "finance_islamique_medium_001",
+    "question": "Le Wakala est un contrat de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Garantie", "Mandat", "Partenariat", "Assurance"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_002",
+    "question": "Lesquels sont des produits de placement islamiques?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Sukuk", "Islamic Mutual Funds", "Options Halal", "Leverage Trading"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "finance_islamique_medium_003",
+    "question": "L'asset-based financing en islam signifie un financement _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "adossé à des actifs réels"
+  },
+  {
+    "id": "finance_islamique_medium_004",
+    "question": "Les intérêts de moratoire pénalisent les retards de paiement.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_005",
+    "question": "Comment s'appelle l'index de référence en finance islamique?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["LIBOR", "EIBOR", "Islamic HIBOR", "Sharia Index"],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_fitr_medium_001",
+    "question": "La Zakat Al-Fitr doit être versée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Le chef de famille uniquement", "Chaque individu", "Le père de famille", "L'aîné de la famille"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_medium_002",
+    "question": "Lesquels sont des types de Zakat Al-Fitr accordés?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Blé", "Orge", "Dattes", "Argent en espèces"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "zakat_al_fitr_medium_003",
+    "question": "La Zakat Al-Fitr peut être versée au _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "premier jour du Ramadan"
+  },
+  {
+    "id": "zakat_al_fitr_medium_004",
+    "question": "La Zakat Al-Fitr annule les défauts du jeûne.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_medium_005",
+    "question": "Le délai maximum pour verser Zakat Al-Fitr est:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Avant l'Aid", "Le jour de l'Aid", "Après l'Aid", "Une semaine après l'Aid"],
+    "correctIndex": 0
+  }
+]

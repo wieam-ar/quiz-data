@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_easy_001",
+    "question": "La Zakat est le _____ pilier de l'Islam:",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "troisième"
+  },
+  {
+    "id": "zakat_easy_002",
+    "question": "La Zakat est une forme d'aumône obligatoire.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_003",
+    "question": "Quel est le taux principal de Zakat?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["1%", "2.5%", "5%", "10%"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_004",
+    "question": "Lesquels sont des formes de Zakat?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Zakat Al-Mal", "Zakat Al-Fitr", "Zakat personnelle", "Zakat annuelle"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "zakat_easy_005",
+    "question": "La Zakat doit être versée à:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["N'importe qui", "Aux pauvres", "À l'État", "Aux proches"],
+    "correctIndex": 1
+  }
+]

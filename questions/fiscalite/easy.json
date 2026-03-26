@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fiscalite_easy_001",
+    "question": "Quel impôt porte sur le revenu des personnes physiques?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["TVA", "IR", "IS", "IFU"],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_002",
+    "question": "La TVA est un impôt indirecte basé sur la consommation.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fiscalite_easy_003",
+    "question": "Le taux normal de TVA en France est de _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "20%"
+  },
+  {
+    "id": "fiscalite_easy_004",
+    "question": "Lesquels de ces revenus sont imposables?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Salaires", "Intérêts bancaires", "Allocations familiales", "Pensions alimentaires"],
+    "correctIndexes": [0, 1, 3]
+  },
+  {
+    "id": "fiscalite_easy_005",
+    "question": "Quel est le délai de prescription de l'administration fiscale?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["1 an", "3 ans", "5 ans", "10 ans"],
+    "correctIndex": 2
+  }
+]

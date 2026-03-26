@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_prive_easy_001",
+    "question": "Un Waqf privé bénéficie principalement à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["L'État", "La famille du donateur", "Le public", "Les institutions religieuses"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_easy_002",
+    "question": "Un Waqf privé remains dans la famille.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_easy_003",
+    "question": "Un Waqf privé peut être transformé en _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "Waqf public"
+  },
+  {
+    "id": "waqf_prive_easy_004",
+    "question": "Quels sont les bénéficiaires possibles d'un Waqf privé?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Enfants", "Petits-enfants", "Frères et sœurs", "Étrangers"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "waqf_prive_easy_005",
+    "question": "Un Waqf privé dure généralement:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Quelques années", "Une génération", "Plusieurs générations", "Perpétuité"],
+    "correctIndex": 3
+  }
+]

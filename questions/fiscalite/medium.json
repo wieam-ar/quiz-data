@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fiscalite_medium_001",
+    "question": "La déduction de la TVA s'applique sur:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["La TVA collectée", "La TVA facturée", "La TVA déductible", "La TVA totale"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_medium_002",
+    "question": "Quelles dépenses sont déductibles du revenu professionnel?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Charges directes", "Charges indirectes", "Charges personnelles", "Charges personnelles non nécessaires"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "fiscalite_medium_003",
+    "question": "Le coefficient multiplicateur pour les entreprises est utilisé en méthode de _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "forfait"
+  },
+  {
+    "id": "fiscalite_medium_004",
+    "question": "Les plus-values immobilières à titre personnel sont toujours imposables.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_medium_005",
+    "question": "En régime IR, le résultat imposable est égal à:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Chiffre d'affaires - Charges", "Chiffre d'affaires - Charges - Amortissements", "Chiffre d'affaires × Coefficient", "Recettes - Dépenses"],
+    "correctIndex": 0
+  }
+]

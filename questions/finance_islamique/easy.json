@@ -1,0 +1,41 @@
+[
+  {
+    "id": "finance_islamique_easy_001",
+    "question": "La finance islamique est basée sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Le libre marché", "Les principes islamiques", "La maximisation du profit", "La déréglementation"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_easy_002",
+    "question": "Les produits financiers islamiques sont certifiés par un Charia board.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_islamique_easy_003",
+    "question": "Le Salam est un contrat d'achat-vente _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "à terme"
+  },
+  {
+    "id": "finance_islamique_easy_004",
+    "question": "Quels sont les types d'actifs acceptés en finance islamique?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Immeubles", "Commodités", "Actions Halal", "Dérivés complexes"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "finance_islamique_easy_005",
+    "question": "Un compte d'épargne en banque islamique rémunère par:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Intérêt fixe", "Partage de bénéfices", "Dividende", "Bonus annuel"],
+    "correctIndex": 1
+  }
+]

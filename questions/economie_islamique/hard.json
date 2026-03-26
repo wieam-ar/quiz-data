@@ -1,0 +1,41 @@
+[
+  {
+    "id": "economie_islamique_hard_001",
+    "question": "Le Musharaka est un contrat de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Partage de risque et bénéfice", "Bail", "Vente", "Emprunt"],
+    "correctIndex": 0
+  },
+  {
+    "id": "economie_islamique_hard_002",
+    "question": "Lesquels sont des mécanismes de spéculation prohibés?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Gharar", "Maysir", "Short selling", "Hedging légitime"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "economie_islamique_hard_003",
+    "question": "L'Istisna'a est un contrat de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "production ou construction"
+  },
+  {
+    "id": "economie_islamique_hard_004",
+    "question": "Les dividendes d'actions de banques islamiques sont toujours Halal.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_hard_005",
+    "question": "Le ratio de conformité Charia mesure:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["La rentabilité", "Le pourcentage du revenu Halal", "La liquidité", "L'endettement"],
+    "correctIndex": 1
+  }
+]

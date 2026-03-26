@@ -1,0 +1,41 @@
+[
+  {
+    "id": "comptabilite_easy_001",
+    "question": "Quel est le document comptable qui récapitule toutes les opérations d'une entreprise?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Le journal", "Le bilan", "Le grand livre", "La balance"],
+    "correctIndex": 0
+  },
+  {
+    "id": "comptabilite_easy_002",
+    "question": "L'actif d'un bilan représente l'ensemble des ressources d'une entreprise.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "comptabilite_easy_003",
+    "question": "Complétez: Un compte qui augmente au débit est un compte de _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "classe 1"
+  },
+  {
+    "id": "comptabilite_easy_004",
+    "question": "Quels sont les trois éléments fondamentaux d'une facture?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Date et numéro", "Montant TTC", "Signature du client", "Conditions de paiement"],
+    "correctIndexes": [0, 1, 3]
+  },
+  {
+    "id": "comptabilite_easy_005",
+    "question": "Dans le bilan, où classez-vous les stocks?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Actif courant", "Actif non courant", "Passif courant", "Passif non courant"],
+    "correctIndex": 0
+  }
+]

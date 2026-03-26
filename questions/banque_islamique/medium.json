@@ -1,0 +1,41 @@
+[
+  {
+    "id": "banque_islamique_medium_001",
+    "question": "La gestion de la trésorerie en banque islamique privilégie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Les dépôts à terme", "Les placements éthiques", "Les dérivés", "Le court terme"],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_002",
+    "question": "Lesquels sont des instruments de refinancement bancaire islamique?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Sukuk", "Murabaha", "Ijara", "Repo standard"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "banque_islamique_medium_003",
+    "question": "Un compte d'investissement dans une banque islamique est géré au _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "mode Mudaraba"
+  },
+  {
+    "id": "banque_islamique_medium_004",
+    "question": "Les banques islamiques distribuent de la Zakat à leurs actionnaires.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_005",
+    "question": "Quel est le taux minimum de capital requis pour une banque islamique?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["8%", "10%", "12%", "15%"],
+    "correctIndex": 0
+  }
+]

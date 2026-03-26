@@ -1,0 +1,41 @@
+[
+  {
+    "id": "audit_cac_easy_001",
+    "question": "L'audit CAC est effectué par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Un directeur financier", "Un commissaire aux comptes", "Un expert-comptable", "Un contrôleur interne"],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_easy_002",
+    "question": "L'audit CAC est obligatoire pour toutes les sociétés.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_easy_003",
+    "question": "Le rapport d'audit CAC est adressé à l'_____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "assemblée générale"
+  },
+  {
+    "id": "audit_cac_easy_004",
+    "question": "Quels sont les objectifs de l'audit CAC?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Vérifier la régularité", "Vérifier la sincérité", "Évaluer l'efficacité", "Évaluer la profitabilité"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "audit_cac_easy_005",
+    "question": "Le CAC doit être indépendant de:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["L'assemblée générale", "Le conseil d'administration", "La direction", "Tous les tiers"],
+    "correctIndex": 3
+  }
+]

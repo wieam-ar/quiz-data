@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_medium_001",
+    "question": "Un Waqf valide nécessite:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Acte écrit", "Intention claire", "Témoin unique", "Aucune formalité"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_002",
+    "question": "Lesquels sont des critères essentiels pour une Waqf légal?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Bien identifié", "But clarifié", "Bénéficiaires définis", "Autorisation officielle"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "waqf_medium_003",
+    "question": "La gestion du Waqf est confiée au _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "Mutawalli"
+  },
+  {
+    "id": "waqf_medium_004",
+    "question": "Le donateur d'un Waqf peut bénéficier de ses revenus.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_005",
+    "question": "Les revenus du Waqf doivent être utilisés pour:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Enrichissement du Mutawalli", "Objectif du Waqf", "Investissements", "Donations"],
+    "correctIndex": 1
+  }
+]

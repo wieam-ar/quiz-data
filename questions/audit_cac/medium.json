@@ -1,0 +1,41 @@
+[
+  {
+    "id": "audit_cac_medium_001",
+    "question": "La planification de l'audit CAC commence par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Évaluation du risque", "Collecte de données", "Revue analytique", "Tests détaillés"],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_cac_medium_002",
+    "question": "Lesquels sont des étapes de l'audit CAC?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Planification", "Exécution", "Rapportage", "Suivi perpétuel"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "audit_cac_medium_003",
+    "question": "Le CAC utilise les normes _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "ISA"
+  },
+  {
+    "id": "audit_cac_medium_004",
+    "question": "Le CAC peut refuser de certifier les comptes lors de doute.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_cac_medium_005",
+    "question": "La taille minimale pour L audit CAC obligatoire est:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Petite entreprise", "Deux critères", "Trois critères", "Grande entreprise"],
+    "correctIndex": 2
+  }
+]

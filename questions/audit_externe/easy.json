@@ -1,0 +1,41 @@
+[
+  {
+    "id": "audit_externe_easy_001",
+    "question": "L'audit externe a pour objectif de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Gérer les comptes", "Certifier la conformité des comptes", "Faire des prévisions", "Améliorer la production"],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_002",
+    "question": "L'auditeur externe doit être indépendant de l'entreprise auditée.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_easy_003",
+    "question": "L'audit externe applique les normes _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "ISA"
+  },
+  {
+    "id": "audit_externe_easy_004",
+    "question": "Quels sont les types d'opinions d'audit possibles?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Certification complète", "Certification avec réserves", "Refus de certification", "Audit limité"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "audit_externe_easy_005",
+    "question": "Qu'est-ce qu'un test de contrôle en audit?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Vérification de documents", "Évaluation de la maîtrise du processus", "Contrôle des stocks", "Revue de la paie"],
+    "correctIndex": 1
+  }
+]

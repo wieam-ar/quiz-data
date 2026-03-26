@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sukuk_medium_001",
+    "question": "Le Sukuk Ijara représente une:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Vente à marge", "Titrisation de loyers", "Co-propriété", "Participation aux bénéfices"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_medium_002",
+    "question": "Lesquels sont des avantages des Sukuk pour les émetteurs?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Accès à des fonds islamiques", "Coûts réduits", "Flexibilité structurelle", "Absence de notation"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "sukuk_medium_003",
+    "question": "La notation de crédit des Sukuk est classée _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "identique aux obligations"
+  },
+  {
+    "id": "sukuk_medium_004",
+    "question": "Les Sukuk peuvent être listés sur les bourses internationales.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sukuk_medium_005",
+    "question": "L'émission mondiale de Sukuk en 2023 était d'environ:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["$50 milliards", "$100 milliards", "$200 milliards", "$500 milliards"],
+    "correctIndex": 2
+  }
+]

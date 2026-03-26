@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fonds_pelerinage_hard_001",
+    "question": "Le modèle de financement du fonds repose sur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Les impôts", "Les dons volontaires et Zakat", "Les crédits bancaires", "Les investissements"],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_002",
+    "question": "Lesquels sont des défis du fonds de pèlerinage?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Volume croissant de demandes", "Ressources limitées", "Conformité administrative", "Transparence financière"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "fonds_pelerinage_hard_003",
+    "question": "Le fonds suit le processus d'évaluation _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "socio-économique"
+  },
+  {
+    "id": "fonds_pelerinage_hard_004",
+    "question": "Les bénéficiaires du fonds doivent rembourser ultérieurement.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_005",
+    "question": "Le fonds peut financer les accompagnants du pèlerin?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Toujours", "Jamais", "Selon les cas", "Avec accord spécial"],
+    "correctIndex": 2
+  }
+]

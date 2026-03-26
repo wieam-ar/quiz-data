@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_fitr_easy_001",
+    "question": "La Zakat Al-Fitr est versée avant:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["L'Iftar", "La prière de l'Aid", "Le coucher du soleil", "L'Aube"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_002",
+    "question": "La Zakat Al-Fitr est obligatoire pour tous les musulmans.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_003",
+    "question": "La Zakat Al-Fitr est aussi appelée Zakat _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "Ad-Duhûn"
+  },
+  {
+    "id": "zakat_al_fitr_easy_004",
+    "question": "Qui parmi les personnes suivantes peut bénéficier de Zakat Al-Fitr?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Les pauvres", "Les nécessiteux", "Les étudiants", "Les prisonniers"],
+    "correctIndexes": [0, 1]
+  },
+  {
+    "id": "zakat_al_fitr_easy_005",
+    "question": "Le montant de Zakat Al-Fitr par personne est généralement:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["Un repas", "Deux repas", "Le prix d'un repas", "Demi-repas"],
+    "correctIndex": 2
+  }
+]

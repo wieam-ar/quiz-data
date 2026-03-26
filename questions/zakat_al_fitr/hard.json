@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_fitr_hard_001",
+    "question": "L'équivalent en espèces de Zakat Al-Fitr est basé sur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Le prix du blé", "Le salaire moyen", "Le SMIC", "L'inflation"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_002",
+    "question": "Lesquels sont des critères d'évaluation de Zakat Al-Fitr?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Prix local du grain", "Situation économique", "Variations saisonnières", "Conditions climatiques"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "zakat_al_fitr_hard_003",
+    "question": "La Zakat Al-Fitr repose sur le principe de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "la pureté et le partage"
+  },
+  {
+    "id": "zakat_al_fitr_hard_004",
+    "question": "La Zakat Al-Fitr peut être combinée avec d'autres aumônes.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_005",
+    "question": "Les unités de mesure traditionnelles de Zakat Al-Fitr sont:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Kilogramme", "Sa'a", "Mudd", "Livre"],
+    "correctIndex": 1
+  }
+]

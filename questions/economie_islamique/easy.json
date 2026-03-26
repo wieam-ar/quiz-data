@@ -1,0 +1,41 @@
+[
+  {
+    "id": "economie_islamique_easy_001",
+    "question": "L'économie islamique repose sur des principes dictés par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Les coutumes locales", "La Charia", "Le droit romain", "Les accords commerciaux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_easy_002",
+    "question": "L'intérêt (Riba) est strictement interdit dans la finance islamique.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "economie_islamique_easy_003",
+    "question": "Le Maysir fait référence à _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "la spéculation"
+  },
+  {
+    "id": "economie_islamique_easy_004",
+    "question": "Quels sont les pilliers éthiques de l'économie islamique?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Transparence", "Justice", "Responsabilité communautaire", "Maximisation du profit"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "economie_islamique_easy_005",
+    "question": "La Zakat est un impôt social équivalant à quel pourcentage?",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["2.5%", "5%", "10%", "15%"],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_al_mal_medium_001",
+    "question": "Le Nisab en Zakat Al-Mal représente:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Le revenu minimum", "Le seuil d'imposition", "La richesse obligatoire", "L'exonération"],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_002",
+    "question": "Lesquels sont des exemptions de Zakat Al-Mal?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Dépenses nécessaires", "Dettes impayées", "Investissements en cours", "Biens endettés"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "zakat_al_mal_medium_003",
+    "question": "La Zakat Al-Mal est destinée aux _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "huit catégories de bénéficiaires"
+  },
+  {
+    "id": "zakat_al_mal_medium_004",
+    "question": "La Zakat Al-Mal peut être versée à titre d'avance.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_005",
+    "question": "La Zakat Al-Mal est calculée selon la méthode:",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Forfaitaire", "Analytique", "Réelle", "Forfaitaire et réelle"],
+    "correctIndex": 2
+  }
+]

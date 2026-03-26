@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sukuk_hard_001",
+    "question": "Le Sukuk Mudharaba implique:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Propriété directe", "Partage des profits et des pertes", "Droit de gestion", "Obligation de rendement"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_hard_002",
+    "question": "Lesquels sont des risques spécifiques aux Sukuk?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Risque de conformité Charia", "Risque de liquidité", "Risque de structure", "Risque de remboursement"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "sukuk_hard_003",
+    "question": "La date de maturation d'un Sukuk Ijara est fixée à _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "la fin du contrat de rente"
+  },
+  {
+    "id": "sukuk_hard_004",
+    "question": "Les coupons de Sukuk sont garantis par l'émetteur.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_hard_005",
+    "question": "Le marché secondaire des Sukuk est caractérisé par:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Liquidité élevée", "Liquidité faible", "Volatilité énorme", "Stabilité totale"],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "finance_dentreprise_medium_001",
+    "question": "L'effet de levier financier est favorable lorsque:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["La rentabilité économique < coût de la dette", "La rentabilité économique > coût de la dette", "La rentabilité économique = coût de la dette", "Les dettes augmentent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_002",
+    "question": "Lesquels sont des critères de sélection d'investissement?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["VAN positive", "TIR élevé", "Délai de récupération", "Taille du projet"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "finance_dentreprise_medium_003",
+    "question": "Le coût du capital se calcule en utilisant le modèle _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "CAPM"
+  },
+  {
+    "id": "finance_dentreprise_medium_004",
+    "question": "L'endettement pur n'affecte pas la VAN d'un projet.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_005",
+    "question": "Quel est le prix de l'action selon le modèle d'évaluation?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["VAN des flux futurs", "Valeur comptable", "Valeur de marché", "Somme des dividendes"],
+    "correctIndex": 0
+  }
+]

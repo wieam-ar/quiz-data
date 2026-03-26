@@ -1,0 +1,41 @@
+[
+  {
+    "id": "finance_dentreprise_hard_001",
+    "question": "La théorie du pecking order stipule que les entreprises financent les investissements en priorité par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Augmentation de capital", "Endettement", "Autofinancement", "Levée de fonds"],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_002",
+    "question": "Lesquels sont des enjeux de la gestion de la trésorerie?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Optimiser les placements", "Couvrir les risques de change", "Minimiser les coûts de financement", "Augmenter les profits"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "finance_dentreprise_hard_003",
+    "question": "Le coût du capital est utilisé pour actualiser les _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "flux de trésorerie"
+  },
+  {
+    "id": "finance_dentreprise_hard_004",
+    "question": "La structure optimale du capital réduit systématiquement le coût du capital.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_005",
+    "question": "Dans le modèle FCF, quelle est la valeur terminale?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Flux finaux de l'année", "Valeur actualisée perpétuelle", "Somme des flux", "Valeur de liquidation"],
+    "correctIndex": 1
+  }
+]

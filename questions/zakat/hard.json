@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zakat_hard_001",
+    "question": "Le Nisab minimal pour déclencher Zakat est basé sur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Prix fixe", "Équivalent précis d'or ou d'argent", "Ratio de revenu", "Décision personnelle"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_hard_002",
+    "question": "Lesquels sont des facteurs affectant le calcul de Zakat?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Capitalisation des dépôts", "Évaluation des patrimoine", "Situations d'endettement", "Revenus saisonniers"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "zakat_hard_003",
+    "question": "La Zakat est exonérée par le principe de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "solidarité"
+  },
+  {
+    "id": "zakat_hard_004",
+    "question": "La Zakat versée par erreur peut être remboursée.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_hard_005",
+    "question": "La jurisprudence islamique divise Zakat en:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Deux formes", "Trois formes", "Quatre formes", "Cinq formes"],
+    "correctIndex": 0
+  }
+]

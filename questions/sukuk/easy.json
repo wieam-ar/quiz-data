@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sukuk_easy_001",
+    "question": "Un Sukuk est un titre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Capitalisation", "Propriété d'actifs", "Créance", "Prêt obligataire"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_002",
+    "question": "Les Sukuk utilisent les mécanismes de financement islamiques.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sukuk_easy_003",
+    "question": "Un Sukuk est indexé sur une base d'_____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "actifs réels"
+  },
+  {
+    "id": "sukuk_easy_004",
+    "question": "Quels sont les types courants de Sukuk?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Sukuk Murabaha", "Sukuk Ijara", "Sukuk Musharaka", "Sukuk Forward"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "sukuk_easy_005",
+    "question": "Le premier Sukuk gouvernemental a été émis par:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["L'Égypte", "La Malaisie", "Le Bahreïn", "L'Arabie Saoudite"],
+    "correctIndex": 1
+  }
+]

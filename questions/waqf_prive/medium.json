@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_prive_medium_001",
+    "question": "La condition finale d'un Waqf privé est généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Retour au donateur", "Passage aux pauvres", "Perpétuité familiale", "Vente obligatoire"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_002",
+    "question": "Lesquels peuvent bénéficier d'un Waqf privé?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Descendants directs", "Collatéraux", "Pauvres après épuisement familial", "État comme dernier recours"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "waqf_prive_medium_003",
+    "question": "Un Waqf privé peut inclure une clause de _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "succession précise"
+  },
+  {
+    "id": "waqf_prive_medium_004",
+    "question": "Les enfants du donateur peuvent refuser les parts de Waqf privé.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_005",
+    "question": "Le Waqf privé est plus courant que le Waqf public dans les sociétés?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Oui", "Non", "Également courant", "Rarement utilisé"],
+    "correctIndex": 0
+  }
+]

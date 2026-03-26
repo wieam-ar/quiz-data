@@ -1,0 +1,41 @@
+[
+  {
+    "id": "banque_islamique_hard_001",
+    "question": "Le défi majeur des banques islamiques est:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["La concurrence", "L'harmonisation des standards", "La productivité", "La croissance"],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_hard_002",
+    "question": "Lesquels sont des risques spécifiques des banques islamiques?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Risque de liquidité", "Risque de conformité Charia", "Risque de marché", "Risque de concentration"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "banque_islamique_hard_003",
+    "question": "La notation des banques islamiques repose sur le score _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "CAMEL"
+  },
+  {
+    "id": "banque_islamique_hard_004",
+    "question": "Les réserves de capital sont maintenues selon les normes d'Harwell.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_hard_005",
+    "question": "Quel organe international régule les banques islamiques?",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["IMF", "BIS", "IFSB", "GFCI"],
+    "correctIndex": 2
+  }
+]

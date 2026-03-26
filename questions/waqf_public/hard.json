@@ -1,0 +1,41 @@
+[
+  {
+    "id": "waqf_public_hard_001",
+    "question": "L'annulation du Waqf public peut survenir lors de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": ["Changement de propriétaire", "Destruction irréversible", "Changement de management", "Perte de rentabilité"],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_002",
+    "question": "Lesquels sont des responsabilités du Mutawalli?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": ["Gestion du bien", "Audit financier", "Distribution des revenus", "Renouvellement d'équipement"],
+    "correctIndexes": [0, 1, 2, 3]
+  },
+  {
+    "id": "waqf_public_hard_003",
+    "question": "Le Waqf public suit le régime de _____",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "perpétuité"
+  },
+  {
+    "id": "waqf_public_hard_004",
+    "question": "Le Waqf public peut être transformé selon les conditions originales.",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_public_hard_005",
+    "question": "La succession du Mutawalli est déterminée par:",
+    "level": "hard",
+    "type": "dropdown",
+    "options": ["Le testateur", "L'héritier", "Le Waqfnama", "L'État"],
+    "correctIndex": 2
+  }
+]

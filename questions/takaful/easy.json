@@ -1,0 +1,41 @@
+[
+  {
+    "id": "takaful_easy_001",
+    "question": "Le Takaful est une forme d'assurance:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": ["Commerciale", "Mutuelle islamique", "Publique", "Gouvernementale"],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_002",
+    "question": "Le Takaful repose sur le principe d'aide mutuelle.",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_easy_003",
+    "question": "En Takaful, la prime s'appelle _____",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "Hibah"
+  },
+  {
+    "id": "takaful_easy_004",
+    "question": "Quels sont les types de Takaful?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": ["Takaful général", "Takaful famille", "Takaful santé", "Takaful investissement"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "takaful_easy_005",
+    "question": "Les excédents de Takaful sont distribués à:",
+    "level": "easy",
+    "type": "dropdown",
+    "options": ["L'opérateur uniquement", "Les assurants", "Les actionnaires", "L'État"],
+    "correctIndex": 1
+  }
+]

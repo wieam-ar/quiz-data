@@ -1,0 +1,41 @@
+[
+  {
+    "id": "commissariat_aux_comptes_medium_001",
+    "question": "Le CAC dispose d'un droit d'accès:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": ["Limité aux registres comptables", "Illimité aux documents de l'entreprise", "Restreint au directeur général", "Conditionné à une autorisation"],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_002",
+    "question": "Lesquels sont des droits du CAC?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": ["Assister aux réunions du conseil", "Accès aux documents", "Auditionner les dirigeants", "Voter aux assemblées"],
+    "correctIndexes": [0, 1, 2]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_003",
+    "question": "Le CAC est soumis au secret _____",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "professionnel"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_004",
+    "question": "Le CAC peut refuser de certifier les comptes sans proposer d'alternative.",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": ["Vrai", "Faux"],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_005",
+    "question": "Comment appelle-t-on le rapport d'audit du CAC avec réserves?",
+    "level": "medium",
+    "type": "dropdown",
+    "options": ["Refus de certification", "Certification avec réserves", "Avis défavorable", "Abstention"],
+    "correctIndex": 1
+  }
+]
