@@ -63,1142 +63,1323 @@
   },
   {
     "id": "waqf_public_hard_006",
-    "question": "Waqf_public question 1",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_007",
-    "question": "Waqf_public question 2",
-    "level": "hard",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_008",
-    "question": "Waqf_public question 3",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_009",
-    "question": "Waqf_public question 4",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_010",
-    "question": "Waqf_public question 5",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_011",
-    "question": "Waqf_public question 6",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_008",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "waqf_public_hard_009",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_010",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_011",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_012",
-    "question": "Waqf_public question 7",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_013",
-    "question": "Waqf_public question 8",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "waqf_public_hard_014",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_014",
-    "question": "Waqf_public question 9",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "waqf_public_hard_015",
-    "question": "Waqf_public question 10",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_016",
-    "question": "Waqf_public question 11",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_017",
-    "question": "Waqf_public question 12",
-    "level": "hard",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_018",
-    "question": "Waqf_public question 13",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_019",
-    "question": "Waqf_public question 14",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_020",
-    "question": "Waqf_public question 15",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_021",
-    "question": "Waqf_public question 16",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_022",
-    "question": "Waqf_public question 17",
+    "id": "waqf_public_hard_017",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_023",
-    "question": "Waqf_public question 18",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_024",
-    "question": "Waqf_public question 19",
+    "id": "waqf_public_hard_018",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "waqf_public_hard_025",
-    "question": "Waqf_public question 20",
+    "id": "waqf_public_hard_019",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_020",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_021",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_022",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_026",
-    "question": "Waqf_public question 21",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_027",
-    "question": "Waqf_public question 22",
+    "id": "waqf_public_hard_023",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "waqf_public_hard_028",
-    "question": "Waqf_public question 23",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_029",
-    "question": "Waqf_public question 24",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_030",
-    "question": "Waqf_public question 25",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_031",
-    "question": "Waqf_public question 26",
+    "id": "waqf_public_hard_024",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_025",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_026",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_public_hard_027",
+    "question": "Un Wakf public peut être liquidé si:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_028",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "waqf_public_hard_029",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_030",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_031",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_032",
-    "question": "Waqf_public question 27",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_033",
-    "question": "Waqf_public question 28",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "waqf_public_hard_034",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_034",
-    "question": "Waqf_public question 29",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "waqf_public_hard_035",
-    "question": "Waqf_public question 30",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_036",
-    "question": "Waqf_public question 31",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_037",
-    "question": "Waqf_public question 32",
-    "level": "hard",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_038",
-    "question": "Waqf_public question 33",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_039",
-    "question": "Waqf_public question 34",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_040",
-    "question": "Waqf_public question 35",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_041",
-    "question": "Waqf_public question 36",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_042",
-    "question": "Waqf_public question 37",
+    "id": "waqf_public_hard_037",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_043",
-    "question": "Waqf_public question 38",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_044",
-    "question": "Waqf_public question 39",
+    "id": "waqf_public_hard_038",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "waqf_public_hard_045",
-    "question": "Waqf_public question 40",
+    "id": "waqf_public_hard_039",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_040",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_041",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_042",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_046",
-    "question": "Waqf_public question 41",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_047",
-    "question": "Waqf_public question 42",
+    "id": "waqf_public_hard_043",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "waqf_public_hard_048",
-    "question": "Waqf_public question 43",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_049",
-    "question": "Waqf_public question 44",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_050",
-    "question": "Waqf_public question 45",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_051",
-    "question": "Waqf_public question 46",
+    "id": "waqf_public_hard_044",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_045",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_046",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_public_hard_047",
+    "question": "Un Wakf public peut être liquidé si:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_048",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "waqf_public_hard_049",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_050",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_051",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_052",
-    "question": "Waqf_public question 47",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_053",
-    "question": "Waqf_public question 48",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "waqf_public_hard_054",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_054",
-    "question": "Waqf_public question 49",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "waqf_public_hard_055",
-    "question": "Waqf_public question 50",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_056",
-    "question": "Waqf_public question 51",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_057",
-    "question": "Waqf_public question 52",
-    "level": "hard",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_058",
-    "question": "Waqf_public question 53",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_059",
-    "question": "Waqf_public question 54",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_060",
-    "question": "Waqf_public question 55",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_061",
-    "question": "Waqf_public question 56",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_062",
-    "question": "Waqf_public question 57",
+    "id": "waqf_public_hard_057",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_063",
-    "question": "Waqf_public question 58",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_064",
-    "question": "Waqf_public question 59",
+    "id": "waqf_public_hard_058",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "waqf_public_hard_065",
-    "question": "Waqf_public question 60",
+    "id": "waqf_public_hard_059",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_060",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_061",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_062",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_066",
-    "question": "Waqf_public question 61",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_067",
-    "question": "Waqf_public question 62",
+    "id": "waqf_public_hard_063",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "waqf_public_hard_068",
-    "question": "Waqf_public question 63",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_069",
-    "question": "Waqf_public question 64",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_070",
-    "question": "Waqf_public question 65",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_071",
-    "question": "Waqf_public question 66",
+    "id": "waqf_public_hard_064",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_065",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_066",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_public_hard_067",
+    "question": "Un Wakf public peut être liquidé si:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_068",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "waqf_public_hard_069",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_070",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_071",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_072",
-    "question": "Waqf_public question 67",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_073",
-    "question": "Waqf_public question 68",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "waqf_public_hard_074",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_074",
-    "question": "Waqf_public question 69",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "waqf_public_hard_075",
-    "question": "Waqf_public question 70",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_076",
-    "question": "Waqf_public question 71",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_077",
-    "question": "Waqf_public question 72",
-    "level": "hard",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_078",
-    "question": "Waqf_public question 73",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_079",
-    "question": "Waqf_public question 74",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_080",
-    "question": "Waqf_public question 75",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_public_hard_081",
-    "question": "Waqf_public question 76",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_082",
-    "question": "Waqf_public question 77",
+    "id": "waqf_public_hard_077",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_public_hard_083",
-    "question": "Waqf_public question 78",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_084",
-    "question": "Waqf_public question 79",
+    "id": "waqf_public_hard_078",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "waqf_public_hard_085",
-    "question": "Waqf_public question 80",
+    "id": "waqf_public_hard_079",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_080",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_081",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_082",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
     "correctIndex": 3
   },
   {
-    "id": "waqf_public_hard_086",
-    "question": "Waqf_public question 81",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_087",
-    "question": "Waqf_public question 82",
+    "id": "waqf_public_hard_083",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "waqf_public_hard_088",
-    "question": "Waqf_public question 83",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_089",
-    "question": "Waqf_public question 84",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_public_hard_090",
-    "question": "Waqf_public question 85",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_public_hard_091",
-    "question": "Waqf_public question 86",
+    "id": "waqf_public_hard_084",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_085",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_086",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_public_hard_087",
+    "question": "Un Wakf public peut être liquidé si:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_088",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "waqf_public_hard_089",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_090",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_public_hard_091",
+    "question": "La gestion d'un Wakf public est assurée par:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Le Wakif exclusivement",
+      "L'État et ses institutions",
+      "Una association privée",
+      "Le juge"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_092",
-    "question": "Waqf_public question 87",
+    "question": "Un Wakf public peut être transformé en Wakf familial par:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le Mutawalli",
+      "Impossibilité absolue",
+      "Volonté des bénéficiaires",
+      "Le juge"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_093",
-    "question": "Waqf_public question 88",
+    "question": "Les exemples typiques de Wakf publics incluent:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les mosquées",
+      "Les écoles",
+      "Les hôpitaux",
+      "Les routes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "waqf_public_hard_094",
+    "question": "L'argent collecté d'un Wakf public est destiné à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La famille du Wakif",
+      "L'entretien et l'objectif du Wakf",
+      "L'enrichissement de l'État",
+      "Les investissements spéculatifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_public_hard_094",
-    "question": "Waqf_public question 89",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "waqf_public_hard_095",
-    "question": "Waqf_public question 90",
+    "question": "Un Wakf public dédié aux étudiants pauvres est un exemple de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social",
+      "Wakf commercial",
+      "Wakf gouvernemental"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_096",
-    "question": "Waqf_public question 91",
+    "question": "Les revenus excédentaires d'un Wakf public sont destinés à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le Wakif",
+      "L'État",
+      "Les bénéficiaires",
+      "La réserve et l'amélioration du Wakf"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_hard_097",
-    "question": "Waqf_public question 92",
+    "question": "Un Wakf public peut être liquidé si:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible",
+      "L'État le demande",
+      "Les bénéficiaires le demandent"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_098",
-    "question": "Waqf_public question 93",
+    "question": "La transparence financière d'un Wakf public est assurée par:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les rapports réguliers",
+      "L'audit externe",
+      "La publication des comptes",
+      "La supervision de l'État"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "waqf_public_hard_099",
-    "question": "Waqf_public question 94",
+    "question": "Un bien légué pour servir les pauvres mais géré mal par l'administrateur:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Reste sous le même administrateur",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Doit être vendu",
+      "Revient au gouvernement"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_hard_100",
-    "question": "Waqf_public question 95",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La famille du Wakif",
+      "L'ensemble de la communauté",
+      "L'État uniquement",
+      "Les autorités religieuses"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

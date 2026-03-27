@@ -62,1142 +62,1417 @@
   },
   {
     "id": "sukuk_easy_006",
-    "question": "Sukuk question 1",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_007",
-    "question": "Sukuk question 2",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_008",
-    "question": "Sukuk question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_009",
-    "question": "Sukuk question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_010",
-    "question": "Sukuk question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_011",
-    "question": "Sukuk question 6",
+    "id": "sukuk_easy_007",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_008",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_012",
-    "question": "Sukuk question 7",
+    "id": "sukuk_easy_009",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "sukuk_easy_013",
-    "question": "Sukuk question 8",
+    "id": "sukuk_easy_010",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_011",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_012",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_013",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_014",
-    "question": "Sukuk question 9",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_015",
-    "question": "Sukuk question 10",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_016",
-    "question": "Sukuk question 11",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_017",
-    "question": "Sukuk question 12",
+    "id": "sukuk_easy_015",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_018",
-    "question": "Sukuk question 13",
+    "id": "sukuk_easy_016",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "sukuk_easy_019",
-    "question": "Sukuk question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_020",
-    "question": "Sukuk question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_021",
-    "question": "Sukuk question 16",
+    "id": "sukuk_easy_017",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
     ],
     "correctIndex": 3
   },
   {
-    "id": "sukuk_easy_022",
-    "question": "Sukuk question 17",
+    "id": "sukuk_easy_018",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_019",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "sukuk_easy_023",
-    "question": "Sukuk question 18",
+    "id": "sukuk_easy_020",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_021",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_022",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_023",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_024",
-    "question": "Sukuk question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_025",
-    "question": "Sukuk question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "sukuk_easy_026",
-    "question": "Sukuk question 21",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_027",
-    "question": "Sukuk question 22",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "sukuk_easy_028",
-    "question": "Sukuk question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_029",
-    "question": "Sukuk question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_030",
-    "question": "Sukuk question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_031",
-    "question": "Sukuk question 26",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_032",
-    "question": "Sukuk question 27",
+    "id": "sukuk_easy_025",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_033",
-    "question": "Sukuk question 28",
+    "id": "sukuk_easy_026",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_027",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_028",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_029",
+    "question": "Le rating des Sukuk est effectué par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "sukuk_easy_030",
+    "question": "Un Sukuk est un titre financier qui représente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_031",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_032",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_033",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_034",
-    "question": "Sukuk question 29",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_035",
-    "question": "Sukuk question 30",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_036",
-    "question": "Sukuk question 31",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_037",
-    "question": "Sukuk question 32",
+    "id": "sukuk_easy_035",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_038",
-    "question": "Sukuk question 33",
+    "id": "sukuk_easy_036",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "sukuk_easy_039",
-    "question": "Sukuk question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_040",
-    "question": "Sukuk question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_041",
-    "question": "Sukuk question 36",
+    "id": "sukuk_easy_037",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
     ],
     "correctIndex": 3
   },
   {
-    "id": "sukuk_easy_042",
-    "question": "Sukuk question 37",
+    "id": "sukuk_easy_038",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_039",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "sukuk_easy_043",
-    "question": "Sukuk question 38",
+    "id": "sukuk_easy_040",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_041",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_042",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_043",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_044",
-    "question": "Sukuk question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_045",
-    "question": "Sukuk question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "sukuk_easy_046",
-    "question": "Sukuk question 41",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_047",
-    "question": "Sukuk question 42",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "sukuk_easy_048",
-    "question": "Sukuk question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_049",
-    "question": "Sukuk question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_050",
-    "question": "Sukuk question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_051",
-    "question": "Sukuk question 46",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_052",
-    "question": "Sukuk question 47",
+    "id": "sukuk_easy_045",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_053",
-    "question": "Sukuk question 48",
+    "id": "sukuk_easy_046",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_047",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_048",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_049",
+    "question": "Le rating des Sukuk est effectué par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "sukuk_easy_050",
+    "question": "Un Sukuk est un titre financier qui représente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_051",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_052",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_053",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_054",
-    "question": "Sukuk question 49",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_055",
-    "question": "Sukuk question 50",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_056",
-    "question": "Sukuk question 51",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_057",
-    "question": "Sukuk question 52",
+    "id": "sukuk_easy_055",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_058",
-    "question": "Sukuk question 53",
+    "id": "sukuk_easy_056",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "sukuk_easy_059",
-    "question": "Sukuk question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_060",
-    "question": "Sukuk question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_061",
-    "question": "Sukuk question 56",
+    "id": "sukuk_easy_057",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
     ],
     "correctIndex": 3
   },
   {
-    "id": "sukuk_easy_062",
-    "question": "Sukuk question 57",
+    "id": "sukuk_easy_058",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_059",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "sukuk_easy_063",
-    "question": "Sukuk question 58",
+    "id": "sukuk_easy_060",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_061",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_062",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_063",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_064",
-    "question": "Sukuk question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_065",
-    "question": "Sukuk question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "sukuk_easy_066",
-    "question": "Sukuk question 61",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_067",
-    "question": "Sukuk question 62",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "sukuk_easy_068",
-    "question": "Sukuk question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_069",
-    "question": "Sukuk question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_070",
-    "question": "Sukuk question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_071",
-    "question": "Sukuk question 66",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_072",
-    "question": "Sukuk question 67",
+    "id": "sukuk_easy_065",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_073",
-    "question": "Sukuk question 68",
+    "id": "sukuk_easy_066",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_067",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_068",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_069",
+    "question": "Le rating des Sukuk est effectué par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "sukuk_easy_070",
+    "question": "Un Sukuk est un titre financier qui représente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_071",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_072",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_073",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_074",
-    "question": "Sukuk question 69",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_075",
-    "question": "Sukuk question 70",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_076",
-    "question": "Sukuk question 71",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_077",
-    "question": "Sukuk question 72",
+    "id": "sukuk_easy_075",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_078",
-    "question": "Sukuk question 73",
+    "id": "sukuk_easy_076",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "sukuk_easy_079",
-    "question": "Sukuk question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_080",
-    "question": "Sukuk question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_081",
-    "question": "Sukuk question 76",
+    "id": "sukuk_easy_077",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
     ],
     "correctIndex": 3
   },
   {
-    "id": "sukuk_easy_082",
-    "question": "Sukuk question 77",
+    "id": "sukuk_easy_078",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_079",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "sukuk_easy_083",
-    "question": "Sukuk question 78",
+    "id": "sukuk_easy_080",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_081",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_082",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_083",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_084",
-    "question": "Sukuk question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_085",
-    "question": "Sukuk question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "sukuk_easy_086",
-    "question": "Sukuk question 81",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_087",
-    "question": "Sukuk question 82",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "sukuk_easy_088",
-    "question": "Sukuk question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_089",
-    "question": "Sukuk question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_090",
-    "question": "Sukuk question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "sukuk_easy_091",
-    "question": "Sukuk question 86",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_092",
-    "question": "Sukuk question 87",
+    "id": "sukuk_easy_085",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_093",
-    "question": "Sukuk question 88",
+    "id": "sukuk_easy_086",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_087",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_088",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_089",
+    "question": "Le rating des Sukuk est effectué par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "sukuk_easy_090",
+    "question": "Un Sukuk est un titre financier qui représente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_091",
+    "question": "Les Sukuk diffèrent des obligations conventionnelles en ce qu'elles:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Sont conformes à la Charia",
+      "Représentent une propriété d'actifs",
+      "Génèrent des rendements basés sur les revenus réels",
+      "Évitent le Riba"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_092",
+    "question": "Un Sukuk Ijara est adossé à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Des matières premières",
+      "Des actifs loués par l'émetteur",
+      "Des obligations de remboursement",
+      "Des actifs financiers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sukuk_easy_093",
+    "question": "Les Sukuk Mourabaha impliquent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un partenariat",
+      "Une vente avec markup révélé",
+      "Un prêt",
+      "Un partenariat d'actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "sukuk_easy_094",
-    "question": "Sukuk question 89",
+    "question": "Dans un Sukuk Mousharaka, les détenteurs sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "sukuk_easy_095",
-    "question": "Sukuk question 90",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Des créanciers",
+      "Des partenaires dans une entreprise ou une venture",
+      "Des actionnaires d'une banque",
+      "Des obligataires"
     ],
     "correctIndex": 1
   },
   {
-    "id": "sukuk_easy_096",
-    "question": "Sukuk question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "sukuk_easy_097",
-    "question": "Sukuk question 92",
+    "id": "sukuk_easy_095",
+    "question": "Le marché secondaire des Sukuk:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk",
+      "Est régulé par la Charia",
+      "Est moins développé que celui des obligations"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "sukuk_easy_098",
-    "question": "Sukuk question 93",
+    "id": "sukuk_easy_096",
+    "question": "Les Sukuk présentent un risque:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "De crédit",
+      "De taux d'échange",
+      "De marché",
+      "De Charia (si la base devient haram)"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "sukuk_easy_097",
+    "question": "L'émission de Sukuk par une entité souveraine est souvent destinée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Financer des projets d'infrastructure",
+      "Rembourser les anciens Sukuk",
+      "Augmenter la liquidité",
+      "Tous les points ci-dessus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sukuk_easy_098",
+    "question": "Un Sukuk convertible peut se convertir en:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Monnaie",
+      "Biens réels ou actions",
+      "Obligations",
+      "Créances"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "sukuk_easy_099",
-    "question": "Sukuk question 94",
+    "question": "Le rating des Sukuk est effectué par:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les agences de notation internationales",
+      "Les Conseils Charia",
+      "Les auditeurs",
+      "Les banques centrales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "sukuk_easy_100",
-    "question": "Sukuk question 95",
+    "question": "Un Sukuk est un titre financier qui représente:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Une obligation classique",
+      "Une propriété ou un droit sur des actifs réels",
+      "Un prêt",
+      "Une action ordinaire"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

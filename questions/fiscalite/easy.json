@@ -62,1142 +62,1363 @@
   },
   {
     "id": "fiscalite_easy_006",
-    "question": "Fiscalite question 1",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_007",
-    "question": "Fiscalite question 2",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fiscalite_easy_008",
-    "question": "Fiscalite question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_009",
-    "question": "Fiscalite question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_010",
-    "question": "Fiscalite question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_011",
-    "question": "Fiscalite question 6",
+    "id": "fiscalite_easy_007",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_008",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_009",
+    "question": "La retenue à la source sur les intérêts est:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_010",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_011",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_012",
-    "question": "Fiscalite question 7",
+    "question": "Les crédits d'impôt réduisent:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_013",
-    "question": "Fiscalite question 8",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_014",
-    "question": "Fiscalite question 9",
+    "id": "fiscalite_easy_013",
+    "question": "La déduction fiscale pour investissement favorise:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_014",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_015",
-    "question": "Fiscalite question 10",
+    "question": "L'évasion fiscale est:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_016",
-    "question": "Fiscalite question 11",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "fiscalite_easy_017",
-    "question": "Fiscalite question 12",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_018",
-    "question": "Fiscalite question 13",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_019",
-    "question": "Fiscalite question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_020",
-    "question": "Fiscalite question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fiscalite_easy_021",
-    "question": "Fiscalite question 16",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_022",
-    "question": "Fiscalite question 17",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_023",
-    "question": "Fiscalite question 18",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_024",
-    "question": "Fiscalite question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_025",
-    "question": "Fiscalite question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_026",
-    "question": "Fiscalite question 21",
+    "id": "fiscalite_easy_018",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "id": "fiscalite_easy_027",
-    "question": "Fiscalite question 22",
+    "id": "fiscalite_easy_019",
+    "question": "La retenue à la source sur les intérêts est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "fiscalite_easy_028",
-    "question": "Fiscalite question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_029",
-    "question": "Fiscalite question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_030",
-    "question": "Fiscalite question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_031",
-    "question": "Fiscalite question 26",
+    "id": "fiscalite_easy_020",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_021",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_022",
+    "question": "Les crédits d'impôt réduisent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_023",
+    "question": "La déduction fiscale pour investissement favorise:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_024",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_025",
+    "question": "L'évasion fiscale est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_026",
+    "question": "La fraude fiscale peut entraîner:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "fiscalite_easy_027",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_028",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_029",
+    "question": "La retenue à la source sur les intérêts est:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_030",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_031",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_032",
-    "question": "Fiscalite question 27",
+    "question": "Les crédits d'impôt réduisent:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_033",
-    "question": "Fiscalite question 28",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_034",
-    "question": "Fiscalite question 29",
+    "id": "fiscalite_easy_033",
+    "question": "La déduction fiscale pour investissement favorise:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_034",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_035",
-    "question": "Fiscalite question 30",
+    "question": "L'évasion fiscale est:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_036",
-    "question": "Fiscalite question 31",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "fiscalite_easy_037",
-    "question": "Fiscalite question 32",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_038",
-    "question": "Fiscalite question 33",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_039",
-    "question": "Fiscalite question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_040",
-    "question": "Fiscalite question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fiscalite_easy_041",
-    "question": "Fiscalite question 36",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_042",
-    "question": "Fiscalite question 37",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_043",
-    "question": "Fiscalite question 38",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_044",
-    "question": "Fiscalite question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_045",
-    "question": "Fiscalite question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_046",
-    "question": "Fiscalite question 41",
+    "id": "fiscalite_easy_038",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "id": "fiscalite_easy_047",
-    "question": "Fiscalite question 42",
+    "id": "fiscalite_easy_039",
+    "question": "La retenue à la source sur les intérêts est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "fiscalite_easy_048",
-    "question": "Fiscalite question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_049",
-    "question": "Fiscalite question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_050",
-    "question": "Fiscalite question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_051",
-    "question": "Fiscalite question 46",
+    "id": "fiscalite_easy_040",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_041",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_042",
+    "question": "Les crédits d'impôt réduisent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_043",
+    "question": "La déduction fiscale pour investissement favorise:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_044",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_045",
+    "question": "L'évasion fiscale est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_046",
+    "question": "La fraude fiscale peut entraîner:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "fiscalite_easy_047",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_048",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_049",
+    "question": "La retenue à la source sur les intérêts est:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_050",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_051",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_052",
-    "question": "Fiscalite question 47",
+    "question": "Les crédits d'impôt réduisent:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_053",
-    "question": "Fiscalite question 48",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_054",
-    "question": "Fiscalite question 49",
+    "id": "fiscalite_easy_053",
+    "question": "La déduction fiscale pour investissement favorise:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_054",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_055",
-    "question": "Fiscalite question 50",
+    "question": "L'évasion fiscale est:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_056",
-    "question": "Fiscalite question 51",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "fiscalite_easy_057",
-    "question": "Fiscalite question 52",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_058",
-    "question": "Fiscalite question 53",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_059",
-    "question": "Fiscalite question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_060",
-    "question": "Fiscalite question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fiscalite_easy_061",
-    "question": "Fiscalite question 56",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_062",
-    "question": "Fiscalite question 57",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_063",
-    "question": "Fiscalite question 58",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_064",
-    "question": "Fiscalite question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_065",
-    "question": "Fiscalite question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_066",
-    "question": "Fiscalite question 61",
+    "id": "fiscalite_easy_058",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "id": "fiscalite_easy_067",
-    "question": "Fiscalite question 62",
+    "id": "fiscalite_easy_059",
+    "question": "La retenue à la source sur les intérêts est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "fiscalite_easy_068",
-    "question": "Fiscalite question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_069",
-    "question": "Fiscalite question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_070",
-    "question": "Fiscalite question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_071",
-    "question": "Fiscalite question 66",
+    "id": "fiscalite_easy_060",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_061",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_062",
+    "question": "Les crédits d'impôt réduisent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_063",
+    "question": "La déduction fiscale pour investissement favorise:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_064",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_065",
+    "question": "L'évasion fiscale est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_066",
+    "question": "La fraude fiscale peut entraîner:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "fiscalite_easy_067",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_068",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_069",
+    "question": "La retenue à la source sur les intérêts est:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_070",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_071",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_072",
-    "question": "Fiscalite question 67",
+    "question": "Les crédits d'impôt réduisent:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_073",
-    "question": "Fiscalite question 68",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_074",
-    "question": "Fiscalite question 69",
+    "id": "fiscalite_easy_073",
+    "question": "La déduction fiscale pour investissement favorise:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_074",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_075",
-    "question": "Fiscalite question 70",
+    "question": "L'évasion fiscale est:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_076",
-    "question": "Fiscalite question 71",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "fiscalite_easy_077",
-    "question": "Fiscalite question 72",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_078",
-    "question": "Fiscalite question 73",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_079",
-    "question": "Fiscalite question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_080",
-    "question": "Fiscalite question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fiscalite_easy_081",
-    "question": "Fiscalite question 76",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_082",
-    "question": "Fiscalite question 77",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_083",
-    "question": "Fiscalite question 78",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_084",
-    "question": "Fiscalite question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_085",
-    "question": "Fiscalite question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fiscalite_easy_086",
-    "question": "Fiscalite question 81",
+    "id": "fiscalite_easy_078",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "id": "fiscalite_easy_087",
-    "question": "Fiscalite question 82",
+    "id": "fiscalite_easy_079",
+    "question": "La retenue à la source sur les intérêts est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "fiscalite_easy_088",
-    "question": "Fiscalite question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_089",
-    "question": "Fiscalite question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fiscalite_easy_090",
-    "question": "Fiscalite question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fiscalite_easy_091",
-    "question": "Fiscalite question 86",
+    "id": "fiscalite_easy_080",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_081",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_082",
+    "question": "Les crédits d'impôt réduisent:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_083",
+    "question": "La déduction fiscale pour investissement favorise:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_084",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_085",
+    "question": "L'évasion fiscale est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_086",
+    "question": "La fraude fiscale peut entraîner:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "fiscalite_easy_087",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_088",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_089",
+    "question": "La retenue à la source sur les intérêts est:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fiscalite_easy_090",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_091",
+    "question": "La taxe sur la valeur ajoutée (TVA) est un impôt:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Conjoint",
+      "Municipal"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_092",
-    "question": "Fiscalite question 87",
+    "question": "Les crédits d'impôt réduisent:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fiscalite_easy_093",
-    "question": "Fiscalite question 88",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La base imposable",
+      "L'impôt dû",
+      "Le revenu brut",
+      "Les dépenses"
     ],
     "correctIndex": 1
   },
   {
-    "id": "fiscalite_easy_094",
-    "question": "Fiscalite question 89",
+    "id": "fiscalite_easy_093",
+    "question": "La déduction fiscale pour investissement favorise:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "La consommation",
+      "L'épargne",
+      "L'investissement productif",
+      "Les importations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fiscalite_easy_094",
+    "question": "Les régimes fiscaux simplifiés s'adressent aux:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "PME",
+      "Commerçants",
+      "Petites entreprises",
+      "Grandes sociétés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_095",
-    "question": "Fiscalite question 90",
+    "question": "L'évasion fiscale est:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Légale et recommandée",
+      "Illégale et pénalisée",
+      "Une forme de fiscalité",
+      "Un conseil d'investisseur"
     ],
     "correctIndex": 1
   },
   {
     "id": "fiscalite_easy_096",
-    "question": "Fiscalite question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fiscalite_easy_097",
-    "question": "Fiscalite question 92",
+    "question": "La fraude fiscale peut entraîner:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des pénalités",
+      "Des intérêts de retard",
+      "Une fermeture d'entreprise",
+      "Des poursuites pénales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fiscalite_easy_098",
-    "question": "Fiscalite question 93",
+    "id": "fiscalite_easy_097",
+    "question": "Le droit de contrôle fiscal s'étend sur:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "3 ans",
+      "6 ans",
+      "10 ans",
+      "15 ans"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "id": "fiscalite_easy_098",
+    "question": "Les dépenses engagées pour adapter l'entreprise aux normes environnementales sont:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Non déductibles",
+      "Partiellement déductibles",
+      "Entièrement déductibles",
+      "Taxées différemment"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_easy_099",
-    "question": "Fiscalite question 94",
+    "question": "La retenue à la source sur les intérêts est:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un paiement d'acompte",
+      "Un impôt définitif",
+      "Une garantie du fisc",
+      "Une protection du fisc"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fiscalite_easy_100",
-    "question": "Fiscalite question 95",
+    "question": "L'impôt sur les sociétés (IS) en Afrique du Nord varie de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "0 à 10%",
+      "10 à 45%",
+      "50 à 70%",
+      "80 à 100%"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

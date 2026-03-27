@@ -1,45 +1,27 @@
 [
   {
     "id": "fonds_pelerinage_easy_001",
-    "question": "Le fonds de pèlerinage est établi pour:",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La santé",
-      "L'éducation",
-      "Le Hajj",
-      "Le commerce"
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_002",
-    "question": "Le fonds de pèlerinage aide les musulmans ayant revenus faibles.",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_003",
-    "question": "Le fonds de pèlerinage utilise les revenus de la _____",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "Zakat"
-  },
-  {
-    "id": "fonds_pelerinage_easy_004",
-    "question": "Quels services le fonds de pèlerinage offre-t-il?",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Transport",
-      "Hébergement",
-      "Guide spirituel",
-      "Financement complet"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
@@ -48,1156 +30,1323 @@
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_005",
-    "question": "Comment le fonds de pèlerinage est-il géré?",
+    "id": "fonds_pelerinage_easy_003",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "Par l'État",
-      "Par une organisation religieuse",
-      "Par les banques",
-      "Par les donateurs"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_004",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "des critères socio-économiques"
+  },
+  {
+    "id": "fonds_pelerinage_easy_005",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
+    "level": "easy",
+    "type": "trueFalse",
+    "options": [
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_006",
-    "question": "Fonds_pelerinage question 1",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_007",
-    "question": "Fonds_pelerinage question 2",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_008",
-    "question": "Fonds_pelerinage question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_009",
-    "question": "Fonds_pelerinage question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_010",
-    "question": "Fonds_pelerinage question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_011",
-    "question": "Fonds_pelerinage question 6",
+    "id": "fonds_pelerinage_easy_007",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_008",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_009",
+    "question": "Quels documents sont généralement demandés pour la demande?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_010",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_011",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_012",
-    "question": "Fonds_pelerinage question 7",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_013",
-    "question": "Fonds_pelerinage question 8",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_014",
-    "question": "Fonds_pelerinage question 9",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_015",
-    "question": "Fonds_pelerinage question 10",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "trueFalse",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_016",
-    "question": "Fonds_pelerinage question 11",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fonds_pelerinage_easy_017",
-    "question": "Fonds_pelerinage question 12",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_018",
-    "question": "Fonds_pelerinage question 13",
+    "id": "fonds_pelerinage_easy_017",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_019",
-    "question": "Fonds_pelerinage question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_020",
-    "question": "Fonds_pelerinage question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
     ],
     "correctIndex": 2
   },
   {
-    "id": "fonds_pelerinage_easy_021",
-    "question": "Fonds_pelerinage question 16",
+    "id": "fonds_pelerinage_easy_018",
+    "question": "Comment le fonds maintient-il sa durabilité?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_022",
-    "question": "Fonds_pelerinage question 17",
+    "id": "fonds_pelerinage_easy_019",
+    "question": "Quels documents sont généralement demandés pour la demande?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_020",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_021",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_022",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_023",
-    "question": "Fonds_pelerinage question 18",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_024",
-    "question": "Fonds_pelerinage question 19",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_025",
-    "question": "Fonds_pelerinage question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fonds_pelerinage_easy_026",
-    "question": "Fonds_pelerinage question 21",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_027",
-    "question": "Fonds_pelerinage question 22",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fonds_pelerinage_easy_028",
-    "question": "Fonds_pelerinage question 23",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
     "type": "trueFalse",
     "options": [
-      "Vrai",
-      "Faux"
+      "Oui",
+      "Non"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_029",
-    "question": "Fonds_pelerinage question 24",
+    "id": "fonds_pelerinage_easy_026",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_030",
-    "question": "Fonds_pelerinage question 25",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "fonds_pelerinage_easy_031",
-    "question": "Fonds_pelerinage question 26",
+    "id": "fonds_pelerinage_easy_027",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_028",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_029",
+    "question": "Quels documents sont généralement demandés pour la demande?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_030",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_031",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_032",
-    "question": "Fonds_pelerinage question 27",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_033",
-    "question": "Fonds_pelerinage question 28",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_034",
-    "question": "Fonds_pelerinage question 29",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_035",
-    "question": "Fonds_pelerinage question 30",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "trueFalse",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_036",
-    "question": "Fonds_pelerinage question 31",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fonds_pelerinage_easy_037",
-    "question": "Fonds_pelerinage question 32",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_038",
-    "question": "Fonds_pelerinage question 33",
+    "id": "fonds_pelerinage_easy_037",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_039",
-    "question": "Fonds_pelerinage question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_040",
-    "question": "Fonds_pelerinage question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
     ],
     "correctIndex": 2
   },
   {
-    "id": "fonds_pelerinage_easy_041",
-    "question": "Fonds_pelerinage question 36",
+    "id": "fonds_pelerinage_easy_038",
+    "question": "Comment le fonds maintient-il sa durabilité?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_042",
-    "question": "Fonds_pelerinage question 37",
+    "id": "fonds_pelerinage_easy_039",
+    "question": "Quels documents sont généralement demandés pour la demande?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_040",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_041",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_042",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_043",
-    "question": "Fonds_pelerinage question 38",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_044",
-    "question": "Fonds_pelerinage question 39",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_045",
-    "question": "Fonds_pelerinage question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fonds_pelerinage_easy_046",
-    "question": "Fonds_pelerinage question 41",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_047",
-    "question": "Fonds_pelerinage question 42",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fonds_pelerinage_easy_048",
-    "question": "Fonds_pelerinage question 43",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
     "type": "trueFalse",
     "options": [
-      "Vrai",
-      "Faux"
+      "Oui",
+      "Non"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_049",
-    "question": "Fonds_pelerinage question 44",
+    "id": "fonds_pelerinage_easy_046",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_050",
-    "question": "Fonds_pelerinage question 45",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "fonds_pelerinage_easy_051",
-    "question": "Fonds_pelerinage question 46",
+    "id": "fonds_pelerinage_easy_047",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_048",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_049",
+    "question": "Quels documents sont généralement demandés pour la demande?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_050",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_051",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_052",
-    "question": "Fonds_pelerinage question 47",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_053",
-    "question": "Fonds_pelerinage question 48",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_054",
-    "question": "Fonds_pelerinage question 49",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_055",
-    "question": "Fonds_pelerinage question 50",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "trueFalse",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_056",
-    "question": "Fonds_pelerinage question 51",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fonds_pelerinage_easy_057",
-    "question": "Fonds_pelerinage question 52",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_058",
-    "question": "Fonds_pelerinage question 53",
+    "id": "fonds_pelerinage_easy_057",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_059",
-    "question": "Fonds_pelerinage question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_060",
-    "question": "Fonds_pelerinage question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
     ],
     "correctIndex": 2
   },
   {
-    "id": "fonds_pelerinage_easy_061",
-    "question": "Fonds_pelerinage question 56",
+    "id": "fonds_pelerinage_easy_058",
+    "question": "Comment le fonds maintient-il sa durabilité?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_062",
-    "question": "Fonds_pelerinage question 57",
+    "id": "fonds_pelerinage_easy_059",
+    "question": "Quels documents sont généralement demandés pour la demande?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_060",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_061",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_062",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_063",
-    "question": "Fonds_pelerinage question 58",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_064",
-    "question": "Fonds_pelerinage question 59",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_065",
-    "question": "Fonds_pelerinage question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fonds_pelerinage_easy_066",
-    "question": "Fonds_pelerinage question 61",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_067",
-    "question": "Fonds_pelerinage question 62",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fonds_pelerinage_easy_068",
-    "question": "Fonds_pelerinage question 63",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
     "type": "trueFalse",
     "options": [
-      "Vrai",
-      "Faux"
+      "Oui",
+      "Non"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_069",
-    "question": "Fonds_pelerinage question 64",
+    "id": "fonds_pelerinage_easy_066",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_070",
-    "question": "Fonds_pelerinage question 65",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "fonds_pelerinage_easy_071",
-    "question": "Fonds_pelerinage question 66",
+    "id": "fonds_pelerinage_easy_067",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_068",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_069",
+    "question": "Quels documents sont généralement demandés pour la demande?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_070",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_071",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_072",
-    "question": "Fonds_pelerinage question 67",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_073",
-    "question": "Fonds_pelerinage question 68",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_074",
-    "question": "Fonds_pelerinage question 69",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_075",
-    "question": "Fonds_pelerinage question 70",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "trueFalse",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_076",
-    "question": "Fonds_pelerinage question 71",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fonds_pelerinage_easy_077",
-    "question": "Fonds_pelerinage question 72",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_078",
-    "question": "Fonds_pelerinage question 73",
+    "id": "fonds_pelerinage_easy_077",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_079",
-    "question": "Fonds_pelerinage question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_080",
-    "question": "Fonds_pelerinage question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
     ],
     "correctIndex": 2
   },
   {
-    "id": "fonds_pelerinage_easy_081",
-    "question": "Fonds_pelerinage question 76",
+    "id": "fonds_pelerinage_easy_078",
+    "question": "Comment le fonds maintient-il sa durabilité?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_082",
-    "question": "Fonds_pelerinage question 77",
+    "id": "fonds_pelerinage_easy_079",
+    "question": "Quels documents sont généralement demandés pour la demande?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_080",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_081",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_082",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_083",
-    "question": "Fonds_pelerinage question 78",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_084",
-    "question": "Fonds_pelerinage question 79",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_085",
-    "question": "Fonds_pelerinage question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "fonds_pelerinage_easy_086",
-    "question": "Fonds_pelerinage question 81",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "fonds_pelerinage_easy_087",
-    "question": "Fonds_pelerinage question 82",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "fonds_pelerinage_easy_088",
-    "question": "Fonds_pelerinage question 83",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
     "type": "trueFalse",
     "options": [
-      "Vrai",
-      "Faux"
+      "Oui",
+      "Non"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "fonds_pelerinage_easy_089",
-    "question": "Fonds_pelerinage question 84",
+    "id": "fonds_pelerinage_easy_086",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "fonds_pelerinage_easy_090",
-    "question": "Fonds_pelerinage question 85",
-    "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
-    "id": "fonds_pelerinage_easy_091",
-    "question": "Fonds_pelerinage question 86",
+    "id": "fonds_pelerinage_easy_087",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_088",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_089",
+    "question": "Quels documents sont généralement demandés pour la demande?",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_easy_090",
+    "question": "Le traitement des demandes du fonds se base sur:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_easy_091",
+    "question": "Quel est l'objectif principal d'un fonds de pèlerinage?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Investissement immobilier",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Placement bancaire",
+      "Commerce de produits religieux"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_092",
-    "question": "Fonds_pelerinage question 87",
+    "question": "Le financement d'un fonds de pèlerinage provient principalement de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Dons volontaires",
+      "Zakat",
+      "Revenus d'investissements",
+      "Taxes gouvernementales"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "fonds_pelerinage_easy_093",
-    "question": "Fonds_pelerinage question 88",
+    "question": "Qui peut bénéficier d'un prêt du fonds de pèlerinage?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les fonctionnaires",
+      "Les commerçants"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_094",
-    "question": "Fonds_pelerinage question 89",
+    "question": "Le fonds évalue la situation financière des demandeurs selon:",
     "level": "easy",
     "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "correctAnswer": "des critères socio-économiques"
   },
   {
     "id": "fonds_pelerinage_easy_095",
-    "question": "Fonds_pelerinage question 90",
+    "question": "Un bénéficiaire du fonds doit-il rembourser après le pèlerinage?",
     "level": "easy",
-    "type": "dropdown",
+    "type": "trueFalse",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Oui",
+      "Non"
     ],
     "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_096",
-    "question": "Fonds_pelerinage question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "fonds_pelerinage_easy_097",
-    "question": "Fonds_pelerinage question 92",
+    "question": "Quel est le plus grand défi du fonds de pèlerinage?",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Volume élevé de demandes",
+      "Ressources financières limitées",
+      "Gestion administrative complexe",
+      "Conformité réglementaire"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "fonds_pelerinage_easy_098",
-    "question": "Fonds_pelerinage question 93",
+    "id": "fonds_pelerinage_easy_097",
+    "question": "Le fonds de pèlerinage peut-il financer les frais d'accompagnement?",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Toujours",
+      "Jamais",
+      "Sur demande justifiée",
+      "Seulement pour les couples"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_easy_098",
+    "question": "Comment le fonds maintient-il sa durabilité?",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Augmentation des tarifs",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Réduction des bénéficiaires",
+      "Emprunt auprès des banques"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_easy_099",
-    "question": "Fonds_pelerinage question 94",
+    "question": "Quels documents sont généralement demandés pour la demande?",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Justificatif de revenu",
+      "Identité et résidence",
+      "Situation familiale",
+      "Antécédents médicaux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "fonds_pelerinage_easy_100",
-    "question": "Fonds_pelerinage question 95",
+    "question": "Le traitement des demandes du fonds se base sur:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'ordre de réception",
+      "L'urgence et la nécessité financière",
+      "Les connexions politiques",
+      "L'ordre alphabétique"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

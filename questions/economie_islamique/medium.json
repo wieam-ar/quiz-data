@@ -62,1142 +62,1413 @@
   },
   {
     "id": "economie_islamique_medium_006",
-    "question": "Economie_islamique question 1",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_007",
-    "question": "Economie_islamique question 2",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_008",
-    "question": "Economie_islamique question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_009",
-    "question": "Economie_islamique question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_010",
-    "question": "Economie_islamique question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_011",
-    "question": "Economie_islamique question 6",
+    "id": "economie_islamique_medium_007",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_008",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_009",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_010",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_011",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_012",
-    "question": "Economie_islamique question 7",
+    "question": "La Charia interdit:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_013",
-    "question": "Economie_islamique question 8",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_014",
-    "question": "Economie_islamique question 9",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_015",
-    "question": "Economie_islamique question 10",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_016",
-    "question": "Economie_islamique question 11",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "economie_islamique_medium_017",
-    "question": "Economie_islamique question 12",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_018",
-    "question": "Economie_islamique question 13",
+    "id": "economie_islamique_medium_017",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_019",
-    "question": "Economie_islamique question 14",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_020",
-    "question": "Economie_islamique question 15",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
     ],
     "correctIndex": 2
   },
   {
-    "id": "economie_islamique_medium_021",
-    "question": "Economie_islamique question 16",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "economie_islamique_medium_022",
-    "question": "Economie_islamique question 17",
+    "id": "economie_islamique_medium_018",
+    "question": "Les instruments financiers islamiques incluent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_019",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_020",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_021",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_022",
+    "question": "La Charia interdit:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_023",
-    "question": "Economie_islamique question 18",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_024",
-    "question": "Economie_islamique question 19",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_025",
-    "question": "Economie_islamique question 20",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_026",
-    "question": "Economie_islamique question 21",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_027",
-    "question": "Economie_islamique question 22",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_028",
-    "question": "Economie_islamique question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_029",
-    "question": "Economie_islamique question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_030",
-    "question": "Economie_islamique question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_031",
-    "question": "Economie_islamique question 26",
+    "id": "economie_islamique_medium_027",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_028",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_029",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_030",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_031",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_032",
-    "question": "Economie_islamique question 27",
+    "question": "La Charia interdit:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_033",
-    "question": "Economie_islamique question 28",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_034",
-    "question": "Economie_islamique question 29",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_035",
-    "question": "Economie_islamique question 30",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_036",
-    "question": "Economie_islamique question 31",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "economie_islamique_medium_037",
-    "question": "Economie_islamique question 32",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_038",
-    "question": "Economie_islamique question 33",
+    "id": "economie_islamique_medium_037",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_039",
-    "question": "Economie_islamique question 34",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_040",
-    "question": "Economie_islamique question 35",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
     ],
     "correctIndex": 2
   },
   {
-    "id": "economie_islamique_medium_041",
-    "question": "Economie_islamique question 36",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "economie_islamique_medium_042",
-    "question": "Economie_islamique question 37",
+    "id": "economie_islamique_medium_038",
+    "question": "Les instruments financiers islamiques incluent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_039",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_040",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_041",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_042",
+    "question": "La Charia interdit:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_043",
-    "question": "Economie_islamique question 38",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_044",
-    "question": "Economie_islamique question 39",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_045",
-    "question": "Economie_islamique question 40",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_046",
-    "question": "Economie_islamique question 41",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_047",
-    "question": "Economie_islamique question 42",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_048",
-    "question": "Economie_islamique question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_049",
-    "question": "Economie_islamique question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_050",
-    "question": "Economie_islamique question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_051",
-    "question": "Economie_islamique question 46",
+    "id": "economie_islamique_medium_047",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_048",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_049",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_050",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_051",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_052",
-    "question": "Economie_islamique question 47",
+    "question": "La Charia interdit:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_053",
-    "question": "Economie_islamique question 48",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_054",
-    "question": "Economie_islamique question 49",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_055",
-    "question": "Economie_islamique question 50",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_056",
-    "question": "Economie_islamique question 51",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "economie_islamique_medium_057",
-    "question": "Economie_islamique question 52",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_058",
-    "question": "Economie_islamique question 53",
+    "id": "economie_islamique_medium_057",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_059",
-    "question": "Economie_islamique question 54",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_060",
-    "question": "Economie_islamique question 55",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
     ],
     "correctIndex": 2
   },
   {
-    "id": "economie_islamique_medium_061",
-    "question": "Economie_islamique question 56",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "economie_islamique_medium_062",
-    "question": "Economie_islamique question 57",
+    "id": "economie_islamique_medium_058",
+    "question": "Les instruments financiers islamiques incluent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_059",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_060",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_061",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_062",
+    "question": "La Charia interdit:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_063",
-    "question": "Economie_islamique question 58",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_064",
-    "question": "Economie_islamique question 59",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_065",
-    "question": "Economie_islamique question 60",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_066",
-    "question": "Economie_islamique question 61",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_067",
-    "question": "Economie_islamique question 62",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_068",
-    "question": "Economie_islamique question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_069",
-    "question": "Economie_islamique question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_070",
-    "question": "Economie_islamique question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_071",
-    "question": "Economie_islamique question 66",
+    "id": "economie_islamique_medium_067",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_068",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_069",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_070",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_071",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_072",
-    "question": "Economie_islamique question 67",
+    "question": "La Charia interdit:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_073",
-    "question": "Economie_islamique question 68",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_074",
-    "question": "Economie_islamique question 69",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_075",
-    "question": "Economie_islamique question 70",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_076",
-    "question": "Economie_islamique question 71",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "economie_islamique_medium_077",
-    "question": "Economie_islamique question 72",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_078",
-    "question": "Economie_islamique question 73",
+    "id": "economie_islamique_medium_077",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_079",
-    "question": "Economie_islamique question 74",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_080",
-    "question": "Economie_islamique question 75",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
     ],
     "correctIndex": 2
   },
   {
-    "id": "economie_islamique_medium_081",
-    "question": "Economie_islamique question 76",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "economie_islamique_medium_082",
-    "question": "Economie_islamique question 77",
+    "id": "economie_islamique_medium_078",
+    "question": "Les instruments financiers islamiques incluent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_079",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_080",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_081",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_082",
+    "question": "La Charia interdit:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_083",
-    "question": "Economie_islamique question 78",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_084",
-    "question": "Economie_islamique question 79",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_085",
-    "question": "Economie_islamique question 80",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_086",
-    "question": "Economie_islamique question 81",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_087",
-    "question": "Economie_islamique question 82",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_088",
-    "question": "Economie_islamique question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_089",
-    "question": "Economie_islamique question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "economie_islamique_medium_090",
-    "question": "Economie_islamique question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "economie_islamique_medium_091",
-    "question": "Economie_islamique question 86",
+    "id": "economie_islamique_medium_087",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_088",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_089",
+    "question": "La gouvernance islamique exige la mise en place de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "economie_islamique_medium_090",
+    "question": "Le secteur financier islamique est fondé sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "economie_islamique_medium_091",
+    "question": "Quel est le principe fondamental de la finance islamique?",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser le profit",
+      "Conformité à la Charia",
+      "Minimiser les risques",
+      "Supprimer les taxes"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_092",
-    "question": "Economie_islamique question 87",
+    "question": "La Charia interdit:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)",
+      "Le maysir (spéculation)",
+      "Les contrats équitables"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "economie_islamique_medium_093",
-    "question": "Economie_islamique question 88",
+    "question": "Que représente un contrat Mourabaha?",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt sans intérêt",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un partenariat",
+      "Une location"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_094",
-    "question": "Economie_islamique question 89",
+    "question": "Le secteur agricole peut bénéficier de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Mousharaka",
+      "Moujara",
+      "Mousawama",
+      "Ijara"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_095",
-    "question": "Economie_islamique question 90",
+    "question": "Qu'est-ce que le Wakf (Succession charitable)?",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Un héritage ordinaire",
+      "Une rente viagère"
     ],
     "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_096",
-    "question": "Economie_islamique question 91",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "economie_islamique_medium_097",
-    "question": "Economie_islamique question 92",
+    "question": "La Zakat est obligatoire sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'or et l'argent",
+      "Les récoltes",
+      "L'immobilier commercial",
+      "Les revenus salariaux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "economie_islamique_medium_098",
-    "question": "Economie_islamique question 93",
+    "id": "economie_islamique_medium_097",
+    "question": "Un contrat Ijara se rapproche de:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un prêt",
+      "Une vente à crédit",
+      "Une location",
+      "Une hypothèque"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "id": "economie_islamique_medium_098",
+    "question": "Les instruments financiers islamiques incluent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les Sukuk",
+      "Les fonds d'investissement éthique",
+      "Les obligations avec partage de profits",
+      "Les dérivés structurés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "economie_islamique_medium_099",
-    "question": "Economie_islamique question 94",
+    "question": "La gouvernance islamique exige la mise en place de:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Un conseil d'administration",
+      "Un comité de conformité Charia",
+      "Un directeur général",
+      "Un notaire"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_100",
-    "question": "Economie_islamique question 95",
+    "question": "Le secteur financier islamique est fondé sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits",
+      "Les transactions réelles",
+      "La transparence"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   }
 ]

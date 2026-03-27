@@ -63,1142 +63,1277 @@
   },
   {
     "id": "waqf_prive_medium_006",
-    "question": "Waqf_prive question 1",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_007",
-    "question": "Waqf_prive question 2",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_008",
-    "question": "Waqf_prive question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_009",
-    "question": "Waqf_prive question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_010",
-    "question": "Waqf_prive question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_011",
-    "question": "Waqf_prive question 6",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_008",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_009",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_010",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_011",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_012",
-    "question": "Waqf_prive question 7",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_013",
-    "question": "Waqf_prive question 8",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_prive_medium_014",
-    "question": "Waqf_prive question 9",
+    "id": "waqf_prive_medium_013",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_014",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_015",
-    "question": "Waqf_prive question 10",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_016",
-    "question": "Waqf_prive question 11",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_017",
-    "question": "Waqf_prive question 12",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_018",
-    "question": "Waqf_prive question 13",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_019",
-    "question": "Waqf_prive question 14",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_020",
-    "question": "Waqf_prive question 15",
-    "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_prive_medium_021",
-    "question": "Waqf_prive question 16",
+    "id": "waqf_prive_medium_020",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_021",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_022",
-    "question": "Waqf_prive question 17",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_023",
-    "question": "Waqf_prive question 18",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_024",
-    "question": "Waqf_prive question 19",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_025",
-    "question": "Waqf_prive question 20",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_026",
-    "question": "Waqf_prive question 21",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_027",
-    "question": "Waqf_prive question 22",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_028",
-    "question": "Waqf_prive question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_029",
-    "question": "Waqf_prive question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_030",
-    "question": "Waqf_prive question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_031",
-    "question": "Waqf_prive question 26",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_028",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_029",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_030",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_031",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_032",
-    "question": "Waqf_prive question 27",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_033",
-    "question": "Waqf_prive question 28",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_prive_medium_034",
-    "question": "Waqf_prive question 29",
+    "id": "waqf_prive_medium_033",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_034",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_035",
-    "question": "Waqf_prive question 30",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_036",
-    "question": "Waqf_prive question 31",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_037",
-    "question": "Waqf_prive question 32",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_038",
-    "question": "Waqf_prive question 33",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_039",
-    "question": "Waqf_prive question 34",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_040",
-    "question": "Waqf_prive question 35",
-    "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_prive_medium_041",
-    "question": "Waqf_prive question 36",
+    "id": "waqf_prive_medium_040",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_041",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_042",
-    "question": "Waqf_prive question 37",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_043",
-    "question": "Waqf_prive question 38",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_044",
-    "question": "Waqf_prive question 39",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_045",
-    "question": "Waqf_prive question 40",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_046",
-    "question": "Waqf_prive question 41",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_047",
-    "question": "Waqf_prive question 42",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_048",
-    "question": "Waqf_prive question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_049",
-    "question": "Waqf_prive question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_050",
-    "question": "Waqf_prive question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_051",
-    "question": "Waqf_prive question 46",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_048",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_049",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_050",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_051",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_052",
-    "question": "Waqf_prive question 47",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_053",
-    "question": "Waqf_prive question 48",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_prive_medium_054",
-    "question": "Waqf_prive question 49",
+    "id": "waqf_prive_medium_053",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_054",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_055",
-    "question": "Waqf_prive question 50",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_056",
-    "question": "Waqf_prive question 51",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_057",
-    "question": "Waqf_prive question 52",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_058",
-    "question": "Waqf_prive question 53",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_059",
-    "question": "Waqf_prive question 54",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_060",
-    "question": "Waqf_prive question 55",
-    "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_prive_medium_061",
-    "question": "Waqf_prive question 56",
+    "id": "waqf_prive_medium_060",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_061",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_062",
-    "question": "Waqf_prive question 57",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_063",
-    "question": "Waqf_prive question 58",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_064",
-    "question": "Waqf_prive question 59",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_065",
-    "question": "Waqf_prive question 60",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_066",
-    "question": "Waqf_prive question 61",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_067",
-    "question": "Waqf_prive question 62",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_068",
-    "question": "Waqf_prive question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_069",
-    "question": "Waqf_prive question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_070",
-    "question": "Waqf_prive question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_071",
-    "question": "Waqf_prive question 66",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_068",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_069",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_070",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_071",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_072",
-    "question": "Waqf_prive question 67",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_073",
-    "question": "Waqf_prive question 68",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_prive_medium_074",
-    "question": "Waqf_prive question 69",
+    "id": "waqf_prive_medium_073",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_074",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_075",
-    "question": "Waqf_prive question 70",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_076",
-    "question": "Waqf_prive question 71",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_077",
-    "question": "Waqf_prive question 72",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_078",
-    "question": "Waqf_prive question 73",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_079",
-    "question": "Waqf_prive question 74",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_080",
-    "question": "Waqf_prive question 75",
-    "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_prive_medium_081",
-    "question": "Waqf_prive question 76",
+    "id": "waqf_prive_medium_080",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_081",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_082",
-    "question": "Waqf_prive question 77",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_083",
-    "question": "Waqf_prive question 78",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_084",
-    "question": "Waqf_prive question 79",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_085",
-    "question": "Waqf_prive question 80",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_086",
-    "question": "Waqf_prive question 81",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "waqf_prive_medium_087",
-    "question": "Waqf_prive question 82",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_088",
-    "question": "Waqf_prive question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_089",
-    "question": "Waqf_prive question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_prive_medium_090",
-    "question": "Waqf_prive question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_prive_medium_091",
-    "question": "Waqf_prive question 86",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_088",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_089",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_090",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_091",
+    "question": "Un Wakf familial peut devenir public si:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La descendance s'éteint",
+      "Le Wakif le décide",
+      "Le juge l'ordonne",
+      "Les bénéficiaires le demandent"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_medium_092",
-    "question": "Waqf_prive question 87",
+    "question": "L'administrateur (Mutawalli) d'un Wakf familial est nommé par:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_prive_medium_093",
-    "question": "Waqf_prive question 88",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'État uniquement",
+      "Le Wakif ou ses héritiers",
+      "Le juge",
+      "Le Conseil communal"
     ],
     "correctIndex": 1
   },
   {
-    "id": "waqf_prive_medium_094",
-    "question": "Waqf_prive question 89",
+    "id": "waqf_prive_medium_093",
+    "question": "Les revenus d'un Wakf privé non distribués en excédent reviennent au:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Le Réserve de Wakf",
+      "À la distribution selon le contrat",
+      "Tous les points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_094",
+    "question": "Un Wakf privé peut prévoir l'alternance des bénéficiaires selon:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les males",
+      "L'ordre de succession naturelle",
+      "Ordre fixé par le Wakif",
+      "Aléatoirement"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_095",
-    "question": "Waqf_prive question 90",
+    "question": "L'amélioration d'un bien constitué en Wakf familial est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Interdite",
+      "Permise si elle augmente les revenus",
+      "Obligatoire",
+      "Facultative"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_096",
-    "question": "Waqf_prive question 91",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "waqf_prive_medium_097",
-    "question": "Waqf_prive question 92",
+    "question": "Un Wakf familial peut être constitué sur:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des propriétés immobilières",
+      "Des entreprises",
+      "Des titres de propriété",
+      "Des fonds en espèces"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "waqf_prive_medium_098",
-    "question": "Waqf_prive question 93",
+    "id": "waqf_prive_medium_097",
+    "question": "L'extinction d'une branche de la famille bénéficiaire du Wakf:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Invalide le Wakf",
+      "Transfère le bénéfice aux autres branches",
+      "Transforme le Wakf en public",
+      "Ne change rien"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_098",
+    "question": "La vente d'un bien constitué en Wakf privé est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Interdite complètement",
+      "Permise par décision judiciaire en cas de nécessité",
+      "Permise librement",
+      "À la discrétion du Mutawalli"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_medium_099",
-    "question": "Waqf_prive question 94",
+    "question": "Les impôts sur les revenus d'un Wakf familial sont généralement:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Entièrement dus",
+      "Partiellement exonérés",
+      "Totalement exonérés",
+      "Doublement taxés"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_medium_100",
-    "question": "Waqf_prive question 95",
+    "question": "Le Wakf privé bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les organismes de bienfaisance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

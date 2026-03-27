@@ -62,1142 +62,1273 @@
   },
   {
     "id": "waqf_medium_006",
-    "question": "Waqf question 1",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_007",
-    "question": "Waqf question 2",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_008",
-    "question": "Waqf question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_009",
-    "question": "Waqf question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_010",
-    "question": "Waqf question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_011",
-    "question": "Waqf question 6",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
     "correctIndex": 1
   },
   {
+    "id": "waqf_medium_007",
+    "question": "L'annulation d'un Wakf valide est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_008",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_009",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_010",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_011",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "waqf_medium_012",
-    "question": "Waqf question 7",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_013",
-    "question": "Waqf question 8",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_014",
-    "question": "Waqf question 9",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_015",
-    "question": "Waqf question 10",
+    "question": "La rente du Wakf doit être utilisée pour:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_016",
-    "question": "Waqf question 11",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_017",
-    "question": "Waqf question 12",
+    "question": "L'annulation d'un Wakf valide est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_018",
-    "question": "Waqf question 13",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_019",
-    "question": "Waqf question 14",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_020",
-    "question": "Waqf question 15",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_medium_021",
-    "question": "Waqf question 16",
+    "id": "waqf_medium_018",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_019",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_020",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_021",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_022",
-    "question": "Waqf question 17",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_023",
-    "question": "Waqf question 18",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_024",
-    "question": "Waqf question 19",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_025",
-    "question": "Waqf question 20",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "waqf_medium_026",
-    "question": "Waqf question 21",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_027",
-    "question": "Waqf question 22",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_028",
-    "question": "Waqf question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_029",
-    "question": "Waqf question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_030",
-    "question": "Waqf question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_031",
-    "question": "Waqf question 26",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
     ],
     "correctIndex": 1
   },
   {
+    "id": "waqf_medium_025",
+    "question": "La rente du Wakf doit être utilisée pour:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_026",
+    "question": "Un Wakf ne peut pas produire:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_027",
+    "question": "L'annulation d'un Wakf valide est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_028",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_029",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_030",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_031",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "waqf_medium_032",
-    "question": "Waqf question 27",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_033",
-    "question": "Waqf question 28",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_034",
-    "question": "Waqf question 29",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_035",
-    "question": "Waqf question 30",
+    "question": "La rente du Wakf doit être utilisée pour:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_036",
-    "question": "Waqf question 31",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_037",
-    "question": "Waqf question 32",
+    "question": "L'annulation d'un Wakf valide est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_038",
-    "question": "Waqf question 33",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_039",
-    "question": "Waqf question 34",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_040",
-    "question": "Waqf question 35",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_medium_041",
-    "question": "Waqf question 36",
+    "id": "waqf_medium_038",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_039",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_040",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_041",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_042",
-    "question": "Waqf question 37",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_043",
-    "question": "Waqf question 38",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_044",
-    "question": "Waqf question 39",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_045",
-    "question": "Waqf question 40",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "waqf_medium_046",
-    "question": "Waqf question 41",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_047",
-    "question": "Waqf question 42",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_048",
-    "question": "Waqf question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_049",
-    "question": "Waqf question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_050",
-    "question": "Waqf question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_051",
-    "question": "Waqf question 46",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
     ],
     "correctIndex": 1
   },
   {
+    "id": "waqf_medium_045",
+    "question": "La rente du Wakf doit être utilisée pour:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_046",
+    "question": "Un Wakf ne peut pas produire:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_047",
+    "question": "L'annulation d'un Wakf valide est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_048",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_049",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_050",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_051",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "waqf_medium_052",
-    "question": "Waqf question 47",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_053",
-    "question": "Waqf question 48",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_054",
-    "question": "Waqf question 49",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_055",
-    "question": "Waqf question 50",
+    "question": "La rente du Wakf doit être utilisée pour:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_056",
-    "question": "Waqf question 51",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_057",
-    "question": "Waqf question 52",
+    "question": "L'annulation d'un Wakf valide est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_058",
-    "question": "Waqf question 53",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_059",
-    "question": "Waqf question 54",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_060",
-    "question": "Waqf question 55",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_medium_061",
-    "question": "Waqf question 56",
+    "id": "waqf_medium_058",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_059",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_060",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_061",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_062",
-    "question": "Waqf question 57",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_063",
-    "question": "Waqf question 58",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_064",
-    "question": "Waqf question 59",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_065",
-    "question": "Waqf question 60",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "waqf_medium_066",
-    "question": "Waqf question 61",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_067",
-    "question": "Waqf question 62",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_068",
-    "question": "Waqf question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_069",
-    "question": "Waqf question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_070",
-    "question": "Waqf question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_071",
-    "question": "Waqf question 66",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
     ],
     "correctIndex": 1
   },
   {
+    "id": "waqf_medium_065",
+    "question": "La rente du Wakf doit être utilisée pour:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_066",
+    "question": "Un Wakf ne peut pas produire:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_067",
+    "question": "L'annulation d'un Wakf valide est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_068",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_069",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_070",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_071",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "waqf_medium_072",
-    "question": "Waqf question 67",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_073",
-    "question": "Waqf question 68",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_074",
-    "question": "Waqf question 69",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_075",
-    "question": "Waqf question 70",
+    "question": "La rente du Wakf doit être utilisée pour:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_076",
-    "question": "Waqf question 71",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_077",
-    "question": "Waqf question 72",
+    "question": "L'annulation d'un Wakf valide est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_078",
-    "question": "Waqf question 73",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_079",
-    "question": "Waqf question 74",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_080",
-    "question": "Waqf question 75",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
     ],
     "correctIndex": 2
   },
   {
-    "id": "waqf_medium_081",
-    "question": "Waqf question 76",
+    "id": "waqf_medium_078",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_079",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_080",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_081",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_082",
-    "question": "Waqf question 77",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_083",
-    "question": "Waqf question 78",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_084",
-    "question": "Waqf question 79",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_085",
-    "question": "Waqf question 80",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "waqf_medium_086",
-    "question": "Waqf question 81",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_087",
-    "question": "Waqf question 82",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "waqf_medium_088",
-    "question": "Waqf question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_089",
-    "question": "Waqf question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "waqf_medium_090",
-    "question": "Waqf question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "waqf_medium_091",
-    "question": "Waqf question 86",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
     ],
     "correctIndex": 1
   },
   {
+    "id": "waqf_medium_085",
+    "question": "La rente du Wakf doit être utilisée pour:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_086",
+    "question": "Un Wakf ne peut pas produire:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_087",
+    "question": "L'annulation d'un Wakf valide est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_088",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_medium_089",
+    "question": "Les registres de Wakf doivent être conservés lors:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_090",
+    "question": "Le Wakf (bien habous) est défini comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_medium_091",
+    "question": "Selon la Charia, un bien constitué en Wakf ne peut pas être:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Utilisé",
+      "Amélioré",
+      "Vendu ou loué",
+      "Géré"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": "waqf_medium_092",
-    "question": "Waqf question 87",
+    "question": "Le Wakf peut être destiné à:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des objectifs religieux",
+      "Des objectifs sociaux",
+      "Des objectifs familiaux",
+      "Des objectifs personnels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "waqf_medium_093",
-    "question": "Waqf question 88",
+    "question": "Le Wakf familial bénéficie en premier lieu à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La communauté",
+      "La famille du Wakif",
+      "L'État",
+      "Les pauvres"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_094",
-    "question": "Waqf question 89",
+    "question": "L'administration d'un Wakf est confiée à:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'État seul",
+      "Un administrator nommé (Mutawalli)",
+      "Le donateur seul",
+      "L'assemblée générale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_095",
-    "question": "Waqf question 90",
+    "question": "La rente du Wakf doit être utilisée pour:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'épargne",
+      "La maintenance et les objectifs du Wakf",
+      "L'investissement uniquement",
+      "Le profit personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "waqf_medium_096",
-    "question": "Waqf question 91",
+    "question": "Un Wakf ne peut pas produire:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Des revenus",
+      "De l'intérêt (Riba)",
+      "Des bénéfices",
+      "Des loyers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_097",
-    "question": "Waqf question 92",
+    "question": "L'annulation d'un Wakf valide est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Possible avant le décès du Wakif",
+      "Possible par le juge",
+      "Impossible définitivement",
+      "L'affaire de la famille"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_098",
-    "question": "Waqf question 93",
+    "question": "Un Wakf public (Wakf 'aam) bénéficie à:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Une personne",
+      "La famille",
+      "L'ensemble de la communauté",
+      "L'État uniquement"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "waqf_medium_099",
-    "question": "Waqf question 94",
+    "question": "Les registres de Wakf doivent être conservés lors:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Selon la convenance",
+      "Obligatoirement par l'administration",
+      "Jamais nécessaire",
+      "Pour le seul Wakif"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "waqf_medium_100",
-    "question": "Waqf question 95",
+    "question": "Le Wakf (bien habous) est défini comme:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Une donation ordinaire",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Un héritage",
+      "Une location"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

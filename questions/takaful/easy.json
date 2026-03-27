@@ -62,1142 +62,1429 @@
   },
   {
     "id": "takaful_easy_006",
-    "question": "Takaful question 1",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_007",
-    "question": "Takaful question 2",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_007",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_008",
-    "question": "Takaful question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_009",
-    "question": "Takaful question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_010",
-    "question": "Takaful question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_011",
-    "question": "Takaful question 6",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_012",
-    "question": "Takaful question 7",
+    "id": "takaful_easy_009",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "takaful_easy_013",
-    "question": "Takaful question 8",
+    "id": "takaful_easy_010",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_014",
-    "question": "Takaful question 9",
+    "id": "takaful_easy_011",
+    "question": "Le principe fondamental du Takaful repose sur:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_012",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_013",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_014",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_015",
-    "question": "Takaful question 10",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
     ],
     "correctIndex": 1
   },
   {
     "id": "takaful_easy_016",
-    "question": "Takaful question 11",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_017",
-    "question": "Takaful question 12",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_017",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_018",
-    "question": "Takaful question 13",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_019",
-    "question": "Takaful question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_020",
-    "question": "Takaful question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_021",
-    "question": "Takaful question 16",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_022",
-    "question": "Takaful question 17",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "takaful_easy_023",
-    "question": "Takaful question 18",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_024",
-    "question": "Takaful question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_025",
-    "question": "Takaful question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_026",
-    "question": "Takaful question 21",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_027",
-    "question": "Takaful question 22",
+    "id": "takaful_easy_019",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_020",
+    "question": "Le Takaful est une assurance conforme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_021",
+    "question": "Le principe fondamental du Takaful repose sur:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_022",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_023",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_024",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_025",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_026",
+    "question": "Le Takaful diffère du Réassurance classique par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_027",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_028",
-    "question": "Takaful question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_029",
-    "question": "Takaful question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_030",
-    "question": "Takaful question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_031",
-    "question": "Takaful question 26",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_032",
-    "question": "Takaful question 27",
+    "id": "takaful_easy_029",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "takaful_easy_033",
-    "question": "Takaful question 28",
+    "id": "takaful_easy_030",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_034",
-    "question": "Takaful question 29",
+    "id": "takaful_easy_031",
+    "question": "Le principe fondamental du Takaful repose sur:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_032",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_033",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_034",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_035",
-    "question": "Takaful question 30",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
     ],
     "correctIndex": 1
   },
   {
     "id": "takaful_easy_036",
-    "question": "Takaful question 31",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_037",
-    "question": "Takaful question 32",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_037",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_038",
-    "question": "Takaful question 33",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_039",
-    "question": "Takaful question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_040",
-    "question": "Takaful question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_041",
-    "question": "Takaful question 36",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_042",
-    "question": "Takaful question 37",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "takaful_easy_043",
-    "question": "Takaful question 38",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_044",
-    "question": "Takaful question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_045",
-    "question": "Takaful question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_046",
-    "question": "Takaful question 41",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_047",
-    "question": "Takaful question 42",
+    "id": "takaful_easy_039",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_040",
+    "question": "Le Takaful est une assurance conforme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_041",
+    "question": "Le principe fondamental du Takaful repose sur:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_042",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_043",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_044",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_045",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_046",
+    "question": "Le Takaful diffère du Réassurance classique par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_047",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_048",
-    "question": "Takaful question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_049",
-    "question": "Takaful question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_050",
-    "question": "Takaful question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_051",
-    "question": "Takaful question 46",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_052",
-    "question": "Takaful question 47",
+    "id": "takaful_easy_049",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "takaful_easy_053",
-    "question": "Takaful question 48",
+    "id": "takaful_easy_050",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_054",
-    "question": "Takaful question 49",
+    "id": "takaful_easy_051",
+    "question": "Le principe fondamental du Takaful repose sur:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_052",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_053",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_054",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_055",
-    "question": "Takaful question 50",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
     ],
     "correctIndex": 1
   },
   {
     "id": "takaful_easy_056",
-    "question": "Takaful question 51",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_057",
-    "question": "Takaful question 52",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_057",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_058",
-    "question": "Takaful question 53",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_059",
-    "question": "Takaful question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_060",
-    "question": "Takaful question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_061",
-    "question": "Takaful question 56",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_062",
-    "question": "Takaful question 57",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "takaful_easy_063",
-    "question": "Takaful question 58",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_064",
-    "question": "Takaful question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_065",
-    "question": "Takaful question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_066",
-    "question": "Takaful question 61",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_067",
-    "question": "Takaful question 62",
+    "id": "takaful_easy_059",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_060",
+    "question": "Le Takaful est une assurance conforme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_061",
+    "question": "Le principe fondamental du Takaful repose sur:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_062",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_063",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_064",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_065",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_066",
+    "question": "Le Takaful diffère du Réassurance classique par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_067",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_068",
-    "question": "Takaful question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_069",
-    "question": "Takaful question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_070",
-    "question": "Takaful question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_071",
-    "question": "Takaful question 66",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_072",
-    "question": "Takaful question 67",
+    "id": "takaful_easy_069",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "takaful_easy_073",
-    "question": "Takaful question 68",
+    "id": "takaful_easy_070",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_074",
-    "question": "Takaful question 69",
+    "id": "takaful_easy_071",
+    "question": "Le principe fondamental du Takaful repose sur:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_072",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_073",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_074",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_075",
-    "question": "Takaful question 70",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
     ],
     "correctIndex": 1
   },
   {
     "id": "takaful_easy_076",
-    "question": "Takaful question 71",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_077",
-    "question": "Takaful question 72",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_077",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_078",
-    "question": "Takaful question 73",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_079",
-    "question": "Takaful question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_080",
-    "question": "Takaful question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_081",
-    "question": "Takaful question 76",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_082",
-    "question": "Takaful question 77",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "takaful_easy_083",
-    "question": "Takaful question 78",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_084",
-    "question": "Takaful question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_085",
-    "question": "Takaful question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "takaful_easy_086",
-    "question": "Takaful question 81",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_087",
-    "question": "Takaful question 82",
+    "id": "takaful_easy_079",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_080",
+    "question": "Le Takaful est une assurance conforme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_081",
+    "question": "Le principe fondamental du Takaful repose sur:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_082",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_083",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_084",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_085",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_086",
+    "question": "Le Takaful diffère du Réassurance classique par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_087",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_088",
-    "question": "Takaful question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_089",
-    "question": "Takaful question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "takaful_easy_090",
-    "question": "Takaful question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "takaful_easy_091",
-    "question": "Takaful question 86",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_092",
-    "question": "Takaful question 87",
+    "id": "takaful_easy_089",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "takaful_easy_093",
-    "question": "Takaful question 88",
+    "id": "takaful_easy_090",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
     "correctIndex": 1
   },
   {
-    "id": "takaful_easy_094",
-    "question": "Takaful question 89",
+    "id": "takaful_easy_091",
+    "question": "Le principe fondamental du Takaful repose sur:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La responsabilité mutuelle",
+      "Le partage des risques",
+      "La solidarité",
+      "L'assistance commune"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_092",
+    "question": "Un participant au Takaful est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire",
+      "Un actionnaire",
+      "Un créancier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_easy_093",
+    "question": "Les fonds collectés via le Takaful ne peuvent pas être investis dans:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'immobilier halal",
+      "Les obligations islamiques",
+      "L'alcool et les jeux",
+      "Les secteurs interdits"
+    ],
+    "correctIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "takaful_easy_094",
+    "question": "L'opérateur du Takaful perçoit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une partie des primes",
+      "Une commission de gestion",
+      "L'intégralité des primes",
+      "Rien du tout"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_095",
-    "question": "Takaful question 90",
+    "question": "L'excédent du fonds de Takaful après indemnisations est redistribué aux:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "L'opérateur seul",
+      "Les participants",
+      "L'État",
+      "Les investisseurs externes"
     ],
     "correctIndex": 1
   },
   {
     "id": "takaful_easy_096",
-    "question": "Takaful question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "takaful_easy_097",
-    "question": "Takaful question 92",
+    "question": "Le Takaful diffère du Réassurance classique par:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'absence de Riba",
+      "Le respect de la Charia",
+      "La mutualité des risques",
+      "La propriété partagée"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "takaful_easy_097",
+    "question": "Un contrat Takaful peut couvrir:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Les dommages aux biens",
+      "La responsabilité civile",
+      "L'assurance-vie avec investissement",
+      "Les placements spéculatifs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "takaful_easy_098",
-    "question": "Takaful question 93",
+    "question": "L'ijtihad en matière de Takaful signifie que:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les contrats sont identiques",
+      "Les produits s'adaptent à la Charia",
+      "Les prix sont fixes",
+      "Les clauses ne changent jamais"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "takaful_easy_099",
-    "question": "Takaful question 94",
+    "question": "Un assuré du Takaful en cas de sinistre demande:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Une indemnisation",
+      "Une assistance du fonds collectif",
+      "L'intercession divine en plus",
+      "Une compensation financière"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "takaful_easy_100",
-    "question": "Takaful question 95",
+    "question": "Le Takaful est une assurance conforme:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Aux normes classiques",
+      "À la Charia",
+      "Aux droits commerciaux",
+      "Au droit des sociétés"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

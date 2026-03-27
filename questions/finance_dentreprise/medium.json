@@ -62,1142 +62,1327 @@
   },
   {
     "id": "finance_dentreprise_medium_006",
-    "question": "Finance_dentreprise question 1",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_007",
-    "question": "Finance_dentreprise question 2",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_007",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_008",
-    "question": "Finance_dentreprise question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_009",
-    "question": "Finance_dentreprise question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_010",
-    "question": "Finance_dentreprise question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_011",
-    "question": "Finance_dentreprise question 6",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_009",
+    "question": "La marge de sécurité d'une entreprise mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_010",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_011",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_012",
-    "question": "Finance_dentreprise question 7",
+    "question": "Le fonds de roulement négatif indique:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_013",
-    "question": "Finance_dentreprise question 8",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_014",
-    "question": "Finance_dentreprise question 9",
+    "id": "finance_dentreprise_medium_013",
+    "question": "Le ratio d'endettement est calculé comme:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_medium_014",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_015",
-    "question": "Finance_dentreprise question 10",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_016",
-    "question": "Finance_dentreprise question 11",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_017",
-    "question": "Finance_dentreprise question 12",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_017",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_018",
-    "question": "Finance_dentreprise question 13",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_019",
-    "question": "Finance_dentreprise question 14",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_020",
-    "question": "Finance_dentreprise question 15",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_021",
-    "question": "Finance_dentreprise question 16",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_022",
-    "question": "Finance_dentreprise question 17",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_023",
-    "question": "Finance_dentreprise question 18",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_024",
-    "question": "Finance_dentreprise question 19",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_025",
-    "question": "Finance_dentreprise question 20",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_026",
-    "question": "Finance_dentreprise question 21",
+    "id": "finance_dentreprise_medium_019",
+    "question": "La marge de sécurité d'une entreprise mesure:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_020",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_021",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_022",
+    "question": "Le fonds de roulement négatif indique:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_023",
+    "question": "Le ratio d'endettement est calculé comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
     ],
     "correctIndex": 0
   },
   {
-    "id": "finance_dentreprise_medium_027",
-    "question": "Finance_dentreprise question 22",
+    "id": "finance_dentreprise_medium_024",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_025",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_026",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_027",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_028",
-    "question": "Finance_dentreprise question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_029",
-    "question": "Finance_dentreprise question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_030",
-    "question": "Finance_dentreprise question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_031",
-    "question": "Finance_dentreprise question 26",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_029",
+    "question": "La marge de sécurité d'une entreprise mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_030",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_031",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_032",
-    "question": "Finance_dentreprise question 27",
+    "question": "Le fonds de roulement négatif indique:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_033",
-    "question": "Finance_dentreprise question 28",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_034",
-    "question": "Finance_dentreprise question 29",
+    "id": "finance_dentreprise_medium_033",
+    "question": "Le ratio d'endettement est calculé comme:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_medium_034",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_035",
-    "question": "Finance_dentreprise question 30",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_036",
-    "question": "Finance_dentreprise question 31",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_037",
-    "question": "Finance_dentreprise question 32",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_037",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_038",
-    "question": "Finance_dentreprise question 33",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_039",
-    "question": "Finance_dentreprise question 34",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_040",
-    "question": "Finance_dentreprise question 35",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_041",
-    "question": "Finance_dentreprise question 36",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_042",
-    "question": "Finance_dentreprise question 37",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_043",
-    "question": "Finance_dentreprise question 38",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_044",
-    "question": "Finance_dentreprise question 39",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_045",
-    "question": "Finance_dentreprise question 40",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_046",
-    "question": "Finance_dentreprise question 41",
+    "id": "finance_dentreprise_medium_039",
+    "question": "La marge de sécurité d'une entreprise mesure:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_040",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_041",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_042",
+    "question": "Le fonds de roulement négatif indique:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_043",
+    "question": "Le ratio d'endettement est calculé comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
     ],
     "correctIndex": 0
   },
   {
-    "id": "finance_dentreprise_medium_047",
-    "question": "Finance_dentreprise question 42",
+    "id": "finance_dentreprise_medium_044",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_045",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_046",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_047",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_048",
-    "question": "Finance_dentreprise question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_049",
-    "question": "Finance_dentreprise question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_050",
-    "question": "Finance_dentreprise question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_051",
-    "question": "Finance_dentreprise question 46",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_049",
+    "question": "La marge de sécurité d'une entreprise mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_050",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_051",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_052",
-    "question": "Finance_dentreprise question 47",
+    "question": "Le fonds de roulement négatif indique:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_053",
-    "question": "Finance_dentreprise question 48",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_054",
-    "question": "Finance_dentreprise question 49",
+    "id": "finance_dentreprise_medium_053",
+    "question": "Le ratio d'endettement est calculé comme:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_medium_054",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_055",
-    "question": "Finance_dentreprise question 50",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_056",
-    "question": "Finance_dentreprise question 51",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_057",
-    "question": "Finance_dentreprise question 52",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_057",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_058",
-    "question": "Finance_dentreprise question 53",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_059",
-    "question": "Finance_dentreprise question 54",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_060",
-    "question": "Finance_dentreprise question 55",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_061",
-    "question": "Finance_dentreprise question 56",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_062",
-    "question": "Finance_dentreprise question 57",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_063",
-    "question": "Finance_dentreprise question 58",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_064",
-    "question": "Finance_dentreprise question 59",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_065",
-    "question": "Finance_dentreprise question 60",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_066",
-    "question": "Finance_dentreprise question 61",
+    "id": "finance_dentreprise_medium_059",
+    "question": "La marge de sécurité d'une entreprise mesure:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_060",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_061",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_062",
+    "question": "Le fonds de roulement négatif indique:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_063",
+    "question": "Le ratio d'endettement est calculé comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
     ],
     "correctIndex": 0
   },
   {
-    "id": "finance_dentreprise_medium_067",
-    "question": "Finance_dentreprise question 62",
+    "id": "finance_dentreprise_medium_064",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_065",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_066",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_067",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_068",
-    "question": "Finance_dentreprise question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_069",
-    "question": "Finance_dentreprise question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_070",
-    "question": "Finance_dentreprise question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_071",
-    "question": "Finance_dentreprise question 66",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_069",
+    "question": "La marge de sécurité d'une entreprise mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_070",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_071",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_072",
-    "question": "Finance_dentreprise question 67",
+    "question": "Le fonds de roulement négatif indique:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_073",
-    "question": "Finance_dentreprise question 68",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_074",
-    "question": "Finance_dentreprise question 69",
+    "id": "finance_dentreprise_medium_073",
+    "question": "Le ratio d'endettement est calculé comme:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_medium_074",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_075",
-    "question": "Finance_dentreprise question 70",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_076",
-    "question": "Finance_dentreprise question 71",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_077",
-    "question": "Finance_dentreprise question 72",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_077",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_078",
-    "question": "Finance_dentreprise question 73",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_079",
-    "question": "Finance_dentreprise question 74",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_080",
-    "question": "Finance_dentreprise question 75",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_081",
-    "question": "Finance_dentreprise question 76",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_082",
-    "question": "Finance_dentreprise question 77",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_083",
-    "question": "Finance_dentreprise question 78",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_084",
-    "question": "Finance_dentreprise question 79",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_085",
-    "question": "Finance_dentreprise question 80",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_dentreprise_medium_086",
-    "question": "Finance_dentreprise question 81",
+    "id": "finance_dentreprise_medium_079",
+    "question": "La marge de sécurité d'une entreprise mesure:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_080",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_081",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_082",
+    "question": "Le fonds de roulement négatif indique:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_083",
+    "question": "Le ratio d'endettement est calculé comme:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
     ],
     "correctIndex": 0
   },
   {
-    "id": "finance_dentreprise_medium_087",
-    "question": "Finance_dentreprise question 82",
+    "id": "finance_dentreprise_medium_084",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_085",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_086",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_087",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_088",
-    "question": "Finance_dentreprise question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_089",
-    "question": "Finance_dentreprise question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_dentreprise_medium_090",
-    "question": "Finance_dentreprise question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_dentreprise_medium_091",
-    "question": "Finance_dentreprise question 86",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_089",
+    "question": "La marge de sécurité d'une entreprise mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_090",
+    "question": "Le levier financier mesure:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_medium_091",
+    "question": "La structure du capital optimal vise à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Maximiser la dette",
+      "Minimiser le coût du capital",
+      "Maximiser les fonds propres",
+      "Équilibrer les actifs"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_092",
-    "question": "Finance_dentreprise question 87",
+    "question": "Le fonds de roulement négatif indique:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "finance_dentreprise_medium_093",
-    "question": "Finance_dentreprise question 88",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "Une bonne gestion",
+      "Un potentiel problème de liquidité",
+      "Une forte rentabilité",
+      "Une expansion"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_dentreprise_medium_094",
-    "question": "Finance_dentreprise question 89",
+    "id": "finance_dentreprise_medium_093",
+    "question": "Le ratio d'endettement est calculé comme:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Dette / Capitaux propres",
+      "Actif / Passif",
+      "Cash / Dettes",
+      "Profit / Actif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_medium_094",
+    "question": "La valeur actualisée nette (VAN) d'un projet est:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le coût d'investissement",
+      "Le revenu annuel"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_095",
-    "question": "Finance_dentreprise question 90",
+    "question": "Le taux de rendement interne (TRI) est le taux d'actualisation où:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "VAN = Profit",
+      "VAN = 0",
+      "VAN = Maximum",
+      "VAN = Coût"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_096",
-    "question": "Finance_dentreprise question 91",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_dentreprise_medium_097",
-    "question": "Finance_dentreprise question 92",
+    "question": "Le BFR (Besoin en Fonds de Roulement) comprend:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les stocks",
+      "Les créances clients",
+      "Les dettes fournisseurs",
+      "Les emprunts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_dentreprise_medium_097",
+    "question": "La politique de dividende affecte:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "La structure financière",
+      "Le cours de l'action",
+      "la liquidité de l'entreprise",
+      "L'impôt des actionnaires"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
     ]
   },
   {
     "id": "finance_dentreprise_medium_098",
-    "question": "Finance_dentreprise question 93",
+    "question": "Un bilan financier condense le bilan comptable par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Suppression de comptes",
+      "Reclassement selon le cycle d'exploitation",
+      "Augmentation des valeurs",
+      "Réduction des actifs"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_099",
-    "question": "Finance_dentreprise question 94",
+    "question": "La marge de sécurité d'une entreprise mesure:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Le profit",
+      "La capacité à supporter une baisse d'activité",
+      "Les actifs fixes",
+      "Les passifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_medium_100",
-    "question": "Finance_dentreprise question 95",
+    "question": "Le levier financier mesure:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le profit net",
+      "L'effet de l'endettement sur la rentabilité",
+      "La liquidité",
+      "La croissance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

@@ -61,1142 +61,1433 @@
   },
   {
     "id": "finance_islamique_medium_006",
-    "question": "Finance_islamique question 1",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_007",
-    "question": "Finance_islamique question 2",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_008",
-    "question": "Finance_islamique question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_009",
-    "question": "Finance_islamique question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_010",
-    "question": "Finance_islamique question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_011",
-    "question": "Finance_islamique question 6",
+    "id": "finance_islamique_medium_007",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_islamique_medium_012",
-    "question": "Finance_islamique question 7",
+    "id": "finance_islamique_medium_008",
+    "question": "Un client d'une banque islamique peut recevoir:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "finance_islamique_medium_013",
-    "question": "Finance_islamique question 8",
+    "id": "finance_islamique_medium_009",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_010",
+    "question": "La finance islamique exclut les transactions basées sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_011",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_islamique_medium_012",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_013",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_014",
-    "question": "Finance_islamique question 9",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_015",
-    "question": "Finance_islamique question 10",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_016",
-    "question": "Finance_islamique question 11",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_017",
-    "question": "Finance_islamique question 12",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_018",
-    "question": "Finance_islamique question 13",
+    "question": "Un client d'une banque islamique peut recevoir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "finance_islamique_medium_019",
-    "question": "Finance_islamique question 14",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_020",
-    "question": "Finance_islamique question 15",
+    "question": "La finance islamique exclut les transactions basées sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_021",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
     ],
     "correctIndex": 2
   },
   {
-    "id": "finance_islamique_medium_021",
-    "question": "Finance_islamique question 16",
+    "id": "finance_islamique_medium_022",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
     ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_022",
-    "question": "Finance_islamique question 17",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_023",
-    "question": "Finance_islamique question 18",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_024",
-    "question": "Finance_islamique question 19",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_025",
-    "question": "Finance_islamique question 20",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_026",
-    "question": "Finance_islamique question 21",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_027",
-    "question": "Finance_islamique question 22",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_028",
-    "question": "Finance_islamique question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_029",
-    "question": "Finance_islamique question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_030",
-    "question": "Finance_islamique question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_031",
-    "question": "Finance_islamique question 26",
+    "id": "finance_islamique_medium_025",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_islamique_medium_032",
-    "question": "Finance_islamique question 27",
+    "id": "finance_islamique_medium_026",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_033",
-    "question": "Finance_islamique question 28",
+    "id": "finance_islamique_medium_027",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_028",
+    "question": "Un client d'une banque islamique peut recevoir:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
+    ],
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_029",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_030",
+    "question": "La finance islamique exclut les transactions basées sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_031",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_islamique_medium_032",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_033",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_034",
-    "question": "Finance_islamique question 29",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_035",
-    "question": "Finance_islamique question 30",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_036",
-    "question": "Finance_islamique question 31",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_037",
-    "question": "Finance_islamique question 32",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_038",
-    "question": "Finance_islamique question 33",
+    "question": "Un client d'une banque islamique peut recevoir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "finance_islamique_medium_039",
-    "question": "Finance_islamique question 34",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_040",
-    "question": "Finance_islamique question 35",
+    "question": "La finance islamique exclut les transactions basées sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_041",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
     ],
     "correctIndex": 2
   },
   {
-    "id": "finance_islamique_medium_041",
-    "question": "Finance_islamique question 36",
+    "id": "finance_islamique_medium_042",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
     ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_042",
-    "question": "Finance_islamique question 37",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_043",
-    "question": "Finance_islamique question 38",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_044",
-    "question": "Finance_islamique question 39",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_045",
-    "question": "Finance_islamique question 40",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_046",
-    "question": "Finance_islamique question 41",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_047",
-    "question": "Finance_islamique question 42",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_048",
-    "question": "Finance_islamique question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_049",
-    "question": "Finance_islamique question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_050",
-    "question": "Finance_islamique question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_051",
-    "question": "Finance_islamique question 46",
+    "id": "finance_islamique_medium_045",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_islamique_medium_052",
-    "question": "Finance_islamique question 47",
+    "id": "finance_islamique_medium_046",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_053",
-    "question": "Finance_islamique question 48",
+    "id": "finance_islamique_medium_047",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_048",
+    "question": "Un client d'une banque islamique peut recevoir:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
+    ],
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_049",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_050",
+    "question": "La finance islamique exclut les transactions basées sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_051",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_islamique_medium_052",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_053",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_054",
-    "question": "Finance_islamique question 49",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_055",
-    "question": "Finance_islamique question 50",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_056",
-    "question": "Finance_islamique question 51",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_057",
-    "question": "Finance_islamique question 52",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_058",
-    "question": "Finance_islamique question 53",
+    "question": "Un client d'une banque islamique peut recevoir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "finance_islamique_medium_059",
-    "question": "Finance_islamique question 54",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_060",
-    "question": "Finance_islamique question 55",
+    "question": "La finance islamique exclut les transactions basées sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_061",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
     ],
     "correctIndex": 2
   },
   {
-    "id": "finance_islamique_medium_061",
-    "question": "Finance_islamique question 56",
+    "id": "finance_islamique_medium_062",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
     ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_062",
-    "question": "Finance_islamique question 57",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_063",
-    "question": "Finance_islamique question 58",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_064",
-    "question": "Finance_islamique question 59",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_065",
-    "question": "Finance_islamique question 60",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_066",
-    "question": "Finance_islamique question 61",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_067",
-    "question": "Finance_islamique question 62",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_068",
-    "question": "Finance_islamique question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_069",
-    "question": "Finance_islamique question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_070",
-    "question": "Finance_islamique question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_071",
-    "question": "Finance_islamique question 66",
+    "id": "finance_islamique_medium_065",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_islamique_medium_072",
-    "question": "Finance_islamique question 67",
+    "id": "finance_islamique_medium_066",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_073",
-    "question": "Finance_islamique question 68",
+    "id": "finance_islamique_medium_067",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_068",
+    "question": "Un client d'une banque islamique peut recevoir:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
+    ],
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_069",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_070",
+    "question": "La finance islamique exclut les transactions basées sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_071",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_islamique_medium_072",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_073",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_074",
-    "question": "Finance_islamique question 69",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_075",
-    "question": "Finance_islamique question 70",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_076",
-    "question": "Finance_islamique question 71",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_077",
-    "question": "Finance_islamique question 72",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_078",
-    "question": "Finance_islamique question 73",
+    "question": "Un client d'une banque islamique peut recevoir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "finance_islamique_medium_079",
-    "question": "Finance_islamique question 74",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_080",
-    "question": "Finance_islamique question 75",
+    "question": "La finance islamique exclut les transactions basées sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_081",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
     ],
     "correctIndex": 2
   },
   {
-    "id": "finance_islamique_medium_081",
-    "question": "Finance_islamique question 76",
+    "id": "finance_islamique_medium_082",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
     ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_082",
-    "question": "Finance_islamique question 77",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_083",
-    "question": "Finance_islamique question 78",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_084",
-    "question": "Finance_islamique question 79",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_085",
-    "question": "Finance_islamique question 80",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "finance_islamique_medium_086",
-    "question": "Finance_islamique question 81",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_087",
-    "question": "Finance_islamique question 82",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_088",
-    "question": "Finance_islamique question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_089",
-    "question": "Finance_islamique question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "finance_islamique_medium_090",
-    "question": "Finance_islamique question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "finance_islamique_medium_091",
-    "question": "Finance_islamique question 86",
+    "id": "finance_islamique_medium_085",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
-    "id": "finance_islamique_medium_092",
-    "question": "Finance_islamique question 87",
+    "id": "finance_islamique_medium_086",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_093",
-    "question": "Finance_islamique question 88",
+    "id": "finance_islamique_medium_087",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_088",
+    "question": "Un client d'une banque islamique peut recevoir:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
+    ],
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_089",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_090",
+    "question": "La finance islamique exclut les transactions basées sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "finance_islamique_medium_091",
+    "question": "Le Sukuk peut être assimilé à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Un emprunt classique",
+      "Une obligation convertible",
+      "Un titre de propriété associé à des actifs",
+      "Un contrat d'assurance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_islamique_medium_092",
+    "question": "Un Mousharaka diffère d'une Moudaraba par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La durée du contrat",
+      "La participation à la gestion par le partenaire financier",
+      "Le montant investi",
+      "Le secteur d'activité"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_093",
+    "question": "La certification Charia d'un produit financier est effectuée par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'État",
+      "Un Conseil de Conformité Charia",
+      "Les actionnaires",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_094",
-    "question": "Finance_islamique question 89",
+    "question": "Un fonds d'investissement islamique exclut:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les secteurs haram",
+      "L'intérêt",
+      "La spéculation",
+      "Les entreprises polluantes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_095",
-    "question": "Finance_islamique question 90",
+    "question": "Le Waad (promesse) en finance islamique est:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un contrat obligatoire",
+      "Un engagement unilatéral non contraignant",
+      "Une garantie bancaire",
+      "Une assurance"
     ],
     "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_096",
-    "question": "Finance_islamique question 91",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "finance_islamique_medium_097",
-    "question": "Finance_islamique question 92",
+    "question": "La liquidité dans la finance islamique est assurée par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les marchés secondaires",
+      "Les banques islamiques",
+      "Les fenêtres islamiques",
+      "Les instruments éthiques"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "finance_islamique_medium_098",
-    "question": "Finance_islamique question 93",
+    "id": "finance_islamique_medium_097",
+    "question": "L'effet de la finance islamique sur le développement durable est:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Négatif",
+      "Inexistant"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_islamique_medium_098",
+    "question": "Un client d'une banque islamique peut recevoir:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Un intérêt",
+      "Un revenu du partage de profits",
+      "Une rente garantie",
+      "Une commission"
+    ],
+    "correctIndexes": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "finance_islamique_medium_099",
-    "question": "Finance_islamique question 94",
+    "question": "La régulation des institutions de finance islamique est assurée par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les autorités nationales",
+      "Les normes IFSB",
+      "Les conseils Charia",
+      "Les auditeurs internes"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_islamique_medium_100",
-    "question": "Finance_islamique question 95",
+    "question": "La finance islamique exclut les transactions basées sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le Riba",
+      "L'incertitude excessive (Gharar)",
+      "Les contrats noirs",
+      "Les spéculations"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   }
 ]

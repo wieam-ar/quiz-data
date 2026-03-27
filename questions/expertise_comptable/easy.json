@@ -62,1142 +62,1385 @@
   },
   {
     "id": "expertise_comptable_easy_006",
-    "question": "Expertise_comptable question 1",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_007",
-    "question": "Expertise_comptable question 2",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_008",
-    "question": "Expertise_comptable question 3",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_009",
-    "question": "Expertise_comptable question 4",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_010",
-    "question": "Expertise_comptable question 5",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_011",
-    "question": "Expertise_comptable question 6",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_012",
-    "question": "Expertise_comptable question 7",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_013",
-    "question": "Expertise_comptable question 8",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_014",
-    "question": "Expertise_comptable question 9",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_015",
-    "question": "Expertise_comptable question 10",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_016",
-    "question": "Expertise_comptable question 11",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_017",
-    "question": "Expertise_comptable question 12",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_018",
-    "question": "Expertise_comptable question 13",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_019",
-    "question": "Expertise_comptable question 14",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_020",
-    "question": "Expertise_comptable question 15",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_021",
-    "question": "Expertise_comptable question 16",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_022",
-    "question": "Expertise_comptable question 17",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_023",
-    "question": "Expertise_comptable question 18",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_024",
-    "question": "Expertise_comptable question 19",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_025",
-    "question": "Expertise_comptable question 20",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_026",
-    "question": "Expertise_comptable question 21",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_027",
-    "question": "Expertise_comptable question 22",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_028",
-    "question": "Expertise_comptable question 23",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_029",
-    "question": "Expertise_comptable question 24",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_030",
-    "question": "Expertise_comptable question 25",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_031",
-    "question": "Expertise_comptable question 26",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_032",
-    "question": "Expertise_comptable question 27",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_033",
-    "question": "Expertise_comptable question 28",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_034",
-    "question": "Expertise_comptable question 29",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_035",
-    "question": "Expertise_comptable question 30",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_036",
-    "question": "Expertise_comptable question 31",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_037",
-    "question": "Expertise_comptable question 32",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_038",
-    "question": "Expertise_comptable question 33",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_039",
-    "question": "Expertise_comptable question 34",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_040",
-    "question": "Expertise_comptable question 35",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_041",
-    "question": "Expertise_comptable question 36",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_042",
-    "question": "Expertise_comptable question 37",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_043",
-    "question": "Expertise_comptable question 38",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_044",
-    "question": "Expertise_comptable question 39",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_045",
-    "question": "Expertise_comptable question 40",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_046",
-    "question": "Expertise_comptable question 41",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_047",
-    "question": "Expertise_comptable question 42",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_048",
-    "question": "Expertise_comptable question 43",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_049",
-    "question": "Expertise_comptable question 44",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_050",
-    "question": "Expertise_comptable question 45",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_051",
-    "question": "Expertise_comptable question 46",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_052",
-    "question": "Expertise_comptable question 47",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_053",
-    "question": "Expertise_comptable question 48",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_054",
-    "question": "Expertise_comptable question 49",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_055",
-    "question": "Expertise_comptable question 50",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_056",
-    "question": "Expertise_comptable question 51",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_057",
-    "question": "Expertise_comptable question 52",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_058",
-    "question": "Expertise_comptable question 53",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_059",
-    "question": "Expertise_comptable question 54",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_060",
-    "question": "Expertise_comptable question 55",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_061",
-    "question": "Expertise_comptable question 56",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_062",
-    "question": "Expertise_comptable question 57",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_063",
-    "question": "Expertise_comptable question 58",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_064",
-    "question": "Expertise_comptable question 59",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_065",
-    "question": "Expertise_comptable question 60",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_066",
-    "question": "Expertise_comptable question 61",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_067",
-    "question": "Expertise_comptable question 62",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_068",
-    "question": "Expertise_comptable question 63",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_069",
-    "question": "Expertise_comptable question 64",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_070",
-    "question": "Expertise_comptable question 65",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_071",
-    "question": "Expertise_comptable question 66",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_072",
-    "question": "Expertise_comptable question 67",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_073",
-    "question": "Expertise_comptable question 68",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_074",
-    "question": "Expertise_comptable question 69",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_075",
-    "question": "Expertise_comptable question 70",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_076",
-    "question": "Expertise_comptable question 71",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_077",
-    "question": "Expertise_comptable question 72",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_078",
-    "question": "Expertise_comptable question 73",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_079",
-    "question": "Expertise_comptable question 74",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_080",
-    "question": "Expertise_comptable question 75",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_081",
-    "question": "Expertise_comptable question 76",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_082",
-    "question": "Expertise_comptable question 77",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_083",
-    "question": "Expertise_comptable question 78",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "expertise_comptable_easy_084",
-    "question": "Expertise_comptable question 79",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_085",
-    "question": "Expertise_comptable question 80",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
     ],
-    "correctIndex": 3
+    "correctIndexes": [
+      0,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_086",
-    "question": "Expertise_comptable question 81",
+    "question": "Le expert-comptable doit maintenir à jour:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_087",
-    "question": "Expertise_comptable question 82",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_088",
-    "question": "Expertise_comptable question 83",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_089",
-    "question": "Expertise_comptable question 84",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_090",
-    "question": "Expertise_comptable question 85",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_091",
-    "question": "Expertise_comptable question 86",
+    "question": "Le secret professionnel du expert-comptable s'étend à:",
     "level": "easy",
-    "type": "singleChoice",
+    "type": "multipleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les informations du client",
+      "Les documents confidentiels",
+      "Les discussions de travail",
+      "Les tiers"
     ],
-    "correctIndex": 1
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_092",
-    "question": "Expertise_comptable question 87",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "expertise_comptable_easy_093",
-    "question": "Expertise_comptable question 88",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "expertise_comptable_easy_094",
-    "question": "Expertise_comptable question 89",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "expertise_comptable_easy_095",
-    "question": "Expertise_comptable question 90",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "expertise_comptable_easy_096",
-    "question": "Expertise_comptable question 91",
+    "question": "L'expert-comptable peut accepter une mission si:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Il en a envie",
+      "Il possède les compétences nécessaires",
+      "Le client l'exige",
+      "L'État le demande"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "id": "expertise_comptable_easy_097",
-    "question": "Expertise_comptable question 92",
+    "id": "expertise_comptable_easy_093",
+    "question": "Les responsabilités de l'expert-comptable incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La tenue des comptes",
+      "Le respect des normes d'audit",
+      "La lutte antiblanchiment",
+      "La déclaration fiscale"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "expertise_comptable_easy_098",
-    "question": "Expertise_comptable question 93",
+    "id": "expertise_comptable_easy_094",
+    "question": "Un expert-comptable doit déclarer à l'autorité tout:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Information positive",
+      "Soupçon de blanchiment de capitaux",
+      "Bonne nouvelle",
+      "Audit réussi"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "id": "expertise_comptable_easy_095",
+    "question": "L'indépendance professionnelle du expert-comptable est compromise si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Il a des conflits d'intérêts",
+      "Il prodigue des conseils objectifs",
+      "Il accepte des cadeaux importants",
+      "Il maintient ses compétences"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "expertise_comptable_easy_096",
+    "question": "Le expert-comptable doit maintenir à jour:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son permis de conduire",
+      "Ses connaissances professionnelles",
+      "Son passeport",
+      "Son assurance automobile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "expertise_comptable_easy_097",
+    "question": "Face à un cas suspect, l'expert-comptable doit:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)",
+      "En parler avec le client uniquement",
+      "Garder le silence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "expertise_comptable_easy_098",
+    "question": "Les honoraires de l'expert-comptable doivent être:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Secrets",
+      "Clairs et convenus à l'avance",
+      "Imposés par l'État",
+      "Gratuits"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "expertise_comptable_easy_099",
-    "question": "Expertise_comptable question 94",
+    "question": "L'expert-comptable intervient dans:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'audit financier",
+      "Le conseil fiscal",
+      "La gestion administrative",
+      "La représentation légale"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "expertise_comptable_easy_100",
-    "question": "Expertise_comptable question 95",
+    "question": "Un expert-comptable est tenu de respecter le code de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "La route",
+      "La déontologie",
+      "La conduite routière",
+      "L'amitié"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

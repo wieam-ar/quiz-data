@@ -63,1142 +63,1322 @@
   },
   {
     "id": "zakat_al_mal_medium_006",
-    "question": "Zakat_al_mal question 1",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_007",
-    "question": "Zakat_al_mal question 2",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_008",
-    "question": "Zakat_al_mal question 3",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_009",
-    "question": "Zakat_al_mal question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_010",
-    "question": "Zakat_al_mal question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_011",
-    "question": "Zakat_al_mal question 6",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_008",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_009",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_010",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_011",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_012",
-    "question": "Zakat_al_mal question 7",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_013",
-    "question": "Zakat_al_mal question 8",
+    "question": "La Zakat n'est pas obligatoire sur:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_014",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_014",
-    "question": "Zakat_al_mal question 9",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_al_mal_medium_015",
-    "question": "Zakat_al_mal question 10",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_016",
-    "question": "Zakat_al_mal question 11",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_017",
-    "question": "Zakat_al_mal question 12",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_018",
-    "question": "Zakat_al_mal question 13",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_019",
-    "question": "Zakat_al_mal question 14",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_020",
-    "question": "Zakat_al_mal question 15",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_021",
-    "question": "Zakat_al_mal question 16",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_022",
-    "question": "Zakat_al_mal question 17",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_023",
-    "question": "Zakat_al_mal question 18",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_024",
-    "question": "Zakat_al_mal question 19",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_025",
-    "question": "Zakat_al_mal question 20",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_026",
-    "question": "Zakat_al_mal question 21",
+    "id": "zakat_al_mal_medium_017",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_027",
-    "question": "Zakat_al_mal question 22",
+    "id": "zakat_al_mal_medium_018",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_mal_medium_028",
-    "question": "Zakat_al_mal question 23",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_029",
-    "question": "Zakat_al_mal question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_030",
-    "question": "Zakat_al_mal question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_031",
-    "question": "Zakat_al_mal question 26",
+    "id": "zakat_al_mal_medium_019",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_020",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_021",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_022",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_023",
+    "question": "La Zakat n'est pas obligatoire sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_024",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_025",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_026",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_027",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_028",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_029",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_030",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_031",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_032",
-    "question": "Zakat_al_mal question 27",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_033",
-    "question": "Zakat_al_mal question 28",
+    "question": "La Zakat n'est pas obligatoire sur:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_034",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_034",
-    "question": "Zakat_al_mal question 29",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_al_mal_medium_035",
-    "question": "Zakat_al_mal question 30",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_036",
-    "question": "Zakat_al_mal question 31",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_037",
-    "question": "Zakat_al_mal question 32",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_038",
-    "question": "Zakat_al_mal question 33",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_039",
-    "question": "Zakat_al_mal question 34",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_040",
-    "question": "Zakat_al_mal question 35",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_041",
-    "question": "Zakat_al_mal question 36",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_042",
-    "question": "Zakat_al_mal question 37",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_043",
-    "question": "Zakat_al_mal question 38",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_044",
-    "question": "Zakat_al_mal question 39",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_045",
-    "question": "Zakat_al_mal question 40",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_046",
-    "question": "Zakat_al_mal question 41",
+    "id": "zakat_al_mal_medium_037",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_047",
-    "question": "Zakat_al_mal question 42",
+    "id": "zakat_al_mal_medium_038",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_mal_medium_048",
-    "question": "Zakat_al_mal question 43",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_049",
-    "question": "Zakat_al_mal question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_050",
-    "question": "Zakat_al_mal question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_051",
-    "question": "Zakat_al_mal question 46",
+    "id": "zakat_al_mal_medium_039",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_040",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_041",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_042",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_043",
+    "question": "La Zakat n'est pas obligatoire sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_044",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_045",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_046",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_047",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_048",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_049",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_050",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_051",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_052",
-    "question": "Zakat_al_mal question 47",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_053",
-    "question": "Zakat_al_mal question 48",
+    "question": "La Zakat n'est pas obligatoire sur:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_054",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_054",
-    "question": "Zakat_al_mal question 49",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_al_mal_medium_055",
-    "question": "Zakat_al_mal question 50",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_056",
-    "question": "Zakat_al_mal question 51",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_057",
-    "question": "Zakat_al_mal question 52",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_058",
-    "question": "Zakat_al_mal question 53",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_059",
-    "question": "Zakat_al_mal question 54",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_060",
-    "question": "Zakat_al_mal question 55",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_061",
-    "question": "Zakat_al_mal question 56",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_062",
-    "question": "Zakat_al_mal question 57",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_063",
-    "question": "Zakat_al_mal question 58",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_064",
-    "question": "Zakat_al_mal question 59",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_065",
-    "question": "Zakat_al_mal question 60",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_066",
-    "question": "Zakat_al_mal question 61",
+    "id": "zakat_al_mal_medium_057",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_067",
-    "question": "Zakat_al_mal question 62",
+    "id": "zakat_al_mal_medium_058",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_mal_medium_068",
-    "question": "Zakat_al_mal question 63",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_069",
-    "question": "Zakat_al_mal question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_070",
-    "question": "Zakat_al_mal question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_071",
-    "question": "Zakat_al_mal question 66",
+    "id": "zakat_al_mal_medium_059",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_060",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_061",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_062",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_063",
+    "question": "La Zakat n'est pas obligatoire sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_064",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_065",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_066",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_067",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_068",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_069",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_070",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_071",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_072",
-    "question": "Zakat_al_mal question 67",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_073",
-    "question": "Zakat_al_mal question 68",
+    "question": "La Zakat n'est pas obligatoire sur:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_074",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_074",
-    "question": "Zakat_al_mal question 69",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_al_mal_medium_075",
-    "question": "Zakat_al_mal question 70",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_076",
-    "question": "Zakat_al_mal question 71",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_077",
-    "question": "Zakat_al_mal question 72",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_078",
-    "question": "Zakat_al_mal question 73",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_079",
-    "question": "Zakat_al_mal question 74",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_080",
-    "question": "Zakat_al_mal question 75",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_mal_medium_081",
-    "question": "Zakat_al_mal question 76",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_082",
-    "question": "Zakat_al_mal question 77",
-    "level": "medium",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_al_mal_medium_083",
-    "question": "Zakat_al_mal question 78",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_084",
-    "question": "Zakat_al_mal question 79",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_085",
-    "question": "Zakat_al_mal question 80",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_mal_medium_086",
-    "question": "Zakat_al_mal question 81",
+    "id": "zakat_al_mal_medium_077",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_087",
-    "question": "Zakat_al_mal question 82",
+    "id": "zakat_al_mal_medium_078",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_mal_medium_088",
-    "question": "Zakat_al_mal question 83",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_089",
-    "question": "Zakat_al_mal question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_mal_medium_090",
-    "question": "Zakat_al_mal question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_mal_medium_091",
-    "question": "Zakat_al_mal question 86",
+    "id": "zakat_al_mal_medium_079",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_080",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_081",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_082",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_083",
+    "question": "La Zakat n'est pas obligatoire sur:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_084",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_085",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_086",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_087",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_088",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_089",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_090",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_091",
+    "question": "Le Nisab en argent (pour l'argent seul) est d'environ:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 dinar",
+      "85 grammes d'argent",
+      "100 grammes",
+      "1 kilo"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_092",
-    "question": "Zakat_al_mal question 87",
+    "question": "La Zakat al-Mal s'applique aux revenus professionnels qui sont au-dessus du Nisab depuis:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "3 mois",
+      "6 mois",
+      "Un an lunaire",
+      "Deux ans"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_093",
-    "question": "Zakat_al_mal question 88",
+    "question": "La Zakat n'est pas obligatoire sur:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les vêtements portés",
+      "La résidence personnelle",
+      "La voiture personnelle",
+      "Les outils de travail"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_094",
+    "question": "Les biens Waqf (habous) sont:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Soumis à Zakat",
+      "Exonérés de Zakat",
+      "Partiellement taxés",
+      "Taxés différemment"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_al_mal_medium_094",
-    "question": "Zakat_al_mal question 89",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_al_mal_medium_095",
-    "question": "Zakat_al_mal question 90",
+    "question": "La Zakat sur les organismes de placement est calculée sur:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les revenus",
+      "La valeur nette des actifs",
+      "Les gains réalisés",
+      "Les distributions"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_096",
-    "question": "Zakat_al_mal question 91",
+    "question": "Si la valeur du bien tombe sous la Nisab avant la fin de l'année:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La Zakat reste due",
+      "La Zakat n'est pas due",
+      "Elle est réduite",
+      "Elle est doublée"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_097",
-    "question": "Zakat_al_mal question 92",
+    "question": "L'Istighna (autosuffisance) en relation avec la Zakat signifie:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La richesse obligatoire",
+      "Ne pas avoir besoin de Zakat reçue",
+      "L'absence de besoin",
+      "Pas d'obligation"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_098",
-    "question": "Zakat_al_mal question 93",
+    "question": "Les bénéfices d'une entreprise soumis à Zakat comprennent:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles",
+      "Après déduction de dettes long terme",
+      "Après impôts"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_mal_medium_099",
-    "question": "Zakat_al_mal question 94",
+    "question": "La transmission d'un bien rétrécit l'obligation de Zakat par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur",
+      "Partage de la Zakat entre donateur et bénéficiaire",
+      "Transition d'année"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_100",
-    "question": "Zakat_al_mal question 95",
+    "question": "La Zakat al-Mal s'applique à possession au-dessus du seuil (Nisab) détenu pendant:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "6 mois",
+      "Un an lunaire",
+      "3 mois",
+      "2 ans"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

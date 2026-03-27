@@ -123,1082 +123,1370 @@
   },
   {
     "id": "audit_externe_easy_011",
-    "question": "Audit_externe question 6",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "audit_externe_easy_012",
-    "question": "Audit_externe question 7",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "audit_externe_easy_013",
-    "question": "Audit_externe question 8",
+    "id": "audit_externe_easy_012",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_014",
-    "question": "Audit_externe question 9",
+    "id": "audit_externe_easy_013",
+    "question": "Les normes d'audit applicables au niveau international sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_014",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_easy_015",
-    "question": "Audit_externe question 10",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_016",
-    "question": "Audit_externe question 11",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_017",
-    "question": "Audit_externe question 12",
+    "question": "Le risque de non-détection en audit externe dépend de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_017",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_018",
-    "question": "Audit_externe question 13",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_019",
-    "question": "Audit_externe question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_020",
-    "question": "Audit_externe question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_021",
-    "question": "Audit_externe question 16",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_022",
-    "question": "Audit_externe question 17",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "audit_externe_easy_023",
-    "question": "Audit_externe question 18",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_024",
-    "question": "Audit_externe question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_025",
-    "question": "Audit_externe question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_026",
-    "question": "Audit_externe question 21",
+    "id": "audit_externe_easy_019",
+    "question": "La communication des résultats d'audit externe se fait par:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_027",
-    "question": "Audit_externe question 22",
+    "id": "audit_externe_easy_020",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_021",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_022",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_023",
+    "question": "Les normes d'audit applicables au niveau international sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_024",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_025",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_026",
+    "question": "Le risque de non-détection en audit externe dépend de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_027",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_028",
-    "question": "Audit_externe question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_029",
-    "question": "Audit_externe question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_030",
-    "question": "Audit_externe question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_031",
-    "question": "Audit_externe question 26",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_032",
-    "question": "Audit_externe question 27",
+    "id": "audit_externe_easy_029",
+    "question": "La communication des résultats d'audit externe se fait par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_030",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_031",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "audit_externe_easy_033",
-    "question": "Audit_externe question 28",
+    "id": "audit_externe_easy_032",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_034",
-    "question": "Audit_externe question 29",
+    "id": "audit_externe_easy_033",
+    "question": "Les normes d'audit applicables au niveau international sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_034",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_easy_035",
-    "question": "Audit_externe question 30",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_036",
-    "question": "Audit_externe question 31",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_037",
-    "question": "Audit_externe question 32",
+    "question": "Le risque de non-détection en audit externe dépend de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_037",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_038",
-    "question": "Audit_externe question 33",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_039",
-    "question": "Audit_externe question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_040",
-    "question": "Audit_externe question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_041",
-    "question": "Audit_externe question 36",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_042",
-    "question": "Audit_externe question 37",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "audit_externe_easy_043",
-    "question": "Audit_externe question 38",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_044",
-    "question": "Audit_externe question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_045",
-    "question": "Audit_externe question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_046",
-    "question": "Audit_externe question 41",
+    "id": "audit_externe_easy_039",
+    "question": "La communication des résultats d'audit externe se fait par:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_047",
-    "question": "Audit_externe question 42",
+    "id": "audit_externe_easy_040",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_041",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_042",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_043",
+    "question": "Les normes d'audit applicables au niveau international sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_044",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_045",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_046",
+    "question": "Le risque de non-détection en audit externe dépend de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_047",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_048",
-    "question": "Audit_externe question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_049",
-    "question": "Audit_externe question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_050",
-    "question": "Audit_externe question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_051",
-    "question": "Audit_externe question 46",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_052",
-    "question": "Audit_externe question 47",
+    "id": "audit_externe_easy_049",
+    "question": "La communication des résultats d'audit externe se fait par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_050",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_051",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "audit_externe_easy_053",
-    "question": "Audit_externe question 48",
+    "id": "audit_externe_easy_052",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_054",
-    "question": "Audit_externe question 49",
+    "id": "audit_externe_easy_053",
+    "question": "Les normes d'audit applicables au niveau international sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_054",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_easy_055",
-    "question": "Audit_externe question 50",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_056",
-    "question": "Audit_externe question 51",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_057",
-    "question": "Audit_externe question 52",
+    "question": "Le risque de non-détection en audit externe dépend de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_057",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_058",
-    "question": "Audit_externe question 53",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_059",
-    "question": "Audit_externe question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_060",
-    "question": "Audit_externe question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_061",
-    "question": "Audit_externe question 56",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_062",
-    "question": "Audit_externe question 57",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "audit_externe_easy_063",
-    "question": "Audit_externe question 58",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_064",
-    "question": "Audit_externe question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_065",
-    "question": "Audit_externe question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_066",
-    "question": "Audit_externe question 61",
+    "id": "audit_externe_easy_059",
+    "question": "La communication des résultats d'audit externe se fait par:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_067",
-    "question": "Audit_externe question 62",
+    "id": "audit_externe_easy_060",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_061",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_062",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_063",
+    "question": "Les normes d'audit applicables au niveau international sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_064",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_065",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_066",
+    "question": "Le risque de non-détection en audit externe dépend de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_067",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_068",
-    "question": "Audit_externe question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_069",
-    "question": "Audit_externe question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_070",
-    "question": "Audit_externe question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_071",
-    "question": "Audit_externe question 66",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_072",
-    "question": "Audit_externe question 67",
+    "id": "audit_externe_easy_069",
+    "question": "La communication des résultats d'audit externe se fait par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_070",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_071",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "audit_externe_easy_073",
-    "question": "Audit_externe question 68",
+    "id": "audit_externe_easy_072",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_074",
-    "question": "Audit_externe question 69",
+    "id": "audit_externe_easy_073",
+    "question": "Les normes d'audit applicables au niveau international sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_074",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_easy_075",
-    "question": "Audit_externe question 70",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_076",
-    "question": "Audit_externe question 71",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_077",
-    "question": "Audit_externe question 72",
+    "question": "Le risque de non-détection en audit externe dépend de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_077",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_078",
-    "question": "Audit_externe question 73",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_079",
-    "question": "Audit_externe question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_080",
-    "question": "Audit_externe question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_081",
-    "question": "Audit_externe question 76",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_082",
-    "question": "Audit_externe question 77",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "audit_externe_easy_083",
-    "question": "Audit_externe question 78",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_084",
-    "question": "Audit_externe question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_085",
-    "question": "Audit_externe question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_externe_easy_086",
-    "question": "Audit_externe question 81",
+    "id": "audit_externe_easy_079",
+    "question": "La communication des résultats d'audit externe se fait par:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_087",
-    "question": "Audit_externe question 82",
+    "id": "audit_externe_easy_080",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_081",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_082",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_083",
+    "question": "Les normes d'audit applicables au niveau international sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_084",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_085",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_086",
+    "question": "Le risque de non-détection en audit externe dépend de:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_087",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_088",
-    "question": "Audit_externe question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_089",
-    "question": "Audit_externe question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_externe_easy_090",
-    "question": "Audit_externe question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_externe_easy_091",
-    "question": "Audit_externe question 86",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_092",
-    "question": "Audit_externe question 87",
+    "id": "audit_externe_easy_089",
+    "question": "La communication des résultats d'audit externe se fait par:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_090",
+    "question": "L'audit externe se définit comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_easy_091",
+    "question": "Le rôle principal de l'audit externe est:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Certifier les comptes",
+      "Évaluer la conformité légale",
+      "Assurer la transparence financière",
+      "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "audit_externe_easy_093",
-    "question": "Audit_externe question 88",
+    "id": "audit_externe_easy_092",
+    "question": "L'indépendance de l'auditeur externe doit être garantie par:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Le gouvernement",
+      "Les statuts légaux et professionnels",
+      "L'organisation auditée",
+      "Les actionnaires de petite taille"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_externe_easy_094",
-    "question": "Audit_externe question 89",
+    "id": "audit_externe_easy_093",
+    "question": "Les normes d'audit applicables au niveau international sont:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "INTOSAI",
+      "ISA",
+      "Normes nationales",
+      "Normes ISO"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_easy_094",
+    "question": "Un conflit d'intérêts dans l'audit externe est présent si:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a participé à la gestion",
+      "L'auditeur est un ancien employé"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_easy_095",
-    "question": "Audit_externe question 90",
+    "question": "Lors d'un audit externe, les preuves doivent être:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Supposées",
+      "Suffisantes et appropriées",
+      "Minimalistes",
+      "Basées sur des suppositions"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_096",
-    "question": "Audit_externe question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_externe_easy_097",
-    "question": "Audit_externe question 92",
+    "question": "Le risque de non-détection en audit externe dépend de:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La compétence de l'auditeur",
+      "La méthodologie utilisée",
+      "Le risque d'erreur initial",
+      "Les ressources disponibles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_externe_easy_097",
+    "question": "L'opinion de l'auditeur externe peut être:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Certifiée sans réserve",
+      "Certifiée avec réserve",
+      "Refusée",
+      "Absente"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_externe_easy_098",
-    "question": "Audit_externe question 93",
+    "question": "Les procédures de contrôle testées en audit externe visent à évaluer:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "La performance du management",
+      "L'efficacité des contrôles internes",
+      "La rentabilité de l'entreprise",
+      "La satisfaction des clients"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_099",
-    "question": "Audit_externe question 94",
+    "question": "La communication des résultats d'audit externe se fait par:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Un rapport verbal",
+      "Un rapport écrit officiel",
+      "Une note informelle",
+      "Une déclaration orale"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "audit_externe_easy_100",
-    "question": "Audit_externe question 95",
+    "question": "L'audit externe se définit comme:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers",
+      "Une évaluation politique",
+      "Une vérification personnelle"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

@@ -123,1082 +123,1289 @@
   },
   {
     "id": "comptabilite_easy_011",
-    "question": "Comptabilite question 6",
+    "question": "Selon le principe de l'équilibre comptable:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_012",
-    "question": "Comptabilite question 7",
+    "question": "Les capitaux propres incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_013",
-    "question": "Comptabilite question 8",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_014",
-    "question": "Comptabilite question 9",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_015",
-    "question": "Comptabilite question 10",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_016",
-    "question": "Comptabilite question 11",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_017",
-    "question": "Comptabilite question 12",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_018",
-    "question": "Comptabilite question 13",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_019",
-    "question": "Comptabilite question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_020",
-    "question": "Comptabilite question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "comptabilite_easy_021",
-    "question": "Comptabilite question 16",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "comptabilite_easy_022",
-    "question": "Comptabilite question 17",
+    "id": "comptabilite_easy_018",
+    "question": "Les provisions pour risques et charges sont:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_019",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_020",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_021",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_022",
+    "question": "Les capitaux propres incluent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_023",
-    "question": "Comptabilite question 18",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_024",
-    "question": "Comptabilite question 19",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_025",
-    "question": "Comptabilite question 20",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_026",
-    "question": "Comptabilite question 21",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_027",
-    "question": "Comptabilite question 22",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_028",
-    "question": "Comptabilite question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_029",
-    "question": "Comptabilite question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_030",
-    "question": "Comptabilite question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_031",
-    "question": "Comptabilite question 26",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_028",
+    "question": "Les provisions pour risques et charges sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_029",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_030",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_031",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_032",
-    "question": "Comptabilite question 27",
+    "question": "Les capitaux propres incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_033",
-    "question": "Comptabilite question 28",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_034",
-    "question": "Comptabilite question 29",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_035",
-    "question": "Comptabilite question 30",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_036",
-    "question": "Comptabilite question 31",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_037",
-    "question": "Comptabilite question 32",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_038",
-    "question": "Comptabilite question 33",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_039",
-    "question": "Comptabilite question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_040",
-    "question": "Comptabilite question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "comptabilite_easy_041",
-    "question": "Comptabilite question 36",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "comptabilite_easy_042",
-    "question": "Comptabilite question 37",
+    "id": "comptabilite_easy_038",
+    "question": "Les provisions pour risques et charges sont:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_039",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_040",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_041",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_042",
+    "question": "Les capitaux propres incluent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_043",
-    "question": "Comptabilite question 38",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_044",
-    "question": "Comptabilite question 39",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_045",
-    "question": "Comptabilite question 40",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_046",
-    "question": "Comptabilite question 41",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_047",
-    "question": "Comptabilite question 42",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_048",
-    "question": "Comptabilite question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_049",
-    "question": "Comptabilite question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_050",
-    "question": "Comptabilite question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_051",
-    "question": "Comptabilite question 46",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_048",
+    "question": "Les provisions pour risques et charges sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_049",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_050",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_051",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_052",
-    "question": "Comptabilite question 47",
+    "question": "Les capitaux propres incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_053",
-    "question": "Comptabilite question 48",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_054",
-    "question": "Comptabilite question 49",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_055",
-    "question": "Comptabilite question 50",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_056",
-    "question": "Comptabilite question 51",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_057",
-    "question": "Comptabilite question 52",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_058",
-    "question": "Comptabilite question 53",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_059",
-    "question": "Comptabilite question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_060",
-    "question": "Comptabilite question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "comptabilite_easy_061",
-    "question": "Comptabilite question 56",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "comptabilite_easy_062",
-    "question": "Comptabilite question 57",
+    "id": "comptabilite_easy_058",
+    "question": "Les provisions pour risques et charges sont:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_059",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_060",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_061",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_062",
+    "question": "Les capitaux propres incluent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_063",
-    "question": "Comptabilite question 58",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_064",
-    "question": "Comptabilite question 59",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_065",
-    "question": "Comptabilite question 60",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_066",
-    "question": "Comptabilite question 61",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_067",
-    "question": "Comptabilite question 62",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_068",
-    "question": "Comptabilite question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_069",
-    "question": "Comptabilite question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_070",
-    "question": "Comptabilite question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_071",
-    "question": "Comptabilite question 66",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_068",
+    "question": "Les provisions pour risques et charges sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_069",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_070",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_071",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_072",
-    "question": "Comptabilite question 67",
+    "question": "Les capitaux propres incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_073",
-    "question": "Comptabilite question 68",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_074",
-    "question": "Comptabilite question 69",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_075",
-    "question": "Comptabilite question 70",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_076",
-    "question": "Comptabilite question 71",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_077",
-    "question": "Comptabilite question 72",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_078",
-    "question": "Comptabilite question 73",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_079",
-    "question": "Comptabilite question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_080",
-    "question": "Comptabilite question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "comptabilite_easy_081",
-    "question": "Comptabilite question 76",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "comptabilite_easy_082",
-    "question": "Comptabilite question 77",
+    "id": "comptabilite_easy_078",
+    "question": "Les provisions pour risques et charges sont:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_079",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_080",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_081",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_082",
+    "question": "Les capitaux propres incluent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_083",
-    "question": "Comptabilite question 78",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_084",
-    "question": "Comptabilite question 79",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_085",
-    "question": "Comptabilite question 80",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_086",
-    "question": "Comptabilite question 81",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_087",
-    "question": "Comptabilite question 82",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "comptabilite_easy_088",
-    "question": "Comptabilite question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_089",
-    "question": "Comptabilite question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "comptabilite_easy_090",
-    "question": "Comptabilite question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "comptabilite_easy_091",
-    "question": "Comptabilite question 86",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_088",
+    "question": "Les provisions pour risques et charges sont:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "comptabilite_easy_089",
+    "question": "L'amortissement comptable est justifié par:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "comptabilite_easy_090",
+    "question": "Le bilan est un document qui présente:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "comptabilite_easy_091",
+    "question": "Selon le principe de l'équilibre comptable:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Actif = Passif",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif - Capitaux propres",
+      "Actif = Capitaux propres"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_092",
-    "question": "Comptabilite question 87",
+    "question": "Les capitaux propres incluent:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le capital social",
+      "Les réserves",
+      "Les bénéfices",
+      "Les dettes à long terme"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "comptabilite_easy_093",
-    "question": "Comptabilite question 88",
+    "question": "Un actif courant est un élément qui sera converti en cash dans:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Plus de 2 ans",
+      "Moins d'un an",
+      "Plus de 5 ans",
+      "Plus de 10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_094",
-    "question": "Comptabilite question 89",
+    "question": "Le compte de résultat présente:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'état patrimonial",
+      "Les revenues et dépenses de l'exercice",
+      "Les investissements",
+      "Les variations d'actifs"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_095",
-    "question": "Comptabilite question 90",
+    "question": "La valeur comptable d'un élément d'actif correspond à:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le prix d'acquisition",
+      "Le coût d'acquisition moins l'amortissement",
+      "La valeur au marché",
+      "La valeur estimée"
     ],
     "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_096",
-    "question": "Comptabilite question 91",
+    "question": "Les dépréciations d'actifs relèvent du principe de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Conservation",
+      "Prudence",
+      "Continuité",
+      "Spécialisation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_097",
-    "question": "Comptabilite question 92",
+    "question": "Le principe comptable d'intégrité exige que:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus",
+      "Seuls les éléments positifs soient mentionnés",
+      "Les renseignements soient incomplets"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "comptabilite_easy_098",
-    "question": "Comptabilite question 93",
+    "question": "Les provisions pour risques et charges sont:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Des liabilités certaines",
+      "Des obligations probables",
+      "Des charges réputées",
+      "Des réserves optionnelles"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "comptabilite_easy_099",
-    "question": "Comptabilite question 94",
+    "question": "L'amortissement comptable est justifié par:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "La dépréciation économique",
+      "L'usure physique",
+      "Le passage du temps",
+      "L'obsolescence"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "comptabilite_easy_100",
-    "question": "Comptabilite question 95",
+    "question": "Le bilan est un document qui présente:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Les flux de l'exercice",
+      "La situation financière à une date donnée",
+      "Les performances annuelles",
+      "Les prévisions futures"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

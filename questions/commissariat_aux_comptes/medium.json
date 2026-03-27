@@ -62,1142 +62,1408 @@
   },
   {
     "id": "commissariat_aux_comptes_medium_006",
-    "question": "Commissariat_aux_comptes question 1",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_007",
-    "question": "Commissariat_aux_comptes question 2",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_008",
-    "question": "Commissariat_aux_comptes question 3",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_009",
-    "question": "Commissariat_aux_comptes question 4",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_010",
-    "question": "Commissariat_aux_comptes question 5",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_011",
-    "question": "Commissariat_aux_comptes question 6",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_010",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_011",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_012",
-    "question": "Commissariat_aux_comptes question 7",
+    "question": "Les rapports du CAC doivent tre soumis à:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_013",
-    "question": "Commissariat_aux_comptes question 8",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_014",
-    "question": "Commissariat_aux_comptes question 9",
+    "id": "commissariat_aux_comptes_medium_013",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_014",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_015",
-    "question": "Commissariat_aux_comptes question 10",
+    "question": "Le secret professionnel du CAC s'applique à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_016",
-    "question": "Commissariat_aux_comptes question 11",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
     "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_017",
-    "question": "Commissariat_aux_comptes question 12",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_018",
-    "question": "Commissariat_aux_comptes question 13",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_019",
-    "question": "Commissariat_aux_comptes question 14",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_020",
-    "question": "Commissariat_aux_comptes question 15",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_021",
-    "question": "Commissariat_aux_comptes question 16",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_022",
-    "question": "Commissariat_aux_comptes question 17",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "commissariat_aux_comptes_medium_023",
-    "question": "Commissariat_aux_comptes question 18",
+    "id": "commissariat_aux_comptes_medium_019",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_024",
-    "question": "Commissariat_aux_comptes question 19",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_025",
-    "question": "Commissariat_aux_comptes question 20",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_026",
-    "question": "Commissariat_aux_comptes question 21",
+    "id": "commissariat_aux_comptes_medium_020",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_027",
-    "question": "Commissariat_aux_comptes question 22",
+    "id": "commissariat_aux_comptes_medium_021",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_022",
+    "question": "Les rapports du CAC doivent tre soumis à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_023",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_024",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_025",
+    "question": "Le secret professionnel du CAC s'applique à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_026",
+    "question": "Si le CAC détecte une fraude, il doit:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_027",
+    "question": "La responsabilité civile du CAC est engagée si:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_028",
-    "question": "Commissariat_aux_comptes question 23",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_029",
-    "question": "Commissariat_aux_comptes question 24",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_030",
-    "question": "Commissariat_aux_comptes question 25",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_031",
-    "question": "Commissariat_aux_comptes question 26",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_030",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_031",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_032",
-    "question": "Commissariat_aux_comptes question 27",
+    "question": "Les rapports du CAC doivent tre soumis à:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_033",
-    "question": "Commissariat_aux_comptes question 28",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_034",
-    "question": "Commissariat_aux_comptes question 29",
+    "id": "commissariat_aux_comptes_medium_033",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_034",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_035",
-    "question": "Commissariat_aux_comptes question 30",
+    "question": "Le secret professionnel du CAC s'applique à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_036",
-    "question": "Commissariat_aux_comptes question 31",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
     "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_037",
-    "question": "Commissariat_aux_comptes question 32",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_038",
-    "question": "Commissariat_aux_comptes question 33",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_039",
-    "question": "Commissariat_aux_comptes question 34",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_040",
-    "question": "Commissariat_aux_comptes question 35",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_041",
-    "question": "Commissariat_aux_comptes question 36",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_042",
-    "question": "Commissariat_aux_comptes question 37",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "commissariat_aux_comptes_medium_043",
-    "question": "Commissariat_aux_comptes question 38",
+    "id": "commissariat_aux_comptes_medium_039",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_044",
-    "question": "Commissariat_aux_comptes question 39",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_045",
-    "question": "Commissariat_aux_comptes question 40",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_046",
-    "question": "Commissariat_aux_comptes question 41",
+    "id": "commissariat_aux_comptes_medium_040",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_047",
-    "question": "Commissariat_aux_comptes question 42",
+    "id": "commissariat_aux_comptes_medium_041",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_042",
+    "question": "Les rapports du CAC doivent tre soumis à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_043",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_044",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_045",
+    "question": "Le secret professionnel du CAC s'applique à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_046",
+    "question": "Si le CAC détecte une fraude, il doit:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_047",
+    "question": "La responsabilité civile du CAC est engagée si:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_048",
-    "question": "Commissariat_aux_comptes question 43",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_049",
-    "question": "Commissariat_aux_comptes question 44",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_050",
-    "question": "Commissariat_aux_comptes question 45",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_051",
-    "question": "Commissariat_aux_comptes question 46",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_050",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_051",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_052",
-    "question": "Commissariat_aux_comptes question 47",
+    "question": "Les rapports du CAC doivent tre soumis à:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_053",
-    "question": "Commissariat_aux_comptes question 48",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_054",
-    "question": "Commissariat_aux_comptes question 49",
+    "id": "commissariat_aux_comptes_medium_053",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_054",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_055",
-    "question": "Commissariat_aux_comptes question 50",
+    "question": "Le secret professionnel du CAC s'applique à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_056",
-    "question": "Commissariat_aux_comptes question 51",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
     "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_057",
-    "question": "Commissariat_aux_comptes question 52",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_058",
-    "question": "Commissariat_aux_comptes question 53",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_059",
-    "question": "Commissariat_aux_comptes question 54",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_060",
-    "question": "Commissariat_aux_comptes question 55",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_061",
-    "question": "Commissariat_aux_comptes question 56",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_062",
-    "question": "Commissariat_aux_comptes question 57",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "commissariat_aux_comptes_medium_063",
-    "question": "Commissariat_aux_comptes question 58",
+    "id": "commissariat_aux_comptes_medium_059",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_064",
-    "question": "Commissariat_aux_comptes question 59",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_065",
-    "question": "Commissariat_aux_comptes question 60",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_066",
-    "question": "Commissariat_aux_comptes question 61",
+    "id": "commissariat_aux_comptes_medium_060",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_067",
-    "question": "Commissariat_aux_comptes question 62",
+    "id": "commissariat_aux_comptes_medium_061",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_062",
+    "question": "Les rapports du CAC doivent tre soumis à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_063",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_064",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_065",
+    "question": "Le secret professionnel du CAC s'applique à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_066",
+    "question": "Si le CAC détecte une fraude, il doit:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_067",
+    "question": "La responsabilité civile du CAC est engagée si:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_068",
-    "question": "Commissariat_aux_comptes question 63",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_069",
-    "question": "Commissariat_aux_comptes question 64",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_070",
-    "question": "Commissariat_aux_comptes question 65",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_071",
-    "question": "Commissariat_aux_comptes question 66",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_070",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_071",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_072",
-    "question": "Commissariat_aux_comptes question 67",
+    "question": "Les rapports du CAC doivent tre soumis à:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_073",
-    "question": "Commissariat_aux_comptes question 68",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_074",
-    "question": "Commissariat_aux_comptes question 69",
+    "id": "commissariat_aux_comptes_medium_073",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_074",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_075",
-    "question": "Commissariat_aux_comptes question 70",
+    "question": "Le secret professionnel du CAC s'applique à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_076",
-    "question": "Commissariat_aux_comptes question 71",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
     "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_077",
-    "question": "Commissariat_aux_comptes question 72",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_078",
-    "question": "Commissariat_aux_comptes question 73",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_079",
-    "question": "Commissariat_aux_comptes question 74",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_080",
-    "question": "Commissariat_aux_comptes question 75",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_081",
-    "question": "Commissariat_aux_comptes question 76",
-    "level": "medium",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_082",
-    "question": "Commissariat_aux_comptes question 77",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "commissariat_aux_comptes_medium_083",
-    "question": "Commissariat_aux_comptes question 78",
+    "id": "commissariat_aux_comptes_medium_079",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_084",
-    "question": "Commissariat_aux_comptes question 79",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_085",
-    "question": "Commissariat_aux_comptes question 80",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_086",
-    "question": "Commissariat_aux_comptes question 81",
+    "id": "commissariat_aux_comptes_medium_080",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_087",
-    "question": "Commissariat_aux_comptes question 82",
+    "id": "commissariat_aux_comptes_medium_081",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_082",
+    "question": "Les rapports du CAC doivent tre soumis à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_083",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_084",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_085",
+    "question": "Le secret professionnel du CAC s'applique à:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_086",
+    "question": "Si le CAC détecte une fraude, il doit:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_087",
+    "question": "La responsabilité civile du CAC est engagée si:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_088",
-    "question": "Commissariat_aux_comptes question 83",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_089",
-    "question": "Commissariat_aux_comptes question 84",
-    "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_090",
-    "question": "Commissariat_aux_comptes question 85",
-    "level": "medium",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_091",
-    "question": "Commissariat_aux_comptes question 86",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_090",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_091",
+    "question": "Le CAC est nommé pour une période de:",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans renouvelable",
+      "5 ans non renouvelable",
+      "L'indéfini"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_092",
-    "question": "Commissariat_aux_comptes question 87",
+    "question": "Les rapports du CAC doivent tre soumis à:",
     "level": "medium",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "commissariat_aux_comptes_medium_093",
-    "question": "Commissariat_aux_comptes question 88",
-    "level": "medium",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires",
+      "Le ministre",
+      "Les clients"
     ],
     "correctIndex": 1
   },
   {
-    "id": "commissariat_aux_comptes_medium_094",
-    "question": "Commissariat_aux_comptes question 89",
+    "id": "commissariat_aux_comptes_medium_093",
+    "question": "Le CAC peut être révoqué par:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "L'assemblée générale",
+      "Le tribunal",
+      "Les actionnaires",
+      "L'État"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_094",
+    "question": "Lors d'une mission d'audit, le CAC a le droit d'accès à:",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Tous les documents",
+      "Les registres",
+      "Les locaux",
+      "Les correspondances"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_095",
-    "question": "Commissariat_aux_comptes question 90",
+    "question": "Le secret professionnel du CAC s'applique à:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance",
+      "Seulement les documents publics",
+      "Les informations positives"
     ],
     "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_096",
-    "question": "Commissariat_aux_comptes question 91",
+    "question": "Si le CAC détecte une fraude, il doit:",
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Garder le silence",
+      "En informer discrètement la direction",
+      "En déclarer à l'autorité compétente",
+      "Le rapporter au tribunal"
     ],
     "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_097",
-    "question": "Commissariat_aux_comptes question 92",
+    "question": "La responsabilité civile du CAC est engagée si:",
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Il y a négligence grave",
+      "Il y a manquement à son devoir",
+      "Il y a violation des normes d'audit",
+      "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "commissariat_aux_comptes_medium_098",
-    "question": "Commissariat_aux_comptes question 93",
+    "question": "Le rapport du CAC doit contenir:",
     "level": "medium",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "L'opinion générale",
+      "Les réserves éventuelles",
+      "Les recommandations",
+      "Les éléments factuels"
     ],
-    "correctIndex": 0
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_099",
-    "question": "Commissariat_aux_comptes question 94",
+    "question": "Le CAC doit démissionner s'il:",
     "level": "medium",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'assemblée générale le demande",
+      "L'entreprise fait une perte"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_100",
-    "question": "Commissariat_aux_comptes question 95",
+    "question": "Le rôle principal du commissariat aux comptes est de:",
     "level": "medium",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Diriger l'entreprise",
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher les employés",
+      "Vendre les produits"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

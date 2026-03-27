@@ -121,87 +121,110 @@
   },
   {
     "id": "zakat_easy_011",
-    "question": "Zakat question 6",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_easy_012",
-    "question": "Zakat question 7",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_013",
-    "question": "Zakat question 8",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_014",
-    "question": "Zakat question 9",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_015",
-    "question": "Zakat question 10",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_016",
-    "question": "Zakat question 11",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_013",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_014",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_015",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_016",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_017",
-    "question": "Zakat question 12",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_018",
+    "question": "La Nisab (seuil minimum) change selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -209,119 +232,137 @@
     ]
   },
   {
-    "id": "zakat_easy_018",
-    "question": "Zakat question 13",
+    "id": "zakat_easy_019",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_019",
-    "question": "Zakat question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_easy_020",
-    "question": "Zakat question 15",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_021",
-    "question": "Zakat question 16",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_022",
-    "question": "Zakat question 17",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_023",
-    "question": "Zakat question 18",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_easy_024",
-    "question": "Zakat question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_025",
-    "question": "Zakat question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_026",
-    "question": "Zakat question 21",
+    "id": "zakat_easy_022",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_023",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_027",
-    "question": "Zakat question 22",
+    "id": "zakat_easy_024",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_025",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_026",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_027",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_028",
+    "question": "La Nisab (seuil minimum) change selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -329,119 +370,137 @@
     ]
   },
   {
-    "id": "zakat_easy_028",
-    "question": "Zakat question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
     "id": "zakat_easy_029",
-    "question": "Zakat question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_030",
-    "question": "Zakat question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_easy_031",
-    "question": "Zakat question 26",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_030",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_031",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_easy_032",
-    "question": "Zakat question 27",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_033",
-    "question": "Zakat question 28",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_034",
-    "question": "Zakat question 29",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_035",
-    "question": "Zakat question 30",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_036",
-    "question": "Zakat question 31",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_033",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_034",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_035",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_036",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_037",
-    "question": "Zakat question 32",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_038",
+    "question": "La Nisab (seuil minimum) change selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -449,119 +508,137 @@
     ]
   },
   {
-    "id": "zakat_easy_038",
-    "question": "Zakat question 33",
+    "id": "zakat_easy_039",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_039",
-    "question": "Zakat question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_easy_040",
-    "question": "Zakat question 35",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_041",
-    "question": "Zakat question 36",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_042",
-    "question": "Zakat question 37",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_043",
-    "question": "Zakat question 38",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_easy_044",
-    "question": "Zakat question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_045",
-    "question": "Zakat question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_046",
-    "question": "Zakat question 41",
+    "id": "zakat_easy_042",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_043",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_047",
-    "question": "Zakat question 42",
+    "id": "zakat_easy_044",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_045",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_046",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_047",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_048",
+    "question": "La Nisab (seuil minimum) change selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -569,119 +646,137 @@
     ]
   },
   {
-    "id": "zakat_easy_048",
-    "question": "Zakat question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
     "id": "zakat_easy_049",
-    "question": "Zakat question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_050",
-    "question": "Zakat question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_easy_051",
-    "question": "Zakat question 46",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_050",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_051",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_easy_052",
-    "question": "Zakat question 47",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_053",
-    "question": "Zakat question 48",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_054",
-    "question": "Zakat question 49",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_055",
-    "question": "Zakat question 50",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_056",
-    "question": "Zakat question 51",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_053",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_054",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_055",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_056",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_057",
-    "question": "Zakat question 52",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_058",
+    "question": "La Nisab (seuil minimum) change selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -689,119 +784,137 @@
     ]
   },
   {
-    "id": "zakat_easy_058",
-    "question": "Zakat question 53",
+    "id": "zakat_easy_059",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_059",
-    "question": "Zakat question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_easy_060",
-    "question": "Zakat question 55",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_061",
-    "question": "Zakat question 56",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_062",
-    "question": "Zakat question 57",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_063",
-    "question": "Zakat question 58",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_easy_064",
-    "question": "Zakat question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_065",
-    "question": "Zakat question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_066",
-    "question": "Zakat question 61",
+    "id": "zakat_easy_062",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_063",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_067",
-    "question": "Zakat question 62",
+    "id": "zakat_easy_064",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_065",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_066",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_067",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_068",
+    "question": "La Nisab (seuil minimum) change selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -809,119 +922,137 @@
     ]
   },
   {
-    "id": "zakat_easy_068",
-    "question": "Zakat question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
     "id": "zakat_easy_069",
-    "question": "Zakat question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_070",
-    "question": "Zakat question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_easy_071",
-    "question": "Zakat question 66",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_070",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_071",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_easy_072",
-    "question": "Zakat question 67",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_073",
-    "question": "Zakat question 68",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_074",
-    "question": "Zakat question 69",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_075",
-    "question": "Zakat question 70",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_076",
-    "question": "Zakat question 71",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_073",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_074",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_075",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_076",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_077",
-    "question": "Zakat question 72",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_078",
+    "question": "La Nisab (seuil minimum) change selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -929,119 +1060,137 @@
     ]
   },
   {
-    "id": "zakat_easy_078",
-    "question": "Zakat question 73",
+    "id": "zakat_easy_079",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_079",
-    "question": "Zakat question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_easy_080",
-    "question": "Zakat question 75",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_081",
-    "question": "Zakat question 76",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_082",
-    "question": "Zakat question 77",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_083",
-    "question": "Zakat question 78",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
-    "id": "zakat_easy_084",
-    "question": "Zakat question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_085",
-    "question": "Zakat question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_easy_086",
-    "question": "Zakat question 81",
+    "id": "zakat_easy_082",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_083",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_087",
-    "question": "Zakat question 82",
+    "id": "zakat_easy_084",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_085",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_086",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_087",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_088",
+    "question": "La Nisab (seuil minimum) change selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -1049,119 +1198,137 @@
     ]
   },
   {
-    "id": "zakat_easy_088",
-    "question": "Zakat question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
     "id": "zakat_easy_089",
-    "question": "Zakat question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_090",
-    "question": "Zakat question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_easy_091",
-    "question": "Zakat question 86",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_090",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_091",
+    "question": "Le taux de Zakat sur les récoltes est habituellement de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5%",
+      "10%",
+      "2,5%",
+      "20%"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_easy_092",
-    "question": "Zakat question 87",
-    "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
-  },
-  {
-    "id": "zakat_easy_093",
-    "question": "Zakat question 88",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_094",
-    "question": "Zakat question 89",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_easy_095",
-    "question": "Zakat question 90",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_easy_096",
-    "question": "Zakat question 91",
+    "question": "La Zakat s'applique à l'or pur à partir d'une quantité de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 dinars",
+      "85 grammes",
+      "40 dinars",
+      "50 grammes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_easy_093",
+    "question": "La Zakat sur les animaux d'élevage s'appelle:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Zakat al-mal",
+      "Zakat al-fitr",
+      "Zakat al-amal",
+      "Zakat al-ghalla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_094",
+    "question": "Une dette réduit considérablement l'obligation de Zakat selon:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "L'école malékite",
+      "L'école hanéfite",
+      "L'école shafi'ite",
+      "L'école hanbalite"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "zakat_easy_095",
+    "question": "Les bénéficiaires de la Zakat selon le Coran sont au nombre de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_easy_096",
+    "question": "La Zakat al-fitr se verse:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "La nuit du Doute",
+      "Du début à la fin du Ramadan",
+      "Après Al-Fitr"
     ],
     "correctIndex": 2
   },
   {
     "id": "zakat_easy_097",
-    "question": "Zakat question 92",
+    "question": "L'exemption d'un bien de la Zakat est liée à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Son utilité personnelle",
+      "L'intention du propriétaire",
+      "Le statut du propriétaire",
+      "La durée de possession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_easy_098",
+    "question": "La Nisab (seuil minimum) change selon:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le cours de l'or et l'argent",
+      "L'inflation",
+      "La région",
+      "L'année fiscale"
     ],
     "correctIndexes": [
       0,
@@ -1169,33 +1336,28 @@
     ]
   },
   {
-    "id": "zakat_easy_098",
-    "question": "Zakat question 93",
+    "id": "zakat_easy_099",
+    "question": "Le calendrier pour calculer la Zakat est habituellement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Lunaire",
+      "Solaire",
+      "Grégorien",
+      "Commercial"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_easy_099",
-    "question": "Zakat question 94",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
     "id": "zakat_easy_100",
-    "question": "Zakat question 95",
+    "question": "La Zakat est l'un des piliers de l'islam, le:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "1er pilier",
+      "2e pilier",
+      "3e pilier",
+      "4e pilier"
     ],
     "correctIndex": 2
   }

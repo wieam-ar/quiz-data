@@ -61,1142 +61,1259 @@
   },
   {
     "id": "zakat_al_fitr_easy_006",
-    "question": "Zakat_al_fitr question 1",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_007",
-    "question": "Zakat_al_fitr question 2",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "zakat_al_fitr_easy_008",
-    "question": "Zakat_al_fitr question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_009",
-    "question": "Zakat_al_fitr question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_010",
-    "question": "Zakat_al_fitr question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_011",
-    "question": "Zakat_al_fitr question 6",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_009",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_010",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_011",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_012",
-    "question": "Zakat_al_fitr question 7",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
     "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
   },
   {
     "id": "zakat_al_fitr_easy_013",
-    "question": "Zakat_al_fitr question 8",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_014",
-    "question": "Zakat_al_fitr question 9",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_015",
-    "question": "Zakat_al_fitr question 10",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_al_fitr_easy_016",
-    "question": "Zakat_al_fitr question 11",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_017",
-    "question": "Zakat_al_fitr question 12",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_018",
-    "question": "Zakat_al_fitr question 13",
+    "id": "zakat_al_fitr_easy_015",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_al_fitr_easy_019",
-    "question": "Zakat_al_fitr question 14",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_020",
-    "question": "Zakat_al_fitr question 15",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_021",
-    "question": "Zakat_al_fitr question 16",
+    "id": "zakat_al_fitr_easy_016",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_fitr_easy_022",
-    "question": "Zakat_al_fitr question 17",
+    "id": "zakat_al_fitr_easy_017",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_023",
-    "question": "Zakat_al_fitr question 18",
+    "id": "zakat_al_fitr_easy_018",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_019",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_020",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_021",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_022",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
+  },
+  {
+    "id": "zakat_al_fitr_easy_023",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_024",
-    "question": "Zakat_al_fitr question 19",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_fitr_easy_025",
-    "question": "Zakat_al_fitr question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_fitr_easy_026",
-    "question": "Zakat_al_fitr question 21",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
+    "id": "zakat_al_fitr_easy_026",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
+    ],
+    "correctIndex": 1
+  },
+  {
     "id": "zakat_al_fitr_easy_027",
-    "question": "Zakat_al_fitr question 22",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "zakat_al_fitr_easy_028",
-    "question": "Zakat_al_fitr question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_029",
-    "question": "Zakat_al_fitr question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_030",
-    "question": "Zakat_al_fitr question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_031",
-    "question": "Zakat_al_fitr question 26",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_029",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_030",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_031",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_032",
-    "question": "Zakat_al_fitr question 27",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
     "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
   },
   {
     "id": "zakat_al_fitr_easy_033",
-    "question": "Zakat_al_fitr question 28",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_034",
-    "question": "Zakat_al_fitr question 29",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_035",
-    "question": "Zakat_al_fitr question 30",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_al_fitr_easy_036",
-    "question": "Zakat_al_fitr question 31",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_037",
-    "question": "Zakat_al_fitr question 32",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_038",
-    "question": "Zakat_al_fitr question 33",
+    "id": "zakat_al_fitr_easy_035",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_al_fitr_easy_039",
-    "question": "Zakat_al_fitr question 34",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_040",
-    "question": "Zakat_al_fitr question 35",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_041",
-    "question": "Zakat_al_fitr question 36",
+    "id": "zakat_al_fitr_easy_036",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_fitr_easy_042",
-    "question": "Zakat_al_fitr question 37",
+    "id": "zakat_al_fitr_easy_037",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_043",
-    "question": "Zakat_al_fitr question 38",
+    "id": "zakat_al_fitr_easy_038",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_039",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_040",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_041",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_042",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
+  },
+  {
+    "id": "zakat_al_fitr_easy_043",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_044",
-    "question": "Zakat_al_fitr question 39",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_fitr_easy_045",
-    "question": "Zakat_al_fitr question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_fitr_easy_046",
-    "question": "Zakat_al_fitr question 41",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
+    "id": "zakat_al_fitr_easy_046",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
+    ],
+    "correctIndex": 1
+  },
+  {
     "id": "zakat_al_fitr_easy_047",
-    "question": "Zakat_al_fitr question 42",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "zakat_al_fitr_easy_048",
-    "question": "Zakat_al_fitr question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_049",
-    "question": "Zakat_al_fitr question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_050",
-    "question": "Zakat_al_fitr question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_051",
-    "question": "Zakat_al_fitr question 46",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_049",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_050",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_051",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_052",
-    "question": "Zakat_al_fitr question 47",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
     "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
   },
   {
     "id": "zakat_al_fitr_easy_053",
-    "question": "Zakat_al_fitr question 48",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_054",
-    "question": "Zakat_al_fitr question 49",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_055",
-    "question": "Zakat_al_fitr question 50",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_al_fitr_easy_056",
-    "question": "Zakat_al_fitr question 51",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_057",
-    "question": "Zakat_al_fitr question 52",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_058",
-    "question": "Zakat_al_fitr question 53",
+    "id": "zakat_al_fitr_easy_055",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_al_fitr_easy_059",
-    "question": "Zakat_al_fitr question 54",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_060",
-    "question": "Zakat_al_fitr question 55",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_061",
-    "question": "Zakat_al_fitr question 56",
+    "id": "zakat_al_fitr_easy_056",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_fitr_easy_062",
-    "question": "Zakat_al_fitr question 57",
+    "id": "zakat_al_fitr_easy_057",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_063",
-    "question": "Zakat_al_fitr question 58",
+    "id": "zakat_al_fitr_easy_058",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_059",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_060",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_061",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_062",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
+  },
+  {
+    "id": "zakat_al_fitr_easy_063",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_064",
-    "question": "Zakat_al_fitr question 59",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_fitr_easy_065",
-    "question": "Zakat_al_fitr question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_fitr_easy_066",
-    "question": "Zakat_al_fitr question 61",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
+    "id": "zakat_al_fitr_easy_066",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
+    ],
+    "correctIndex": 1
+  },
+  {
     "id": "zakat_al_fitr_easy_067",
-    "question": "Zakat_al_fitr question 62",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "zakat_al_fitr_easy_068",
-    "question": "Zakat_al_fitr question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_069",
-    "question": "Zakat_al_fitr question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_070",
-    "question": "Zakat_al_fitr question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_071",
-    "question": "Zakat_al_fitr question 66",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_069",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_070",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_071",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_072",
-    "question": "Zakat_al_fitr question 67",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
     "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
   },
   {
     "id": "zakat_al_fitr_easy_073",
-    "question": "Zakat_al_fitr question 68",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_074",
-    "question": "Zakat_al_fitr question 69",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_075",
-    "question": "Zakat_al_fitr question 70",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_al_fitr_easy_076",
-    "question": "Zakat_al_fitr question 71",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_077",
-    "question": "Zakat_al_fitr question 72",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_078",
-    "question": "Zakat_al_fitr question 73",
+    "id": "zakat_al_fitr_easy_075",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_al_fitr_easy_079",
-    "question": "Zakat_al_fitr question 74",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_080",
-    "question": "Zakat_al_fitr question 75",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_081",
-    "question": "Zakat_al_fitr question 76",
+    "id": "zakat_al_fitr_easy_076",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "zakat_al_fitr_easy_082",
-    "question": "Zakat_al_fitr question 77",
+    "id": "zakat_al_fitr_easy_077",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_083",
-    "question": "Zakat_al_fitr question 78",
+    "id": "zakat_al_fitr_easy_078",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_079",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_080",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_081",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_082",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
+    "level": "easy",
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
+  },
+  {
+    "id": "zakat_al_fitr_easy_083",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_084",
-    "question": "Zakat_al_fitr question 79",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_fitr_easy_085",
-    "question": "Zakat_al_fitr question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "zakat_al_fitr_easy_086",
-    "question": "Zakat_al_fitr question 81",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
+    "id": "zakat_al_fitr_easy_086",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
+    ],
+    "correctIndex": 1
+  },
+  {
     "id": "zakat_al_fitr_easy_087",
-    "question": "Zakat_al_fitr question 82",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "zakat_al_fitr_easy_088",
-    "question": "Zakat_al_fitr question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_089",
-    "question": "Zakat_al_fitr question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_090",
-    "question": "Zakat_al_fitr question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "zakat_al_fitr_easy_091",
-    "question": "Zakat_al_fitr question 86",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_089",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_090",
+    "question": "La Zakat al-Fitr est versée:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_091",
+    "question": "Le montant de la Zakat al-Fitr par personne est habituellement:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un quart de sa",
+      "Un Sa'a de nourriture",
+      "Un dinar par jour",
+      "Libre"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_092",
-    "question": "Zakat_al_fitr question 87",
+    "question": "tous les musulmans sauf _______ doivent verser la Zakat al-Fitr.",
     "level": "easy",
-    "type": "multipleChoice",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "type": "fillBlank",
+    "correctAnswer": "les esclaves, les fous, les nouveaux-nés"
   },
   {
     "id": "zakat_al_fitr_easy_093",
-    "question": "Zakat_al_fitr question 88",
+    "question": "Les bénéficiaires de la Zakat al-Fitr sont principalement:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les riches",
+      "Les pauvres et les nécessiteux",
+      "Les investisseurs",
+      "Les commerces"
     ],
     "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_094",
-    "question": "Zakat_al_fitr question 89",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "zakat_al_fitr_easy_095",
-    "question": "Zakat_al_fitr question 90",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "id": "zakat_al_fitr_easy_096",
-    "question": "Zakat_al_fitr question 91",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "zakat_al_fitr_easy_097",
-    "question": "Zakat_al_fitr question 92",
+    "question": "La Zakat al-Fitr est ordonnée pour:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres",
+      "Créer de l'équité sociale",
+      "Resocialiser"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
-    "id": "zakat_al_fitr_easy_098",
-    "question": "Zakat_al_fitr question 93",
+    "id": "zakat_al_fitr_easy_095",
+    "question": "Si on est en déplacement (Musafir) pendant le Ramadan, la Zakat al-Fitr est:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Obligatoire au lieu de déplacement",
+      "Obligatoire au lieu de résidence",
+      "Facultative",
+      "Double"
     ],
     "correctIndex": 0
   },
   {
-    "id": "zakat_al_fitr_easy_099",
-    "question": "Zakat_al_fitr question 94",
+    "id": "zakat_al_fitr_easy_096",
+    "question": "La Zakat al-Fitr peut être versée à partir de:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "singleChoice",
+    "options": [
+      "L'Asr du 29ème jour de Ramadan",
+      "Quelques jours avant l'Aïd",
+      "Le jour de l'Aïd exclusivement",
+      "La fin de l'année"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_097",
+    "question": "La Zakat al-Fitr diffère de la Zakat al-Mal principalement en:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Le timing de versement",
+      "Le bénéficiaire",
+      "Le montant",
+      "Le calcul de la base"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_easy_098",
+    "question": "Payer la Zakat al-Fitr après le lever du soleil le jour de l'Aïd est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Permis et valide",
+      "Non valide et devient une vidya",
+      "Encouragé",
+      "Obligatoire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_easy_099",
+    "question": "Le SA'A en tant que mesure de Zakat al-Fitr équivaut à:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "500 grammes",
+      "2 kg environ",
+      "1 kg précisément",
+      "500 mesure unique"
+    ],
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_easy_100",
-    "question": "Zakat_al_fitr question 95",
+    "question": "La Zakat al-Fitr est versée:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Au début du Ramadan",
+      "Avant la prière de l'Aïd",
+      "Après le Ramadan",
+      "N'importe quand"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

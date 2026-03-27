@@ -62,1142 +62,1439 @@
   },
   {
     "id": "audit_cac_hard_006",
-    "question": "Audit_cac question 1",
+    "question": "Le droit d'accès du CAC s'étend à:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_007",
-    "question": "Audit_cac question 2",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_008",
-    "question": "Audit_cac question 3",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_009",
-    "question": "Audit_cac question 4",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_010",
-    "question": "Audit_cac question 5",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_011",
-    "question": "Audit_cac question 6",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_009",
+    "question": "Le CAC doit être:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_010",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_011",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_012",
-    "question": "Audit_cac question 7",
+    "question": "Le CAC doit présenter un rapport à:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_013",
-    "question": "Audit_cac question 8",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_014",
-    "question": "Audit_cac question 9",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
   },
   {
     "id": "audit_cac_hard_015",
-    "question": "Audit_cac question 10",
+    "question": "Quels documents le CAC doit-il examiner?",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_016",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_016",
-    "question": "Audit_cac question 11",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "audit_cac_hard_017",
-    "question": "Audit_cac question 12",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_018",
-    "question": "Audit_cac question 13",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_019",
-    "question": "Audit_cac question 14",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_020",
-    "question": "Audit_cac question 15",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_cac_hard_021",
-    "question": "Audit_cac question 16",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_022",
-    "question": "Audit_cac question 17",
+    "id": "audit_cac_hard_019",
+    "question": "Le CAC doit être:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "audit_cac_hard_023",
-    "question": "Audit_cac question 18",
+    "id": "audit_cac_hard_020",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_021",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_022",
+    "question": "Le CAC doit présenter un rapport à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_023",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_024",
-    "question": "Audit_cac question 19",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_025",
-    "question": "Audit_cac question 20",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_cac_hard_026",
-    "question": "Audit_cac question 21",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_027",
-    "question": "Audit_cac question 22",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_025",
+    "question": "Quels documents le CAC doit-il examiner?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_026",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_027",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_028",
-    "question": "Audit_cac question 23",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_029",
-    "question": "Audit_cac question 24",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_030",
-    "question": "Audit_cac question 25",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_031",
-    "question": "Audit_cac question 26",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_029",
+    "question": "Le CAC doit être:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_030",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_031",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_032",
-    "question": "Audit_cac question 27",
+    "question": "Le CAC doit présenter un rapport à:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_033",
-    "question": "Audit_cac question 28",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_034",
-    "question": "Audit_cac question 29",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
   },
   {
     "id": "audit_cac_hard_035",
-    "question": "Audit_cac question 30",
+    "question": "Quels documents le CAC doit-il examiner?",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_036",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_036",
-    "question": "Audit_cac question 31",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "audit_cac_hard_037",
-    "question": "Audit_cac question 32",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_038",
-    "question": "Audit_cac question 33",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_039",
-    "question": "Audit_cac question 34",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_040",
-    "question": "Audit_cac question 35",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_cac_hard_041",
-    "question": "Audit_cac question 36",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_042",
-    "question": "Audit_cac question 37",
+    "id": "audit_cac_hard_039",
+    "question": "Le CAC doit être:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "audit_cac_hard_043",
-    "question": "Audit_cac question 38",
+    "id": "audit_cac_hard_040",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_041",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_042",
+    "question": "Le CAC doit présenter un rapport à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_043",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_044",
-    "question": "Audit_cac question 39",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_045",
-    "question": "Audit_cac question 40",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_cac_hard_046",
-    "question": "Audit_cac question 41",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_047",
-    "question": "Audit_cac question 42",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_045",
+    "question": "Quels documents le CAC doit-il examiner?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_046",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_047",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_048",
-    "question": "Audit_cac question 43",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_049",
-    "question": "Audit_cac question 44",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_050",
-    "question": "Audit_cac question 45",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_051",
-    "question": "Audit_cac question 46",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_049",
+    "question": "Le CAC doit être:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_050",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_051",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_052",
-    "question": "Audit_cac question 47",
+    "question": "Le CAC doit présenter un rapport à:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_053",
-    "question": "Audit_cac question 48",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_054",
-    "question": "Audit_cac question 49",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
   },
   {
     "id": "audit_cac_hard_055",
-    "question": "Audit_cac question 50",
+    "question": "Quels documents le CAC doit-il examiner?",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_056",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_056",
-    "question": "Audit_cac question 51",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "audit_cac_hard_057",
-    "question": "Audit_cac question 52",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_058",
-    "question": "Audit_cac question 53",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_059",
-    "question": "Audit_cac question 54",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_060",
-    "question": "Audit_cac question 55",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_cac_hard_061",
-    "question": "Audit_cac question 56",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_062",
-    "question": "Audit_cac question 57",
+    "id": "audit_cac_hard_059",
+    "question": "Le CAC doit être:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "audit_cac_hard_063",
-    "question": "Audit_cac question 58",
+    "id": "audit_cac_hard_060",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_061",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_062",
+    "question": "Le CAC doit présenter un rapport à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_063",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_064",
-    "question": "Audit_cac question 59",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_065",
-    "question": "Audit_cac question 60",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_cac_hard_066",
-    "question": "Audit_cac question 61",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_067",
-    "question": "Audit_cac question 62",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_065",
+    "question": "Quels documents le CAC doit-il examiner?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_066",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_067",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_068",
-    "question": "Audit_cac question 63",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_069",
-    "question": "Audit_cac question 64",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_070",
-    "question": "Audit_cac question 65",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_071",
-    "question": "Audit_cac question 66",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_069",
+    "question": "Le CAC doit être:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_070",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_071",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_072",
-    "question": "Audit_cac question 67",
+    "question": "Le CAC doit présenter un rapport à:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_073",
-    "question": "Audit_cac question 68",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_074",
-    "question": "Audit_cac question 69",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
   },
   {
     "id": "audit_cac_hard_075",
-    "question": "Audit_cac question 70",
+    "question": "Quels documents le CAC doit-il examiner?",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_076",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_076",
-    "question": "Audit_cac question 71",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "audit_cac_hard_077",
-    "question": "Audit_cac question 72",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_078",
-    "question": "Audit_cac question 73",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_079",
-    "question": "Audit_cac question 74",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_080",
-    "question": "Audit_cac question 75",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "id": "audit_cac_hard_081",
-    "question": "Audit_cac question 76",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_082",
-    "question": "Audit_cac question 77",
+    "id": "audit_cac_hard_079",
+    "question": "Le CAC doit être:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
     ]
   },
   {
-    "id": "audit_cac_hard_083",
-    "question": "Audit_cac question 78",
+    "id": "audit_cac_hard_080",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "multipleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_081",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_082",
+    "question": "Le CAC doit présenter un rapport à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_083",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_084",
-    "question": "Audit_cac question 79",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_085",
-    "question": "Audit_cac question 80",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "audit_cac_hard_086",
-    "question": "Audit_cac question 81",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_087",
-    "question": "Audit_cac question 82",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_085",
+    "question": "Quels documents le CAC doit-il examiner?",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_086",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_087",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_088",
-    "question": "Audit_cac question 83",
-    "level": "hard",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_089",
-    "question": "Audit_cac question 84",
-    "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "audit_cac_hard_090",
-    "question": "Audit_cac question 85",
-    "level": "hard",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "audit_cac_hard_091",
-    "question": "Audit_cac question 86",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_cac_hard_089",
+    "question": "Le CAC doit être:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_090",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_cac_hard_091",
+    "question": "Quels sont les devoirs légaux d'un commissariat aux comptes?",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
+      "Embaucher le personnel"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_092",
-    "question": "Audit_cac question 87",
+    "question": "Le CAC doit présenter un rapport à:",
     "level": "hard",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "La direction seule",
+      "L'assemblée générale des actionnaires",
+      "L'État uniquement",
+      "Les employés"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_093",
-    "question": "Audit_cac question 88",
+    "question": "La nomination du CAC est effectuée pour une durée de:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "1 an",
+      "3 ans",
+      "5 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_094",
-    "question": "Audit_cac question 89",
+    "question": "Le CAC ne doit pas avoir de relations avec:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)",
+      "Les concurrents",
+      "Les actionnaires"
+    ],
+    "correctIndexes": [
+      1,
+      2
+    ]
   },
   {
     "id": "audit_cac_hard_095",
-    "question": "Audit_cac question 90",
+    "question": "Quels documents le CAC doit-il examiner?",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Le bilan",
+      "Le compte de résultat",
+      "Le livre journal",
+      "Les procès-verbaux des réunions"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "audit_cac_hard_096",
+    "question": "Le droit d'accès du CAC s'étend à:",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "Certains documents",
+      "Tous les documents et registres",
+      "Les documents publics",
+      "Les documents externes"
     ],
     "correctIndex": 1
   },
   {
-    "id": "audit_cac_hard_096",
-    "question": "Audit_cac question 91",
-    "level": "hard",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
     "id": "audit_cac_hard_097",
-    "question": "Audit_cac question 92",
+    "question": "Le CAC doit alerter l'AMF en cas de:",
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Irrégularités graves",
+      "Fraude détectée",
+      "Violations légales",
+      "Mauvaise gestion"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "audit_cac_hard_098",
-    "question": "Audit_cac question 93",
+    "question": "La responsabilité civile du CAC est engagée pour:",
     "level": "hard",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Les pertes minimes",
+      "Les erreurs de négligence grave",
+      "Toute perte",
+      "Les pertes mineures"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_hard_099",
-    "question": "Audit_cac question 94",
+    "question": "Le CAC doit être:",
     "level": "hard",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Indépendant",
+      "Compétent",
+      "Honnête",
+      "Rigoureux"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_cac_hard_100",
-    "question": "Audit_cac question 95",
+    "question": "Le Commissariat aux Comptes (CAC) est responsable de:",
     "level": "hard",
-    "type": "dropdown",
+    "type": "multipleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Certifier les comptes annuels",
+      "Évaluer la qualité de gestion",
+      "Vérifier la conformité légale",
+      "Superviser le management"
     ],
-    "correctIndex": 2
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   }
 ]

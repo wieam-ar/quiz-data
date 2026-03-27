@@ -62,1141 +62,1362 @@
   },
   {
     "id": "banque_islamique_easy_006",
-    "question": "Banque_islamique question 1",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_007",
-    "question": "Banque_islamique question 2",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_008",
-    "question": "Banque_islamique question 3",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_009",
-    "question": "Banque_islamique question 4",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_010",
-    "question": "Banque_islamique question 5",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_011",
-    "question": "Banque_islamique question 6",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_009",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_010",
+    "question": "Une banque islamique se distingue par l'absence de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_easy_011",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_012",
-    "question": "Banque_islamique question 7",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_013",
-    "question": "Banque_islamique question 8",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_014",
-    "question": "Banque_islamique question 9",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_easy_015",
-    "question": "Banque_islamique question 10",
+    "question": "Un Commodity Murabaha implique:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_016",
-    "question": "Banque_islamique question 11",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_017",
-    "question": "Banque_islamique question 12",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_018",
-    "question": "Banque_islamique question 13",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_019",
-    "question": "Banque_islamique question 14",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "banque_islamique_easy_020",
-    "question": "Banque_islamique question 15",
+    "question": "Une banque islamique se distingue par l'absence de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
     ],
     "correctIndex": 2
   },
   {
     "id": "banque_islamique_easy_021",
-    "question": "Banque_islamique question 16",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_022",
-    "question": "Banque_islamique question 17",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_023",
-    "question": "Banque_islamique question 18",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_024",
-    "question": "Banque_islamique question 19",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_025",
-    "question": "Banque_islamique question 20",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "banque_islamique_easy_026",
-    "question": "Banque_islamique question 21",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_027",
-    "question": "Banque_islamique question 22",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_025",
+    "question": "Un Commodity Murabaha implique:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_026",
+    "question": "Le Sukuk est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_027",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_028",
-    "question": "Banque_islamique question 23",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_029",
-    "question": "Banque_islamique question 24",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_030",
-    "question": "Banque_islamique question 25",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_031",
-    "question": "Banque_islamique question 26",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_029",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_030",
+    "question": "Une banque islamique se distingue par l'absence de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_easy_031",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_032",
-    "question": "Banque_islamique question 27",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_033",
-    "question": "Banque_islamique question 28",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_034",
-    "question": "Banque_islamique question 29",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_easy_035",
-    "question": "Banque_islamique question 30",
+    "question": "Un Commodity Murabaha implique:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_036",
-    "question": "Banque_islamique question 31",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_037",
-    "question": "Banque_islamique question 32",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_038",
-    "question": "Banque_islamique question 33",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_039",
-    "question": "Banque_islamique question 34",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "banque_islamique_easy_040",
-    "question": "Banque_islamique question 35",
+    "question": "Une banque islamique se distingue par l'absence de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
     ],
     "correctIndex": 2
   },
   {
     "id": "banque_islamique_easy_041",
-    "question": "Banque_islamique question 36",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_042",
-    "question": "Banque_islamique question 37",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_043",
-    "question": "Banque_islamique question 38",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_044",
-    "question": "Banque_islamique question 39",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_045",
-    "question": "Banque_islamique question 40",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "banque_islamique_easy_046",
-    "question": "Banque_islamique question 41",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_047",
-    "question": "Banque_islamique question 42",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_045",
+    "question": "Un Commodity Murabaha implique:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_046",
+    "question": "Le Sukuk est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_047",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_048",
-    "question": "Banque_islamique question 43",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_049",
-    "question": "Banque_islamique question 44",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_050",
-    "question": "Banque_islamique question 45",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_051",
-    "question": "Banque_islamique question 46",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_049",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_050",
+    "question": "Une banque islamique se distingue par l'absence de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_easy_051",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_052",
-    "question": "Banque_islamique question 47",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_053",
-    "question": "Banque_islamique question 48",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_054",
-    "question": "Banque_islamique question 49",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_easy_055",
-    "question": "Banque_islamique question 50",
+    "question": "Un Commodity Murabaha implique:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_056",
-    "question": "Banque_islamique question 51",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_057",
-    "question": "Banque_islamique question 52",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_058",
-    "question": "Banque_islamique question 53",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_059",
-    "question": "Banque_islamique question 54",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "banque_islamique_easy_060",
-    "question": "Banque_islamique question 55",
+    "question": "Une banque islamique se distingue par l'absence de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
     ],
     "correctIndex": 2
   },
   {
     "id": "banque_islamique_easy_061",
-    "question": "Banque_islamique question 56",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_062",
-    "question": "Banque_islamique question 57",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_063",
-    "question": "Banque_islamique question 58",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_064",
-    "question": "Banque_islamique question 59",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_065",
-    "question": "Banque_islamique question 60",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "banque_islamique_easy_066",
-    "question": "Banque_islamique question 61",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_067",
-    "question": "Banque_islamique question 62",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_065",
+    "question": "Un Commodity Murabaha implique:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_066",
+    "question": "Le Sukuk est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_067",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_068",
-    "question": "Banque_islamique question 63",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_069",
-    "question": "Banque_islamique question 64",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_070",
-    "question": "Banque_islamique question 65",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_071",
-    "question": "Banque_islamique question 66",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_069",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_070",
+    "question": "Une banque islamique se distingue par l'absence de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_easy_071",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_072",
-    "question": "Banque_islamique question 67",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_073",
-    "question": "Banque_islamique question 68",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_074",
-    "question": "Banque_islamique question 69",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_easy_075",
-    "question": "Banque_islamique question 70",
+    "question": "Un Commodity Murabaha implique:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_076",
-    "question": "Banque_islamique question 71",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_077",
-    "question": "Banque_islamique question 72",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_078",
-    "question": "Banque_islamique question 73",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_079",
-    "question": "Banque_islamique question 74",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "banque_islamique_easy_080",
-    "question": "Banque_islamique question 75",
+    "question": "Une banque islamique se distingue par l'absence de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
     ],
     "correctIndex": 2
   },
   {
     "id": "banque_islamique_easy_081",
-    "question": "Banque_islamique question 76",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_082",
-    "question": "Banque_islamique question 77",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_083",
-    "question": "Banque_islamique question 78",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_084",
-    "question": "Banque_islamique question 79",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_085",
-    "question": "Banque_islamique question 80",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "id": "banque_islamique_easy_086",
-    "question": "Banque_islamique question 81",
-    "level": "easy",
-    "type": "singleChoice",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_087",
-    "question": "Banque_islamique question 82",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_085",
+    "question": "Un Commodity Murabaha implique:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_086",
+    "question": "Le Sukuk est considéré comme:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_087",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_088",
-    "question": "Banque_islamique question 83",
-    "level": "easy",
-    "type": "trueFalse",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_089",
-    "question": "Banque_islamique question 84",
-    "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
-  },
-  {
-    "id": "banque_islamique_easy_090",
-    "question": "Banque_islamique question 85",
-    "level": "easy",
-    "type": "dropdown",
-    "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "id": "banque_islamique_easy_091",
-    "question": "Banque_islamique question 86",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_easy_089",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
+    "level": "easy",
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "banque_islamique_easy_090",
+    "question": "Une banque islamique se distingue par l'absence de:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_easy_091",
+    "question": "Le produit Mourabaha dans une banque islamique est:",
+    "level": "easy",
+    "type": "singleChoice",
+    "options": [
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu",
+      "Une location",
+      "Un investissement"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_092",
-    "question": "Banque_islamique question 87",
+    "question": "La Mousharaka est un contrat de:",
     "level": "easy",
-    "type": "multipleChoice",
+    "type": "singleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Vente",
+      "Partenariat profit-loss",
+      "Prêt",
+      "Garantie"
     ],
-    "correctIndexes": [
-      0,
-      1
-    ]
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_093",
-    "question": "Banque_islamique question 88",
+    "question": "Le produit Ijara représente:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Un crédit",
+      "Une location avec option d'achat",
+      "Une vente à terme",
+      "Un dépôt"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_094",
-    "question": "Banque_islamique question 89",
+    "question": "Les banques islamiques se conforment à:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Les normes IFSB",
+      "La Charia",
+      "Les normes prudentielles",
+      "Les règles d'audit interne"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_easy_095",
-    "question": "Banque_islamique question 90",
+    "question": "Un Commodity Murabaha implique:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières",
+      "Une opération spéculative",
+      "Un dépôt garanti"
     ],
     "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_096",
-    "question": "Banque_islamique question 91",
+    "question": "Le Sukuk est considéré comme:",
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Un crédit classique",
+      "Un titre de créance islamique",
+      "Un action ordinaire",
+      "Une obligation spéculative"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_097",
-    "question": "Banque_islamique question 92",
+    "question": "La Wakala (mandant) dans les banques islamiques signifie:",
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Une gestion pour le compte d'autrui",
+      "Une responsabilité fiduciaire",
+      "Une commission du mandant",
+      "Une assurance"
     ],
     "correctIndexes": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "id": "banque_islamique_easy_098",
-    "question": "Banque_islamique question 93",
+    "question": "Les comptes de dépôts d'investissement rémunéré dans une banque islamique:",
     "level": "easy",
-    "type": "trueFalse",
+    "type": "singleChoice",
     "options": [
-      "Vrai",
-      "Faux"
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes",
+      "Sont sans risque",
+      "Sont imposables autrement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_easy_099",
-    "question": "Banque_islamique question 94",
+    "question": "Les principes de gouvernance dans les banques islamiques exigent:",
     "level": "easy",
-    "type": "fillBlank",
-    "correctAnswer": "réponse"
+    "type": "multipleChoice",
+    "options": [
+      "Un Conseil de Conformité Charia",
+      "L'audit interne",
+      "La transparence des risques",
+      "Les rapports mensuels"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "banque_islamique_easy_100",
-    "question": "Banque_islamique question 95",
+    "question": "Une banque islamique se distingue par l'absence de:",
     "level": "easy",
-    "type": "dropdown",
+    "type": "singleChoice",
     "options": [
-      "X",
-      "Y",
-      "Z",
-      "W"
+      "Tellers",
+      "Transactions réelles",
+      "Riba (intérêt usuraire)",
+      "Crédits"
     ],
     "correctIndex": 2
   }
