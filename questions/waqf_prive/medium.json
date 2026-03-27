@@ -4,7 +4,12 @@
     "question": "La condition finale d'un Waqf privé est généralement:",
     "level": "medium",
     "type": "singleChoice",
-    "options": ["Retour au donateur", "Passage aux pauvres", "Perpétuité familiale", "Vente obligatoire"],
+    "options": [
+      "Retour au donateur",
+      "Passage aux pauvres",
+      "Perpétuité familiale",
+      "Vente obligatoire"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,18 @@
     "question": "Lesquels peuvent bénéficier d'un Waqf privé?",
     "level": "medium",
     "type": "multipleChoice",
-    "options": ["Descendants directs", "Collatéraux", "Pauvres après épuisement familial", "État comme dernier recours"],
-    "correctIndexes": [0, 1, 2, 3]
+    "options": [
+      "Descendants directs",
+      "Collatéraux",
+      "Pauvres après épuisement familial",
+      "État comme dernier recours"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "waqf_prive_medium_003",
@@ -27,7 +42,10 @@
     "question": "Les enfants du donateur peuvent refuser les parts de Waqf privé.",
     "level": "medium",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 0
   },
   {
@@ -35,7 +53,1152 @@
     "question": "Le Waqf privé est plus courant que le Waqf public dans les sociétés?",
     "level": "medium",
     "type": "dropdown",
-    "options": ["Oui", "Non", "Également courant", "Rarement utilisé"],
+    "options": [
+      "Oui",
+      "Non",
+      "Également courant",
+      "Rarement utilisé"
+    ],
     "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_006",
+    "question": "Waqf_prive question 1",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_007",
+    "question": "Waqf_prive question 2",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_008",
+    "question": "Waqf_prive question 3",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_009",
+    "question": "Waqf_prive question 4",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_010",
+    "question": "Waqf_prive question 5",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_011",
+    "question": "Waqf_prive question 6",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_012",
+    "question": "Waqf_prive question 7",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_013",
+    "question": "Waqf_prive question 8",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_014",
+    "question": "Waqf_prive question 9",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_015",
+    "question": "Waqf_prive question 10",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_016",
+    "question": "Waqf_prive question 11",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_017",
+    "question": "Waqf_prive question 12",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_018",
+    "question": "Waqf_prive question 13",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_019",
+    "question": "Waqf_prive question 14",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_020",
+    "question": "Waqf_prive question 15",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_021",
+    "question": "Waqf_prive question 16",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_022",
+    "question": "Waqf_prive question 17",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_023",
+    "question": "Waqf_prive question 18",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_024",
+    "question": "Waqf_prive question 19",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_025",
+    "question": "Waqf_prive question 20",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_026",
+    "question": "Waqf_prive question 21",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_027",
+    "question": "Waqf_prive question 22",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_028",
+    "question": "Waqf_prive question 23",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_029",
+    "question": "Waqf_prive question 24",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_030",
+    "question": "Waqf_prive question 25",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_031",
+    "question": "Waqf_prive question 26",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_032",
+    "question": "Waqf_prive question 27",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_033",
+    "question": "Waqf_prive question 28",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_034",
+    "question": "Waqf_prive question 29",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_035",
+    "question": "Waqf_prive question 30",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_036",
+    "question": "Waqf_prive question 31",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_037",
+    "question": "Waqf_prive question 32",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_038",
+    "question": "Waqf_prive question 33",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_039",
+    "question": "Waqf_prive question 34",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_040",
+    "question": "Waqf_prive question 35",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_041",
+    "question": "Waqf_prive question 36",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_042",
+    "question": "Waqf_prive question 37",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_043",
+    "question": "Waqf_prive question 38",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_044",
+    "question": "Waqf_prive question 39",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_045",
+    "question": "Waqf_prive question 40",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_046",
+    "question": "Waqf_prive question 41",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_047",
+    "question": "Waqf_prive question 42",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_048",
+    "question": "Waqf_prive question 43",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_049",
+    "question": "Waqf_prive question 44",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_050",
+    "question": "Waqf_prive question 45",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_051",
+    "question": "Waqf_prive question 46",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_052",
+    "question": "Waqf_prive question 47",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_053",
+    "question": "Waqf_prive question 48",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_054",
+    "question": "Waqf_prive question 49",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_055",
+    "question": "Waqf_prive question 50",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_056",
+    "question": "Waqf_prive question 51",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_057",
+    "question": "Waqf_prive question 52",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_058",
+    "question": "Waqf_prive question 53",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_059",
+    "question": "Waqf_prive question 54",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_060",
+    "question": "Waqf_prive question 55",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_061",
+    "question": "Waqf_prive question 56",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_062",
+    "question": "Waqf_prive question 57",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_063",
+    "question": "Waqf_prive question 58",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_064",
+    "question": "Waqf_prive question 59",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_065",
+    "question": "Waqf_prive question 60",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_066",
+    "question": "Waqf_prive question 61",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_067",
+    "question": "Waqf_prive question 62",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_068",
+    "question": "Waqf_prive question 63",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_069",
+    "question": "Waqf_prive question 64",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_070",
+    "question": "Waqf_prive question 65",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_071",
+    "question": "Waqf_prive question 66",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_072",
+    "question": "Waqf_prive question 67",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_073",
+    "question": "Waqf_prive question 68",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_074",
+    "question": "Waqf_prive question 69",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_075",
+    "question": "Waqf_prive question 70",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_076",
+    "question": "Waqf_prive question 71",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_077",
+    "question": "Waqf_prive question 72",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_078",
+    "question": "Waqf_prive question 73",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_079",
+    "question": "Waqf_prive question 74",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_080",
+    "question": "Waqf_prive question 75",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_081",
+    "question": "Waqf_prive question 76",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_082",
+    "question": "Waqf_prive question 77",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_083",
+    "question": "Waqf_prive question 78",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_084",
+    "question": "Waqf_prive question 79",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_085",
+    "question": "Waqf_prive question 80",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "waqf_prive_medium_086",
+    "question": "Waqf_prive question 81",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_087",
+    "question": "Waqf_prive question 82",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_088",
+    "question": "Waqf_prive question 83",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_089",
+    "question": "Waqf_prive question 84",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_090",
+    "question": "Waqf_prive question 85",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_091",
+    "question": "Waqf_prive question 86",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_092",
+    "question": "Waqf_prive question 87",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_093",
+    "question": "Waqf_prive question 88",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_094",
+    "question": "Waqf_prive question 89",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_095",
+    "question": "Waqf_prive question 90",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "waqf_prive_medium_096",
+    "question": "Waqf_prive question 91",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "waqf_prive_medium_097",
+    "question": "Waqf_prive question 92",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "waqf_prive_medium_098",
+    "question": "Waqf_prive question 93",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "waqf_prive_medium_099",
+    "question": "Waqf_prive question 94",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "waqf_prive_medium_100",
+    "question": "Waqf_prive question 95",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]

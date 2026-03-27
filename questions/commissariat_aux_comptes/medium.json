@@ -4,7 +4,12 @@
     "question": "Le CAC dispose d'un droit d'accès:",
     "level": "medium",
     "type": "singleChoice",
-    "options": ["Limité aux registres comptables", "Illimité aux documents de l'entreprise", "Restreint au directeur général", "Conditionné à une autorisation"],
+    "options": [
+      "Limité aux registres comptables",
+      "Illimité aux documents de l'entreprise",
+      "Restreint au directeur général",
+      "Conditionné à une autorisation"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des droits du CAC?",
     "level": "medium",
     "type": "multipleChoice",
-    "options": ["Assister aux réunions du conseil", "Accès aux documents", "Auditionner les dirigeants", "Voter aux assemblées"],
-    "correctIndexes": [0, 1, 2]
+    "options": [
+      "Assister aux réunions du conseil",
+      "Accès aux documents",
+      "Auditionner les dirigeants",
+      "Voter aux assemblées"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "commissariat_aux_comptes_medium_003",
@@ -27,7 +41,10 @@
     "question": "Le CAC peut refuser de certifier les comptes sans proposer d'alternative.",
     "level": "medium",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 1
   },
   {
@@ -35,7 +52,1152 @@
     "question": "Comment appelle-t-on le rapport d'audit du CAC avec réserves?",
     "level": "medium",
     "type": "dropdown",
-    "options": ["Refus de certification", "Certification avec réserves", "Avis défavorable", "Abstention"],
+    "options": [
+      "Refus de certification",
+      "Certification avec réserves",
+      "Avis défavorable",
+      "Abstention"
+    ],
     "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_006",
+    "question": "Commissariat_aux_comptes question 1",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_007",
+    "question": "Commissariat_aux_comptes question 2",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_008",
+    "question": "Commissariat_aux_comptes question 3",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_009",
+    "question": "Commissariat_aux_comptes question 4",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_010",
+    "question": "Commissariat_aux_comptes question 5",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_011",
+    "question": "Commissariat_aux_comptes question 6",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_012",
+    "question": "Commissariat_aux_comptes question 7",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_013",
+    "question": "Commissariat_aux_comptes question 8",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_014",
+    "question": "Commissariat_aux_comptes question 9",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_015",
+    "question": "Commissariat_aux_comptes question 10",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_016",
+    "question": "Commissariat_aux_comptes question 11",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_017",
+    "question": "Commissariat_aux_comptes question 12",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_018",
+    "question": "Commissariat_aux_comptes question 13",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_019",
+    "question": "Commissariat_aux_comptes question 14",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_020",
+    "question": "Commissariat_aux_comptes question 15",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_021",
+    "question": "Commissariat_aux_comptes question 16",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_022",
+    "question": "Commissariat_aux_comptes question 17",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_023",
+    "question": "Commissariat_aux_comptes question 18",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_024",
+    "question": "Commissariat_aux_comptes question 19",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_025",
+    "question": "Commissariat_aux_comptes question 20",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_026",
+    "question": "Commissariat_aux_comptes question 21",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_027",
+    "question": "Commissariat_aux_comptes question 22",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_028",
+    "question": "Commissariat_aux_comptes question 23",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_029",
+    "question": "Commissariat_aux_comptes question 24",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_030",
+    "question": "Commissariat_aux_comptes question 25",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_031",
+    "question": "Commissariat_aux_comptes question 26",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_032",
+    "question": "Commissariat_aux_comptes question 27",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_033",
+    "question": "Commissariat_aux_comptes question 28",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_034",
+    "question": "Commissariat_aux_comptes question 29",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_035",
+    "question": "Commissariat_aux_comptes question 30",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_036",
+    "question": "Commissariat_aux_comptes question 31",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_037",
+    "question": "Commissariat_aux_comptes question 32",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_038",
+    "question": "Commissariat_aux_comptes question 33",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_039",
+    "question": "Commissariat_aux_comptes question 34",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_040",
+    "question": "Commissariat_aux_comptes question 35",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_041",
+    "question": "Commissariat_aux_comptes question 36",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_042",
+    "question": "Commissariat_aux_comptes question 37",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_043",
+    "question": "Commissariat_aux_comptes question 38",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_044",
+    "question": "Commissariat_aux_comptes question 39",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_045",
+    "question": "Commissariat_aux_comptes question 40",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_046",
+    "question": "Commissariat_aux_comptes question 41",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_047",
+    "question": "Commissariat_aux_comptes question 42",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_048",
+    "question": "Commissariat_aux_comptes question 43",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_049",
+    "question": "Commissariat_aux_comptes question 44",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_050",
+    "question": "Commissariat_aux_comptes question 45",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_051",
+    "question": "Commissariat_aux_comptes question 46",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_052",
+    "question": "Commissariat_aux_comptes question 47",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_053",
+    "question": "Commissariat_aux_comptes question 48",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_054",
+    "question": "Commissariat_aux_comptes question 49",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_055",
+    "question": "Commissariat_aux_comptes question 50",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_056",
+    "question": "Commissariat_aux_comptes question 51",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_057",
+    "question": "Commissariat_aux_comptes question 52",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_058",
+    "question": "Commissariat_aux_comptes question 53",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_059",
+    "question": "Commissariat_aux_comptes question 54",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_060",
+    "question": "Commissariat_aux_comptes question 55",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_061",
+    "question": "Commissariat_aux_comptes question 56",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_062",
+    "question": "Commissariat_aux_comptes question 57",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_063",
+    "question": "Commissariat_aux_comptes question 58",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_064",
+    "question": "Commissariat_aux_comptes question 59",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_065",
+    "question": "Commissariat_aux_comptes question 60",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_066",
+    "question": "Commissariat_aux_comptes question 61",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_067",
+    "question": "Commissariat_aux_comptes question 62",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_068",
+    "question": "Commissariat_aux_comptes question 63",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_069",
+    "question": "Commissariat_aux_comptes question 64",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_070",
+    "question": "Commissariat_aux_comptes question 65",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_071",
+    "question": "Commissariat_aux_comptes question 66",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_072",
+    "question": "Commissariat_aux_comptes question 67",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_073",
+    "question": "Commissariat_aux_comptes question 68",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_074",
+    "question": "Commissariat_aux_comptes question 69",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_075",
+    "question": "Commissariat_aux_comptes question 70",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_076",
+    "question": "Commissariat_aux_comptes question 71",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_077",
+    "question": "Commissariat_aux_comptes question 72",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_078",
+    "question": "Commissariat_aux_comptes question 73",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_079",
+    "question": "Commissariat_aux_comptes question 74",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_080",
+    "question": "Commissariat_aux_comptes question 75",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_081",
+    "question": "Commissariat_aux_comptes question 76",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_082",
+    "question": "Commissariat_aux_comptes question 77",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_083",
+    "question": "Commissariat_aux_comptes question 78",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_084",
+    "question": "Commissariat_aux_comptes question 79",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_085",
+    "question": "Commissariat_aux_comptes question 80",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_086",
+    "question": "Commissariat_aux_comptes question 81",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_087",
+    "question": "Commissariat_aux_comptes question 82",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_088",
+    "question": "Commissariat_aux_comptes question 83",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_089",
+    "question": "Commissariat_aux_comptes question 84",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_090",
+    "question": "Commissariat_aux_comptes question 85",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_091",
+    "question": "Commissariat_aux_comptes question 86",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_092",
+    "question": "Commissariat_aux_comptes question 87",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_093",
+    "question": "Commissariat_aux_comptes question 88",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_094",
+    "question": "Commissariat_aux_comptes question 89",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_095",
+    "question": "Commissariat_aux_comptes question 90",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_096",
+    "question": "Commissariat_aux_comptes question 91",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_097",
+    "question": "Commissariat_aux_comptes question 92",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_098",
+    "question": "Commissariat_aux_comptes question 93",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_099",
+    "question": "Commissariat_aux_comptes question 94",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "commissariat_aux_comptes_medium_100",
+    "question": "Commissariat_aux_comptes question 95",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -4,7 +4,12 @@
     "question": "La théorie du pecking order stipule que les entreprises financent les investissements en priorité par:",
     "level": "hard",
     "type": "singleChoice",
-    "options": ["Augmentation de capital", "Endettement", "Autofinancement", "Levée de fonds"],
+    "options": [
+      "Augmentation de capital",
+      "Endettement",
+      "Autofinancement",
+      "Levée de fonds"
+    ],
     "correctIndex": 2
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des enjeux de la gestion de la trésorerie?",
     "level": "hard",
     "type": "multipleChoice",
-    "options": ["Optimiser les placements", "Couvrir les risques de change", "Minimiser les coûts de financement", "Augmenter les profits"],
-    "correctIndexes": [0, 1, 2]
+    "options": [
+      "Optimiser les placements",
+      "Couvrir les risques de change",
+      "Minimiser les coûts de financement",
+      "Augmenter les profits"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "finance_dentreprise_hard_003",
@@ -27,7 +41,10 @@
     "question": "La structure optimale du capital réduit systématiquement le coût du capital.",
     "level": "hard",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 0
   },
   {
@@ -35,7 +52,1152 @@
     "question": "Dans le modèle FCF, quelle est la valeur terminale?",
     "level": "hard",
     "type": "dropdown",
-    "options": ["Flux finaux de l'année", "Valeur actualisée perpétuelle", "Somme des flux", "Valeur de liquidation"],
+    "options": [
+      "Flux finaux de l'année",
+      "Valeur actualisée perpétuelle",
+      "Somme des flux",
+      "Valeur de liquidation"
+    ],
     "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_006",
+    "question": "Finance_dentreprise question 1",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_007",
+    "question": "Finance_dentreprise question 2",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_008",
+    "question": "Finance_dentreprise question 3",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_009",
+    "question": "Finance_dentreprise question 4",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_010",
+    "question": "Finance_dentreprise question 5",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_011",
+    "question": "Finance_dentreprise question 6",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_012",
+    "question": "Finance_dentreprise question 7",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_013",
+    "question": "Finance_dentreprise question 8",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_014",
+    "question": "Finance_dentreprise question 9",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_015",
+    "question": "Finance_dentreprise question 10",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_016",
+    "question": "Finance_dentreprise question 11",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_017",
+    "question": "Finance_dentreprise question 12",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_018",
+    "question": "Finance_dentreprise question 13",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_019",
+    "question": "Finance_dentreprise question 14",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_020",
+    "question": "Finance_dentreprise question 15",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_021",
+    "question": "Finance_dentreprise question 16",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_022",
+    "question": "Finance_dentreprise question 17",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_023",
+    "question": "Finance_dentreprise question 18",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_024",
+    "question": "Finance_dentreprise question 19",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_025",
+    "question": "Finance_dentreprise question 20",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_026",
+    "question": "Finance_dentreprise question 21",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_027",
+    "question": "Finance_dentreprise question 22",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_028",
+    "question": "Finance_dentreprise question 23",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_029",
+    "question": "Finance_dentreprise question 24",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_030",
+    "question": "Finance_dentreprise question 25",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_031",
+    "question": "Finance_dentreprise question 26",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_032",
+    "question": "Finance_dentreprise question 27",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_033",
+    "question": "Finance_dentreprise question 28",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_034",
+    "question": "Finance_dentreprise question 29",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_035",
+    "question": "Finance_dentreprise question 30",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_036",
+    "question": "Finance_dentreprise question 31",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_037",
+    "question": "Finance_dentreprise question 32",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_038",
+    "question": "Finance_dentreprise question 33",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_039",
+    "question": "Finance_dentreprise question 34",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_040",
+    "question": "Finance_dentreprise question 35",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_041",
+    "question": "Finance_dentreprise question 36",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_042",
+    "question": "Finance_dentreprise question 37",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_043",
+    "question": "Finance_dentreprise question 38",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_044",
+    "question": "Finance_dentreprise question 39",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_045",
+    "question": "Finance_dentreprise question 40",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_046",
+    "question": "Finance_dentreprise question 41",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_047",
+    "question": "Finance_dentreprise question 42",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_048",
+    "question": "Finance_dentreprise question 43",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_049",
+    "question": "Finance_dentreprise question 44",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_050",
+    "question": "Finance_dentreprise question 45",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_051",
+    "question": "Finance_dentreprise question 46",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_052",
+    "question": "Finance_dentreprise question 47",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_053",
+    "question": "Finance_dentreprise question 48",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_054",
+    "question": "Finance_dentreprise question 49",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_055",
+    "question": "Finance_dentreprise question 50",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_056",
+    "question": "Finance_dentreprise question 51",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_057",
+    "question": "Finance_dentreprise question 52",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_058",
+    "question": "Finance_dentreprise question 53",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_059",
+    "question": "Finance_dentreprise question 54",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_060",
+    "question": "Finance_dentreprise question 55",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_061",
+    "question": "Finance_dentreprise question 56",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_062",
+    "question": "Finance_dentreprise question 57",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_063",
+    "question": "Finance_dentreprise question 58",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_064",
+    "question": "Finance_dentreprise question 59",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_065",
+    "question": "Finance_dentreprise question 60",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_066",
+    "question": "Finance_dentreprise question 61",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_067",
+    "question": "Finance_dentreprise question 62",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_068",
+    "question": "Finance_dentreprise question 63",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_069",
+    "question": "Finance_dentreprise question 64",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_070",
+    "question": "Finance_dentreprise question 65",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_071",
+    "question": "Finance_dentreprise question 66",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_072",
+    "question": "Finance_dentreprise question 67",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_073",
+    "question": "Finance_dentreprise question 68",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_074",
+    "question": "Finance_dentreprise question 69",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_075",
+    "question": "Finance_dentreprise question 70",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_076",
+    "question": "Finance_dentreprise question 71",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_077",
+    "question": "Finance_dentreprise question 72",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_078",
+    "question": "Finance_dentreprise question 73",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_079",
+    "question": "Finance_dentreprise question 74",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_080",
+    "question": "Finance_dentreprise question 75",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_081",
+    "question": "Finance_dentreprise question 76",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_082",
+    "question": "Finance_dentreprise question 77",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_083",
+    "question": "Finance_dentreprise question 78",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_084",
+    "question": "Finance_dentreprise question 79",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_085",
+    "question": "Finance_dentreprise question 80",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "finance_dentreprise_hard_086",
+    "question": "Finance_dentreprise question 81",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_087",
+    "question": "Finance_dentreprise question 82",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_088",
+    "question": "Finance_dentreprise question 83",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_089",
+    "question": "Finance_dentreprise question 84",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_090",
+    "question": "Finance_dentreprise question 85",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_091",
+    "question": "Finance_dentreprise question 86",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_092",
+    "question": "Finance_dentreprise question 87",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_093",
+    "question": "Finance_dentreprise question 88",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_094",
+    "question": "Finance_dentreprise question 89",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_095",
+    "question": "Finance_dentreprise question 90",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "finance_dentreprise_hard_096",
+    "question": "Finance_dentreprise question 91",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "finance_dentreprise_hard_097",
+    "question": "Finance_dentreprise question 92",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "finance_dentreprise_hard_098",
+    "question": "Finance_dentreprise question 93",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "finance_dentreprise_hard_099",
+    "question": "Finance_dentreprise question 94",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "finance_dentreprise_hard_100",
+    "question": "Finance_dentreprise question 95",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]

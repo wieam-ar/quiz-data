@@ -4,7 +4,12 @@
     "question": "Le modèle d'administration Takaful repose sur:",
     "level": "hard",
     "type": "singleChoice",
-    "options": ["L'opérateur comme propriétaire", "L'opérateur comme agent", "Le client comme propriétaire", "L'État comme régulateur"],
+    "options": [
+      "L'opérateur comme propriétaire",
+      "L'opérateur comme agent",
+      "Le client comme propriétaire",
+      "L'État comme régulateur"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des défis du développement du Takaful?",
     "level": "hard",
     "type": "multipleChoice",
-    "options": ["Harmonisation réglementaire", "Standardisation des produits", "Manque de capital", "Faible demande"],
-    "correctIndexes": [0, 1, 2]
+    "options": [
+      "Harmonisation réglementaire",
+      "Standardisation des produits",
+      "Manque de capital",
+      "Faible demande"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "takaful_hard_003",
@@ -27,7 +41,10 @@
     "question": "Le Takaful peut accepter des demandes de sinistre sans justification.",
     "level": "hard",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 1
   },
   {
@@ -35,7 +52,1152 @@
     "question": "Le portefeuille Takaful doit être diversifié à minimum de:",
     "level": "hard",
     "type": "dropdown",
-    "options": ["10 branches", "15 branches", "20 branches", "25 branches"],
+    "options": [
+      "10 branches",
+      "15 branches",
+      "20 branches",
+      "25 branches"
+    ],
     "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_006",
+    "question": "Takaful question 1",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_007",
+    "question": "Takaful question 2",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_008",
+    "question": "Takaful question 3",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_009",
+    "question": "Takaful question 4",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_010",
+    "question": "Takaful question 5",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_011",
+    "question": "Takaful question 6",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_012",
+    "question": "Takaful question 7",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_013",
+    "question": "Takaful question 8",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_014",
+    "question": "Takaful question 9",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_015",
+    "question": "Takaful question 10",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_016",
+    "question": "Takaful question 11",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_017",
+    "question": "Takaful question 12",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_018",
+    "question": "Takaful question 13",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_019",
+    "question": "Takaful question 14",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_020",
+    "question": "Takaful question 15",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_021",
+    "question": "Takaful question 16",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_022",
+    "question": "Takaful question 17",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_023",
+    "question": "Takaful question 18",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_024",
+    "question": "Takaful question 19",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_025",
+    "question": "Takaful question 20",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_026",
+    "question": "Takaful question 21",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_027",
+    "question": "Takaful question 22",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_028",
+    "question": "Takaful question 23",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_029",
+    "question": "Takaful question 24",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_030",
+    "question": "Takaful question 25",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_031",
+    "question": "Takaful question 26",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_032",
+    "question": "Takaful question 27",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_033",
+    "question": "Takaful question 28",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_034",
+    "question": "Takaful question 29",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_035",
+    "question": "Takaful question 30",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_036",
+    "question": "Takaful question 31",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_037",
+    "question": "Takaful question 32",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_038",
+    "question": "Takaful question 33",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_039",
+    "question": "Takaful question 34",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_040",
+    "question": "Takaful question 35",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_041",
+    "question": "Takaful question 36",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_042",
+    "question": "Takaful question 37",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_043",
+    "question": "Takaful question 38",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_044",
+    "question": "Takaful question 39",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_045",
+    "question": "Takaful question 40",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_046",
+    "question": "Takaful question 41",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_047",
+    "question": "Takaful question 42",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_048",
+    "question": "Takaful question 43",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_049",
+    "question": "Takaful question 44",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_050",
+    "question": "Takaful question 45",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_051",
+    "question": "Takaful question 46",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_052",
+    "question": "Takaful question 47",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_053",
+    "question": "Takaful question 48",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_054",
+    "question": "Takaful question 49",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_055",
+    "question": "Takaful question 50",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_056",
+    "question": "Takaful question 51",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_057",
+    "question": "Takaful question 52",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_058",
+    "question": "Takaful question 53",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_059",
+    "question": "Takaful question 54",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_060",
+    "question": "Takaful question 55",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_061",
+    "question": "Takaful question 56",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_062",
+    "question": "Takaful question 57",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_063",
+    "question": "Takaful question 58",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_064",
+    "question": "Takaful question 59",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_065",
+    "question": "Takaful question 60",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_066",
+    "question": "Takaful question 61",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_067",
+    "question": "Takaful question 62",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_068",
+    "question": "Takaful question 63",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_069",
+    "question": "Takaful question 64",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_070",
+    "question": "Takaful question 65",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_071",
+    "question": "Takaful question 66",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_072",
+    "question": "Takaful question 67",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_073",
+    "question": "Takaful question 68",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_074",
+    "question": "Takaful question 69",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_075",
+    "question": "Takaful question 70",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_076",
+    "question": "Takaful question 71",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_077",
+    "question": "Takaful question 72",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_078",
+    "question": "Takaful question 73",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_079",
+    "question": "Takaful question 74",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_080",
+    "question": "Takaful question 75",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_081",
+    "question": "Takaful question 76",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_082",
+    "question": "Takaful question 77",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_083",
+    "question": "Takaful question 78",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_084",
+    "question": "Takaful question 79",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_085",
+    "question": "Takaful question 80",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "takaful_hard_086",
+    "question": "Takaful question 81",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_087",
+    "question": "Takaful question 82",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_088",
+    "question": "Takaful question 83",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_089",
+    "question": "Takaful question 84",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_090",
+    "question": "Takaful question 85",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_091",
+    "question": "Takaful question 86",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_092",
+    "question": "Takaful question 87",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_093",
+    "question": "Takaful question 88",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_094",
+    "question": "Takaful question 89",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_095",
+    "question": "Takaful question 90",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "takaful_hard_096",
+    "question": "Takaful question 91",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "takaful_hard_097",
+    "question": "Takaful question 92",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "takaful_hard_098",
+    "question": "Takaful question 93",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "takaful_hard_099",
+    "question": "Takaful question 94",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "takaful_hard_100",
+    "question": "Takaful question 95",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]

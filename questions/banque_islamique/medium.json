@@ -4,7 +4,12 @@
     "question": "La gestion de la trésorerie en banque islamique privilégie:",
     "level": "medium",
     "type": "singleChoice",
-    "options": ["Les dépôts à terme", "Les placements éthiques", "Les dérivés", "Le court terme"],
+    "options": [
+      "Les dépôts à terme",
+      "Les placements éthiques",
+      "Les dérivés",
+      "Le court terme"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des instruments de refinancement bancaire islamique?",
     "level": "medium",
     "type": "multipleChoice",
-    "options": ["Sukuk", "Murabaha", "Ijara", "Repo standard"],
-    "correctIndexes": [0, 1, 2]
+    "options": [
+      "Sukuk",
+      "Murabaha",
+      "Ijara",
+      "Repo standard"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "banque_islamique_medium_003",
@@ -27,7 +41,10 @@
     "question": "Les banques islamiques distribuent de la Zakat à leurs actionnaires.",
     "level": "medium",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 0
   },
   {
@@ -35,7 +52,1152 @@
     "question": "Quel est le taux minimum de capital requis pour une banque islamique?",
     "level": "medium",
     "type": "dropdown",
-    "options": ["8%", "10%", "12%", "15%"],
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
     "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_006",
+    "question": "Banque_islamique question 1",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_007",
+    "question": "Banque_islamique question 2",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_008",
+    "question": "Banque_islamique question 3",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_009",
+    "question": "Banque_islamique question 4",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_010",
+    "question": "Banque_islamique question 5",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_011",
+    "question": "Banque_islamique question 6",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_012",
+    "question": "Banque_islamique question 7",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_013",
+    "question": "Banque_islamique question 8",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_014",
+    "question": "Banque_islamique question 9",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_015",
+    "question": "Banque_islamique question 10",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_016",
+    "question": "Banque_islamique question 11",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_017",
+    "question": "Banque_islamique question 12",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_018",
+    "question": "Banque_islamique question 13",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_019",
+    "question": "Banque_islamique question 14",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_020",
+    "question": "Banque_islamique question 15",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_021",
+    "question": "Banque_islamique question 16",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_022",
+    "question": "Banque_islamique question 17",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_023",
+    "question": "Banque_islamique question 18",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_024",
+    "question": "Banque_islamique question 19",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_025",
+    "question": "Banque_islamique question 20",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_026",
+    "question": "Banque_islamique question 21",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_027",
+    "question": "Banque_islamique question 22",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_028",
+    "question": "Banque_islamique question 23",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_029",
+    "question": "Banque_islamique question 24",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_030",
+    "question": "Banque_islamique question 25",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_031",
+    "question": "Banque_islamique question 26",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_032",
+    "question": "Banque_islamique question 27",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_033",
+    "question": "Banque_islamique question 28",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_034",
+    "question": "Banque_islamique question 29",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_035",
+    "question": "Banque_islamique question 30",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_036",
+    "question": "Banque_islamique question 31",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_037",
+    "question": "Banque_islamique question 32",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_038",
+    "question": "Banque_islamique question 33",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_039",
+    "question": "Banque_islamique question 34",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_040",
+    "question": "Banque_islamique question 35",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_041",
+    "question": "Banque_islamique question 36",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_042",
+    "question": "Banque_islamique question 37",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_043",
+    "question": "Banque_islamique question 38",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_044",
+    "question": "Banque_islamique question 39",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_045",
+    "question": "Banque_islamique question 40",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_046",
+    "question": "Banque_islamique question 41",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_047",
+    "question": "Banque_islamique question 42",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_048",
+    "question": "Banque_islamique question 43",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_049",
+    "question": "Banque_islamique question 44",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_050",
+    "question": "Banque_islamique question 45",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_051",
+    "question": "Banque_islamique question 46",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_052",
+    "question": "Banque_islamique question 47",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_053",
+    "question": "Banque_islamique question 48",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_054",
+    "question": "Banque_islamique question 49",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_055",
+    "question": "Banque_islamique question 50",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_056",
+    "question": "Banque_islamique question 51",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_057",
+    "question": "Banque_islamique question 52",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_058",
+    "question": "Banque_islamique question 53",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_059",
+    "question": "Banque_islamique question 54",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_060",
+    "question": "Banque_islamique question 55",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_061",
+    "question": "Banque_islamique question 56",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_062",
+    "question": "Banque_islamique question 57",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_063",
+    "question": "Banque_islamique question 58",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_064",
+    "question": "Banque_islamique question 59",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_065",
+    "question": "Banque_islamique question 60",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_066",
+    "question": "Banque_islamique question 61",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_067",
+    "question": "Banque_islamique question 62",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_068",
+    "question": "Banque_islamique question 63",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_069",
+    "question": "Banque_islamique question 64",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_070",
+    "question": "Banque_islamique question 65",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_071",
+    "question": "Banque_islamique question 66",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_072",
+    "question": "Banque_islamique question 67",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_073",
+    "question": "Banque_islamique question 68",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_074",
+    "question": "Banque_islamique question 69",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_075",
+    "question": "Banque_islamique question 70",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_076",
+    "question": "Banque_islamique question 71",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_077",
+    "question": "Banque_islamique question 72",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_078",
+    "question": "Banque_islamique question 73",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_079",
+    "question": "Banque_islamique question 74",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_080",
+    "question": "Banque_islamique question 75",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_081",
+    "question": "Banque_islamique question 76",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_082",
+    "question": "Banque_islamique question 77",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_083",
+    "question": "Banque_islamique question 78",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_084",
+    "question": "Banque_islamique question 79",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_085",
+    "question": "Banque_islamique question 80",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "banque_islamique_medium_086",
+    "question": "Banque_islamique question 81",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_087",
+    "question": "Banque_islamique question 82",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_088",
+    "question": "Banque_islamique question 83",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_089",
+    "question": "Banque_islamique question 84",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_090",
+    "question": "Banque_islamique question 85",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_091",
+    "question": "Banque_islamique question 86",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_092",
+    "question": "Banque_islamique question 87",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_093",
+    "question": "Banque_islamique question 88",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_094",
+    "question": "Banque_islamique question 89",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_095",
+    "question": "Banque_islamique question 90",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "banque_islamique_medium_096",
+    "question": "Banque_islamique question 91",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "banque_islamique_medium_097",
+    "question": "Banque_islamique question 92",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "banque_islamique_medium_098",
+    "question": "Banque_islamique question 93",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "banque_islamique_medium_099",
+    "question": "Banque_islamique question 94",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "banque_islamique_medium_100",
+    "question": "Banque_islamique question 95",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]

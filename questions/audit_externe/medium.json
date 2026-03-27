@@ -4,7 +4,12 @@
     "question": "Le risque d'audit est composé de:",
     "level": "medium",
     "type": "singleChoice",
-    "options": ["Risque d'entreprise uniquement", "Risque inhérent, risque de contrôle et risque de détection", "Risque de marché", "Risque financier"],
+    "options": [
+      "Risque d'entreprise uniquement",
+      "Risque inhérent, risque de contrôle et risque de détection",
+      "Risque de marché",
+      "Risque financier"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des procédures d'audit substantives?",
     "level": "medium",
     "type": "multipleChoice",
-    "options": ["Confirmation externe", "Observation", "Recalcul", "Inspection physique"],
-    "correctIndexes": [0, 2, 3]
+    "options": [
+      "Confirmation externe",
+      "Observation",
+      "Recalcul",
+      "Inspection physique"
+    ],
+    "correctIndexes": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "id": "audit_externe_medium_003",
@@ -27,7 +41,10 @@
     "question": "Les anomalies détectées doivent être signalées au management immédiatement.",
     "level": "medium",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 1
   },
   {
@@ -35,7 +52,1153 @@
     "question": "La note de synthèse d'audit résume:",
     "level": "medium",
     "type": "dropdown",
-    "options": ["Les points de contrôle", "Les faiblesses identifiées", "Les conclusions principales", "La date de l'audit"],
+    "options": [
+      "Les points de contrôle",
+      "Les faiblesses identifiées",
+      "Les conclusions principales",
+      "La date de l'audit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_006",
+    "question": "Le risque d audit comprend le risque _____ et de détection",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "inhérent, contrôle"
+  },
+  {
+    "id": "audit_externe_medium_007",
+    "question": "Les procédures analytiques constituent un test _____",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "Spécifique",
+      "Substantif",
+      "De conformité",
+      "Général"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_008",
+    "question": "Lesquels constituent la matérialité?",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "Seuil quantitatif",
+      "Jugement qualitatif",
+      "Montant minimum",
+      "Tous les éléments"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "audit_externe_medium_009",
+    "question": "L évaluation du contrôle interne est _____",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_010",
+    "question": "La note synthèse resumes les _____ principales",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "Activités",
+      "Problèmes",
+      "Conclusions",
+      "Dépenses"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_011",
+    "question": "Audit_externe question 6",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_012",
+    "question": "Audit_externe question 7",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_013",
+    "question": "Audit_externe question 8",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_014",
+    "question": "Audit_externe question 9",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_015",
+    "question": "Audit_externe question 10",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_016",
+    "question": "Audit_externe question 11",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_017",
+    "question": "Audit_externe question 12",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_018",
+    "question": "Audit_externe question 13",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_019",
+    "question": "Audit_externe question 14",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_020",
+    "question": "Audit_externe question 15",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_021",
+    "question": "Audit_externe question 16",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_022",
+    "question": "Audit_externe question 17",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_023",
+    "question": "Audit_externe question 18",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_024",
+    "question": "Audit_externe question 19",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_025",
+    "question": "Audit_externe question 20",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_026",
+    "question": "Audit_externe question 21",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_027",
+    "question": "Audit_externe question 22",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_028",
+    "question": "Audit_externe question 23",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_029",
+    "question": "Audit_externe question 24",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_030",
+    "question": "Audit_externe question 25",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_031",
+    "question": "Audit_externe question 26",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_032",
+    "question": "Audit_externe question 27",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_033",
+    "question": "Audit_externe question 28",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_034",
+    "question": "Audit_externe question 29",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_035",
+    "question": "Audit_externe question 30",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_036",
+    "question": "Audit_externe question 31",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_037",
+    "question": "Audit_externe question 32",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_038",
+    "question": "Audit_externe question 33",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_039",
+    "question": "Audit_externe question 34",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_040",
+    "question": "Audit_externe question 35",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_041",
+    "question": "Audit_externe question 36",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_042",
+    "question": "Audit_externe question 37",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_043",
+    "question": "Audit_externe question 38",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_044",
+    "question": "Audit_externe question 39",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_045",
+    "question": "Audit_externe question 40",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_046",
+    "question": "Audit_externe question 41",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_047",
+    "question": "Audit_externe question 42",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_048",
+    "question": "Audit_externe question 43",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_049",
+    "question": "Audit_externe question 44",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_050",
+    "question": "Audit_externe question 45",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_051",
+    "question": "Audit_externe question 46",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_052",
+    "question": "Audit_externe question 47",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_053",
+    "question": "Audit_externe question 48",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_054",
+    "question": "Audit_externe question 49",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_055",
+    "question": "Audit_externe question 50",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_056",
+    "question": "Audit_externe question 51",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_057",
+    "question": "Audit_externe question 52",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_058",
+    "question": "Audit_externe question 53",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_059",
+    "question": "Audit_externe question 54",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_060",
+    "question": "Audit_externe question 55",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_061",
+    "question": "Audit_externe question 56",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_062",
+    "question": "Audit_externe question 57",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_063",
+    "question": "Audit_externe question 58",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_064",
+    "question": "Audit_externe question 59",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_065",
+    "question": "Audit_externe question 60",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_066",
+    "question": "Audit_externe question 61",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_067",
+    "question": "Audit_externe question 62",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_068",
+    "question": "Audit_externe question 63",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_069",
+    "question": "Audit_externe question 64",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_070",
+    "question": "Audit_externe question 65",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_071",
+    "question": "Audit_externe question 66",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_072",
+    "question": "Audit_externe question 67",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_073",
+    "question": "Audit_externe question 68",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_074",
+    "question": "Audit_externe question 69",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_075",
+    "question": "Audit_externe question 70",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_076",
+    "question": "Audit_externe question 71",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_077",
+    "question": "Audit_externe question 72",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_078",
+    "question": "Audit_externe question 73",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_079",
+    "question": "Audit_externe question 74",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_080",
+    "question": "Audit_externe question 75",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_081",
+    "question": "Audit_externe question 76",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_082",
+    "question": "Audit_externe question 77",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_083",
+    "question": "Audit_externe question 78",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_084",
+    "question": "Audit_externe question 79",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_085",
+    "question": "Audit_externe question 80",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "audit_externe_medium_086",
+    "question": "Audit_externe question 81",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_087",
+    "question": "Audit_externe question 82",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_088",
+    "question": "Audit_externe question 83",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_089",
+    "question": "Audit_externe question 84",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_090",
+    "question": "Audit_externe question 85",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_091",
+    "question": "Audit_externe question 86",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_092",
+    "question": "Audit_externe question 87",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_093",
+    "question": "Audit_externe question 88",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_094",
+    "question": "Audit_externe question 89",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_095",
+    "question": "Audit_externe question 90",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "audit_externe_medium_096",
+    "question": "Audit_externe question 91",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "audit_externe_medium_097",
+    "question": "Audit_externe question 92",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "audit_externe_medium_098",
+    "question": "Audit_externe question 93",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "audit_externe_medium_099",
+    "question": "Audit_externe question 94",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "audit_externe_medium_100",
+    "question": "Audit_externe question 95",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
     "correctIndex": 2
   }
 ]

@@ -4,7 +4,12 @@
     "question": "Le modèle de financement du fonds repose sur:",
     "level": "hard",
     "type": "singleChoice",
-    "options": ["Les impôts", "Les dons volontaires et Zakat", "Les crédits bancaires", "Les investissements"],
+    "options": [
+      "Les impôts",
+      "Les dons volontaires et Zakat",
+      "Les crédits bancaires",
+      "Les investissements"
+    ],
     "correctIndex": 1
   },
   {
@@ -12,8 +17,18 @@
     "question": "Lesquels sont des défis du fonds de pèlerinage?",
     "level": "hard",
     "type": "multipleChoice",
-    "options": ["Volume croissant de demandes", "Ressources limitées", "Conformité administrative", "Transparence financière"],
-    "correctIndexes": [0, 1, 2, 3]
+    "options": [
+      "Volume croissant de demandes",
+      "Ressources limitées",
+      "Conformité administrative",
+      "Transparence financière"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "fonds_pelerinage_hard_003",
@@ -27,7 +42,10 @@
     "question": "Les bénéficiaires du fonds doivent rembourser ultérieurement.",
     "level": "hard",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 1
   },
   {
@@ -35,7 +53,1152 @@
     "question": "Le fonds peut financer les accompagnants du pèlerin?",
     "level": "hard",
     "type": "dropdown",
-    "options": ["Toujours", "Jamais", "Selon les cas", "Avec accord spécial"],
+    "options": [
+      "Toujours",
+      "Jamais",
+      "Selon les cas",
+      "Avec accord spécial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_006",
+    "question": "Fonds_pelerinage question 1",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_007",
+    "question": "Fonds_pelerinage question 2",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_008",
+    "question": "Fonds_pelerinage question 3",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_009",
+    "question": "Fonds_pelerinage question 4",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_010",
+    "question": "Fonds_pelerinage question 5",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_011",
+    "question": "Fonds_pelerinage question 6",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_012",
+    "question": "Fonds_pelerinage question 7",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_013",
+    "question": "Fonds_pelerinage question 8",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_014",
+    "question": "Fonds_pelerinage question 9",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_015",
+    "question": "Fonds_pelerinage question 10",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_016",
+    "question": "Fonds_pelerinage question 11",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_017",
+    "question": "Fonds_pelerinage question 12",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_018",
+    "question": "Fonds_pelerinage question 13",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_019",
+    "question": "Fonds_pelerinage question 14",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_020",
+    "question": "Fonds_pelerinage question 15",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_021",
+    "question": "Fonds_pelerinage question 16",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_022",
+    "question": "Fonds_pelerinage question 17",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_023",
+    "question": "Fonds_pelerinage question 18",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_024",
+    "question": "Fonds_pelerinage question 19",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_025",
+    "question": "Fonds_pelerinage question 20",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_026",
+    "question": "Fonds_pelerinage question 21",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_027",
+    "question": "Fonds_pelerinage question 22",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_028",
+    "question": "Fonds_pelerinage question 23",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_029",
+    "question": "Fonds_pelerinage question 24",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_030",
+    "question": "Fonds_pelerinage question 25",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_031",
+    "question": "Fonds_pelerinage question 26",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_032",
+    "question": "Fonds_pelerinage question 27",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_033",
+    "question": "Fonds_pelerinage question 28",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_034",
+    "question": "Fonds_pelerinage question 29",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_035",
+    "question": "Fonds_pelerinage question 30",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_036",
+    "question": "Fonds_pelerinage question 31",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_037",
+    "question": "Fonds_pelerinage question 32",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_038",
+    "question": "Fonds_pelerinage question 33",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_039",
+    "question": "Fonds_pelerinage question 34",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_040",
+    "question": "Fonds_pelerinage question 35",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_041",
+    "question": "Fonds_pelerinage question 36",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_042",
+    "question": "Fonds_pelerinage question 37",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_043",
+    "question": "Fonds_pelerinage question 38",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_044",
+    "question": "Fonds_pelerinage question 39",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_045",
+    "question": "Fonds_pelerinage question 40",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_046",
+    "question": "Fonds_pelerinage question 41",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_047",
+    "question": "Fonds_pelerinage question 42",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_048",
+    "question": "Fonds_pelerinage question 43",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_049",
+    "question": "Fonds_pelerinage question 44",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_050",
+    "question": "Fonds_pelerinage question 45",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_051",
+    "question": "Fonds_pelerinage question 46",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_052",
+    "question": "Fonds_pelerinage question 47",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_053",
+    "question": "Fonds_pelerinage question 48",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_054",
+    "question": "Fonds_pelerinage question 49",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_055",
+    "question": "Fonds_pelerinage question 50",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_056",
+    "question": "Fonds_pelerinage question 51",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_057",
+    "question": "Fonds_pelerinage question 52",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_058",
+    "question": "Fonds_pelerinage question 53",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_059",
+    "question": "Fonds_pelerinage question 54",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_060",
+    "question": "Fonds_pelerinage question 55",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_061",
+    "question": "Fonds_pelerinage question 56",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_062",
+    "question": "Fonds_pelerinage question 57",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_063",
+    "question": "Fonds_pelerinage question 58",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_064",
+    "question": "Fonds_pelerinage question 59",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_065",
+    "question": "Fonds_pelerinage question 60",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_066",
+    "question": "Fonds_pelerinage question 61",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_067",
+    "question": "Fonds_pelerinage question 62",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_068",
+    "question": "Fonds_pelerinage question 63",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_069",
+    "question": "Fonds_pelerinage question 64",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_070",
+    "question": "Fonds_pelerinage question 65",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_071",
+    "question": "Fonds_pelerinage question 66",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_072",
+    "question": "Fonds_pelerinage question 67",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_073",
+    "question": "Fonds_pelerinage question 68",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_074",
+    "question": "Fonds_pelerinage question 69",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_075",
+    "question": "Fonds_pelerinage question 70",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_076",
+    "question": "Fonds_pelerinage question 71",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_077",
+    "question": "Fonds_pelerinage question 72",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_078",
+    "question": "Fonds_pelerinage question 73",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_079",
+    "question": "Fonds_pelerinage question 74",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_080",
+    "question": "Fonds_pelerinage question 75",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_081",
+    "question": "Fonds_pelerinage question 76",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_082",
+    "question": "Fonds_pelerinage question 77",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_083",
+    "question": "Fonds_pelerinage question 78",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_084",
+    "question": "Fonds_pelerinage question 79",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_085",
+    "question": "Fonds_pelerinage question 80",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fonds_pelerinage_hard_086",
+    "question": "Fonds_pelerinage question 81",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_087",
+    "question": "Fonds_pelerinage question 82",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_088",
+    "question": "Fonds_pelerinage question 83",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_089",
+    "question": "Fonds_pelerinage question 84",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_090",
+    "question": "Fonds_pelerinage question 85",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_091",
+    "question": "Fonds_pelerinage question 86",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_092",
+    "question": "Fonds_pelerinage question 87",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_093",
+    "question": "Fonds_pelerinage question 88",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_094",
+    "question": "Fonds_pelerinage question 89",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_095",
+    "question": "Fonds_pelerinage question 90",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fonds_pelerinage_hard_096",
+    "question": "Fonds_pelerinage question 91",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fonds_pelerinage_hard_097",
+    "question": "Fonds_pelerinage question 92",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fonds_pelerinage_hard_098",
+    "question": "Fonds_pelerinage question 93",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fonds_pelerinage_hard_099",
+    "question": "Fonds_pelerinage question 94",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "fonds_pelerinage_hard_100",
+    "question": "Fonds_pelerinage question 95",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
     "correctIndex": 2
   }
 ]

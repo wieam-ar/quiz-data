@@ -4,7 +4,12 @@
     "question": "Le Nisab en Zakat Al-Mal représente:",
     "level": "medium",
     "type": "singleChoice",
-    "options": ["Le revenu minimum", "Le seuil d'imposition", "La richesse obligatoire", "L'exonération"],
+    "options": [
+      "Le revenu minimum",
+      "Le seuil d'imposition",
+      "La richesse obligatoire",
+      "L'exonération"
+    ],
     "correctIndex": 2
   },
   {
@@ -12,8 +17,18 @@
     "question": "Lesquels sont des exemptions de Zakat Al-Mal?",
     "level": "medium",
     "type": "multipleChoice",
-    "options": ["Dépenses nécessaires", "Dettes impayées", "Investissements en cours", "Biens endettés"],
-    "correctIndexes": [0, 1, 2, 3]
+    "options": [
+      "Dépenses nécessaires",
+      "Dettes impayées",
+      "Investissements en cours",
+      "Biens endettés"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "zakat_al_mal_medium_003",
@@ -27,7 +42,10 @@
     "question": "La Zakat Al-Mal peut être versée à titre d'avance.",
     "level": "medium",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 0
   },
   {
@@ -35,7 +53,1152 @@
     "question": "La Zakat Al-Mal est calculée selon la méthode:",
     "level": "medium",
     "type": "dropdown",
-    "options": ["Forfaitaire", "Analytique", "Réelle", "Forfaitaire et réelle"],
+    "options": [
+      "Forfaitaire",
+      "Analytique",
+      "Réelle",
+      "Forfaitaire et réelle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_006",
+    "question": "Zakat_al_mal question 1",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_007",
+    "question": "Zakat_al_mal question 2",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_008",
+    "question": "Zakat_al_mal question 3",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_009",
+    "question": "Zakat_al_mal question 4",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_010",
+    "question": "Zakat_al_mal question 5",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_011",
+    "question": "Zakat_al_mal question 6",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_012",
+    "question": "Zakat_al_mal question 7",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_013",
+    "question": "Zakat_al_mal question 8",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_014",
+    "question": "Zakat_al_mal question 9",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_015",
+    "question": "Zakat_al_mal question 10",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_016",
+    "question": "Zakat_al_mal question 11",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_017",
+    "question": "Zakat_al_mal question 12",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_018",
+    "question": "Zakat_al_mal question 13",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_019",
+    "question": "Zakat_al_mal question 14",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_020",
+    "question": "Zakat_al_mal question 15",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_021",
+    "question": "Zakat_al_mal question 16",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_022",
+    "question": "Zakat_al_mal question 17",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_023",
+    "question": "Zakat_al_mal question 18",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_024",
+    "question": "Zakat_al_mal question 19",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_025",
+    "question": "Zakat_al_mal question 20",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_026",
+    "question": "Zakat_al_mal question 21",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_027",
+    "question": "Zakat_al_mal question 22",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_028",
+    "question": "Zakat_al_mal question 23",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_029",
+    "question": "Zakat_al_mal question 24",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_030",
+    "question": "Zakat_al_mal question 25",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_031",
+    "question": "Zakat_al_mal question 26",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_032",
+    "question": "Zakat_al_mal question 27",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_033",
+    "question": "Zakat_al_mal question 28",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_034",
+    "question": "Zakat_al_mal question 29",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_035",
+    "question": "Zakat_al_mal question 30",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_036",
+    "question": "Zakat_al_mal question 31",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_037",
+    "question": "Zakat_al_mal question 32",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_038",
+    "question": "Zakat_al_mal question 33",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_039",
+    "question": "Zakat_al_mal question 34",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_040",
+    "question": "Zakat_al_mal question 35",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_041",
+    "question": "Zakat_al_mal question 36",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_042",
+    "question": "Zakat_al_mal question 37",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_043",
+    "question": "Zakat_al_mal question 38",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_044",
+    "question": "Zakat_al_mal question 39",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_045",
+    "question": "Zakat_al_mal question 40",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_046",
+    "question": "Zakat_al_mal question 41",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_047",
+    "question": "Zakat_al_mal question 42",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_048",
+    "question": "Zakat_al_mal question 43",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_049",
+    "question": "Zakat_al_mal question 44",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_050",
+    "question": "Zakat_al_mal question 45",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_051",
+    "question": "Zakat_al_mal question 46",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_052",
+    "question": "Zakat_al_mal question 47",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_053",
+    "question": "Zakat_al_mal question 48",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_054",
+    "question": "Zakat_al_mal question 49",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_055",
+    "question": "Zakat_al_mal question 50",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_056",
+    "question": "Zakat_al_mal question 51",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_057",
+    "question": "Zakat_al_mal question 52",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_058",
+    "question": "Zakat_al_mal question 53",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_059",
+    "question": "Zakat_al_mal question 54",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_060",
+    "question": "Zakat_al_mal question 55",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_061",
+    "question": "Zakat_al_mal question 56",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_062",
+    "question": "Zakat_al_mal question 57",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_063",
+    "question": "Zakat_al_mal question 58",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_064",
+    "question": "Zakat_al_mal question 59",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_065",
+    "question": "Zakat_al_mal question 60",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_066",
+    "question": "Zakat_al_mal question 61",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_067",
+    "question": "Zakat_al_mal question 62",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_068",
+    "question": "Zakat_al_mal question 63",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_069",
+    "question": "Zakat_al_mal question 64",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_070",
+    "question": "Zakat_al_mal question 65",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_071",
+    "question": "Zakat_al_mal question 66",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_072",
+    "question": "Zakat_al_mal question 67",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_073",
+    "question": "Zakat_al_mal question 68",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_074",
+    "question": "Zakat_al_mal question 69",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_075",
+    "question": "Zakat_al_mal question 70",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_076",
+    "question": "Zakat_al_mal question 71",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_077",
+    "question": "Zakat_al_mal question 72",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_078",
+    "question": "Zakat_al_mal question 73",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_079",
+    "question": "Zakat_al_mal question 74",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_080",
+    "question": "Zakat_al_mal question 75",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_081",
+    "question": "Zakat_al_mal question 76",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_082",
+    "question": "Zakat_al_mal question 77",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_083",
+    "question": "Zakat_al_mal question 78",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_084",
+    "question": "Zakat_al_mal question 79",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_085",
+    "question": "Zakat_al_mal question 80",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_mal_medium_086",
+    "question": "Zakat_al_mal question 81",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_087",
+    "question": "Zakat_al_mal question 82",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_088",
+    "question": "Zakat_al_mal question 83",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_089",
+    "question": "Zakat_al_mal question 84",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_090",
+    "question": "Zakat_al_mal question 85",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_091",
+    "question": "Zakat_al_mal question 86",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_092",
+    "question": "Zakat_al_mal question 87",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_093",
+    "question": "Zakat_al_mal question 88",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_094",
+    "question": "Zakat_al_mal question 89",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_095",
+    "question": "Zakat_al_mal question 90",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_mal_medium_096",
+    "question": "Zakat_al_mal question 91",
+    "level": "medium",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_mal_medium_097",
+    "question": "Zakat_al_mal question 92",
+    "level": "medium",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_mal_medium_098",
+    "question": "Zakat_al_mal question 93",
+    "level": "medium",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_mal_medium_099",
+    "question": "Zakat_al_mal question 94",
+    "level": "medium",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_mal_medium_100",
+    "question": "Zakat_al_mal question 95",
+    "level": "medium",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
     "correctIndex": 2
   }
 ]

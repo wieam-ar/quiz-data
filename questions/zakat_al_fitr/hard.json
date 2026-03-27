@@ -4,7 +4,12 @@
     "question": "L'équivalent en espèces de Zakat Al-Fitr est basé sur:",
     "level": "hard",
     "type": "singleChoice",
-    "options": ["Le prix du blé", "Le salaire moyen", "Le SMIC", "L'inflation"],
+    "options": [
+      "Le prix du blé",
+      "Le salaire moyen",
+      "Le SMIC",
+      "L'inflation"
+    ],
     "correctIndex": 0
   },
   {
@@ -12,8 +17,17 @@
     "question": "Lesquels sont des critères d'évaluation de Zakat Al-Fitr?",
     "level": "hard",
     "type": "multipleChoice",
-    "options": ["Prix local du grain", "Situation économique", "Variations saisonnières", "Conditions climatiques"],
-    "correctIndexes": [0, 1, 2]
+    "options": [
+      "Prix local du grain",
+      "Situation économique",
+      "Variations saisonnières",
+      "Conditions climatiques"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "zakat_al_fitr_hard_003",
@@ -27,7 +41,10 @@
     "question": "La Zakat Al-Fitr peut être combinée avec d'autres aumônes.",
     "level": "hard",
     "type": "trueFalse",
-    "options": ["Vrai", "Faux"],
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
     "correctIndex": 0
   },
   {
@@ -35,7 +52,1152 @@
     "question": "Les unités de mesure traditionnelles de Zakat Al-Fitr sont:",
     "level": "hard",
     "type": "dropdown",
-    "options": ["Kilogramme", "Sa'a", "Mudd", "Livre"],
+    "options": [
+      "Kilogramme",
+      "Sa'a",
+      "Mudd",
+      "Livre"
+    ],
     "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_006",
+    "question": "Zakat_al_fitr question 1",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_007",
+    "question": "Zakat_al_fitr question 2",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_008",
+    "question": "Zakat_al_fitr question 3",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_009",
+    "question": "Zakat_al_fitr question 4",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_010",
+    "question": "Zakat_al_fitr question 5",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_011",
+    "question": "Zakat_al_fitr question 6",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_012",
+    "question": "Zakat_al_fitr question 7",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_013",
+    "question": "Zakat_al_fitr question 8",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_014",
+    "question": "Zakat_al_fitr question 9",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_015",
+    "question": "Zakat_al_fitr question 10",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_016",
+    "question": "Zakat_al_fitr question 11",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_017",
+    "question": "Zakat_al_fitr question 12",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_018",
+    "question": "Zakat_al_fitr question 13",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_019",
+    "question": "Zakat_al_fitr question 14",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_020",
+    "question": "Zakat_al_fitr question 15",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_021",
+    "question": "Zakat_al_fitr question 16",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_022",
+    "question": "Zakat_al_fitr question 17",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_023",
+    "question": "Zakat_al_fitr question 18",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_024",
+    "question": "Zakat_al_fitr question 19",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_025",
+    "question": "Zakat_al_fitr question 20",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_026",
+    "question": "Zakat_al_fitr question 21",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_027",
+    "question": "Zakat_al_fitr question 22",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_028",
+    "question": "Zakat_al_fitr question 23",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_029",
+    "question": "Zakat_al_fitr question 24",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_030",
+    "question": "Zakat_al_fitr question 25",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_031",
+    "question": "Zakat_al_fitr question 26",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_032",
+    "question": "Zakat_al_fitr question 27",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_033",
+    "question": "Zakat_al_fitr question 28",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_034",
+    "question": "Zakat_al_fitr question 29",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_035",
+    "question": "Zakat_al_fitr question 30",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_036",
+    "question": "Zakat_al_fitr question 31",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_037",
+    "question": "Zakat_al_fitr question 32",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_038",
+    "question": "Zakat_al_fitr question 33",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_039",
+    "question": "Zakat_al_fitr question 34",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_040",
+    "question": "Zakat_al_fitr question 35",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_041",
+    "question": "Zakat_al_fitr question 36",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_042",
+    "question": "Zakat_al_fitr question 37",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_043",
+    "question": "Zakat_al_fitr question 38",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_044",
+    "question": "Zakat_al_fitr question 39",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_045",
+    "question": "Zakat_al_fitr question 40",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_046",
+    "question": "Zakat_al_fitr question 41",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_047",
+    "question": "Zakat_al_fitr question 42",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_048",
+    "question": "Zakat_al_fitr question 43",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_049",
+    "question": "Zakat_al_fitr question 44",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_050",
+    "question": "Zakat_al_fitr question 45",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_051",
+    "question": "Zakat_al_fitr question 46",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_052",
+    "question": "Zakat_al_fitr question 47",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_053",
+    "question": "Zakat_al_fitr question 48",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_054",
+    "question": "Zakat_al_fitr question 49",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_055",
+    "question": "Zakat_al_fitr question 50",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_056",
+    "question": "Zakat_al_fitr question 51",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_057",
+    "question": "Zakat_al_fitr question 52",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_058",
+    "question": "Zakat_al_fitr question 53",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_059",
+    "question": "Zakat_al_fitr question 54",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_060",
+    "question": "Zakat_al_fitr question 55",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_061",
+    "question": "Zakat_al_fitr question 56",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_062",
+    "question": "Zakat_al_fitr question 57",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_063",
+    "question": "Zakat_al_fitr question 58",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_064",
+    "question": "Zakat_al_fitr question 59",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_065",
+    "question": "Zakat_al_fitr question 60",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_066",
+    "question": "Zakat_al_fitr question 61",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_067",
+    "question": "Zakat_al_fitr question 62",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_068",
+    "question": "Zakat_al_fitr question 63",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_069",
+    "question": "Zakat_al_fitr question 64",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_070",
+    "question": "Zakat_al_fitr question 65",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_071",
+    "question": "Zakat_al_fitr question 66",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_072",
+    "question": "Zakat_al_fitr question 67",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_073",
+    "question": "Zakat_al_fitr question 68",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_074",
+    "question": "Zakat_al_fitr question 69",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_075",
+    "question": "Zakat_al_fitr question 70",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_076",
+    "question": "Zakat_al_fitr question 71",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_077",
+    "question": "Zakat_al_fitr question 72",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_078",
+    "question": "Zakat_al_fitr question 73",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_079",
+    "question": "Zakat_al_fitr question 74",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_080",
+    "question": "Zakat_al_fitr question 75",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_081",
+    "question": "Zakat_al_fitr question 76",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_082",
+    "question": "Zakat_al_fitr question 77",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_083",
+    "question": "Zakat_al_fitr question 78",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_084",
+    "question": "Zakat_al_fitr question 79",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_085",
+    "question": "Zakat_al_fitr question 80",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "zakat_al_fitr_hard_086",
+    "question": "Zakat_al_fitr question 81",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_087",
+    "question": "Zakat_al_fitr question 82",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_088",
+    "question": "Zakat_al_fitr question 83",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_089",
+    "question": "Zakat_al_fitr question 84",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_090",
+    "question": "Zakat_al_fitr question 85",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_091",
+    "question": "Zakat_al_fitr question 86",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_092",
+    "question": "Zakat_al_fitr question 87",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_093",
+    "question": "Zakat_al_fitr question 88",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_094",
+    "question": "Zakat_al_fitr question 89",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_095",
+    "question": "Zakat_al_fitr question 90",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "zakat_al_fitr_hard_096",
+    "question": "Zakat_al_fitr question 91",
+    "level": "hard",
+    "type": "singleChoice",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "zakat_al_fitr_hard_097",
+    "question": "Zakat_al_fitr question 92",
+    "level": "hard",
+    "type": "multipleChoice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "zakat_al_fitr_hard_098",
+    "question": "Zakat_al_fitr question 93",
+    "level": "hard",
+    "type": "trueFalse",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "zakat_al_fitr_hard_099",
+    "question": "Zakat_al_fitr question 94",
+    "level": "hard",
+    "type": "fillBlank",
+    "correctAnswer": "réponse"
+  },
+  {
+    "id": "zakat_al_fitr_hard_100",
+    "question": "Zakat_al_fitr question 95",
+    "level": "hard",
+    "type": "dropdown",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correctIndex": 2
   }
 ]
