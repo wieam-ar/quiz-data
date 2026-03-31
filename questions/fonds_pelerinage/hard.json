@@ -5,10 +5,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
+      "Commerce de produits religieux",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Investissement immobilier"
     ],
     "correctIndex": 1
   },
@@ -18,15 +18,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
-      "Zakat",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Dons volontaires",
+      "Taxes gouvernementales",
+      "Zakat"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -35,12 +35,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Les commerçants",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Uniquement les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_004",
@@ -66,10 +66,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Volume élevé de demandes",
-      "Ressources financières limitées",
       "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Conformité réglementaire",
+      "Volume élevé de demandes",
+      "Ressources financières limitées"
     ],
     "correctIndexes": [
       0,
@@ -84,12 +84,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Toujours",
-      "Jamais",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Jamais",
+      "Seulement pour les couples",
+      "Toujours"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_008",
@@ -97,10 +97,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
+      "Emprunt auprès des banques",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
-      "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Augmentation des tarifs",
+      "Réduction des bénéficiaires"
     ],
     "correctIndex": 1
   },
@@ -110,15 +110,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
-      "Identité et résidence",
       "Situation familiale",
-      "Antécédents médicaux"
+      "Antécédents médicaux",
+      "Identité et résidence",
+      "Justificatif de revenu"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -127,12 +127,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
-      "L'urgence et la nécessité financière",
       "Les connexions politiques",
-      "L'ordre alphabétique"
+      "L'ordre de réception",
+      "L'ordre alphabétique",
+      "L'urgence et la nécessité financière"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_011",
@@ -140,12 +140,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Commerce de produits religieux",
       "Investissement immobilier",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
-      "Placement bancaire",
-      "Commerce de produits religieux"
+      "Placement bancaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_012",
@@ -153,15 +153,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
-      "Zakat",
+      "Taxes gouvernementales",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Zakat",
+      "Dons volontaires"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -170,12 +170,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
       "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Les commerçants",
+      "Uniquement les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_014",
@@ -201,10 +201,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Volume élevé de demandes",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Conformité réglementaire",
+      "Volume élevé de demandes",
+      "Gestion administrative complexe"
     ],
     "correctIndexes": [
       0,
@@ -219,12 +219,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Sur demande justifiée",
       "Toujours",
       "Jamais",
-      "Sur demande justifiée",
       "Seulement pour les couples"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_018",
@@ -232,12 +232,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
-      "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Emprunt auprès des banques",
+      "Augmentation des tarifs",
+      "Réduction des bénéficiaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_019",
@@ -246,14 +246,14 @@
     "type": "multipleChoice",
     "options": [
       "Justificatif de revenu",
+      "Antécédents médicaux",
       "Identité et résidence",
-      "Situation familiale",
-      "Antécédents médicaux"
+      "Situation familiale"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -262,12 +262,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
       "L'urgence et la nécessité financière",
+      "L'ordre de réception",
       "Les connexions politiques",
       "L'ordre alphabétique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_021",
@@ -275,10 +275,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
+      "Commerce de produits religieux",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
-      "Placement bancaire",
-      "Commerce de produits religieux"
+      "Investissement immobilier",
+      "Placement bancaire"
     ],
     "correctIndex": 1
   },
@@ -288,15 +288,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
-      "Zakat",
+      "Taxes gouvernementales",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Dons volontaires",
+      "Zakat"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -305,12 +305,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Uniquement les riches",
+      "Les commerçants",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_024",
@@ -336,10 +336,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Conformité réglementaire",
       "Volume élevé de demandes",
-      "Ressources financières limitées",
       "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Ressources financières limitées"
     ],
     "correctIndexes": [
       0,
@@ -354,12 +354,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Toujours",
-      "Jamais",
+      "Seulement pour les couples",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Jamais",
+      "Toujours"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_hard_028",
@@ -368,11 +368,11 @@
     "type": "singleChoice",
     "options": [
       "Augmentation des tarifs",
-      "Gestion rigoureuse des ressources et réinvestissement des contributions",
       "Réduction des bénéficiaires",
+      "Gestion rigoureuse des ressources et réinvestissement des contributions",
       "Emprunt auprès des banques"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_029",
@@ -380,15 +380,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Antécédents médicaux",
       "Justificatif de revenu",
       "Identité et résidence",
-      "Situation familiale",
-      "Antécédents médicaux"
+      "Situation familiale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -397,12 +397,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
       "L'urgence et la nécessité financière",
       "Les connexions politiques",
+      "L'ordre de réception",
       "L'ordre alphabétique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_031",
@@ -410,12 +410,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
-      "Placement bancaire",
-      "Commerce de produits religieux"
+      "Commerce de produits religieux",
+      "Investissement immobilier",
+      "Placement bancaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_032",
@@ -423,15 +423,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
       "Zakat",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Taxes gouvernementales",
+      "Dons volontaires"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -440,12 +440,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Les commerçants",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Uniquement les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_034",
@@ -471,9 +471,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Gestion administrative complexe",
       "Volume élevé de demandes",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
       "Conformité réglementaire"
     ],
     "correctIndexes": [
@@ -490,11 +490,11 @@
     "type": "singleChoice",
     "options": [
       "Toujours",
-      "Jamais",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Seulement pour les couples",
+      "Jamais"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_hard_038",
@@ -503,11 +503,11 @@
     "type": "singleChoice",
     "options": [
       "Augmentation des tarifs",
+      "Emprunt auprès des banques",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
-      "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Réduction des bénéficiaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_039",
@@ -515,15 +515,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
-      "Identité et résidence",
+      "Antécédents médicaux",
       "Situation familiale",
-      "Antécédents médicaux"
+      "Justificatif de revenu",
+      "Identité et résidence"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -532,12 +532,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
       "L'urgence et la nécessité financière",
-      "Les connexions politiques",
-      "L'ordre alphabétique"
+      "L'ordre alphabétique",
+      "L'ordre de réception",
+      "Les connexions politiques"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_041",
@@ -545,10 +545,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
-      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Commerce de produits religieux",
+      "Investissement immobilier"
     ],
     "correctIndex": 1
   },
@@ -558,15 +558,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
       "Zakat",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Taxes gouvernementales",
+      "Dons volontaires"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -575,12 +575,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Les commerçants",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
+      "Uniquement les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_044",
@@ -606,10 +606,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Volume élevé de demandes",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Volume élevé de demandes",
+      "Conformité réglementaire",
+      "Gestion administrative complexe"
     ],
     "correctIndexes": [
       0,
@@ -624,10 +624,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Toujours",
+      "Seulement pour les couples",
       "Jamais",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Toujours"
     ],
     "correctIndex": 2
   },
@@ -637,10 +637,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
+      "Emprunt auprès des banques",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
       "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Augmentation des tarifs"
     ],
     "correctIndex": 1
   },
@@ -650,15 +650,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
-      "Identité et résidence",
       "Situation familiale",
-      "Antécédents médicaux"
+      "Identité et résidence",
+      "Antécédents médicaux",
+      "Justificatif de revenu"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -667,12 +667,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
       "L'urgence et la nécessité financière",
       "Les connexions politiques",
+      "L'ordre de réception",
       "L'ordre alphabétique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_051",
@@ -680,10 +680,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
+      "Commerce de produits religieux",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Investissement immobilier"
     ],
     "correctIndex": 1
   },
@@ -711,11 +711,11 @@
     "type": "singleChoice",
     "options": [
       "Uniquement les riches",
+      "Les commerçants",
       "Les personnes dans l'incapacité financière d'effectuer le Hajj",
-      "Les fonctionnaires",
-      "Les commerçants"
+      "Les fonctionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_054",
@@ -743,8 +743,8 @@
     "options": [
       "Volume élevé de demandes",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Conformité réglementaire",
+      "Gestion administrative complexe"
     ],
     "correctIndexes": [
       0,
@@ -759,12 +759,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Toujours",
+      "Seulement pour les couples",
       "Jamais",
-      "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Toujours",
+      "Sur demande justifiée"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_058",
@@ -772,12 +772,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Emprunt auprès des banques",
       "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Augmentation des tarifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_059",
@@ -785,8 +785,8 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
       "Identité et résidence",
+      "Justificatif de revenu",
       "Situation familiale",
       "Antécédents médicaux"
     ],
@@ -802,12 +802,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
       "L'urgence et la nécessité financière",
       "Les connexions politiques",
-      "L'ordre alphabétique"
+      "L'ordre alphabétique",
+      "L'ordre de réception"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_061",
@@ -816,11 +816,11 @@
     "type": "singleChoice",
     "options": [
       "Investissement immobilier",
-      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Commerce de produits religieux",
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_062",
@@ -830,13 +830,13 @@
     "options": [
       "Dons volontaires",
       "Zakat",
-      "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Taxes gouvernementales",
+      "Revenus d'investissements"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -845,12 +845,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
       "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
+      "Uniquement les riches",
       "Les commerçants"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_064",
@@ -876,10 +876,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Volume élevé de demandes",
-      "Ressources financières limitées",
+      "Conformité réglementaire",
       "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Volume élevé de demandes",
+      "Ressources financières limitées"
     ],
     "correctIndexes": [
       0,
@@ -895,11 +895,11 @@
     "type": "singleChoice",
     "options": [
       "Toujours",
+      "Seulement pour les couples",
       "Jamais",
-      "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Sur demande justifiée"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_068",
@@ -907,12 +907,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
       "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Emprunt auprès des banques",
+      "Augmentation des tarifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_069",
@@ -920,15 +920,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
-      "Identité et résidence",
+      "Antécédents médicaux",
       "Situation familiale",
-      "Antécédents médicaux"
+      "Identité et résidence",
+      "Justificatif de revenu"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -938,11 +938,11 @@
     "type": "singleChoice",
     "options": [
       "L'ordre de réception",
-      "L'urgence et la nécessité financière",
       "Les connexions politiques",
+      "L'urgence et la nécessité financière",
       "L'ordre alphabétique"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_071",
@@ -950,12 +950,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Placement bancaire",
       "Investissement immobilier",
       "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
-      "Placement bancaire",
       "Commerce de produits religieux"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_072",
@@ -963,15 +963,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
+      "Taxes gouvernementales",
       "Zakat",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Dons volontaires"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -980,12 +980,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Les commerçants",
+      "Uniquement les riches",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_074",
@@ -1012,9 +1012,9 @@
     "type": "multipleChoice",
     "options": [
       "Volume élevé de demandes",
+      "Conformité réglementaire",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Gestion administrative complexe"
     ],
     "correctIndexes": [
       0,
@@ -1030,11 +1030,11 @@
     "type": "singleChoice",
     "options": [
       "Toujours",
-      "Jamais",
       "Sur demande justifiée",
+      "Jamais",
       "Seulement pour les couples"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_hard_078",
@@ -1042,12 +1042,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
       "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Emprunt auprès des banques",
+      "Augmentation des tarifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_079",
@@ -1055,15 +1055,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
+      "Antécédents médicaux",
       "Identité et résidence",
-      "Situation familiale",
-      "Antécédents médicaux"
+      "Justificatif de revenu",
+      "Situation familiale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1072,12 +1072,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'ordre alphabétique",
       "L'ordre de réception",
       "L'urgence et la nécessité financière",
-      "Les connexions politiques",
-      "L'ordre alphabétique"
+      "Les connexions politiques"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_081",
@@ -1085,10 +1085,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Investissement immobilier",
-      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
+      "Commerce de produits religieux",
+      "Investissement immobilier"
     ],
     "correctIndex": 1
   },
@@ -1098,15 +1098,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
       "Zakat",
+      "Taxes gouvernementales",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Dons volontaires"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1115,12 +1115,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
       "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
+      "Uniquement les riches",
       "Les commerçants"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_084",
@@ -1164,12 +1164,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Toujours",
-      "Jamais",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Jamais",
+      "Seulement pour les couples",
+      "Toujours"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_088",
@@ -1178,11 +1178,11 @@
     "type": "singleChoice",
     "options": [
       "Augmentation des tarifs",
+      "Emprunt auprès des banques",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
-      "Réduction des bénéficiaires",
-      "Emprunt auprès des banques"
+      "Réduction des bénéficiaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fonds_pelerinage_hard_089",
@@ -1191,14 +1191,14 @@
     "type": "multipleChoice",
     "options": [
       "Justificatif de revenu",
+      "Antécédents médicaux",
       "Identité et résidence",
-      "Situation familiale",
-      "Antécédents médicaux"
+      "Situation familiale"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1207,9 +1207,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'ordre de réception",
-      "L'urgence et la nécessité financière",
       "Les connexions politiques",
+      "L'urgence et la nécessité financière",
+      "L'ordre de réception",
       "L'ordre alphabétique"
     ],
     "correctIndex": 1
@@ -1220,12 +1220,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Commerce de produits religieux",
       "Investissement immobilier",
-      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus",
       "Placement bancaire",
-      "Commerce de produits religieux"
+      "Faciliter l'accès au pèlerinage pour les personnes à faibles revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_092",
@@ -1233,15 +1233,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Dons volontaires",
-      "Zakat",
       "Revenus d'investissements",
-      "Taxes gouvernementales"
+      "Taxes gouvernementales",
+      "Dons volontaires",
+      "Zakat"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1250,12 +1250,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Uniquement les riches",
-      "Les personnes dans l'incapacité financière d'effectuer le Hajj",
       "Les fonctionnaires",
-      "Les commerçants"
+      "Uniquement les riches",
+      "Les commerçants",
+      "Les personnes dans l'incapacité financière d'effectuer le Hajj"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fonds_pelerinage_hard_094",
@@ -1283,8 +1283,8 @@
     "options": [
       "Volume élevé de demandes",
       "Ressources financières limitées",
-      "Gestion administrative complexe",
-      "Conformité réglementaire"
+      "Conformité réglementaire",
+      "Gestion administrative complexe"
     ],
     "correctIndexes": [
       0,
@@ -1300,11 +1300,11 @@
     "type": "singleChoice",
     "options": [
       "Toujours",
-      "Jamais",
       "Sur demande justifiée",
-      "Seulement pour les couples"
+      "Seulement pour les couples",
+      "Jamais"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fonds_pelerinage_hard_098",
@@ -1312,12 +1312,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Augmentation des tarifs",
       "Gestion rigoureuse des ressources et réinvestissement des contributions",
+      "Augmentation des tarifs",
       "Réduction des bénéficiaires",
       "Emprunt auprès des banques"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fonds_pelerinage_hard_099",
@@ -1325,15 +1325,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Justificatif de revenu",
-      "Identité et résidence",
       "Situation familiale",
-      "Antécédents médicaux"
+      "Identité et résidence",
+      "Antécédents médicaux",
+      "Justificatif de revenu"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1343,10 +1343,10 @@
     "type": "singleChoice",
     "options": [
       "L'ordre de réception",
-      "L'urgence et la nécessité financière",
+      "L'ordre alphabétique",
       "Les connexions politiques",
-      "L'ordre alphabétique"
+      "L'urgence et la nécessité financière"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

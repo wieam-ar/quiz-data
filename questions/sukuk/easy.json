@@ -7,8 +7,8 @@
     "options": [
       "Capitalisation",
       "Propriété d'actifs",
-      "Créance",
-      "Prêt obligataire"
+      "Prêt obligataire",
+      "Créance"
     ],
     "correctIndex": 1
   },
@@ -36,9 +36,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Sukuk Musharaka",
       "Sukuk Murabaha",
       "Sukuk Ijara",
-      "Sukuk Musharaka",
       "Sukuk Forward"
     ],
     "correctIndexes": [
@@ -53,12 +53,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "L'Égypte",
-      "La Malaisie",
       "Le Bahreïn",
-      "L'Arabie Saoudite"
+      "L'Arabie Saoudite",
+      "L'Égypte",
+      "La Malaisie"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_006",
@@ -67,9 +67,9 @@
     "type": "multipleChoice",
     "options": [
       "De crédit",
-      "De taux d'échange",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De Charia (si la base devient haram)",
+      "De taux d'échange"
     ],
     "correctIndexes": [
       0,
@@ -84,12 +84,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
-      "Rembourser les anciens Sukuk",
       "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Financer des projets d'infrastructure",
+      "Tous les points ci-dessus",
+      "Rembourser les anciens Sukuk"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_008",
@@ -97,12 +97,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
       "Biens réels ou actions",
       "Obligations",
+      "Monnaie",
       "Créances"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_009",
@@ -111,14 +111,14 @@
     "type": "multipleChoice",
     "options": [
       "Les agences de notation internationales",
-      "Les Conseils Charia",
+      "Les banques centrales",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les Conseils Charia"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -127,12 +127,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
       "Une propriété ou un droit sur des actifs réels",
       "Un prêt",
+      "Une obligation classique",
       "Une action ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_011",
@@ -140,10 +140,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Évitent le Riba",
       "Sont conformes à la Charia",
-      "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Représentent une propriété d'actifs"
     ],
     "correctIndexes": [
       0,
@@ -158,12 +158,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
       "Des actifs loués par l'émetteur",
       "Des obligations de remboursement",
+      "Des matières premières",
       "Des actifs financiers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_013",
@@ -171,12 +171,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Un partenariat d'actifs",
       "Un partenariat",
       "Une vente avec markup révélé",
-      "Un prêt",
-      "Un partenariat d'actifs"
+      "Un prêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_014",
@@ -184,12 +184,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Des obligataires",
       "Des créanciers",
-      "Des partenaires dans une entreprise ou une venture",
       "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des partenaires dans une entreprise ou une venture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_015",
@@ -197,10 +197,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Offre une liquidité aux investisseurs",
-      "Permet la négociation des Sukuk",
       "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Offre une liquidité aux investisseurs",
+      "Est moins développé que celui des obligations",
+      "Permet la négociation des Sukuk"
     ],
     "correctIndexes": [
       0,
@@ -215,10 +215,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "De Charia (si la base devient haram)",
       "De crédit",
       "De taux d'échange",
-      "De marché",
-      "De Charia (si la base devient haram)"
+      "De marché"
     ],
     "correctIndexes": [
       0,
@@ -233,8 +233,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
       "Rembourser les anciens Sukuk",
+      "Financer des projets d'infrastructure",
       "Augmenter la liquidité",
       "Tous les points ci-dessus"
     ],
@@ -247,11 +247,11 @@
     "type": "singleChoice",
     "options": [
       "Monnaie",
+      "Créances",
       "Biens réels ou actions",
-      "Obligations",
-      "Créances"
+      "Obligations"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_019",
@@ -259,15 +259,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les agences de notation internationales",
-      "Les Conseils Charia",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les banques centrales",
+      "Les agences de notation internationales",
+      "Les Conseils Charia"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -277,11 +277,11 @@
     "type": "singleChoice",
     "options": [
       "Une obligation classique",
+      "Une action ordinaire",
       "Une propriété ou un droit sur des actifs réels",
-      "Un prêt",
-      "Une action ordinaire"
+      "Un prêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_021",
@@ -289,8 +289,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
       "Représentent une propriété d'actifs",
+      "Sont conformes à la Charia",
       "Génèrent des rendements basés sur les revenus réels",
       "Évitent le Riba"
     ],
@@ -307,12 +307,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
-      "Des actifs loués par l'émetteur",
+      "Des actifs financiers",
       "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des matières premières",
+      "Des actifs loués par l'émetteur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_023",
@@ -320,12 +320,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
-      "Une vente avec markup révélé",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat",
+      "Un partenariat d'actifs",
+      "Une vente avec markup révélé"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_024",
@@ -333,12 +333,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des créanciers",
       "Des partenaires dans une entreprise ou une venture",
+      "Des créanciers",
       "Des actionnaires d'une banque",
       "Des obligataires"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_025",
@@ -346,10 +346,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Offre une liquidité aux investisseurs",
       "Permet la négociation des Sukuk",
-      "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Offre une liquidité aux investisseurs",
+      "Est moins développé que celui des obligations",
+      "Est régulé par la Charia"
     ],
     "correctIndexes": [
       0,
@@ -364,10 +364,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "De crédit",
-      "De taux d'échange",
+      "De Charia (si la base devient haram)",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De taux d'échange",
+      "De crédit"
     ],
     "correctIndexes": [
       0,
@@ -383,8 +383,8 @@
     "type": "singleChoice",
     "options": [
       "Financer des projets d'infrastructure",
-      "Rembourser les anciens Sukuk",
       "Augmenter la liquidité",
+      "Rembourser les anciens Sukuk",
       "Tous les points ci-dessus"
     ],
     "correctIndex": 3
@@ -396,11 +396,11 @@
     "type": "singleChoice",
     "options": [
       "Monnaie",
+      "Créances",
       "Biens réels ou actions",
-      "Obligations",
-      "Créances"
+      "Obligations"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_029",
@@ -409,8 +409,8 @@
     "type": "multipleChoice",
     "options": [
       "Les agences de notation internationales",
-      "Les Conseils Charia",
       "Les auditeurs",
+      "Les Conseils Charia",
       "Les banques centrales"
     ],
     "correctIndexes": [
@@ -425,12 +425,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
-      "Une propriété ou un droit sur des actifs réels",
+      "Une action ordinaire",
       "Un prêt",
-      "Une action ordinaire"
+      "Une propriété ou un droit sur des actifs réels",
+      "Une obligation classique"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_031",
@@ -438,10 +438,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Évitent le Riba",
       "Sont conformes à la Charia",
-      "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Représentent une propriété d'actifs"
     ],
     "correctIndexes": [
       0,
@@ -469,10 +469,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
-      "Une vente avec markup révélé",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Une vente avec markup révélé",
+      "Un partenariat d'actifs",
+      "Un partenariat"
     ],
     "correctIndex": 1
   },
@@ -482,12 +482,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des créanciers",
-      "Des partenaires dans une entreprise ou une venture",
       "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des créanciers",
+      "Des obligataires",
+      "Des partenaires dans une entreprise ou une venture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_035",
@@ -513,10 +513,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "De crédit",
-      "De taux d'échange",
+      "De Charia (si la base devient haram)",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De taux d'échange",
+      "De crédit"
     ],
     "correctIndexes": [
       0,
@@ -532,11 +532,11 @@
     "type": "singleChoice",
     "options": [
       "Financer des projets d'infrastructure",
+      "Tous les points ci-dessus",
       "Rembourser les anciens Sukuk",
-      "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Augmenter la liquidité"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "sukuk_easy_038",
@@ -545,11 +545,11 @@
     "type": "singleChoice",
     "options": [
       "Monnaie",
-      "Biens réels ou actions",
       "Obligations",
+      "Biens réels ou actions",
       "Créances"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_039",
@@ -557,15 +557,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les agences de notation internationales",
-      "Les Conseils Charia",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les Conseils Charia",
+      "Les banques centrales",
+      "Les agences de notation internationales"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -574,12 +574,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
       "Une propriété ou un droit sur des actifs réels",
+      "Une action ordinaire",
       "Un prêt",
-      "Une action ordinaire"
+      "Une obligation classique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_041",
@@ -587,10 +587,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
-      "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Représentent une propriété d'actifs",
+      "Évitent le Riba",
+      "Sont conformes à la Charia"
     ],
     "correctIndexes": [
       0,
@@ -605,12 +605,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
       "Des actifs loués par l'émetteur",
-      "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des matières premières",
+      "Des actifs financiers",
+      "Des obligations de remboursement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_043",
@@ -618,12 +618,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
       "Une vente avec markup révélé",
-      "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat d'actifs",
+      "Un partenariat",
+      "Un prêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_044",
@@ -632,11 +632,11 @@
     "type": "singleChoice",
     "options": [
       "Des créanciers",
-      "Des partenaires dans une entreprise ou une venture",
       "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des obligataires",
+      "Des partenaires dans une entreprise ou une venture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_045",
@@ -646,8 +646,8 @@
     "options": [
       "Offre une liquidité aux investisseurs",
       "Permet la négociation des Sukuk",
-      "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Est moins développé que celui des obligations",
+      "Est régulé par la Charia"
     ],
     "correctIndexes": [
       0,
@@ -662,8 +662,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "De crédit",
       "De taux d'échange",
+      "De crédit",
       "De marché",
       "De Charia (si la base devient haram)"
     ],
@@ -680,12 +680,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
-      "Rembourser les anciens Sukuk",
+      "Tous les points ci-dessus",
       "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Rembourser les anciens Sukuk",
+      "Financer des projets d'infrastructure"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_048",
@@ -693,12 +693,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
-      "Biens réels ou actions",
       "Obligations",
-      "Créances"
+      "Créances",
+      "Biens réels ou actions",
+      "Monnaie"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_049",
@@ -706,15 +706,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les banques centrales",
       "Les agences de notation internationales",
       "Les Conseils Charia",
-      "Les auditeurs",
-      "Les banques centrales"
+      "Les auditeurs"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -723,12 +723,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
       "Une propriété ou un droit sur des actifs réels",
       "Un prêt",
+      "Une obligation classique",
       "Une action ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_051",
@@ -736,10 +736,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
       "Représentent une propriété d'actifs",
+      "Évitent le Riba",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Sont conformes à la Charia"
     ],
     "correctIndexes": [
       0,
@@ -754,12 +754,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
-      "Des actifs loués par l'émetteur",
+      "Des actifs financiers",
       "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des actifs loués par l'émetteur",
+      "Des matières premières"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_053",
@@ -768,11 +768,11 @@
     "type": "singleChoice",
     "options": [
       "Un partenariat",
-      "Une vente avec markup révélé",
+      "Un partenariat d'actifs",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Une vente avec markup révélé"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_054",
@@ -780,12 +780,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des créanciers",
       "Des partenaires dans une entreprise ou une venture",
+      "Des obligataires",
       "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des créanciers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_055",
@@ -794,9 +794,9 @@
     "type": "multipleChoice",
     "options": [
       "Offre une liquidité aux investisseurs",
-      "Permet la négociation des Sukuk",
       "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Est moins développé que celui des obligations",
+      "Permet la négociation des Sukuk"
     ],
     "correctIndexes": [
       0,
@@ -812,9 +812,9 @@
     "type": "multipleChoice",
     "options": [
       "De crédit",
-      "De taux d'échange",
+      "De Charia (si la base devient haram)",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De taux d'échange"
     ],
     "correctIndexes": [
       0,
@@ -829,12 +829,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
       "Rembourser les anciens Sukuk",
       "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Tous les points ci-dessus",
+      "Financer des projets d'infrastructure"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_058",
@@ -842,12 +842,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
       "Biens réels ou actions",
+      "Créances",
       "Obligations",
-      "Créances"
+      "Monnaie"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_059",
@@ -855,15 +855,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les agences de notation internationales",
-      "Les Conseils Charia",
+      "Les banques centrales",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les Conseils Charia",
+      "Les agences de notation internationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -872,12 +872,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
       "Une propriété ou un droit sur des actifs réels",
+      "Une action ordinaire",
       "Un prêt",
-      "Une action ordinaire"
+      "Une obligation classique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_061",
@@ -885,10 +885,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Évitent le Riba",
       "Sont conformes à la Charia",
-      "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Représentent une propriété d'actifs"
     ],
     "correctIndexes": [
       0,
@@ -904,11 +904,11 @@
     "type": "singleChoice",
     "options": [
       "Des matières premières",
-      "Des actifs loués par l'émetteur",
       "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des actifs financiers",
+      "Des actifs loués par l'émetteur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_063",
@@ -916,12 +916,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
-      "Une vente avec markup révélé",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat d'actifs",
+      "Un partenariat",
+      "Une vente avec markup révélé"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_064",
@@ -931,8 +931,8 @@
     "options": [
       "Des créanciers",
       "Des partenaires dans une entreprise ou une venture",
-      "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des obligataires",
+      "Des actionnaires d'une banque"
     ],
     "correctIndex": 1
   },
@@ -942,10 +942,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Offre une liquidité aux investisseurs",
-      "Permet la négociation des Sukuk",
       "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Offre une liquidité aux investisseurs",
+      "Est moins développé que celui des obligations",
+      "Permet la négociation des Sukuk"
     ],
     "correctIndexes": [
       0,
@@ -960,10 +960,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "De crédit",
-      "De taux d'échange",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De crédit",
+      "De Charia (si la base devient haram)",
+      "De taux d'échange"
     ],
     "correctIndexes": [
       0,
@@ -978,12 +978,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
+      "Tous les points ci-dessus",
       "Rembourser les anciens Sukuk",
-      "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Financer des projets d'infrastructure",
+      "Augmenter la liquidité"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_068",
@@ -991,10 +991,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
+      "Créances",
       "Biens réels ou actions",
-      "Obligations",
-      "Créances"
+      "Monnaie",
+      "Obligations"
     ],
     "correctIndex": 1
   },
@@ -1005,14 +1005,14 @@
     "type": "multipleChoice",
     "options": [
       "Les agences de notation internationales",
+      "Les banques centrales",
       "Les Conseils Charia",
-      "Les auditeurs",
-      "Les banques centrales"
+      "Les auditeurs"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1021,12 +1021,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Une action ordinaire",
       "Une obligation classique",
-      "Une propriété ou un droit sur des actifs réels",
       "Un prêt",
-      "Une action ordinaire"
+      "Une propriété ou un droit sur des actifs réels"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_071",
@@ -1034,10 +1034,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
-      "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Représentent une propriété d'actifs",
+      "Évitent le Riba",
+      "Sont conformes à la Charia"
     ],
     "correctIndexes": [
       0,
@@ -1052,12 +1052,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Des actifs financiers",
       "Des matières premières",
       "Des actifs loués par l'émetteur",
-      "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des obligations de remboursement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_073",
@@ -1065,10 +1065,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
+      "Un partenariat d'actifs",
       "Une vente avec markup révélé",
-      "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat",
+      "Un prêt"
     ],
     "correctIndex": 1
   },
@@ -1078,12 +1078,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des créanciers",
       "Des partenaires dans une entreprise ou une venture",
-      "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des créanciers",
+      "Des obligataires",
+      "Des actionnaires d'une banque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_075",
@@ -1091,10 +1091,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Offre une liquidité aux investisseurs",
-      "Permet la négociation des Sukuk",
+      "Est moins développé que celui des obligations",
       "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Offre une liquidité aux investisseurs",
+      "Permet la négociation des Sukuk"
     ],
     "correctIndexes": [
       0,
@@ -1110,9 +1110,9 @@
     "type": "multipleChoice",
     "options": [
       "De crédit",
-      "De taux d'échange",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De Charia (si la base devient haram)",
+      "De taux d'échange"
     ],
     "correctIndexes": [
       0,
@@ -1127,9 +1127,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Augmenter la liquidité",
       "Financer des projets d'infrastructure",
       "Rembourser les anciens Sukuk",
-      "Augmenter la liquidité",
       "Tous les points ci-dessus"
     ],
     "correctIndex": 3
@@ -1140,12 +1140,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
-      "Biens réels ou actions",
       "Obligations",
-      "Créances"
+      "Créances",
+      "Monnaie",
+      "Biens réels ou actions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_079",
@@ -1153,15 +1153,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les agences de notation internationales",
-      "Les Conseils Charia",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les agences de notation internationales",
+      "Les banques centrales",
+      "Les Conseils Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1170,9 +1170,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
-      "Une propriété ou un droit sur des actifs réels",
       "Un prêt",
+      "Une propriété ou un droit sur des actifs réels",
+      "Une obligation classique",
       "Une action ordinaire"
     ],
     "correctIndex": 1
@@ -1183,10 +1183,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
+      "Évitent le Riba",
       "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Sont conformes à la Charia"
     ],
     "correctIndexes": [
       0,
@@ -1201,10 +1201,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
-      "Des actifs loués par l'émetteur",
       "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des actifs loués par l'émetteur",
+      "Des actifs financiers",
+      "Des matières premières"
     ],
     "correctIndex": 1
   },
@@ -1214,12 +1214,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
-      "Une vente avec markup révélé",
+      "Un partenariat d'actifs",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat",
+      "Une vente avec markup révélé"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_084",
@@ -1228,11 +1228,11 @@
     "type": "singleChoice",
     "options": [
       "Des créanciers",
+      "Des obligataires",
       "Des partenaires dans une entreprise ou une venture",
-      "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des actionnaires d'une banque"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_085",
@@ -1258,10 +1258,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "De Charia (si la base devient haram)",
       "De crédit",
-      "De taux d'échange",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De taux d'échange"
     ],
     "correctIndexes": [
       0,
@@ -1276,12 +1276,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
-      "Rembourser les anciens Sukuk",
       "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Rembourser les anciens Sukuk",
+      "Tous les points ci-dessus",
+      "Financer des projets d'infrastructure"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_088",
@@ -1289,12 +1289,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
       "Biens réels ou actions",
+      "Créances",
       "Obligations",
-      "Créances"
+      "Monnaie"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_089",
@@ -1302,15 +1302,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les agences de notation internationales",
-      "Les Conseils Charia",
       "Les auditeurs",
-      "Les banques centrales"
+      "Les banques centrales",
+      "Les agences de notation internationales",
+      "Les Conseils Charia"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1319,12 +1319,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Un prêt",
       "Une obligation classique",
       "Une propriété ou un droit sur des actifs réels",
-      "Un prêt",
       "Une action ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "sukuk_easy_091",
@@ -1332,10 +1332,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sont conformes à la Charia",
+      "Évitent le Riba",
       "Représentent une propriété d'actifs",
       "Génèrent des rendements basés sur les revenus réels",
-      "Évitent le Riba"
+      "Sont conformes à la Charia"
     ],
     "correctIndexes": [
       0,
@@ -1350,12 +1350,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des matières premières",
-      "Des actifs loués par l'émetteur",
+      "Des actifs financiers",
       "Des obligations de remboursement",
-      "Des actifs financiers"
+      "Des matières premières",
+      "Des actifs loués par l'émetteur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_093",
@@ -1363,12 +1363,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un partenariat",
-      "Une vente avec markup révélé",
+      "Un partenariat d'actifs",
       "Un prêt",
-      "Un partenariat d'actifs"
+      "Un partenariat",
+      "Une vente avec markup révélé"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_094",
@@ -1376,10 +1376,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Des créanciers",
-      "Des partenaires dans une entreprise ou une venture",
       "Des actionnaires d'une banque",
-      "Des obligataires"
+      "Des partenaires dans une entreprise ou une venture",
+      "Des obligataires",
+      "Des créanciers"
     ],
     "correctIndex": 1
   },
@@ -1390,9 +1390,9 @@
     "type": "multipleChoice",
     "options": [
       "Offre une liquidité aux investisseurs",
-      "Permet la négociation des Sukuk",
+      "Est moins développé que celui des obligations",
       "Est régulé par la Charia",
-      "Est moins développé que celui des obligations"
+      "Permet la négociation des Sukuk"
     ],
     "correctIndexes": [
       0,
@@ -1407,10 +1407,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "De crédit",
       "De taux d'échange",
+      "De Charia (si la base devient haram)",
       "De marché",
-      "De Charia (si la base devient haram)"
+      "De crédit"
     ],
     "correctIndexes": [
       0,
@@ -1425,12 +1425,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Financer des projets d'infrastructure",
+      "Tous les points ci-dessus",
       "Rembourser les anciens Sukuk",
       "Augmenter la liquidité",
-      "Tous les points ci-dessus"
+      "Financer des projets d'infrastructure"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "sukuk_easy_098",
@@ -1438,12 +1438,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Monnaie",
-      "Biens réels ou actions",
+      "Créances",
       "Obligations",
-      "Créances"
+      "Monnaie",
+      "Biens réels ou actions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "sukuk_easy_099",
@@ -1451,15 +1451,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les banques centrales",
       "Les agences de notation internationales",
       "Les Conseils Charia",
-      "Les auditeurs",
-      "Les banques centrales"
+      "Les auditeurs"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1468,10 +1468,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une obligation classique",
+      "Une action ordinaire",
       "Une propriété ou un droit sur des actifs réels",
-      "Un prêt",
-      "Une action ordinaire"
+      "Une obligation classique",
+      "Un prêt"
     ],
     "correctIndex": 1
   }

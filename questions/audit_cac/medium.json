@@ -5,12 +5,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Évaluation du risque",
       "Collecte de données",
-      "Revue analytique",
-      "Tests détaillés"
+      "Évaluation du risque",
+      "Tests détaillés",
+      "Revue analytique"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "audit_cac_medium_002",
@@ -18,15 +18,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Suivi perpétuel",
       "Planification",
-      "Exécution",
       "Rapportage",
-      "Suivi perpétuel"
+      "Exécution"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -53,10 +53,10 @@
     "level": "medium",
     "type": "dropdown",
     "options": [
+      "Grande entreprise",
       "Petite entreprise",
-      "Deux critères",
       "Trois critères",
-      "Grande entreprise"
+      "Deux critères"
     ],
     "correctIndex": 2
   },
@@ -67,11 +67,11 @@
     "type": "singleChoice",
     "options": [
       "Certains documents",
-      "Tous les documents et registres",
       "Les documents publics",
-      "Les documents externes"
+      "Les documents externes",
+      "Tous les documents et registres"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_007",
@@ -79,15 +79,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
       "Fraude détectée",
-      "Violations légales",
-      "Mauvaise gestion"
+      "Irrégularités graves",
+      "Mauvaise gestion",
+      "Violations légales"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -96,12 +96,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
-      "Les pertes mineures"
+      "Les pertes minimes",
+      "Les pertes mineures",
+      "Toute perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_009",
@@ -109,10 +109,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
       "Compétent",
       "Honnête",
-      "Rigoureux"
+      "Rigoureux",
+      "Indépendant"
     ],
     "correctIndexes": [
       0,
@@ -144,10 +144,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
-      "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement"
     ],
     "correctIndex": 1
   },
@@ -159,8 +159,8 @@
     "options": [
       "La direction seule",
       "L'assemblée générale des actionnaires",
-      "L'État uniquement",
-      "Les employés"
+      "Les employés",
+      "L'État uniquement"
     ],
     "correctIndex": 1
   },
@@ -171,11 +171,11 @@
     "type": "singleChoice",
     "options": [
       "1 an",
-      "3 ans",
       "5 ans",
-      "10 ans"
+      "10 ans",
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_014",
@@ -183,10 +183,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
+      "Les actionnaires",
       "L'entreprise auditée (autres que l'audit)",
       "Les concurrents",
-      "Les actionnaires"
+      "Les auditeurs internes"
     ],
     "correctIndexes": [
       1,
@@ -199,10 +199,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
       "Le compte de résultat",
-      "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Les procès-verbaux des réunions",
+      "Le bilan",
+      "Le livre journal"
     ],
     "correctIndexes": [
       0,
@@ -217,12 +217,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
       "Tous les documents et registres",
+      "Certains documents",
       "Les documents publics",
       "Les documents externes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_017",
@@ -230,15 +230,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
       "Violations légales",
-      "Mauvaise gestion"
+      "Fraude détectée",
+      "Mauvaise gestion",
+      "Irrégularités graves"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -249,8 +249,8 @@
     "options": [
       "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
-      "Les pertes mineures"
+      "Les pertes mineures",
+      "Toute perte"
     ],
     "correctIndex": 1
   },
@@ -260,10 +260,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
+      "Rigoureux",
       "Compétent",
-      "Honnête",
-      "Rigoureux"
+      "Indépendant",
+      "Honnête"
     ],
     "correctIndexes": [
       0,
@@ -321,9 +321,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
-      "3 ans",
       "5 ans",
+      "3 ans",
+      "1 an",
       "10 ans"
     ],
     "correctIndex": 1
@@ -334,13 +334,13 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
       "L'entreprise auditée (autres que l'audit)",
+      "Les actionnaires",
       "Les concurrents",
-      "Les actionnaires"
+      "Les auditeurs internes"
     ],
     "correctIndexes": [
-      1,
+      0,
       2
     ]
   },
@@ -350,10 +350,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
       "Le compte de résultat",
       "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Les procès-verbaux des réunions",
+      "Le bilan"
     ],
     "correctIndexes": [
       0,
@@ -381,15 +381,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
       "Violations légales",
-      "Mauvaise gestion"
+      "Mauvaise gestion",
+      "Fraude détectée",
+      "Irrégularités graves"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -398,10 +398,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les pertes minimes",
+      "Les pertes mineures",
       "Les erreurs de négligence grave",
-      "Toute perte",
-      "Les pertes mineures"
+      "Les pertes minimes",
+      "Toute perte"
     ],
     "correctIndex": 1
   },
@@ -411,10 +411,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
-      "Compétent",
       "Honnête",
-      "Rigoureux"
+      "Rigoureux",
+      "Compétent",
+      "Indépendant"
     ],
     "correctIndexes": [
       0,
@@ -429,15 +429,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
       "Évaluer la qualité de gestion",
       "Vérifier la conformité légale",
-      "Superviser le management"
+      "Superviser le management",
+      "Certifier les comptes annuels"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -459,12 +459,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La direction seule",
       "L'assemblée générale des actionnaires",
-      "L'État uniquement",
-      "Les employés"
+      "Les employés",
+      "La direction seule",
+      "L'État uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_033",
@@ -472,12 +472,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
       "3 ans",
-      "5 ans",
-      "10 ans"
+      "1 an",
+      "10 ans",
+      "5 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_034",
@@ -485,14 +485,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
-      "L'entreprise auditée (autres que l'audit)",
       "Les concurrents",
-      "Les actionnaires"
+      "Les auditeurs internes",
+      "Les actionnaires",
+      "L'entreprise auditée (autres que l'audit)"
     ],
     "correctIndexes": [
-      1,
-      2
+      0,
+      3
     ]
   },
   {
@@ -501,10 +501,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
+      "Les procès-verbaux des réunions",
       "Le compte de résultat",
-      "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Le bilan",
+      "Le livre journal"
     ],
     "correctIndexes": [
       0,
@@ -519,10 +519,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
+      "Les documents externes",
       "Tous les documents et registres",
       "Les documents publics",
-      "Les documents externes"
+      "Certains documents"
     ],
     "correctIndex": 1
   },
@@ -532,15 +532,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
+      "Mauvaise gestion",
       "Violations légales",
-      "Mauvaise gestion"
+      "Irrégularités graves",
+      "Fraude détectée"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -549,10 +549,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les pertes minimes",
+      "Les pertes mineures",
       "Les erreurs de négligence grave",
-      "Toute perte",
-      "Les pertes mineures"
+      "Les pertes minimes",
+      "Toute perte"
     ],
     "correctIndex": 1
   },
@@ -562,8 +562,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
       "Compétent",
+      "Indépendant",
       "Honnête",
       "Rigoureux"
     ],
@@ -580,15 +580,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
-      "Évaluer la qualité de gestion",
       "Vérifier la conformité légale",
-      "Superviser le management"
+      "Évaluer la qualité de gestion",
+      "Superviser le management",
+      "Certifier les comptes annuels"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -597,12 +597,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
       "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_042",
@@ -610,12 +610,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La direction seule",
       "L'assemblée générale des actionnaires",
-      "L'État uniquement",
-      "Les employés"
+      "Les employés",
+      "La direction seule",
+      "L'État uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_043",
@@ -623,12 +623,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "10 ans",
       "1 an",
-      "3 ans",
       "5 ans",
-      "10 ans"
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_044",
@@ -636,14 +636,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
       "L'entreprise auditée (autres que l'audit)",
       "Les concurrents",
-      "Les actionnaires"
+      "Les actionnaires",
+      "Les auditeurs internes"
     ],
     "correctIndexes": [
-      1,
-      2
+      0,
+      1
     ]
   },
   {
@@ -654,8 +654,8 @@
     "options": [
       "Le bilan",
       "Le compte de résultat",
-      "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Les procès-verbaux des réunions",
+      "Le livre journal"
     ],
     "correctIndexes": [
       0,
@@ -670,10 +670,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
+      "Les documents externes",
       "Tous les documents et registres",
-      "Les documents publics",
-      "Les documents externes"
+      "Certains documents",
+      "Les documents publics"
     ],
     "correctIndex": 1
   },
@@ -683,15 +683,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
       "Violations légales",
-      "Mauvaise gestion"
+      "Irrégularités graves",
+      "Mauvaise gestion",
+      "Fraude détectée"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -700,12 +700,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les pertes mineures",
       "Les pertes minimes",
-      "Les erreurs de négligence grave",
       "Toute perte",
-      "Les pertes mineures"
+      "Les erreurs de négligence grave"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_049",
@@ -713,10 +713,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
+      "Rigoureux",
       "Compétent",
-      "Honnête",
-      "Rigoureux"
+      "Indépendant",
+      "Honnête"
     ],
     "correctIndexes": [
       0,
@@ -731,8 +731,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
       "Évaluer la qualité de gestion",
+      "Certifier les comptes annuels",
       "Vérifier la conformité légale",
       "Superviser le management"
     ],
@@ -748,10 +748,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
-      "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement"
     ],
     "correctIndex": 1
   },
@@ -761,12 +761,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La direction seule",
       "L'assemblée générale des actionnaires",
+      "Les employés",
       "L'État uniquement",
-      "Les employés"
+      "La direction seule"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_053",
@@ -774,12 +774,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
-      "3 ans",
       "5 ans",
-      "10 ans"
+      "10 ans",
+      "3 ans",
+      "1 an"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_054",
@@ -787,14 +787,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
-      "L'entreprise auditée (autres que l'audit)",
+      "Les actionnaires",
       "Les concurrents",
-      "Les actionnaires"
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)"
     ],
     "correctIndexes": [
       1,
-      2
+      3
     ]
   },
   {
@@ -803,10 +803,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
-      "Le compte de résultat",
       "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Les procès-verbaux des réunions",
+      "Le compte de résultat",
+      "Le bilan"
     ],
     "correctIndexes": [
       0,
@@ -821,12 +821,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
-      "Tous les documents et registres",
       "Les documents publics",
-      "Les documents externes"
+      "Les documents externes",
+      "Tous les documents et registres",
+      "Certains documents"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_057",
@@ -834,15 +834,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
       "Violations légales",
-      "Mauvaise gestion"
+      "Fraude détectée",
+      "Mauvaise gestion",
+      "Irrégularités graves"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -851,12 +851,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Toute perte",
       "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
       "Les pertes mineures"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_059",
@@ -866,8 +866,8 @@
     "options": [
       "Indépendant",
       "Compétent",
-      "Honnête",
-      "Rigoureux"
+      "Rigoureux",
+      "Honnête"
     ],
     "correctIndexes": [
       0,
@@ -882,15 +882,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
+      "Superviser le management",
       "Évaluer la qualité de gestion",
-      "Vérifier la conformité légale",
-      "Superviser le management"
+      "Certifier les comptes annuels",
+      "Vérifier la conformité légale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -899,12 +899,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Diriger l'entreprise",
       "Conseiller le dirigeant uniquement",
       "Certifier la régularité et la sincérité des comptes",
-      "Diriger l'entreprise",
       "Embaucher le personnel"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_062",
@@ -913,11 +913,11 @@
     "type": "singleChoice",
     "options": [
       "La direction seule",
+      "Les employés",
       "L'assemblée générale des actionnaires",
-      "L'État uniquement",
-      "Les employés"
+      "L'État uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_063",
@@ -925,12 +925,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
       "3 ans",
+      "10 ans",
       "5 ans",
-      "10 ans"
+      "1 an"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_064",
@@ -938,13 +938,13 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
       "L'entreprise auditée (autres que l'audit)",
+      "Les auditeurs internes",
       "Les concurrents",
       "Les actionnaires"
     ],
     "correctIndexes": [
-      1,
+      0,
       2
     ]
   },
@@ -954,10 +954,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
-      "Le compte de résultat",
+      "Les procès-verbaux des réunions",
       "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Le bilan",
+      "Le compte de résultat"
     ],
     "correctIndexes": [
       0,
@@ -972,12 +972,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
       "Tous les documents et registres",
-      "Les documents publics",
-      "Les documents externes"
+      "Les documents externes",
+      "Certains documents",
+      "Les documents publics"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_067",
@@ -985,15 +985,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
+      "Mauvaise gestion",
       "Fraude détectée",
-      "Violations légales",
-      "Mauvaise gestion"
+      "Irrégularités graves",
+      "Violations légales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1002,12 +1002,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les pertes minimes",
-      "Les erreurs de négligence grave",
+      "Les pertes mineures",
       "Toute perte",
-      "Les pertes mineures"
+      "Les erreurs de négligence grave",
+      "Les pertes minimes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_069",
@@ -1015,10 +1015,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
       "Compétent",
       "Honnête",
-      "Rigoureux"
+      "Rigoureux",
+      "Indépendant"
     ],
     "correctIndexes": [
       0,
@@ -1033,15 +1033,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
       "Évaluer la qualité de gestion",
-      "Vérifier la conformité légale",
-      "Superviser le management"
+      "Certifier les comptes annuels",
+      "Superviser le management",
+      "Vérifier la conformité légale"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1050,12 +1050,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
       "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_072",
@@ -1063,12 +1063,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "L'État uniquement",
       "La direction seule",
       "L'assemblée générale des actionnaires",
-      "L'État uniquement",
       "Les employés"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_073",
@@ -1076,12 +1076,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
-      "3 ans",
       "5 ans",
-      "10 ans"
+      "10 ans",
+      "1 an",
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_074",
@@ -1089,14 +1089,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
       "L'entreprise auditée (autres que l'audit)",
       "Les concurrents",
+      "Les auditeurs internes",
       "Les actionnaires"
     ],
     "correctIndexes": [
-      1,
-      2
+      0,
+      1
     ]
   },
   {
@@ -1107,8 +1107,8 @@
     "options": [
       "Le bilan",
       "Le compte de résultat",
-      "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Les procès-verbaux des réunions",
+      "Le livre journal"
     ],
     "correctIndexes": [
       0,
@@ -1123,12 +1123,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
-      "Tous les documents et registres",
+      "Les documents externes",
       "Les documents publics",
-      "Les documents externes"
+      "Certains documents",
+      "Tous les documents et registres"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_077",
@@ -1136,9 +1136,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
       "Fraude détectée",
       "Violations légales",
+      "Irrégularités graves",
       "Mauvaise gestion"
     ],
     "correctIndexes": [
@@ -1153,12 +1153,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
-      "Les pertes mineures"
+      "Les pertes minimes",
+      "Les pertes mineures",
+      "Toute perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_079",
@@ -1166,8 +1166,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
       "Compétent",
+      "Indépendant",
       "Honnête",
       "Rigoureux"
     ],
@@ -1184,15 +1184,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
-      "Évaluer la qualité de gestion",
       "Vérifier la conformité légale",
-      "Superviser le management"
+      "Évaluer la qualité de gestion",
+      "Superviser le management",
+      "Certifier les comptes annuels"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1201,12 +1201,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
-      "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement",
+      "Certifier la régularité et la sincérité des comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_082",
@@ -1215,11 +1215,11 @@
     "type": "singleChoice",
     "options": [
       "La direction seule",
-      "L'assemblée générale des actionnaires",
       "L'État uniquement",
-      "Les employés"
+      "Les employés",
+      "L'assemblée générale des actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_083",
@@ -1227,12 +1227,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
-      "3 ans",
+      "10 ans",
       "5 ans",
-      "10 ans"
+      "1 an",
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_cac_medium_084",
@@ -1240,14 +1240,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
-      "L'entreprise auditée (autres que l'audit)",
       "Les concurrents",
-      "Les actionnaires"
+      "Les actionnaires",
+      "Les auditeurs internes",
+      "L'entreprise auditée (autres que l'audit)"
     ],
     "correctIndexes": [
-      1,
-      2
+      0,
+      3
     ]
   },
   {
@@ -1256,10 +1256,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les procès-verbaux des réunions",
       "Le bilan",
       "Le compte de résultat",
-      "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Le livre journal"
     ],
     "correctIndexes": [
       0,
@@ -1274,12 +1274,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Certains documents",
-      "Tous les documents et registres",
       "Les documents publics",
-      "Les documents externes"
+      "Les documents externes",
+      "Tous les documents et registres",
+      "Certains documents"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_087",
@@ -1287,15 +1287,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
-      "Fraude détectée",
+      "Mauvaise gestion",
       "Violations légales",
-      "Mauvaise gestion"
+      "Fraude détectée",
+      "Irrégularités graves"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1304,12 +1304,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Toute perte",
       "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
       "Les pertes mineures"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_089",
@@ -1318,9 +1318,9 @@
     "type": "multipleChoice",
     "options": [
       "Indépendant",
-      "Compétent",
       "Honnête",
-      "Rigoureux"
+      "Rigoureux",
+      "Compétent"
     ],
     "correctIndexes": [
       0,
@@ -1335,8 +1335,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes annuels",
       "Évaluer la qualité de gestion",
+      "Certifier les comptes annuels",
       "Vérifier la conformité légale",
       "Superviser le management"
     ],
@@ -1352,10 +1352,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Conseiller le dirigeant uniquement",
-      "Certifier la régularité et la sincérité des comptes",
       "Diriger l'entreprise",
-      "Embaucher le personnel"
+      "Certifier la régularité et la sincérité des comptes",
+      "Embaucher le personnel",
+      "Conseiller le dirigeant uniquement"
     ],
     "correctIndex": 1
   },
@@ -1365,12 +1365,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La direction seule",
       "L'assemblée générale des actionnaires",
+      "La direction seule",
       "L'État uniquement",
       "Les employés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_cac_medium_093",
@@ -1378,10 +1378,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
+      "10 ans",
       "3 ans",
-      "5 ans",
-      "10 ans"
+      "1 an",
+      "5 ans"
     ],
     "correctIndex": 1
   },
@@ -1391,14 +1391,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les auditeurs internes",
       "L'entreprise auditée (autres que l'audit)",
-      "Les concurrents",
-      "Les actionnaires"
+      "Les auditeurs internes",
+      "Les actionnaires",
+      "Les concurrents"
     ],
     "correctIndexes": [
-      1,
-      2
+      0,
+      3
     ]
   },
   {
@@ -1407,10 +1407,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bilan",
-      "Le compte de résultat",
       "Le livre journal",
-      "Les procès-verbaux des réunions"
+      "Le bilan",
+      "Les procès-verbaux des réunions",
+      "Le compte de résultat"
     ],
     "correctIndexes": [
       0,
@@ -1426,11 +1426,11 @@
     "type": "singleChoice",
     "options": [
       "Certains documents",
-      "Tous les documents et registres",
       "Les documents publics",
+      "Tous les documents et registres",
       "Les documents externes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_097",
@@ -1438,15 +1438,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Irrégularités graves",
       "Fraude détectée",
       "Violations légales",
-      "Mauvaise gestion"
+      "Mauvaise gestion",
+      "Irrégularités graves"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1455,12 +1455,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Toute perte",
       "Les pertes minimes",
       "Les erreurs de négligence grave",
-      "Toute perte",
       "Les pertes mineures"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_cac_medium_099",
@@ -1468,10 +1468,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Indépendant",
       "Compétent",
+      "Rigoureux",
       "Honnête",
-      "Rigoureux"
+      "Indépendant"
     ],
     "correctIndexes": [
       0,
@@ -1488,13 +1488,13 @@
     "options": [
       "Certifier les comptes annuels",
       "Évaluer la qualité de gestion",
-      "Vérifier la conformité légale",
-      "Superviser le management"
+      "Superviser le management",
+      "Vérifier la conformité légale"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   }
 ]

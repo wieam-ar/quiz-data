@@ -7,8 +7,8 @@
     "options": [
       "La concurrence",
       "L'harmonisation des standards",
-      "La productivité",
-      "La croissance"
+      "La croissance",
+      "La productivité"
     ],
     "correctIndex": 1
   },
@@ -18,9 +18,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Risque de marché",
       "Risque de liquidité",
       "Risque de conformité Charia",
-      "Risque de marché",
       "Risque de concentration"
     ],
     "correctIndexes": [
@@ -54,12 +54,12 @@
     "level": "hard",
     "type": "dropdown",
     "options": [
+      "GFCI",
       "IMF",
       "BIS",
-      "IFSB",
-      "GFCI"
+      "IFSB"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_006",
@@ -69,8 +69,8 @@
     "options": [
       "Un crédit classique",
       "Un titre de créance islamique",
-      "Un action ordinaire",
-      "Une obligation spéculative"
+      "Une obligation spéculative",
+      "Un action ordinaire"
     ],
     "correctIndex": 1
   },
@@ -80,15 +80,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
       "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une assurance",
+      "Une gestion pour le compte d'autrui"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -97,10 +97,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
+      "Sont imposables autrement",
       "Participent aux profits et pertes",
       "Sont sans risque",
-      "Sont imposables autrement"
+      "Génèrent un intérêt garanti"
     ],
     "correctIndex": 1
   },
@@ -110,10 +110,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Un Conseil de Conformité Charia",
-      "L'audit interne",
+      "Les rapports mensuels",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "L'audit interne",
+      "Un Conseil de Conformité Charia"
     ],
     "correctIndexes": [
       0,
@@ -128,12 +128,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
-      "Transactions réelles",
       "Riba (intérêt usuraire)",
-      "Crédits"
+      "Transactions réelles",
+      "Crédits",
+      "Tellers"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_011",
@@ -141,12 +141,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
       "Une vente avec markup convenu",
+      "Un investissement",
       "Une location",
-      "Un investissement"
+      "Un prêt sans intérêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_012",
@@ -154,12 +154,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Garantie",
       "Vente",
       "Partenariat profit-loss",
-      "Prêt",
-      "Garantie"
+      "Prêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_013",
@@ -168,11 +168,11 @@
     "type": "singleChoice",
     "options": [
       "Un crédit",
+      "Un dépôt",
       "Une location avec option d'achat",
-      "Une vente à terme",
-      "Un dépôt"
+      "Une vente à terme"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_014",
@@ -180,15 +180,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
+      "Les règles d'audit interne",
       "La Charia",
-      "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "Les normes IFSB",
+      "Les normes prudentielles"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -197,9 +197,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
-      "L'achat et la revente de matières premières",
       "Une opération spéculative",
+      "L'achat et la revente de matières premières",
+      "Un investissement en actions",
       "Un dépôt garanti"
     ],
     "correctIndex": 1
@@ -210,12 +210,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
       "Un titre de créance islamique",
       "Un action ordinaire",
-      "Une obligation spéculative"
+      "Une obligation spéculative",
+      "Un crédit classique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_017",
@@ -223,15 +223,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
+      "Une assurance",
       "Une responsabilité fiduciaire",
-      "Une commission du mandant",
-      "Une assurance"
+      "Une gestion pour le compte d'autrui",
+      "Une commission du mandant"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -241,11 +241,11 @@
     "type": "singleChoice",
     "options": [
       "Génèrent un intérêt garanti",
-      "Participent aux profits et pertes",
       "Sont sans risque",
-      "Sont imposables autrement"
+      "Sont imposables autrement",
+      "Participent aux profits et pertes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_019",
@@ -253,10 +253,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Les rapports mensuels",
       "Un Conseil de Conformité Charia",
-      "L'audit interne",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "L'audit interne"
     ],
     "correctIndexes": [
       0,
@@ -271,12 +271,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
       "Transactions réelles",
-      "Riba (intérêt usuraire)",
-      "Crédits"
+      "Tellers",
+      "Crédits",
+      "Riba (intérêt usuraire)"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_021",
@@ -284,12 +284,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un investissement",
       "Un prêt sans intérêt",
       "Une vente avec markup convenu",
-      "Une location",
-      "Un investissement"
+      "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_022",
@@ -297,12 +297,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Vente",
       "Partenariat profit-loss",
-      "Prêt",
-      "Garantie"
+      "Vente",
+      "Garantie",
+      "Prêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_023",
@@ -310,12 +310,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
       "Une location avec option d'achat",
-      "Une vente à terme",
-      "Un dépôt"
+      "Un dépôt",
+      "Un crédit",
+      "Une vente à terme"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_024",
@@ -323,15 +323,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
-      "La Charia",
       "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "La Charia",
+      "Les règles d'audit interne",
+      "Les normes IFSB"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -340,12 +340,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
       "L'achat et la revente de matières premières",
       "Une opération spéculative",
-      "Un dépôt garanti"
+      "Un dépôt garanti",
+      "Un investissement en actions"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_026",
@@ -353,12 +353,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
-      "Un titre de créance islamique",
+      "Une obligation spéculative",
       "Un action ordinaire",
-      "Une obligation spéculative"
+      "Un titre de créance islamique",
+      "Un crédit classique"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_027",
@@ -366,15 +366,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
       "Une responsabilité fiduciaire",
+      "Une assurance",
       "Une commission du mandant",
-      "Une assurance"
+      "Une gestion pour le compte d'autrui"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -383,12 +383,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
-      "Participent aux profits et pertes",
       "Sont sans risque",
-      "Sont imposables autrement"
+      "Sont imposables autrement",
+      "Génèrent un intérêt garanti",
+      "Participent aux profits et pertes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_029",
@@ -396,8 +396,8 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Un Conseil de Conformité Charia",
       "L'audit interne",
+      "Un Conseil de Conformité Charia",
       "La transparence des risques",
       "Les rapports mensuels"
     ],
@@ -415,11 +415,11 @@
     "type": "singleChoice",
     "options": [
       "Tellers",
+      "Crédits",
       "Transactions réelles",
-      "Riba (intérêt usuraire)",
-      "Crédits"
+      "Riba (intérêt usuraire)"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_031",
@@ -427,12 +427,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
       "Une vente avec markup convenu",
-      "Une location",
-      "Un investissement"
+      "Un investissement",
+      "Un prêt sans intérêt",
+      "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_032",
@@ -441,11 +441,11 @@
     "type": "singleChoice",
     "options": [
       "Vente",
-      "Partenariat profit-loss",
       "Prêt",
+      "Partenariat profit-loss",
       "Garantie"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_033",
@@ -453,12 +453,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
-      "Une location avec option d'achat",
+      "Un dépôt",
       "Une vente à terme",
-      "Un dépôt"
+      "Une location avec option d'achat",
+      "Un crédit"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_034",
@@ -466,9 +466,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Les normes prudentielles",
       "Les normes IFSB",
       "La Charia",
-      "Les normes prudentielles",
       "Les règles d'audit interne"
     ],
     "correctIndexes": [
@@ -483,12 +483,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un dépôt garanti",
       "Un investissement en actions",
-      "L'achat et la revente de matières premières",
       "Une opération spéculative",
-      "Un dépôt garanti"
+      "L'achat et la revente de matières premières"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_036",
@@ -496,10 +496,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
+      "Une obligation spéculative",
       "Un titre de créance islamique",
       "Un action ordinaire",
-      "Une obligation spéculative"
+      "Un crédit classique"
     ],
     "correctIndex": 1
   },
@@ -510,14 +510,14 @@
     "type": "multipleChoice",
     "options": [
       "Une gestion pour le compte d'autrui",
+      "Une assurance",
       "Une responsabilité fiduciaire",
-      "Une commission du mandant",
-      "Une assurance"
+      "Une commission du mandant"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -526,12 +526,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
-      "Sont sans risque",
-      "Sont imposables autrement"
+      "Sont imposables autrement",
+      "Génèrent un intérêt garanti",
+      "Sont sans risque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_039",
@@ -540,9 +540,9 @@
     "type": "multipleChoice",
     "options": [
       "Un Conseil de Conformité Charia",
-      "L'audit interne",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "Les rapports mensuels",
+      "L'audit interne"
     ],
     "correctIndexes": [
       0,
@@ -557,12 +557,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
       "Transactions réelles",
       "Riba (intérêt usuraire)",
+      "Tellers",
       "Crédits"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_hard_041",
@@ -570,12 +570,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
-      "Une vente avec markup convenu",
+      "Un investissement",
       "Une location",
-      "Un investissement"
+      "Un prêt sans intérêt",
+      "Une vente avec markup convenu"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_042",
@@ -583,9 +583,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Vente",
-      "Partenariat profit-loss",
       "Prêt",
+      "Partenariat profit-loss",
+      "Vente",
       "Garantie"
     ],
     "correctIndex": 1
@@ -596,10 +596,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
+      "Un dépôt",
       "Une location avec option d'achat",
-      "Une vente à terme",
-      "Un dépôt"
+      "Un crédit",
+      "Une vente à terme"
     ],
     "correctIndex": 1
   },
@@ -609,8 +609,8 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
       "La Charia",
+      "Les normes IFSB",
       "Les normes prudentielles",
       "Les règles d'audit interne"
     ],
@@ -626,12 +626,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
-      "L'achat et la revente de matières premières",
+      "Un dépôt garanti",
       "Une opération spéculative",
-      "Un dépôt garanti"
+      "L'achat et la revente de matières premières",
+      "Un investissement en actions"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_046",
@@ -639,12 +639,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
-      "Un titre de créance islamique",
       "Un action ordinaire",
-      "Une obligation spéculative"
+      "Un crédit classique",
+      "Une obligation spéculative",
+      "Un titre de créance islamique"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_047",
@@ -652,15 +652,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Une assurance",
       "Une gestion pour le compte d'autrui",
-      "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une responsabilité fiduciaire"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -669,12 +669,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
-      "Sont sans risque",
-      "Sont imposables autrement"
+      "Génèrent un intérêt garanti",
+      "Sont imposables autrement",
+      "Sont sans risque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_049",
@@ -683,9 +683,9 @@
     "type": "multipleChoice",
     "options": [
       "Un Conseil de Conformité Charia",
+      "Les rapports mensuels",
       "L'audit interne",
-      "La transparence des risques",
-      "Les rapports mensuels"
+      "La transparence des risques"
     ],
     "correctIndexes": [
       0,
@@ -701,9 +701,9 @@
     "type": "singleChoice",
     "options": [
       "Tellers",
-      "Transactions réelles",
+      "Crédits",
       "Riba (intérêt usuraire)",
-      "Crédits"
+      "Transactions réelles"
     ],
     "correctIndex": 2
   },
@@ -713,12 +713,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
       "Une vente avec markup convenu",
+      "Un investissement",
       "Une location",
-      "Un investissement"
+      "Un prêt sans intérêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_052",
@@ -726,12 +726,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Vente",
-      "Partenariat profit-loss",
       "Prêt",
-      "Garantie"
+      "Vente",
+      "Garantie",
+      "Partenariat profit-loss"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_053",
@@ -739,10 +739,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
+      "Un dépôt",
       "Une location avec option d'achat",
       "Une vente à terme",
-      "Un dépôt"
+      "Un crédit"
     ],
     "correctIndex": 1
   },
@@ -752,15 +752,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
       "La Charia",
-      "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "Les règles d'audit interne",
+      "Les normes IFSB",
+      "Les normes prudentielles"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -769,12 +769,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
       "L'achat et la revente de matières premières",
-      "Une opération spéculative",
-      "Un dépôt garanti"
+      "Un investissement en actions",
+      "Un dépôt garanti",
+      "Une opération spéculative"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_056",
@@ -783,11 +783,11 @@
     "type": "singleChoice",
     "options": [
       "Un crédit classique",
-      "Un titre de créance islamique",
       "Un action ordinaire",
-      "Une obligation spéculative"
+      "Une obligation spéculative",
+      "Un titre de créance islamique"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_057",
@@ -795,15 +795,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
+      "Une assurance",
       "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une gestion pour le compte d'autrui"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -812,12 +812,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
-      "Participent aux profits et pertes",
       "Sont sans risque",
-      "Sont imposables autrement"
+      "Génèrent un intérêt garanti",
+      "Sont imposables autrement",
+      "Participent aux profits et pertes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_059",
@@ -825,9 +825,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Un Conseil de Conformité Charia",
       "L'audit interne",
       "La transparence des risques",
+      "Un Conseil de Conformité Charia",
       "Les rapports mensuels"
     ],
     "correctIndexes": [
@@ -844,9 +844,9 @@
     "type": "singleChoice",
     "options": [
       "Tellers",
-      "Transactions réelles",
+      "Crédits",
       "Riba (intérêt usuraire)",
-      "Crédits"
+      "Transactions réelles"
     ],
     "correctIndex": 2
   },
@@ -856,12 +856,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un investissement",
       "Un prêt sans intérêt",
       "Une vente avec markup convenu",
-      "Une location",
-      "Un investissement"
+      "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_062",
@@ -871,8 +871,8 @@
     "options": [
       "Vente",
       "Partenariat profit-loss",
-      "Prêt",
-      "Garantie"
+      "Garantie",
+      "Prêt"
     ],
     "correctIndex": 1
   },
@@ -882,12 +882,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
-      "Une location avec option d'achat",
       "Une vente à terme",
-      "Un dépôt"
+      "Un crédit",
+      "Un dépôt",
+      "Une location avec option d'achat"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_064",
@@ -896,14 +896,14 @@
     "type": "multipleChoice",
     "options": [
       "Les normes IFSB",
+      "Les règles d'audit interne",
       "La Charia",
-      "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "Les normes prudentielles"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -912,12 +912,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
-      "L'achat et la revente de matières premières",
+      "Un dépôt garanti",
       "Une opération spéculative",
-      "Un dépôt garanti"
+      "Un investissement en actions",
+      "L'achat et la revente de matières premières"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_066",
@@ -938,15 +938,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
       "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une assurance",
+      "Une gestion pour le compte d'autrui"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -955,12 +955,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
+      "Génèrent un intérêt garanti",
       "Sont sans risque",
       "Sont imposables autrement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_069",
@@ -969,9 +969,9 @@
     "type": "multipleChoice",
     "options": [
       "Un Conseil de Conformité Charia",
-      "L'audit interne",
+      "Les rapports mensuels",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "L'audit interne"
     ],
     "correctIndexes": [
       0,
@@ -987,11 +987,11 @@
     "type": "singleChoice",
     "options": [
       "Tellers",
-      "Transactions réelles",
       "Riba (intérêt usuraire)",
+      "Transactions réelles",
       "Crédits"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_hard_071",
@@ -1000,11 +1000,11 @@
     "type": "singleChoice",
     "options": [
       "Un prêt sans intérêt",
-      "Une vente avec markup convenu",
+      "Un investissement",
       "Une location",
-      "Un investissement"
+      "Une vente avec markup convenu"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "banque_islamique_hard_072",
@@ -1025,12 +1025,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit",
-      "Une location avec option d'achat",
       "Une vente à terme",
-      "Un dépôt"
+      "Un dépôt",
+      "Une location avec option d'achat",
+      "Un crédit"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_074",
@@ -1038,15 +1038,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
-      "La Charia",
       "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "Les règles d'audit interne",
+      "Les normes IFSB",
+      "La Charia"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1055,12 +1055,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un dépôt garanti",
       "Un investissement en actions",
       "L'achat et la revente de matières premières",
-      "Une opération spéculative",
-      "Un dépôt garanti"
+      "Une opération spéculative"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_076",
@@ -1068,12 +1068,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
       "Un titre de créance islamique",
+      "Un crédit classique",
       "Un action ordinaire",
       "Une obligation spéculative"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_077",
@@ -1082,8 +1082,8 @@
     "type": "multipleChoice",
     "options": [
       "Une gestion pour le compte d'autrui",
-      "Une responsabilité fiduciaire",
       "Une commission du mandant",
+      "Une responsabilité fiduciaire",
       "Une assurance"
     ],
     "correctIndexes": [
@@ -1098,12 +1098,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
-      "Sont sans risque",
-      "Sont imposables autrement"
+      "Génèrent un intérêt garanti",
+      "Sont imposables autrement",
+      "Sont sans risque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_079",
@@ -1111,10 +1111,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Un Conseil de Conformité Charia",
+      "Les rapports mensuels",
       "L'audit interne",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "Un Conseil de Conformité Charia"
     ],
     "correctIndexes": [
       0,
@@ -1129,12 +1129,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
-      "Transactions réelles",
+      "Crédits",
       "Riba (intérêt usuraire)",
-      "Crédits"
+      "Tellers",
+      "Transactions réelles"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_hard_081",
@@ -1142,12 +1142,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
-      "Une vente avec markup convenu",
       "Une location",
-      "Un investissement"
+      "Un investissement",
+      "Une vente avec markup convenu",
+      "Un prêt sans intérêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_082",
@@ -1156,11 +1156,11 @@
     "type": "singleChoice",
     "options": [
       "Vente",
-      "Partenariat profit-loss",
       "Prêt",
+      "Partenariat profit-loss",
       "Garantie"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_083",
@@ -1168,12 +1168,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un dépôt",
       "Un crédit",
       "Une location avec option d'achat",
-      "Une vente à terme",
-      "Un dépôt"
+      "Une vente à terme"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_084",
@@ -1181,15 +1181,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les normes IFSB",
-      "La Charia",
       "Les normes prudentielles",
-      "Les règles d'audit interne"
+      "Les règles d'audit interne",
+      "La Charia",
+      "Les normes IFSB"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1211,12 +1211,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un crédit classique",
       "Un titre de créance islamique",
+      "Un crédit classique",
       "Un action ordinaire",
       "Une obligation spéculative"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_087",
@@ -1224,15 +1224,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une gestion pour le compte d'autrui",
-      "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une responsabilité fiduciaire",
+      "Une assurance",
+      "Une gestion pour le compte d'autrui"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1241,12 +1241,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
-      "Sont sans risque",
-      "Sont imposables autrement"
+      "Génèrent un intérêt garanti",
+      "Sont imposables autrement",
+      "Sont sans risque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_089",
@@ -1254,10 +1254,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Un Conseil de Conformité Charia",
-      "L'audit interne",
       "La transparence des risques",
-      "Les rapports mensuels"
+      "L'audit interne",
+      "Les rapports mensuels",
+      "Un Conseil de Conformité Charia"
     ],
     "correctIndexes": [
       0,
@@ -1272,12 +1272,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
       "Transactions réelles",
       "Riba (intérêt usuraire)",
+      "Tellers",
       "Crédits"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "banque_islamique_hard_091",
@@ -1285,10 +1285,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
+      "Un investissement",
       "Une vente avec markup convenu",
-      "Une location",
-      "Un investissement"
+      "Un prêt sans intérêt",
+      "Une location"
     ],
     "correctIndex": 1
   },
@@ -1298,12 +1298,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Vente",
-      "Partenariat profit-loss",
+      "Garantie",
       "Prêt",
-      "Garantie"
+      "Partenariat profit-loss",
+      "Vente"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_093",
@@ -1311,12 +1311,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Une vente à terme",
       "Un crédit",
       "Une location avec option d'achat",
-      "Une vente à terme",
       "Un dépôt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "banque_islamique_hard_094",
@@ -1324,9 +1324,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Les normes prudentielles",
       "Les normes IFSB",
       "La Charia",
-      "Les normes prudentielles",
       "Les règles d'audit interne"
     ],
     "correctIndexes": [
@@ -1341,12 +1341,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un investissement en actions",
       "L'achat et la revente de matières premières",
+      "Un investissement en actions",
       "Une opération spéculative",
       "Un dépôt garanti"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_096",
@@ -1356,8 +1356,8 @@
     "options": [
       "Un crédit classique",
       "Un titre de créance islamique",
-      "Un action ordinaire",
-      "Une obligation spéculative"
+      "Une obligation spéculative",
+      "Un action ordinaire"
     ],
     "correctIndex": 1
   },
@@ -1367,15 +1367,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Une assurance",
       "Une gestion pour le compte d'autrui",
-      "Une responsabilité fiduciaire",
       "Une commission du mandant",
-      "Une assurance"
+      "Une responsabilité fiduciaire"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1384,12 +1384,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Génèrent un intérêt garanti",
       "Participent aux profits et pertes",
-      "Sont sans risque",
-      "Sont imposables autrement"
+      "Sont imposables autrement",
+      "Génèrent un intérêt garanti",
+      "Sont sans risque"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "banque_islamique_hard_099",
@@ -1398,9 +1398,9 @@
     "type": "multipleChoice",
     "options": [
       "Un Conseil de Conformité Charia",
+      "Les rapports mensuels",
       "L'audit interne",
-      "La transparence des risques",
-      "Les rapports mensuels"
+      "La transparence des risques"
     ],
     "correctIndexes": [
       0,
@@ -1415,11 +1415,11 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Tellers",
       "Transactions réelles",
       "Riba (intérêt usuraire)",
-      "Crédits"
+      "Crédits",
+      "Tellers"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

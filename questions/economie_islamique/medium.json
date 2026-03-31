@@ -5,12 +5,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'achat-revente",
-      "La location",
       "L'assurance",
-      "L'emprunt"
+      "L'emprunt",
+      "L'achat-revente",
+      "La location"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_002",
@@ -18,9 +18,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Jeux d'argent",
       "Alcool",
       "Tabac",
-      "Jeux d'argent",
       "Restauration"
     ],
     "correctIndexes": [
@@ -54,11 +54,11 @@
     "type": "dropdown",
     "options": [
       "Le banquier",
-      "Le client",
       "Le Charia board",
+      "Le client",
       "L'État"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_006",
@@ -67,9 +67,9 @@
     "type": "multipleChoice",
     "options": [
       "L'or et l'argent",
-      "Les récoltes",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "Les revenus salariaux",
+      "Les récoltes"
     ],
     "correctIndexes": [
       0,
@@ -84,10 +84,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt",
+      "Une hypothèque",
       "Une vente à crédit",
       "Une location",
-      "Une hypothèque"
+      "Un prêt"
     ],
     "correctIndex": 2
   },
@@ -97,9 +97,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
       "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
+      "Les Sukuk",
       "Les dérivés structurés"
     ],
     "correctIndexes": [
@@ -115,11 +115,11 @@
     "type": "singleChoice",
     "options": [
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
+      "Un notaire",
       "Un directeur général",
-      "Un notaire"
+      "Un comité de conformité Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_010",
@@ -127,10 +127,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
       "Le partage des risques et profits",
-      "Les transactions réelles",
-      "La transparence"
+      "La transparence",
+      "L'absence de riba (intérêt)",
+      "Les transactions réelles"
     ],
     "correctIndexes": [
       0,
@@ -145,12 +145,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Supprimer les taxes",
       "Maximiser le profit",
-      "Conformité à la Charia",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Conformité à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_012",
@@ -177,8 +177,8 @@
     "options": [
       "Un prêt sans intérêt",
       "Une vente avec marge bénéficiaire convenue",
-      "Un partenariat",
-      "Une location"
+      "Une location",
+      "Un partenariat"
     ],
     "correctIndex": 1
   },
@@ -188,12 +188,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Mousharaka",
+      "Moujara"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_015",
@@ -203,8 +203,8 @@
     "options": [
       "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
-      "Un héritage ordinaire",
-      "Une rente viagère"
+      "Une rente viagère",
+      "Un héritage ordinaire"
     ],
     "correctIndex": 1
   },
@@ -214,10 +214,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
-      "Les récoltes",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "L'or et l'argent",
+      "Les revenus salariaux",
+      "Les récoltes"
     ],
     "correctIndexes": [
       0,
@@ -245,15 +245,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
-      "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les dérivés structurés",
+      "Les fonds d'investissement éthique",
+      "Les Sukuk"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -262,12 +262,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Un notaire",
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
       "Un directeur général",
-      "Un notaire"
+      "Un comité de conformité Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_020",
@@ -277,8 +277,8 @@
     "options": [
       "L'absence de riba (intérêt)",
       "Le partage des risques et profits",
-      "Les transactions réelles",
-      "La transparence"
+      "La transparence",
+      "Les transactions réelles"
     ],
     "correctIndexes": [
       0,
@@ -293,12 +293,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Maximiser le profit",
-      "Conformité à la Charia",
+      "Supprimer les taxes",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Maximiser le profit",
+      "Conformité à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_022",
@@ -306,15 +306,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le riba (intérêt usuraire)",
+      "Les contrats équitables",
       "La gharar (incertitude excessive)",
-      "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "Le riba (intérêt usuraire)",
+      "Le maysir (spéculation)"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -323,12 +323,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Un partenariat",
       "Un prêt sans intérêt",
       "Une vente avec marge bénéficiaire convenue",
-      "Un partenariat",
       "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_024",
@@ -338,10 +338,10 @@
     "options": [
       "Mousharaka",
       "Moujara",
-      "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Mousawama"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_025",
@@ -350,11 +350,11 @@
     "type": "singleChoice",
     "options": [
       "Un impôt obligatoire",
-      "Un bien immobilisé à perpétuité pour des fins charitables",
       "Un héritage ordinaire",
-      "Une rente viagère"
+      "Une rente viagère",
+      "Un bien immobilisé à perpétuité pour des fins charitables"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_026",
@@ -362,10 +362,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
       "Les récoltes",
+      "Les revenus salariaux",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "L'or et l'argent"
     ],
     "correctIndexes": [
       0,
@@ -380,10 +380,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt",
+      "Une hypothèque",
       "Une vente à crédit",
       "Une location",
-      "Une hypothèque"
+      "Un prêt"
     ],
     "correctIndex": 2
   },
@@ -393,15 +393,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
-      "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les fonds d'investissement éthique",
+      "Les dérivés structurés",
+      "Les Sukuk"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -411,11 +411,11 @@
     "type": "singleChoice",
     "options": [
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
+      "Un notaire",
       "Un directeur général",
-      "Un notaire"
+      "Un comité de conformité Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_030",
@@ -423,8 +423,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
       "Le partage des risques et profits",
+      "L'absence de riba (intérêt)",
       "Les transactions réelles",
       "La transparence"
     ],
@@ -443,8 +443,8 @@
     "options": [
       "Maximiser le profit",
       "Conformité à la Charia",
-      "Minimiser les risques",
-      "Supprimer les taxes"
+      "Supprimer les taxes",
+      "Minimiser les risques"
     ],
     "correctIndex": 1
   },
@@ -454,15 +454,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le riba (intérêt usuraire)",
+      "Les contrats équitables",
       "La gharar (incertitude excessive)",
-      "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "Le riba (intérêt usuraire)",
+      "Le maysir (spéculation)"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -471,12 +471,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
-      "Une vente avec marge bénéficiaire convenue",
       "Un partenariat",
-      "Une location"
+      "Une location",
+      "Une vente avec marge bénéficiaire convenue",
+      "Un prêt sans intérêt"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_034",
@@ -484,12 +484,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Moujara",
+      "Mousharaka"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_035",
@@ -497,12 +497,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
       "Un héritage ordinaire",
+      "Un impôt obligatoire",
       "Une rente viagère"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_036",
@@ -510,9 +510,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
-      "Les récoltes",
       "L'immobilier commercial",
+      "Les récoltes",
+      "L'or et l'argent",
       "Les revenus salariaux"
     ],
     "correctIndexes": [
@@ -529,11 +529,11 @@
     "type": "singleChoice",
     "options": [
       "Un prêt",
+      "Une hypothèque",
       "Une vente à crédit",
-      "Une location",
-      "Une hypothèque"
+      "Une location"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_038",
@@ -541,15 +541,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
-      "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les dérivés structurés",
+      "Les Sukuk",
+      "Les fonds d'investissement éthique"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -559,11 +559,11 @@
     "type": "singleChoice",
     "options": [
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
+      "Un notaire",
       "Un directeur général",
-      "Un notaire"
+      "Un comité de conformité Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_040",
@@ -571,10 +571,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
-      "Le partage des risques et profits",
       "Les transactions réelles",
-      "La transparence"
+      "L'absence de riba (intérêt)",
+      "La transparence",
+      "Le partage des risques et profits"
     ],
     "correctIndexes": [
       0,
@@ -589,12 +589,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Maximiser le profit",
-      "Conformité à la Charia",
+      "Supprimer les taxes",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Maximiser le profit",
+      "Conformité à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_042",
@@ -603,8 +603,8 @@
     "type": "multipleChoice",
     "options": [
       "Le riba (intérêt usuraire)",
-      "La gharar (incertitude excessive)",
       "Le maysir (spéculation)",
+      "La gharar (incertitude excessive)",
       "Les contrats équitables"
     ],
     "correctIndexes": [
@@ -619,10 +619,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
+      "Une location",
       "Une vente avec marge bénéficiaire convenue",
-      "Un partenariat",
-      "Une location"
+      "Un prêt sans intérêt",
+      "Un partenariat"
     ],
     "correctIndex": 1
   },
@@ -632,12 +632,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Moujara",
+      "Ijara",
+      "Mousharaka"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_045",
@@ -645,12 +645,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une rente viagère",
       "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
-      "Un héritage ordinaire",
-      "Une rente viagère"
+      "Un héritage ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_046",
@@ -658,10 +658,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
-      "Les récoltes",
+      "Les revenus salariaux",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "Les récoltes",
+      "L'or et l'argent"
     ],
     "correctIndexes": [
       0,
@@ -676,12 +676,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une location",
       "Un prêt",
       "Une vente à crédit",
-      "Une location",
       "Une hypothèque"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_048",
@@ -690,14 +690,14 @@
     "type": "multipleChoice",
     "options": [
       "Les Sukuk",
-      "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les dérivés structurés",
+      "Les fonds d'investissement éthique"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -706,12 +706,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Un directeur général",
       "Un conseil d'administration",
       "Un comité de conformité Charia",
-      "Un directeur général",
       "Un notaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_050",
@@ -720,9 +720,9 @@
     "type": "multipleChoice",
     "options": [
       "L'absence de riba (intérêt)",
-      "Le partage des risques et profits",
       "Les transactions réelles",
-      "La transparence"
+      "La transparence",
+      "Le partage des risques et profits"
     ],
     "correctIndexes": [
       0,
@@ -738,11 +738,11 @@
     "type": "singleChoice",
     "options": [
       "Maximiser le profit",
+      "Supprimer les taxes",
       "Conformité à la Charia",
-      "Minimiser les risques",
-      "Supprimer les taxes"
+      "Minimiser les risques"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_052",
@@ -750,9 +750,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Le maysir (spéculation)",
       "Le riba (intérêt usuraire)",
       "La gharar (incertitude excessive)",
-      "Le maysir (spéculation)",
       "Les contrats équitables"
     ],
     "correctIndexes": [
@@ -768,11 +768,11 @@
     "type": "singleChoice",
     "options": [
       "Un prêt sans intérêt",
-      "Une vente avec marge bénéficiaire convenue",
       "Un partenariat",
+      "Une vente avec marge bénéficiaire convenue",
       "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_054",
@@ -780,12 +780,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Mousharaka",
+      "Ijara",
       "Moujara",
-      "Mousawama",
-      "Ijara"
+      "Mousharaka",
+      "Mousawama"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_055",
@@ -793,12 +793,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un impôt obligatoire",
-      "Un bien immobilisé à perpétuité pour des fins charitables",
+      "Une rente viagère",
       "Un héritage ordinaire",
-      "Une rente viagère"
+      "Un impôt obligatoire",
+      "Un bien immobilisé à perpétuité pour des fins charitables"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_056",
@@ -806,9 +806,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
       "Les récoltes",
       "L'immobilier commercial",
+      "L'or et l'argent",
       "Les revenus salariaux"
     ],
     "correctIndexes": [
@@ -824,12 +824,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt",
-      "Une vente à crédit",
       "Une location",
-      "Une hypothèque"
+      "Une vente à crédit",
+      "Une hypothèque",
+      "Un prêt"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_058",
@@ -837,15 +837,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
       "Les fonds d'investissement éthique",
-      "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les Sukuk",
+      "Les dérivés structurés",
+      "Les obligations avec partage de profits"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -855,11 +855,11 @@
     "type": "singleChoice",
     "options": [
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
       "Un directeur général",
+      "Un comité de conformité Charia",
       "Un notaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_060",
@@ -867,9 +867,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les transactions réelles",
       "L'absence de riba (intérêt)",
       "Le partage des risques et profits",
-      "Les transactions réelles",
       "La transparence"
     ],
     "correctIndexes": [
@@ -885,12 +885,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Maximiser le profit",
-      "Conformité à la Charia",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Supprimer les taxes",
+      "Maximiser le profit",
+      "Conformité à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_062",
@@ -898,15 +898,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le riba (intérêt usuraire)",
       "La gharar (incertitude excessive)",
-      "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "Le riba (intérêt usuraire)",
+      "Les contrats équitables",
+      "Le maysir (spéculation)"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -915,10 +915,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
+      "Une location",
       "Une vente avec marge bénéficiaire convenue",
-      "Un partenariat",
-      "Une location"
+      "Un prêt sans intérêt",
+      "Un partenariat"
     ],
     "correctIndex": 1
   },
@@ -928,12 +928,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Mousharaka",
-      "Moujara",
       "Mousawama",
+      "Moujara",
+      "Mousharaka",
       "Ijara"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_065",
@@ -942,11 +942,11 @@
     "type": "singleChoice",
     "options": [
       "Un impôt obligatoire",
-      "Un bien immobilisé à perpétuité pour des fins charitables",
       "Un héritage ordinaire",
+      "Un bien immobilisé à perpétuité pour des fins charitables",
       "Une rente viagère"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_066",
@@ -954,10 +954,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
       "Les récoltes",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "Les revenus salariaux",
+      "L'or et l'argent"
     ],
     "correctIndexes": [
       0,
@@ -972,12 +972,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt",
       "Une vente à crédit",
       "Une location",
+      "Un prêt",
       "Une hypothèque"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_068",
@@ -985,8 +985,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
       "Les fonds d'investissement éthique",
+      "Les Sukuk",
       "Les obligations avec partage de profits",
       "Les dérivés structurés"
     ],
@@ -1003,11 +1003,11 @@
     "type": "singleChoice",
     "options": [
       "Un conseil d'administration",
-      "Un comité de conformité Charia",
       "Un directeur général",
-      "Un notaire"
+      "Un notaire",
+      "Un comité de conformité Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_070",
@@ -1015,10 +1015,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
-      "Le partage des risques et profits",
       "Les transactions réelles",
-      "La transparence"
+      "Le partage des risques et profits",
+      "La transparence",
+      "L'absence de riba (intérêt)"
     ],
     "correctIndexes": [
       0,
@@ -1033,12 +1033,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Maximiser le profit",
-      "Conformité à la Charia",
+      "Supprimer les taxes",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Maximiser le profit",
+      "Conformité à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_072",
@@ -1047,14 +1047,14 @@
     "type": "multipleChoice",
     "options": [
       "Le riba (intérêt usuraire)",
-      "La gharar (incertitude excessive)",
       "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "Les contrats équitables",
+      "La gharar (incertitude excessive)"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1063,12 +1063,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
-      "Une vente avec marge bénéficiaire convenue",
       "Un partenariat",
-      "Une location"
+      "Un prêt sans intérêt",
+      "Une location",
+      "Une vente avec marge bénéficiaire convenue"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "economie_islamique_medium_074",
@@ -1077,11 +1077,11 @@
     "type": "singleChoice",
     "options": [
       "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Moujara"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_075",
@@ -1089,12 +1089,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une rente viagère",
       "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
-      "Un héritage ordinaire",
-      "Une rente viagère"
+      "Un héritage ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_076",
@@ -1102,9 +1102,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
       "Les récoltes",
       "L'immobilier commercial",
+      "L'or et l'argent",
       "Les revenus salariaux"
     ],
     "correctIndexes": [
@@ -1121,11 +1121,11 @@
     "type": "singleChoice",
     "options": [
       "Un prêt",
-      "Une vente à crédit",
       "Une location",
+      "Une vente à crédit",
       "Une hypothèque"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_078",
@@ -1133,15 +1133,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
-      "Les fonds d'investissement éthique",
+      "Les dérivés structurés",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les Sukuk",
+      "Les fonds d'investissement éthique"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1150,12 +1150,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un conseil d'administration",
       "Un comité de conformité Charia",
-      "Un directeur général",
-      "Un notaire"
+      "Un notaire",
+      "Un conseil d'administration",
+      "Un directeur général"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_080",
@@ -1164,9 +1164,9 @@
     "type": "multipleChoice",
     "options": [
       "L'absence de riba (intérêt)",
+      "La transparence",
       "Le partage des risques et profits",
-      "Les transactions réelles",
-      "La transparence"
+      "Les transactions réelles"
     ],
     "correctIndexes": [
       0,
@@ -1181,12 +1181,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Maximiser le profit",
-      "Conformité à la Charia",
       "Minimiser les risques",
-      "Supprimer les taxes"
+      "Supprimer les taxes",
+      "Conformité à la Charia",
+      "Maximiser le profit"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_082",
@@ -1194,15 +1194,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le riba (intérêt usuraire)",
-      "La gharar (incertitude excessive)",
+      "Les contrats équitables",
       "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "La gharar (incertitude excessive)",
+      "Le riba (intérêt usuraire)"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1211,10 +1211,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
-      "Une vente avec marge bénéficiaire convenue",
       "Un partenariat",
-      "Une location"
+      "Une vente avec marge bénéficiaire convenue",
+      "Une location",
+      "Un prêt sans intérêt"
     ],
     "correctIndex": 1
   },
@@ -1225,11 +1225,11 @@
     "type": "singleChoice",
     "options": [
       "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Moujara"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_085",
@@ -1237,12 +1237,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
-      "Un héritage ordinaire",
-      "Une rente viagère"
+      "Un impôt obligatoire",
+      "Une rente viagère",
+      "Un héritage ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_086",
@@ -1250,10 +1250,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les revenus salariaux",
       "L'or et l'argent",
       "Les récoltes",
-      "L'immobilier commercial",
-      "Les revenus salariaux"
+      "L'immobilier commercial"
     ],
     "correctIndexes": [
       0,
@@ -1268,12 +1268,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt",
-      "Une vente à crédit",
       "Une location",
-      "Une hypothèque"
+      "Un prêt",
+      "Une hypothèque",
+      "Une vente à crédit"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_088",
@@ -1281,15 +1281,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
       "Les fonds d'investissement éthique",
+      "Les dérivés structurés",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les Sukuk"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1311,10 +1311,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
-      "Le partage des risques et profits",
       "Les transactions réelles",
-      "La transparence"
+      "Le partage des risques et profits",
+      "La transparence",
+      "L'absence de riba (intérêt)"
     ],
     "correctIndexes": [
       0,
@@ -1330,11 +1330,11 @@
     "type": "singleChoice",
     "options": [
       "Maximiser le profit",
+      "Supprimer les taxes",
       "Conformité à la Charia",
-      "Minimiser les risques",
-      "Supprimer les taxes"
+      "Minimiser les risques"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_092",
@@ -1342,15 +1342,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le riba (intérêt usuraire)",
-      "La gharar (incertitude excessive)",
       "Le maysir (spéculation)",
-      "Les contrats équitables"
+      "Les contrats équitables",
+      "Le riba (intérêt usuraire)",
+      "La gharar (incertitude excessive)"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1359,12 +1359,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un prêt sans intérêt",
       "Une vente avec marge bénéficiaire convenue",
-      "Un partenariat",
-      "Une location"
+      "Un prêt sans intérêt",
+      "Une location",
+      "Un partenariat"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_094",
@@ -1373,11 +1373,11 @@
     "type": "singleChoice",
     "options": [
       "Mousharaka",
-      "Moujara",
       "Mousawama",
-      "Ijara"
+      "Ijara",
+      "Moujara"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "economie_islamique_medium_095",
@@ -1385,12 +1385,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une rente viagère",
       "Un impôt obligatoire",
       "Un bien immobilisé à perpétuité pour des fins charitables",
-      "Un héritage ordinaire",
-      "Une rente viagère"
+      "Un héritage ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "economie_islamique_medium_096",
@@ -1398,10 +1398,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'or et l'argent",
-      "Les récoltes",
+      "Les revenus salariaux",
       "L'immobilier commercial",
-      "Les revenus salariaux"
+      "L'or et l'argent",
+      "Les récoltes"
     ],
     "correctIndexes": [
       0,
@@ -1417,9 +1417,9 @@
     "type": "singleChoice",
     "options": [
       "Un prêt",
-      "Une vente à crédit",
+      "Une hypothèque",
       "Une location",
-      "Une hypothèque"
+      "Une vente à crédit"
     ],
     "correctIndex": 2
   },
@@ -1429,15 +1429,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les Sukuk",
-      "Les fonds d'investissement éthique",
       "Les obligations avec partage de profits",
-      "Les dérivés structurés"
+      "Les Sukuk",
+      "Les dérivés structurés",
+      "Les fonds d'investissement éthique"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1446,12 +1446,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un conseil d'administration",
       "Un comité de conformité Charia",
+      "Un conseil d'administration",
       "Un directeur général",
       "Un notaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "economie_islamique_medium_100",
@@ -1459,10 +1459,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'absence de riba (intérêt)",
-      "Le partage des risques et profits",
+      "La transparence",
       "Les transactions réelles",
-      "La transparence"
+      "L'absence de riba (intérêt)",
+      "Le partage des risques et profits"
     ],
     "correctIndexes": [
       0,

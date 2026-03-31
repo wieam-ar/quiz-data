@@ -5,12 +5,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Limité aux registres comptables",
-      "Illimité aux documents de l'entreprise",
       "Restreint au directeur général",
-      "Conditionné à une autorisation"
+      "Limité aux registres comptables",
+      "Conditionné à une autorisation",
+      "Illimité aux documents de l'entreprise"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_002",
@@ -20,13 +20,13 @@
     "options": [
       "Assister aux réunions du conseil",
       "Accès aux documents",
-      "Auditionner les dirigeants",
-      "Voter aux assemblées"
+      "Voter aux assemblées",
+      "Auditionner les dirigeants"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -53,12 +53,12 @@
     "level": "medium",
     "type": "dropdown",
     "options": [
+      "Abstention",
       "Refus de certification",
       "Certification avec réserves",
-      "Avis défavorable",
-      "Abstention"
+      "Avis défavorable"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_006",
@@ -66,10 +66,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
+      "Le rapporter au tribunal",
       "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Garder le silence"
     ],
     "correctIndex": 2
   },
@@ -79,15 +79,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il y a négligence grave",
       "Il y a manquement à son devoir",
+      "Il n'a pas détecté une erreur mineure",
       "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il y a négligence grave"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -96,10 +96,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
-      "Les réserves éventuelles",
+      "Les éléments factuels",
       "Les recommandations",
-      "Les éléments factuels"
+      "Les réserves éventuelles",
+      "L'opinion générale"
     ],
     "correctIndexes": [
       0,
@@ -114,12 +114,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
-      "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
-      "L'entreprise fait une perte"
+      "L'entreprise fait une perte",
+      "Y a un désaccord mineur",
+      "Y a un conflit d'intérêts irréconciliable"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_010",
@@ -127,10 +127,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
+      "Vendre les produits",
       "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Diriger l'entreprise"
     ],
     "correctIndex": 1
   },
@@ -140,12 +140,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
-      "L'indéfini"
+      "L'indéfini",
+      "1 an",
+      "5 ans non renouvelable"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_012",
@@ -153,12 +153,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
       "L'assemblée générale des actionnaires",
       "Le ministre",
+      "L'administration fiscale",
       "Les clients"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_013",
@@ -166,15 +166,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
+      "L'État",
       "Le tribunal",
-      "Les actionnaires",
-      "L'État"
+      "L'assemblée générale",
+      "Les actionnaires"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -183,9 +183,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les locaux",
       "Tous les documents",
       "Les registres",
-      "Les locaux",
       "Les correspondances"
     ],
     "correctIndexes": [
@@ -201,10 +201,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
+      "Les informations positives",
       "Tous les documents en sa connaissance",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Uniquement les activités principales"
     ],
     "correctIndex": 1
   },
@@ -214,12 +214,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
       "En informer discrètement la direction",
-      "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Garder le silence",
+      "Le rapporter au tribunal",
+      "En déclarer à l'autorité compétente"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_017",
@@ -227,9 +227,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Il y a violation des normes d'audit",
       "Il y a négligence grave",
       "Il y a manquement à son devoir",
-      "Il y a violation des normes d'audit",
       "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
@@ -244,10 +244,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
       "Les réserves éventuelles",
-      "Les recommandations",
-      "Les éléments factuels"
+      "L'opinion générale",
+      "Les éléments factuels",
+      "Les recommandations"
     ],
     "correctIndexes": [
       0,
@@ -264,8 +264,8 @@
     "options": [
       "Y a un désaccord mineur",
       "Y a un conflit d'intérêts irréconciliable",
-      "L'assemblée générale le demande",
-      "L'entreprise fait une perte"
+      "L'entreprise fait une perte",
+      "L'assemblée générale le demande"
     ],
     "correctIndex": 1
   },
@@ -275,12 +275,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Embaucher les employés",
       "Diriger l'entreprise",
       "Certifier la régularité et la sincérité des comptes",
-      "Embaucher les employés",
       "Vendre les produits"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_021",
@@ -303,8 +303,8 @@
     "options": [
       "L'administration fiscale",
       "L'assemblée générale des actionnaires",
-      "Le ministre",
-      "Les clients"
+      "Les clients",
+      "Le ministre"
     ],
     "correctIndex": 1
   },
@@ -314,15 +314,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
-      "Le tribunal",
       "Les actionnaires",
-      "L'État"
+      "Le tribunal",
+      "L'État",
+      "L'assemblée générale"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -331,10 +331,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les correspondances",
       "Tous les documents",
-      "Les registres",
       "Les locaux",
-      "Les correspondances"
+      "Les registres"
     ],
     "correctIndexes": [
       0,
@@ -349,9 +349,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
+      "Tous les documents en sa connaissance",
+      "Uniquement les activités principales",
       "Les informations positives"
     ],
     "correctIndex": 1
@@ -363,11 +363,11 @@
     "type": "singleChoice",
     "options": [
       "Garder le silence",
-      "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Le rapporter au tribunal",
+      "En informer discrètement la direction"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_027",
@@ -375,9 +375,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il y a négligence grave",
-      "Il y a manquement à son devoir",
       "Il y a violation des normes d'audit",
+      "Il y a manquement à son devoir",
+      "Il y a négligence grave",
       "Il n'a pas détecté une erreur mineure"
     ],
     "correctIndexes": [
@@ -392,10 +392,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
       "Les réserves éventuelles",
-      "Les recommandations",
-      "Les éléments factuels"
+      "Les éléments factuels",
+      "L'opinion générale",
+      "Les recommandations"
     ],
     "correctIndexes": [
       0,
@@ -410,12 +410,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
       "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
+      "Y a un désaccord mineur",
       "L'entreprise fait une perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_030",
@@ -424,11 +424,11 @@
     "type": "singleChoice",
     "options": [
       "Diriger l'entreprise",
-      "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Vendre les produits",
+      "Certifier la régularité et la sincérité des comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_031",
@@ -436,12 +436,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "5 ans non renouvelable",
       "1 an",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
       "L'indéfini"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_032",
@@ -449,12 +449,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
       "L'assemblée générale des actionnaires",
       "Le ministre",
-      "Les clients"
+      "Les clients",
+      "L'administration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_033",
@@ -462,8 +462,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
       "Le tribunal",
+      "L'assemblée générale",
       "Les actionnaires",
       "L'État"
     ],
@@ -479,10 +479,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
-      "Les registres",
+      "Les correspondances",
       "Les locaux",
-      "Les correspondances"
+      "Tous les documents",
+      "Les registres"
     ],
     "correctIndexes": [
       0,
@@ -497,12 +497,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Uniquement les activités principales",
+      "Les informations positives",
+      "Tous les documents en sa connaissance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_036",
@@ -510,10 +510,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
+      "Le rapporter au tribunal",
       "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Garder le silence"
     ],
     "correctIndex": 2
   },
@@ -523,15 +523,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Il n'a pas détecté une erreur mineure",
       "Il y a négligence grave",
-      "Il y a manquement à son devoir",
       "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il y a manquement à son devoir"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -540,9 +540,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les recommandations",
       "L'opinion générale",
       "Les réserves éventuelles",
-      "Les recommandations",
       "Les éléments factuels"
     ],
     "correctIndexes": [
@@ -558,10 +558,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
-      "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
-      "L'entreprise fait une perte"
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'entreprise fait une perte",
+      "Y a un désaccord mineur"
     ],
     "correctIndex": 1
   },
@@ -571,12 +571,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
-      "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Diriger l'entreprise",
+      "Vendre les produits",
+      "Certifier la régularité et la sincérité des comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_041",
@@ -586,8 +586,8 @@
     "options": [
       "1 an",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
-      "L'indéfini"
+      "L'indéfini",
+      "5 ans non renouvelable"
     ],
     "correctIndex": 1
   },
@@ -597,12 +597,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
-      "L'assemblée générale des actionnaires",
+      "Les clients",
       "Le ministre",
-      "Les clients"
+      "L'assemblée générale des actionnaires",
+      "L'administration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_043",
@@ -610,15 +610,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
-      "Le tribunal",
       "Les actionnaires",
-      "L'État"
+      "L'assemblée générale",
+      "L'État",
+      "Le tribunal"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -627,10 +627,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
-      "Les registres",
+      "Les correspondances",
       "Les locaux",
-      "Les correspondances"
+      "Les registres",
+      "Tous les documents"
     ],
     "correctIndexes": [
       0,
@@ -645,12 +645,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
       "Tous les documents en sa connaissance",
       "Seulement les documents publics",
+      "Uniquement les activités principales",
       "Les informations positives"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_046",
@@ -658,12 +658,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
-      "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
+      "En informer discrètement la direction",
+      "Garder le silence",
       "Le rapporter au tribunal"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_047",
@@ -673,13 +673,13 @@
     "options": [
       "Il y a négligence grave",
       "Il y a manquement à son devoir",
-      "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il n'a pas détecté une erreur mineure",
+      "Il y a violation des normes d'audit"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -688,10 +688,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
-      "Les réserves éventuelles",
       "Les recommandations",
-      "Les éléments factuels"
+      "L'opinion générale",
+      "Les éléments factuels",
+      "Les réserves éventuelles"
     ],
     "correctIndexes": [
       0,
@@ -706,12 +706,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "L'assemblée générale le demande",
       "Y a un désaccord mineur",
       "Y a un conflit d'intérêts irréconciliable",
-      "L'assemblée générale le demande",
       "L'entreprise fait une perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_050",
@@ -719,12 +719,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
-      "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Diriger l'entreprise",
+      "Vendre les produits",
+      "Certifier la régularité et la sincérité des comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_051",
@@ -733,11 +733,11 @@
     "type": "singleChoice",
     "options": [
       "1 an",
-      "3 ans renouvelable",
       "5 ans non renouvelable",
+      "3 ans renouvelable",
       "L'indéfini"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_052",
@@ -745,12 +745,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
-      "L'assemblée générale des actionnaires",
       "Le ministre",
-      "Les clients"
+      "Les clients",
+      "L'administration fiscale",
+      "L'assemblée générale des actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_053",
@@ -758,15 +758,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
-      "Le tribunal",
+      "L'État",
       "Les actionnaires",
-      "L'État"
+      "Le tribunal",
+      "L'assemblée générale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -775,10 +775,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
+      "Les correspondances",
       "Les registres",
       "Les locaux",
-      "Les correspondances"
+      "Tous les documents"
     ],
     "correctIndexes": [
       0,
@@ -793,10 +793,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Tous les documents en sa connaissance",
+      "Les informations positives",
+      "Uniquement les activités principales"
     ],
     "correctIndex": 1
   },
@@ -806,10 +806,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
+      "Le rapporter au tribunal",
       "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Garder le silence"
     ],
     "correctIndex": 2
   },
@@ -819,15 +819,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il y a négligence grave",
       "Il y a manquement à son devoir",
+      "Il n'a pas détecté une erreur mineure",
       "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il y a négligence grave"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -836,10 +836,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
+      "Les éléments factuels",
       "Les réserves éventuelles",
-      "Les recommandations",
-      "Les éléments factuels"
+      "L'opinion générale",
+      "Les recommandations"
     ],
     "correctIndexes": [
       0,
@@ -854,12 +854,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
       "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
+      "Y a un désaccord mineur",
       "L'entreprise fait une perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_060",
@@ -867,10 +867,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
-      "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Certifier la régularité et la sincérité des comptes",
+      "Vendre les produits",
+      "Diriger l'entreprise"
     ],
     "correctIndex": 1
   },
@@ -880,10 +880,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
+      "L'indéfini",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
-      "L'indéfini"
+      "1 an",
+      "5 ans non renouvelable"
     ],
     "correctIndex": 1
   },
@@ -893,12 +893,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
       "L'assemblée générale des actionnaires",
+      "Les clients",
       "Le ministre",
-      "Les clients"
+      "L'administration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_063",
@@ -907,14 +907,14 @@
     "type": "multipleChoice",
     "options": [
       "L'assemblée générale",
+      "L'État",
       "Le tribunal",
-      "Les actionnaires",
-      "L'État"
+      "Les actionnaires"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -923,10 +923,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
-      "Les registres",
       "Les locaux",
-      "Les correspondances"
+      "Les correspondances",
+      "Tous les documents",
+      "Les registres"
     ],
     "correctIndexes": [
       0,
@@ -941,12 +941,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
+      "Les informations positives",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Uniquement les activités principales",
+      "Tous les documents en sa connaissance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_066",
@@ -954,10 +954,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
       "En informer discrètement la direction",
+      "Le rapporter au tribunal",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Garder le silence"
     ],
     "correctIndex": 2
   },
@@ -968,14 +968,14 @@
     "type": "multipleChoice",
     "options": [
       "Il y a négligence grave",
-      "Il y a manquement à son devoir",
       "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il n'a pas détecté une erreur mineure",
+      "Il y a manquement à son devoir"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -984,9 +984,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les recommandations",
       "L'opinion générale",
       "Les réserves éventuelles",
-      "Les recommandations",
       "Les éléments factuels"
     ],
     "correctIndexes": [
@@ -1002,10 +1002,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
-      "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
-      "L'entreprise fait une perte"
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'entreprise fait une perte",
+      "Y a un désaccord mineur"
     ],
     "correctIndex": 1
   },
@@ -1015,10 +1015,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
+      "Vendre les produits",
       "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
-      "Vendre les produits"
+      "Diriger l'entreprise"
     ],
     "correctIndex": 1
   },
@@ -1028,10 +1028,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
+      "L'indéfini",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
-      "L'indéfini"
+      "1 an",
+      "5 ans non renouvelable"
     ],
     "correctIndex": 1
   },
@@ -1041,12 +1041,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
-      "L'assemblée générale des actionnaires",
       "Le ministre",
-      "Les clients"
+      "L'administration fiscale",
+      "Les clients",
+      "L'assemblée générale des actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_073",
@@ -1054,9 +1054,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
       "Le tribunal",
       "Les actionnaires",
+      "L'assemblée générale",
       "L'État"
     ],
     "correctIndexes": [
@@ -1071,10 +1071,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
       "Les registres",
-      "Les locaux",
-      "Les correspondances"
+      "Tous les documents",
+      "Les correspondances",
+      "Les locaux"
     ],
     "correctIndexes": [
       0,
@@ -1090,11 +1090,11 @@
     "type": "singleChoice",
     "options": [
       "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Les informations positives",
+      "Tous les documents en sa connaissance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "commissariat_aux_comptes_medium_076",
@@ -1103,11 +1103,11 @@
     "type": "singleChoice",
     "options": [
       "Garder le silence",
-      "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Le rapporter au tribunal",
+      "En informer discrètement la direction"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "commissariat_aux_comptes_medium_077",
@@ -1117,13 +1117,13 @@
     "options": [
       "Il y a négligence grave",
       "Il y a manquement à son devoir",
-      "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il n'a pas détecté une erreur mineure",
+      "Il y a violation des normes d'audit"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1132,10 +1132,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
-      "Les réserves éventuelles",
       "Les recommandations",
-      "Les éléments factuels"
+      "Les éléments factuels",
+      "Les réserves éventuelles",
+      "L'opinion générale"
     ],
     "correctIndexes": [
       0,
@@ -1150,10 +1150,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Y a un désaccord mineur",
-      "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
-      "L'entreprise fait une perte"
+      "Y a un conflit d'intérêts irréconciliable",
+      "L'entreprise fait une perte",
+      "Y a un désaccord mineur"
     ],
     "correctIndex": 1
   },
@@ -1163,12 +1163,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Vendre les produits",
       "Diriger l'entreprise",
       "Certifier la régularité et la sincérité des comptes",
-      "Embaucher les employés",
-      "Vendre les produits"
+      "Embaucher les employés"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_081",
@@ -1176,12 +1176,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 an",
       "3 ans renouvelable",
       "5 ans non renouvelable",
+      "1 an",
       "L'indéfini"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_082",
@@ -1189,12 +1189,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les clients",
       "L'administration fiscale",
       "L'assemblée générale des actionnaires",
-      "Le ministre",
-      "Les clients"
+      "Le ministre"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_083",
@@ -1202,15 +1202,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
-      "Le tribunal",
+      "L'État",
       "Les actionnaires",
-      "L'État"
+      "Le tribunal",
+      "L'assemblée générale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1219,9 +1219,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
-      "Les registres",
       "Les locaux",
+      "Les registres",
+      "Tous les documents",
       "Les correspondances"
     ],
     "correctIndexes": [
@@ -1237,9 +1237,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
+      "Tous les documents en sa connaissance",
+      "Uniquement les activités principales",
       "Les informations positives"
     ],
     "correctIndex": 1
@@ -1250,12 +1250,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
-      "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Le rapporter au tribunal",
+      "En informer discrètement la direction",
+      "Garder le silence"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_087",
@@ -1263,15 +1263,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il y a négligence grave",
       "Il y a manquement à son devoir",
+      "Il n'a pas détecté une erreur mineure",
       "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il y a négligence grave"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1280,10 +1280,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
-      "Les réserves éventuelles",
       "Les recommandations",
-      "Les éléments factuels"
+      "Les éléments factuels",
+      "L'opinion générale",
+      "Les réserves éventuelles"
     ],
     "correctIndexes": [
       0,
@@ -1299,11 +1299,11 @@
     "type": "singleChoice",
     "options": [
       "Y a un désaccord mineur",
-      "Y a un conflit d'intérêts irréconciliable",
       "L'assemblée générale le demande",
+      "Y a un conflit d'intérêts irréconciliable",
       "L'entreprise fait une perte"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_090",
@@ -1311,9 +1311,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
-      "Certifier la régularité et la sincérité des comptes",
       "Embaucher les employés",
+      "Certifier la régularité et la sincérité des comptes",
+      "Diriger l'entreprise",
       "Vendre les produits"
     ],
     "correctIndex": 1
@@ -1324,12 +1324,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "5 ans non renouvelable",
       "1 an",
       "3 ans renouvelable",
-      "5 ans non renouvelable",
       "L'indéfini"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "commissariat_aux_comptes_medium_092",
@@ -1337,12 +1337,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'administration fiscale",
       "L'assemblée générale des actionnaires",
+      "Les clients",
       "Le ministre",
-      "Les clients"
+      "L'administration fiscale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_093",
@@ -1350,15 +1350,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'assemblée générale",
-      "Le tribunal",
+      "L'État",
       "Les actionnaires",
-      "L'État"
+      "L'assemblée générale",
+      "Le tribunal"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1367,10 +1367,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Tous les documents",
-      "Les registres",
       "Les locaux",
-      "Les correspondances"
+      "Tous les documents",
+      "Les correspondances",
+      "Les registres"
     ],
     "correctIndexes": [
       0,
@@ -1385,10 +1385,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Uniquement les activités principales",
-      "Tous les documents en sa connaissance",
       "Seulement les documents publics",
-      "Les informations positives"
+      "Tous les documents en sa connaissance",
+      "Les informations positives",
+      "Uniquement les activités principales"
     ],
     "correctIndex": 1
   },
@@ -1398,12 +1398,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garder le silence",
-      "En informer discrètement la direction",
       "En déclarer à l'autorité compétente",
-      "Le rapporter au tribunal"
+      "Le rapporter au tribunal",
+      "En informer discrètement la direction",
+      "Garder le silence"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "commissariat_aux_comptes_medium_097",
@@ -1412,14 +1412,14 @@
     "type": "multipleChoice",
     "options": [
       "Il y a négligence grave",
+      "Il n'a pas détecté une erreur mineure",
       "Il y a manquement à son devoir",
-      "Il y a violation des normes d'audit",
-      "Il n'a pas détecté une erreur mineure"
+      "Il y a violation des normes d'audit"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1428,8 +1428,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'opinion générale",
       "Les réserves éventuelles",
+      "L'opinion générale",
       "Les recommandations",
       "Les éléments factuels"
     ],
@@ -1459,11 +1459,11 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Diriger l'entreprise",
       "Certifier la régularité et la sincérité des comptes",
-      "Embaucher les employés",
-      "Vendre les produits"
+      "Diriger l'entreprise",
+      "Vendre les produits",
+      "Embaucher les employés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

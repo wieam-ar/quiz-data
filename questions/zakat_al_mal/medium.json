@@ -7,10 +7,10 @@
     "options": [
       "Le revenu minimum",
       "Le seuil d'imposition",
-      "La richesse obligatoire",
-      "L'exonération"
+      "L'exonération",
+      "La richesse obligatoire"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_002",
@@ -54,8 +54,8 @@
     "level": "medium",
     "type": "dropdown",
     "options": [
-      "Forfaitaire",
       "Analytique",
+      "Forfaitaire",
       "Réelle",
       "Forfaitaire et réelle"
     ],
@@ -67,12 +67,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
-      "La Zakat n'est pas due",
+      "Elle est doublée",
       "Elle est réduite",
-      "Elle est doublée"
+      "La Zakat n'est pas due",
+      "La Zakat reste due"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_007",
@@ -80,12 +80,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
       "L'absence de besoin",
-      "Pas d'obligation"
+      "Pas d'obligation",
+      "La richesse obligatoire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_008",
@@ -93,15 +93,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
-      "Après déduction de dépenses opérationnelles",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Après impôts",
+      "Après déduction de dépenses opérationnelles",
+      "Le bénéfice brut"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -111,11 +111,11 @@
     "type": "singleChoice",
     "options": [
       "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Transition d'année",
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_010",
@@ -124,11 +124,11 @@
     "type": "singleChoice",
     "options": [
       "6 mois",
+      "2 ans",
       "Un an lunaire",
-      "3 mois",
-      "2 ans"
+      "3 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_011",
@@ -150,11 +150,11 @@
     "type": "singleChoice",
     "options": [
       "3 mois",
-      "6 mois",
       "Un an lunaire",
-      "Deux ans"
+      "Deux ans",
+      "6 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_013",
@@ -162,10 +162,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les vêtements portés",
-      "La résidence personnelle",
       "La voiture personnelle",
-      "Les outils de travail"
+      "Les vêtements portés",
+      "Les outils de travail",
+      "La résidence personnelle"
     ],
     "correctIndexes": [
       0,
@@ -180,12 +180,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
-      "Exonérés de Zakat",
+      "Taxés différemment",
       "Partiellement taxés",
-      "Taxés différemment"
+      "Exonérés de Zakat",
+      "Soumis à Zakat"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_015",
@@ -193,12 +193,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
-      "La valeur nette des actifs",
+      "Les distributions",
       "Les gains réalisés",
-      "Les distributions"
+      "La valeur nette des actifs",
+      "Les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_016",
@@ -219,12 +219,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
-      "L'absence de besoin",
-      "Pas d'obligation"
+      "La richesse obligatoire",
+      "Pas d'obligation",
+      "L'absence de besoin"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_018",
@@ -232,15 +232,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
-      "Après déduction de dépenses opérationnelles",
+      "Après impôts",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Après déduction de dépenses opérationnelles",
+      "Le bénéfice brut"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -250,11 +250,11 @@
     "type": "singleChoice",
     "options": [
       "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
+      "Transition d'année",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_020",
@@ -262,12 +262,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
       "Un an lunaire",
-      "3 mois",
-      "2 ans"
+      "6 mois",
+      "2 ans",
+      "3 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_021",
@@ -275,10 +275,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 dinar",
+      "1 kilo",
       "85 grammes d'argent",
       "100 grammes",
-      "1 kilo"
+      "1 dinar"
     ],
     "correctIndex": 1
   },
@@ -289,11 +289,11 @@
     "type": "singleChoice",
     "options": [
       "3 mois",
+      "Deux ans",
       "6 mois",
-      "Un an lunaire",
-      "Deux ans"
+      "Un an lunaire"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_023",
@@ -301,9 +301,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les vêtements portés",
-      "La résidence personnelle",
       "La voiture personnelle",
+      "La résidence personnelle",
+      "Les vêtements portés",
       "Les outils de travail"
     ],
     "correctIndexes": [
@@ -319,10 +319,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
+      "Taxés différemment",
       "Exonérés de Zakat",
       "Partiellement taxés",
-      "Taxés différemment"
+      "Soumis à Zakat"
     ],
     "correctIndex": 1
   },
@@ -332,12 +332,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
       "La valeur nette des actifs",
+      "Les revenus",
       "Les gains réalisés",
       "Les distributions"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_026",
@@ -345,10 +345,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
+      "Elle est doublée",
       "La Zakat n'est pas due",
       "Elle est réduite",
-      "Elle est doublée"
+      "La Zakat reste due"
     ],
     "correctIndex": 1
   },
@@ -358,10 +358,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
+      "Pas d'obligation",
       "Ne pas avoir besoin de Zakat reçue",
       "L'absence de besoin",
-      "Pas d'obligation"
+      "La richesse obligatoire"
     ],
     "correctIndex": 1
   },
@@ -371,15 +371,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
-      "Après déduction de dépenses opérationnelles",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Le bénéfice brut",
+      "Après impôts",
+      "Après déduction de dépenses opérationnelles"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -388,12 +388,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
+      "Transition d'année",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_030",
@@ -401,12 +401,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
-      "Un an lunaire",
+      "2 ans",
       "3 mois",
-      "2 ans"
+      "6 mois",
+      "Un an lunaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_031",
@@ -414,9 +414,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 dinar",
-      "85 grammes d'argent",
       "100 grammes",
+      "85 grammes d'argent",
+      "1 dinar",
       "1 kilo"
     ],
     "correctIndex": 1
@@ -427,12 +427,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
-      "6 mois",
       "Un an lunaire",
-      "Deux ans"
+      "6 mois",
+      "Deux ans",
+      "3 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_033",
@@ -440,9 +440,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les vêtements portés",
-      "La résidence personnelle",
       "La voiture personnelle",
+      "La résidence personnelle",
+      "Les vêtements portés",
       "Les outils de travail"
     ],
     "correctIndexes": [
@@ -459,11 +459,11 @@
     "type": "singleChoice",
     "options": [
       "Soumis à Zakat",
-      "Exonérés de Zakat",
       "Partiellement taxés",
+      "Exonérés de Zakat",
       "Taxés différemment"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_035",
@@ -471,12 +471,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les distributions",
       "Les revenus",
-      "La valeur nette des actifs",
       "Les gains réalisés",
-      "Les distributions"
+      "La valeur nette des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_036",
@@ -484,12 +484,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
       "La Zakat n'est pas due",
+      "La Zakat reste due",
       "Elle est réduite",
       "Elle est doublée"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_037",
@@ -499,8 +499,8 @@
     "options": [
       "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
-      "L'absence de besoin",
-      "Pas d'obligation"
+      "Pas d'obligation",
+      "L'absence de besoin"
     ],
     "correctIndex": 1
   },
@@ -510,8 +510,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
       "Après déduction de dépenses opérationnelles",
+      "Le bénéfice brut",
       "Après déduction de dettes long terme",
       "Après impôts"
     ],
@@ -527,12 +527,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Transition d'année",
       "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_040",
@@ -540,12 +540,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
       "Un an lunaire",
-      "3 mois",
-      "2 ans"
+      "6 mois",
+      "2 ans",
+      "3 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_041",
@@ -555,8 +555,8 @@
     "options": [
       "1 dinar",
       "85 grammes d'argent",
-      "100 grammes",
-      "1 kilo"
+      "1 kilo",
+      "100 grammes"
     ],
     "correctIndex": 1
   },
@@ -566,10 +566,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
       "6 mois",
+      "Deux ans",
       "Un an lunaire",
-      "Deux ans"
+      "3 mois"
     ],
     "correctIndex": 2
   },
@@ -579,9 +579,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "La voiture personnelle",
       "Les vêtements portés",
       "La résidence personnelle",
-      "La voiture personnelle",
       "Les outils de travail"
     ],
     "correctIndexes": [
@@ -597,12 +597,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
       "Exonérés de Zakat",
+      "Taxés différemment",
       "Partiellement taxés",
-      "Taxés différemment"
+      "Soumis à Zakat"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_045",
@@ -610,12 +610,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
-      "La valeur nette des actifs",
+      "Les distributions",
       "Les gains réalisés",
-      "Les distributions"
+      "La valeur nette des actifs",
+      "Les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_046",
@@ -625,8 +625,8 @@
     "options": [
       "La Zakat reste due",
       "La Zakat n'est pas due",
-      "Elle est réduite",
-      "Elle est doublée"
+      "Elle est doublée",
+      "Elle est réduite"
     ],
     "correctIndex": 1
   },
@@ -636,12 +636,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
-      "L'absence de besoin",
-      "Pas d'obligation"
+      "La richesse obligatoire",
+      "Pas d'obligation",
+      "L'absence de besoin"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_048",
@@ -649,15 +649,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
       "Après déduction de dépenses opérationnelles",
-      "Après déduction de dettes long terme",
-      "Après impôts"
+      "Le bénéfice brut",
+      "Après impôts",
+      "Après déduction de dettes long terme"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -666,12 +666,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Réduction du montant au bénéficiaire",
       "Annulation de la Zakat pour le donateur",
+      "Réduction du montant au bénéficiaire",
       "Partage de la Zakat entre donateur et bénéficiaire",
       "Transition d'année"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_050",
@@ -679,12 +679,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
       "Un an lunaire",
-      "3 mois",
-      "2 ans"
+      "2 ans",
+      "6 mois",
+      "3 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_051",
@@ -692,12 +692,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 dinar",
       "85 grammes d'argent",
       "100 grammes",
-      "1 kilo"
+      "1 kilo",
+      "1 dinar"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_052",
@@ -705,12 +705,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
       "6 mois",
       "Un an lunaire",
-      "Deux ans"
+      "Deux ans",
+      "3 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_053",
@@ -736,12 +736,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
       "Exonérés de Zakat",
-      "Partiellement taxés",
-      "Taxés différemment"
+      "Soumis à Zakat",
+      "Taxés différemment",
+      "Partiellement taxés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_055",
@@ -749,12 +749,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
       "La valeur nette des actifs",
-      "Les gains réalisés",
-      "Les distributions"
+      "Les revenus",
+      "Les distributions",
+      "Les gains réalisés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_056",
@@ -763,11 +763,11 @@
     "type": "singleChoice",
     "options": [
       "La Zakat reste due",
+      "Elle est doublée",
       "La Zakat n'est pas due",
-      "Elle est réduite",
-      "Elle est doublée"
+      "Elle est réduite"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_057",
@@ -777,8 +777,8 @@
     "options": [
       "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
-      "L'absence de besoin",
-      "Pas d'obligation"
+      "Pas d'obligation",
+      "L'absence de besoin"
     ],
     "correctIndex": 1
   },
@@ -789,14 +789,14 @@
     "type": "multipleChoice",
     "options": [
       "Le bénéfice brut",
+      "Après impôts",
       "Après déduction de dépenses opérationnelles",
-      "Après déduction de dettes long terme",
-      "Après impôts"
+      "Après déduction de dettes long terme"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -805,12 +805,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Réduction du montant au bénéficiaire",
       "Annulation de la Zakat pour le donateur",
-      "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Réduction du montant au bénéficiaire",
+      "Transition d'année",
+      "Partage de la Zakat entre donateur et bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_060",
@@ -818,12 +818,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
       "Un an lunaire",
+      "2 ans",
       "3 mois",
-      "2 ans"
+      "6 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_061",
@@ -833,8 +833,8 @@
     "options": [
       "1 dinar",
       "85 grammes d'argent",
-      "100 grammes",
-      "1 kilo"
+      "1 kilo",
+      "100 grammes"
     ],
     "correctIndex": 1
   },
@@ -844,12 +844,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
       "6 mois",
-      "Un an lunaire",
-      "Deux ans"
+      "3 mois",
+      "Deux ans",
+      "Un an lunaire"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_063",
@@ -858,9 +858,9 @@
     "type": "multipleChoice",
     "options": [
       "Les vêtements portés",
-      "La résidence personnelle",
       "La voiture personnelle",
-      "Les outils de travail"
+      "Les outils de travail",
+      "La résidence personnelle"
     ],
     "correctIndexes": [
       0,
@@ -875,9 +875,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
-      "Exonérés de Zakat",
       "Partiellement taxés",
+      "Exonérés de Zakat",
+      "Soumis à Zakat",
       "Taxés différemment"
     ],
     "correctIndex": 1
@@ -888,12 +888,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
       "La valeur nette des actifs",
       "Les gains réalisés",
-      "Les distributions"
+      "Les distributions",
+      "Les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_066",
@@ -901,9 +901,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
-      "La Zakat n'est pas due",
       "Elle est réduite",
+      "La Zakat n'est pas due",
+      "La Zakat reste due",
       "Elle est doublée"
     ],
     "correctIndex": 1
@@ -914,12 +914,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
+      "La richesse obligatoire",
       "L'absence de besoin",
       "Pas d'obligation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_068",
@@ -927,15 +927,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
       "Après déduction de dépenses opérationnelles",
+      "Après impôts",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Le bénéfice brut"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -944,12 +944,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Transition d'année",
+      "Réduction du montant au bénéficiaire",
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_070",
@@ -958,11 +958,11 @@
     "type": "singleChoice",
     "options": [
       "6 mois",
+      "2 ans",
       "Un an lunaire",
-      "3 mois",
-      "2 ans"
+      "3 mois"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_071",
@@ -970,12 +970,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "100 grammes",
       "1 dinar",
       "85 grammes d'argent",
-      "100 grammes",
       "1 kilo"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_072",
@@ -983,12 +983,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
-      "6 mois",
+      "Deux ans",
       "Un an lunaire",
-      "Deux ans"
+      "3 mois",
+      "6 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_073",
@@ -996,9 +996,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les vêtements portés",
-      "La résidence personnelle",
       "La voiture personnelle",
+      "La résidence personnelle",
+      "Les vêtements portés",
       "Les outils de travail"
     ],
     "correctIndexes": [
@@ -1016,8 +1016,8 @@
     "options": [
       "Soumis à Zakat",
       "Exonérés de Zakat",
-      "Partiellement taxés",
-      "Taxés différemment"
+      "Taxés différemment",
+      "Partiellement taxés"
     ],
     "correctIndex": 1
   },
@@ -1029,8 +1029,8 @@
     "options": [
       "Les revenus",
       "La valeur nette des actifs",
-      "Les gains réalisés",
-      "Les distributions"
+      "Les distributions",
+      "Les gains réalisés"
     ],
     "correctIndex": 1
   },
@@ -1040,12 +1040,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
-      "La Zakat n'est pas due",
+      "Elle est doublée",
       "Elle est réduite",
-      "Elle est doublée"
+      "La Zakat reste due",
+      "La Zakat n'est pas due"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_077",
@@ -1053,12 +1053,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
+      "La richesse obligatoire",
       "L'absence de besoin",
       "Pas d'obligation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_078",
@@ -1066,15 +1066,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Après impôts",
       "Le bénéfice brut",
-      "Après déduction de dépenses opérationnelles",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Après déduction de dépenses opérationnelles"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1084,11 +1084,11 @@
     "type": "singleChoice",
     "options": [
       "Réduction du montant au bénéficiaire",
+      "Transition d'année",
       "Annulation de la Zakat pour le donateur",
-      "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Partage de la Zakat entre donateur et bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_080",
@@ -1096,12 +1096,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
       "Un an lunaire",
+      "6 mois",
       "3 mois",
       "2 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_081",
@@ -1109,12 +1109,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "1 dinar",
       "85 grammes d'argent",
+      "1 dinar",
       "100 grammes",
       "1 kilo"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_082",
@@ -1122,12 +1122,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
-      "6 mois",
       "Un an lunaire",
-      "Deux ans"
+      "Deux ans",
+      "6 mois",
+      "3 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_083",
@@ -1153,10 +1153,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
+      "Taxés différemment",
       "Exonérés de Zakat",
-      "Partiellement taxés",
-      "Taxés différemment"
+      "Soumis à Zakat",
+      "Partiellement taxés"
     ],
     "correctIndex": 1
   },
@@ -1166,12 +1166,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les revenus",
-      "La valeur nette des actifs",
       "Les gains réalisés",
-      "Les distributions"
+      "Les distributions",
+      "La valeur nette des actifs",
+      "Les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_086",
@@ -1179,12 +1179,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
-      "La Zakat n'est pas due",
       "Elle est réduite",
-      "Elle est doublée"
+      "La Zakat reste due",
+      "Elle est doublée",
+      "La Zakat n'est pas due"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_087",
@@ -1192,10 +1192,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
+      "Pas d'obligation",
       "Ne pas avoir besoin de Zakat reçue",
-      "L'absence de besoin",
-      "Pas d'obligation"
+      "La richesse obligatoire",
+      "L'absence de besoin"
     ],
     "correctIndex": 1
   },
@@ -1205,15 +1205,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
       "Après déduction de dépenses opérationnelles",
+      "Après impôts",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Le bénéfice brut"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1223,11 +1223,11 @@
     "type": "singleChoice",
     "options": [
       "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
+      "Transition d'année",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Annulation de la Zakat pour le donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_090",
@@ -1235,12 +1235,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "6 mois",
-      "Un an lunaire",
+      "2 ans",
       "3 mois",
-      "2 ans"
+      "6 mois",
+      "Un an lunaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_091",
@@ -1249,11 +1249,11 @@
     "type": "singleChoice",
     "options": [
       "1 dinar",
-      "85 grammes d'argent",
+      "1 kilo",
       "100 grammes",
-      "1 kilo"
+      "85 grammes d'argent"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_092",
@@ -1261,12 +1261,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 mois",
-      "6 mois",
+      "Deux ans",
       "Un an lunaire",
-      "Deux ans"
+      "6 mois",
+      "3 mois"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_mal_medium_093",
@@ -1274,10 +1274,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les vêtements portés",
+      "Les outils de travail",
       "La résidence personnelle",
       "La voiture personnelle",
-      "Les outils de travail"
+      "Les vêtements portés"
     ],
     "correctIndexes": [
       0,
@@ -1292,12 +1292,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Soumis à Zakat",
       "Exonérés de Zakat",
-      "Partiellement taxés",
-      "Taxés différemment"
+      "Soumis à Zakat",
+      "Taxés différemment",
+      "Partiellement taxés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_095",
@@ -1305,12 +1305,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les distributions",
       "Les revenus",
-      "La valeur nette des actifs",
       "Les gains réalisés",
-      "Les distributions"
+      "La valeur nette des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_096",
@@ -1318,12 +1318,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La Zakat reste due",
-      "La Zakat n'est pas due",
       "Elle est réduite",
-      "Elle est doublée"
+      "La Zakat reste due",
+      "Elle est doublée",
+      "La Zakat n'est pas due"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_mal_medium_097",
@@ -1331,12 +1331,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La richesse obligatoire",
       "Ne pas avoir besoin de Zakat reçue",
       "L'absence de besoin",
-      "Pas d'obligation"
+      "Pas d'obligation",
+      "La richesse obligatoire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_mal_medium_098",
@@ -1344,15 +1344,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le bénéfice brut",
-      "Après déduction de dépenses opérationnelles",
+      "Après impôts",
       "Après déduction de dettes long terme",
-      "Après impôts"
+      "Le bénéfice brut",
+      "Après déduction de dépenses opérationnelles"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1361,12 +1361,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Réduction du montant au bénéficiaire",
-      "Annulation de la Zakat pour le donateur",
+      "Transition d'année",
       "Partage de la Zakat entre donateur et bénéficiaire",
-      "Transition d'année"
+      "Annulation de la Zakat pour le donateur",
+      "Réduction du montant au bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_mal_medium_100",
@@ -1375,10 +1375,10 @@
     "type": "singleChoice",
     "options": [
       "6 mois",
-      "Un an lunaire",
       "3 mois",
-      "2 ans"
+      "2 ans",
+      "Un an lunaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

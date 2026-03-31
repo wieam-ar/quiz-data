@@ -6,11 +6,11 @@
     "type": "singleChoice",
     "options": [
       "Gérer les comptes",
-      "Certifier la conformité des comptes",
       "Faire des prévisions",
+      "Certifier la conformité des comptes",
       "Améliorer la production"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_002",
@@ -36,15 +36,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certification complète",
-      "Certification avec réserves",
       "Refus de certification",
-      "Audit limité"
+      "Certification complète",
+      "Audit limité",
+      "Certification avec réserves"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -53,12 +53,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "Vérification de documents",
       "Évaluation de la maîtrise du processus",
-      "Contrôle des stocks",
-      "Revue de la paie"
+      "Vérification de documents",
+      "Revue de la paie",
+      "Contrôle des stocks"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_006",
@@ -84,12 +84,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Gérer les comptes",
       "Certifier la conformité",
       "Faire des prévisions",
-      "Améliorer la production"
+      "Améliorer la production",
+      "Gérer les comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_009",
@@ -97,15 +97,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Sans réserve",
       "Avec réserve",
-      "Refus",
-      "Recommandation"
+      "Recommandation",
+      "Sans réserve",
+      "Refus"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -114,12 +114,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "La maîtrise",
+      "Le processus",
       "La conformité",
-      "Le contenu",
-      "Le processus"
+      "La maîtrise",
+      "Le contenu"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_011",
@@ -127,15 +127,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
+      "Valider les stratégies de gestion",
       "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Certifier les comptes",
+      "Évaluer la conformité légale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -144,12 +144,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
       "Les statuts légaux et professionnels",
-      "L'organisation auditée",
-      "Les actionnaires de petite taille"
+      "Le gouvernement",
+      "Les actionnaires de petite taille",
+      "L'organisation auditée"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_013",
@@ -157,15 +157,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "INTOSAI",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "INTOSAI",
+      "Normes ISO",
+      "Normes nationales"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -175,9 +175,9 @@
     "type": "multipleChoice",
     "options": [
       "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur est un ancien employé",
       "L'auditeur a des intérêts financiers",
-      "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur a participé à la gestion"
     ],
     "correctIndexes": [
       0,
@@ -192,10 +192,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
+      "Basées sur des suppositions",
       "Suffisantes et appropriées",
-      "Minimalistes",
-      "Basées sur des suppositions"
+      "Supposées",
+      "Minimalistes"
     ],
     "correctIndex": 1
   },
@@ -205,10 +205,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La compétence de l'auditeur",
       "La méthodologie utilisée",
-      "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "La compétence de l'auditeur",
+      "Les ressources disponibles",
+      "Le risque d'erreur initial"
     ],
     "correctIndexes": [
       0,
@@ -223,9 +223,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
-      "Certifiée avec réserve",
       "Refusée",
+      "Certifiée avec réserve",
+      "Certifiée sans réserve",
       "Absente"
     ],
     "correctIndexes": [
@@ -242,8 +242,8 @@
     "options": [
       "La performance du management",
       "L'efficacité des contrôles internes",
-      "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "La satisfaction des clients",
+      "La rentabilité de l'entreprise"
     ],
     "correctIndex": 1
   },
@@ -254,11 +254,11 @@
     "type": "singleChoice",
     "options": [
       "Un rapport verbal",
-      "Un rapport écrit officiel",
       "Une note informelle",
-      "Une déclaration orale"
+      "Une déclaration orale",
+      "Un rapport écrit officiel"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_020",
@@ -266,12 +266,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
       "Un examen systématique et objectif des comptes financiers",
+      "Une inspection personnelle",
       "Une évaluation politique",
       "Une vérification personnelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_021",
@@ -279,9 +279,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
       "Assurer la transparence financière",
+      "Évaluer la conformité légale",
+      "Certifier les comptes",
       "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
@@ -296,12 +296,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
       "Les statuts légaux et professionnels",
       "L'organisation auditée",
-      "Les actionnaires de petite taille"
+      "Les actionnaires de petite taille",
+      "Le gouvernement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_023",
@@ -309,15 +309,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Normes ISO",
       "INTOSAI",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "Normes nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -326,9 +326,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
-      "L'auditeur a des intérêts financiers",
       "L'auditeur a participé à la gestion",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a un lien personnel avec l'organisation",
       "L'auditeur est un ancien employé"
     ],
     "correctIndexes": [
@@ -344,12 +344,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
       "Suffisantes et appropriées",
       "Minimalistes",
+      "Supposées",
       "Basées sur des suppositions"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_026",
@@ -358,9 +358,9 @@
     "type": "multipleChoice",
     "options": [
       "La compétence de l'auditeur",
-      "La méthodologie utilisée",
+      "Les ressources disponibles",
       "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "La méthodologie utilisée"
     ],
     "correctIndexes": [
       0,
@@ -375,15 +375,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
       "Certifiée avec réserve",
-      "Refusée",
-      "Absente"
+      "Certifiée sans réserve",
+      "Absente",
+      "Refusée"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -392,12 +392,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La rentabilité de l'entreprise",
       "La performance du management",
       "L'efficacité des contrôles internes",
-      "La rentabilité de l'entreprise",
       "La satisfaction des clients"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_029",
@@ -405,12 +405,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un rapport verbal",
       "Un rapport écrit officiel",
-      "Une note informelle",
-      "Une déclaration orale"
+      "Une déclaration orale",
+      "Un rapport verbal",
+      "Une note informelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_030",
@@ -419,11 +419,11 @@
     "type": "singleChoice",
     "options": [
       "Une inspection personnelle",
-      "Un examen systématique et objectif des comptes financiers",
       "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une vérification personnelle",
+      "Un examen systématique et objectif des comptes financiers"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_031",
@@ -431,15 +431,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
       "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Valider les stratégies de gestion",
+      "Évaluer la conformité légale",
+      "Certifier les comptes"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -449,11 +449,11 @@
     "type": "singleChoice",
     "options": [
       "Le gouvernement",
-      "Les statuts légaux et professionnels",
       "L'organisation auditée",
+      "Les statuts légaux et professionnels",
       "Les actionnaires de petite taille"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_033",
@@ -461,15 +461,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "INTOSAI",
+      "Normes ISO",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "INTOSAI",
+      "Normes nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -496,12 +496,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
       "Suffisantes et appropriées",
-      "Minimalistes",
-      "Basées sur des suppositions"
+      "Supposées",
+      "Basées sur des suppositions",
+      "Minimalistes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_036",
@@ -510,9 +510,9 @@
     "type": "multipleChoice",
     "options": [
       "La compétence de l'auditeur",
-      "La méthodologie utilisée",
       "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "Les ressources disponibles",
+      "La méthodologie utilisée"
     ],
     "correctIndexes": [
       0,
@@ -527,15 +527,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
-      "Certifiée avec réserve",
+      "Absente",
       "Refusée",
-      "Absente"
+      "Certifiée sans réserve",
+      "Certifiée avec réserve"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -544,12 +544,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
-      "L'efficacité des contrôles internes",
+      "La satisfaction des clients",
       "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "La performance du management",
+      "L'efficacité des contrôles internes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_039",
@@ -557,10 +557,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un rapport verbal",
+      "Une déclaration orale",
       "Un rapport écrit officiel",
-      "Une note informelle",
-      "Une déclaration orale"
+      "Un rapport verbal",
+      "Une note informelle"
     ],
     "correctIndex": 1
   },
@@ -570,12 +570,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
       "Un examen systématique et objectif des comptes financiers",
+      "Une inspection personnelle",
       "Une évaluation politique",
       "Une vérification personnelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_041",
@@ -583,15 +583,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
       "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Valider les stratégies de gestion",
+      "Évaluer la conformité légale",
+      "Certifier les comptes"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -600,12 +600,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
       "Les statuts légaux et professionnels",
-      "L'organisation auditée",
-      "Les actionnaires de petite taille"
+      "Les actionnaires de petite taille",
+      "Le gouvernement",
+      "L'organisation auditée"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_043",
@@ -630,10 +630,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
       "L'auditeur a des intérêts financiers",
-      "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur a un lien personnel avec l'organisation",
+      "L'auditeur est un ancien employé",
+      "L'auditeur a participé à la gestion"
     ],
     "correctIndexes": [
       0,
@@ -648,12 +648,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
       "Suffisantes et appropriées",
+      "Supposées",
       "Minimalistes",
       "Basées sur des suppositions"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_046",
@@ -661,10 +661,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La compétence de l'auditeur",
-      "La méthodologie utilisée",
       "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "La méthodologie utilisée",
+      "Les ressources disponibles",
+      "La compétence de l'auditeur"
     ],
     "correctIndexes": [
       0,
@@ -679,9 +679,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
-      "Certifiée avec réserve",
       "Refusée",
+      "Certifiée avec réserve",
+      "Certifiée sans réserve",
       "Absente"
     ],
     "correctIndexes": [
@@ -696,12 +696,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
       "L'efficacité des contrôles internes",
       "La rentabilité de l'entreprise",
+      "La performance du management",
       "La satisfaction des clients"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_049",
@@ -709,10 +709,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un rapport verbal",
-      "Un rapport écrit officiel",
       "Une note informelle",
-      "Une déclaration orale"
+      "Un rapport écrit officiel",
+      "Une déclaration orale",
+      "Un rapport verbal"
     ],
     "correctIndex": 1
   },
@@ -722,12 +722,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
-      "Un examen systématique et objectif des comptes financiers",
+      "Une vérification personnelle",
       "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une inspection personnelle",
+      "Un examen systématique et objectif des comptes financiers"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_051",
@@ -735,15 +735,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
+      "Valider les stratégies de gestion",
       "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Évaluer la conformité légale",
+      "Certifier les comptes"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -752,12 +752,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
       "Les statuts légaux et professionnels",
+      "Le gouvernement",
       "L'organisation auditée",
       "Les actionnaires de petite taille"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_053",
@@ -765,15 +765,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Normes ISO",
       "INTOSAI",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "Normes nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -782,10 +782,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
-      "L'auditeur a des intérêts financiers",
+      "L'auditeur est un ancien employé",
       "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a un lien personnel avec l'organisation"
     ],
     "correctIndexes": [
       0,
@@ -800,12 +800,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Minimalistes",
       "Supposées",
       "Suffisantes et appropriées",
-      "Minimalistes",
       "Basées sur des suppositions"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_056",
@@ -813,10 +813,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les ressources disponibles",
       "La compétence de l'auditeur",
-      "La méthodologie utilisée",
       "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "La méthodologie utilisée"
     ],
     "correctIndexes": [
       0,
@@ -831,15 +831,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Absente",
       "Certifiée sans réserve",
-      "Certifiée avec réserve",
       "Refusée",
-      "Absente"
+      "Certifiée avec réserve"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -848,10 +848,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
+      "La satisfaction des clients",
       "L'efficacité des contrôles internes",
       "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "La performance du management"
     ],
     "correctIndex": 1
   },
@@ -861,12 +861,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un rapport verbal",
-      "Un rapport écrit officiel",
       "Une note informelle",
-      "Une déclaration orale"
+      "Un rapport verbal",
+      "Une déclaration orale",
+      "Un rapport écrit officiel"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_060",
@@ -874,12 +874,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
-      "Un examen systématique et objectif des comptes financiers",
       "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une inspection personnelle",
+      "Une vérification personnelle",
+      "Un examen systématique et objectif des comptes financiers"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_061",
@@ -887,15 +887,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
-      "Évaluer la conformité légale",
       "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Valider les stratégies de gestion",
+      "Évaluer la conformité légale",
+      "Certifier les comptes"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -917,15 +917,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Normes ISO",
       "INTOSAI",
-      "ISA",
       "Normes nationales",
-      "Normes ISO"
+      "ISA"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -934,10 +934,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
       "L'auditeur a des intérêts financiers",
       "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur est un ancien employé",
+      "L'auditeur a un lien personnel avec l'organisation"
     ],
     "correctIndexes": [
       0,
@@ -952,12 +952,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
       "Suffisantes et appropriées",
       "Minimalistes",
+      "Supposées",
       "Basées sur des suppositions"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_066",
@@ -965,10 +965,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La compétence de l'auditeur",
-      "La méthodologie utilisée",
       "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "La méthodologie utilisée",
+      "Les ressources disponibles",
+      "La compétence de l'auditeur"
     ],
     "correctIndexes": [
       0,
@@ -983,15 +983,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Absente",
       "Certifiée sans réserve",
       "Certifiée avec réserve",
-      "Refusée",
-      "Absente"
+      "Refusée"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1000,10 +1000,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
-      "L'efficacité des contrôles internes",
       "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "L'efficacité des contrôles internes",
+      "La satisfaction des clients",
+      "La performance du management"
     ],
     "correctIndex": 1
   },
@@ -1026,10 +1026,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
+      "Une vérification personnelle",
       "Un examen systématique et objectif des comptes financiers",
-      "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une inspection personnelle",
+      "Une évaluation politique"
     ],
     "correctIndex": 1
   },
@@ -1040,8 +1040,8 @@
     "type": "multipleChoice",
     "options": [
       "Certifier les comptes",
-      "Évaluer la conformité légale",
       "Assurer la transparence financière",
+      "Évaluer la conformité légale",
       "Valider les stratégies de gestion"
     ],
     "correctIndexes": [
@@ -1056,10 +1056,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
+      "Les actionnaires de petite taille",
       "Les statuts légaux et professionnels",
       "L'organisation auditée",
-      "Les actionnaires de petite taille"
+      "Le gouvernement"
     ],
     "correctIndex": 1
   },
@@ -1070,14 +1070,14 @@
     "type": "multipleChoice",
     "options": [
       "INTOSAI",
+      "Normes ISO",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "Normes nationales"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1086,10 +1086,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
-      "L'auditeur a des intérêts financiers",
       "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur est un ancien employé",
+      "L'auditeur a un lien personnel avec l'organisation"
     ],
     "correctIndexes": [
       0,
@@ -1104,12 +1104,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
       "Suffisantes et appropriées",
-      "Minimalistes",
-      "Basées sur des suppositions"
+      "Supposées",
+      "Basées sur des suppositions",
+      "Minimalistes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_076",
@@ -1135,15 +1135,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Absente",
       "Certifiée sans réserve",
-      "Certifiée avec réserve",
       "Refusée",
-      "Absente"
+      "Certifiée avec réserve"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1152,12 +1152,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
-      "L'efficacité des contrôles internes",
       "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "La satisfaction des clients",
+      "L'efficacité des contrôles internes",
+      "La performance du management"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_079",
@@ -1166,11 +1166,11 @@
     "type": "singleChoice",
     "options": [
       "Un rapport verbal",
+      "Une déclaration orale",
       "Un rapport écrit officiel",
-      "Une note informelle",
-      "Une déclaration orale"
+      "Une note informelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_080",
@@ -1178,12 +1178,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une inspection personnelle",
       "Un examen systématique et objectif des comptes financiers",
-      "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une vérification personnelle",
+      "Une inspection personnelle",
+      "Une évaluation politique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_081",
@@ -1191,15 +1191,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifier les comptes",
       "Évaluer la conformité légale",
-      "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Certifier les comptes",
+      "Valider les stratégies de gestion",
+      "Assurer la transparence financière"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1209,11 +1209,11 @@
     "type": "singleChoice",
     "options": [
       "Le gouvernement",
-      "Les statuts légaux et professionnels",
       "L'organisation auditée",
+      "Les statuts légaux et professionnels",
       "Les actionnaires de petite taille"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_083",
@@ -1221,15 +1221,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Normes ISO",
       "INTOSAI",
-      "ISA",
       "Normes nationales",
-      "Normes ISO"
+      "ISA"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1239,9 +1239,9 @@
     "type": "multipleChoice",
     "options": [
       "L'auditeur a un lien personnel avec l'organisation",
-      "L'auditeur a des intérêts financiers",
       "L'auditeur a participé à la gestion",
-      "L'auditeur est un ancien employé"
+      "L'auditeur est un ancien employé",
+      "L'auditeur a des intérêts financiers"
     ],
     "correctIndexes": [
       0,
@@ -1256,12 +1256,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Basées sur des suppositions",
       "Supposées",
       "Suffisantes et appropriées",
-      "Minimalistes",
-      "Basées sur des suppositions"
+      "Minimalistes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_086",
@@ -1271,8 +1271,8 @@
     "options": [
       "La compétence de l'auditeur",
       "La méthodologie utilisée",
-      "Le risque d'erreur initial",
-      "Les ressources disponibles"
+      "Les ressources disponibles",
+      "Le risque d'erreur initial"
     ],
     "correctIndexes": [
       0,
@@ -1287,15 +1287,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
+      "Absente",
       "Certifiée avec réserve",
-      "Refusée",
-      "Absente"
+      "Certifiée sans réserve",
+      "Refusée"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1305,11 +1305,11 @@
     "type": "singleChoice",
     "options": [
       "La performance du management",
+      "La satisfaction des clients",
       "L'efficacité des contrôles internes",
-      "La rentabilité de l'entreprise",
-      "La satisfaction des clients"
+      "La rentabilité de l'entreprise"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "audit_externe_easy_089",
@@ -1317,12 +1317,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Un rapport verbal",
       "Un rapport écrit officiel",
-      "Une note informelle",
-      "Une déclaration orale"
+      "Un rapport verbal",
+      "Une déclaration orale",
+      "Une note informelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_090",
@@ -1331,11 +1331,11 @@
     "type": "singleChoice",
     "options": [
       "Une inspection personnelle",
-      "Un examen systématique et objectif des comptes financiers",
+      "Une vérification personnelle",
       "Une évaluation politique",
-      "Une vérification personnelle"
+      "Un examen systématique et objectif des comptes financiers"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "audit_externe_easy_091",
@@ -1345,13 +1345,13 @@
     "options": [
       "Certifier les comptes",
       "Évaluer la conformité légale",
-      "Assurer la transparence financière",
-      "Valider les stratégies de gestion"
+      "Valider les stratégies de gestion",
+      "Assurer la transparence financière"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1360,12 +1360,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le gouvernement",
       "Les statuts légaux et professionnels",
+      "Le gouvernement",
       "L'organisation auditée",
       "Les actionnaires de petite taille"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "audit_externe_easy_093",
@@ -1374,14 +1374,14 @@
     "type": "multipleChoice",
     "options": [
       "INTOSAI",
+      "Normes ISO",
       "ISA",
-      "Normes nationales",
-      "Normes ISO"
+      "Normes nationales"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1390,9 +1390,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'auditeur a un lien personnel avec l'organisation",
-      "L'auditeur a des intérêts financiers",
       "L'auditeur a participé à la gestion",
+      "L'auditeur a des intérêts financiers",
+      "L'auditeur a un lien personnel avec l'organisation",
       "L'auditeur est un ancien employé"
     ],
     "correctIndexes": [
@@ -1408,10 +1408,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Supposées",
-      "Suffisantes et appropriées",
       "Minimalistes",
-      "Basées sur des suppositions"
+      "Suffisantes et appropriées",
+      "Basées sur des suppositions",
+      "Supposées"
     ],
     "correctIndex": 1
   },
@@ -1422,8 +1422,8 @@
     "type": "multipleChoice",
     "options": [
       "La compétence de l'auditeur",
-      "La méthodologie utilisée",
       "Le risque d'erreur initial",
+      "La méthodologie utilisée",
       "Les ressources disponibles"
     ],
     "correctIndexes": [
@@ -1439,15 +1439,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Certifiée sans réserve",
-      "Certifiée avec réserve",
       "Refusée",
-      "Absente"
+      "Absente",
+      "Certifiée avec réserve",
+      "Certifiée sans réserve"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1456,9 +1456,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La performance du management",
-      "L'efficacité des contrôles internes",
       "La rentabilité de l'entreprise",
+      "L'efficacité des contrôles internes",
+      "La performance du management",
       "La satisfaction des clients"
     ],
     "correctIndex": 1
@@ -1471,8 +1471,8 @@
     "options": [
       "Un rapport verbal",
       "Un rapport écrit officiel",
-      "Une note informelle",
-      "Une déclaration orale"
+      "Une déclaration orale",
+      "Une note informelle"
     ],
     "correctIndex": 1
   },
@@ -1484,8 +1484,8 @@
     "options": [
       "Une inspection personnelle",
       "Un examen systématique et objectif des comptes financiers",
-      "Une évaluation politique",
-      "Une vérification personnelle"
+      "Une vérification personnelle",
+      "Une évaluation politique"
     ],
     "correctIndex": 1
   }

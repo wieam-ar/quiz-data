@@ -5,12 +5,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Réduire les dettes",
       "Maximiser les dépenses",
       "Optimiser la création de valeur",
-      "Réduire les dettes",
       "Augmenter les ventes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_002",
@@ -53,12 +53,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "Ratio de rentabilité",
       "Ratio de solvabilité",
       "Ratio de liquidité",
-      "Ratio de profitabilité"
+      "Ratio de profitabilité",
+      "Ratio de rentabilité"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_easy_006",
@@ -66,9 +66,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les dettes fournisseurs",
       "Les stocks",
       "Les créances clients",
-      "Les dettes fournisseurs",
       "Les emprunts"
     ],
     "correctIndexes": [
@@ -83,10 +83,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
-      "Le cours de l'action",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "La structure financière",
+      "L'impôt des actionnaires",
+      "Le cours de l'action"
     ],
     "correctIndexes": [
       0,
@@ -101,12 +101,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Suppression de comptes",
       "Reclassement selon le cycle d'exploitation",
+      "Suppression de comptes",
       "Augmentation des valeurs",
       "Réduction des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_009",
@@ -114,12 +114,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
-      "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
-      "Les passifs"
+      "Les passifs",
+      "La capacité à supporter une baisse d'activité",
+      "Le profit"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_010",
@@ -128,11 +128,11 @@
     "type": "singleChoice",
     "options": [
       "Le profit net",
+      "La croissance",
       "L'effet de l'endettement sur la rentabilité",
-      "La liquidité",
-      "La croissance"
+      "La liquidité"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_011",
@@ -140,12 +140,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
       "Minimiser le coût du capital",
+      "Équilibrer les actifs",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Maximiser la dette"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_012",
@@ -153,12 +153,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
       "Un potentiel problème de liquidité",
       "Une forte rentabilité",
+      "Une bonne gestion",
       "Une expansion"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_013",
@@ -166,12 +166,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
-      "Actif / Passif",
+      "Profit / Actif",
       "Cash / Dettes",
-      "Profit / Actif"
+      "Dette / Capitaux propres",
+      "Actif / Passif"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_014",
@@ -179,12 +179,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
       "La différence entre la valeur actualisée des entrées et sorties de cash",
-      "Le coût d'investissement",
-      "Le revenu annuel"
+      "Le profit brut",
+      "Le revenu annuel",
+      "Le coût d'investissement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_015",
@@ -192,12 +192,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "VAN = Profit",
       "VAN = 0",
       "VAN = Maximum",
-      "VAN = Coût"
+      "VAN = Coût",
+      "VAN = Profit"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_016",
@@ -206,14 +206,14 @@
     "type": "multipleChoice",
     "options": [
       "Les stocks",
-      "Les créances clients",
       "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les emprunts",
+      "Les créances clients"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -223,9 +223,9 @@
     "type": "multipleChoice",
     "options": [
       "La structure financière",
-      "Le cours de l'action",
+      "L'impôt des actionnaires",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "Le cours de l'action"
     ],
     "correctIndexes": [
       0,
@@ -240,10 +240,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Suppression de comptes",
-      "Reclassement selon le cycle d'exploitation",
       "Augmentation des valeurs",
-      "Réduction des actifs"
+      "Reclassement selon le cycle d'exploitation",
+      "Réduction des actifs",
+      "Suppression de comptes"
     ],
     "correctIndex": 1
   },
@@ -253,12 +253,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
-      "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
-      "Les passifs"
+      "Les passifs",
+      "Le profit",
+      "La capacité à supporter une baisse d'activité"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_020",
@@ -266,12 +266,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
-      "L'effet de l'endettement sur la rentabilité",
       "La liquidité",
-      "La croissance"
+      "La croissance",
+      "L'effet de l'endettement sur la rentabilité",
+      "Le profit net"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_021",
@@ -279,12 +279,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
-      "Minimiser le coût du capital",
+      "Équilibrer les actifs",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Minimiser le coût du capital",
+      "Maximiser la dette"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_022",
@@ -292,12 +292,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
-      "Un potentiel problème de liquidité",
       "Une forte rentabilité",
-      "Une expansion"
+      "Une expansion",
+      "Un potentiel problème de liquidité",
+      "Une bonne gestion"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_023",
@@ -305,12 +305,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
-      "Actif / Passif",
+      "Profit / Actif",
       "Cash / Dettes",
-      "Profit / Actif"
+      "Dette / Capitaux propres",
+      "Actif / Passif"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_024",
@@ -318,10 +318,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
       "Le coût d'investissement",
-      "Le revenu annuel"
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le revenu annuel",
+      "Le profit brut"
     ],
     "correctIndex": 1
   },
@@ -331,12 +331,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "VAN = Profit",
       "VAN = 0",
       "VAN = Maximum",
+      "VAN = Profit",
       "VAN = Coût"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_026",
@@ -344,15 +344,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les stocks",
       "Les créances clients",
-      "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les stocks",
+      "Les emprunts",
+      "Les dettes fournisseurs"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -361,10 +361,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
       "Le cours de l'action",
-      "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "La structure financière",
+      "L'impôt des actionnaires",
+      "la liquidité de l'entreprise"
     ],
     "correctIndexes": [
       0,
@@ -379,10 +379,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Suppression de comptes",
+      "Réduction des actifs",
       "Reclassement selon le cycle d'exploitation",
-      "Augmentation des valeurs",
-      "Réduction des actifs"
+      "Suppression de comptes",
+      "Augmentation des valeurs"
     ],
     "correctIndex": 1
   },
@@ -393,11 +393,11 @@
     "type": "singleChoice",
     "options": [
       "Le profit",
-      "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
+      "La capacité à supporter une baisse d'activité",
       "Les passifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_030",
@@ -405,10 +405,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
+      "La croissance",
       "L'effet de l'endettement sur la rentabilité",
       "La liquidité",
-      "La croissance"
+      "Le profit net"
     ],
     "correctIndex": 1
   },
@@ -418,12 +418,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
-      "Minimiser le coût du capital",
+      "Équilibrer les actifs",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Minimiser le coût du capital",
+      "Maximiser la dette"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_032",
@@ -431,12 +431,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
       "Un potentiel problème de liquidité",
       "Une forte rentabilité",
-      "Une expansion"
+      "Une expansion",
+      "Une bonne gestion"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_033",
@@ -444,12 +444,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
       "Actif / Passif",
-      "Cash / Dettes",
-      "Profit / Actif"
+      "Dette / Capitaux propres",
+      "Profit / Actif",
+      "Cash / Dettes"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_easy_034",
@@ -457,12 +457,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le revenu annuel",
       "Le coût d'investissement",
-      "Le revenu annuel"
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_035",
@@ -470,12 +470,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "VAN = Coût",
       "VAN = Profit",
       "VAN = 0",
-      "VAN = Maximum",
-      "VAN = Coût"
+      "VAN = Maximum"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_036",
@@ -484,14 +484,14 @@
     "type": "multipleChoice",
     "options": [
       "Les stocks",
-      "Les créances clients",
       "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les emprunts",
+      "Les créances clients"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -500,10 +500,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
-      "Le cours de l'action",
+      "L'impôt des actionnaires",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "Le cours de l'action",
+      "La structure financière"
     ],
     "correctIndexes": [
       0,
@@ -520,8 +520,8 @@
     "options": [
       "Suppression de comptes",
       "Reclassement selon le cycle d'exploitation",
-      "Augmentation des valeurs",
-      "Réduction des actifs"
+      "Réduction des actifs",
+      "Augmentation des valeurs"
     ],
     "correctIndex": 1
   },
@@ -532,11 +532,11 @@
     "type": "singleChoice",
     "options": [
       "Le profit",
+      "Les passifs",
       "La capacité à supporter une baisse d'activité",
-      "Les actifs fixes",
-      "Les passifs"
+      "Les actifs fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_040",
@@ -544,12 +544,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
-      "L'effet de l'endettement sur la rentabilité",
+      "La croissance",
       "La liquidité",
-      "La croissance"
+      "L'effet de l'endettement sur la rentabilité",
+      "Le profit net"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_041",
@@ -557,10 +557,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
-      "Minimiser le coût du capital",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Minimiser le coût du capital",
+      "Équilibrer les actifs",
+      "Maximiser la dette"
     ],
     "correctIndex": 1
   },
@@ -570,12 +570,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Une forte rentabilité",
       "Une bonne gestion",
       "Un potentiel problème de liquidité",
-      "Une forte rentabilité",
       "Une expansion"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_043",
@@ -583,12 +583,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
-      "Actif / Passif",
       "Cash / Dettes",
+      "Actif / Passif",
+      "Dette / Capitaux propres",
       "Profit / Actif"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_044",
@@ -596,12 +596,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le revenu annuel",
       "Le coût d'investissement",
-      "Le revenu annuel"
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le profit brut"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_045",
@@ -609,9 +609,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "VAN = Profit",
-      "VAN = 0",
       "VAN = Maximum",
+      "VAN = 0",
+      "VAN = Profit",
       "VAN = Coût"
     ],
     "correctIndex": 1
@@ -622,15 +622,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les emprunts",
       "Les stocks",
-      "Les créances clients",
       "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les créances clients"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -639,10 +639,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
-      "Le cours de l'action",
+      "L'impôt des actionnaires",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "La structure financière",
+      "Le cours de l'action"
     ],
     "correctIndexes": [
       0,
@@ -657,9 +657,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Suppression de comptes",
-      "Reclassement selon le cycle d'exploitation",
       "Augmentation des valeurs",
+      "Reclassement selon le cycle d'exploitation",
+      "Suppression de comptes",
       "Réduction des actifs"
     ],
     "correctIndex": 1
@@ -670,12 +670,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les actifs fixes",
       "Le profit",
       "La capacité à supporter une baisse d'activité",
-      "Les actifs fixes",
       "Les passifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_050",
@@ -683,12 +683,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
       "L'effet de l'endettement sur la rentabilité",
       "La liquidité",
+      "Le profit net",
       "La croissance"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_051",
@@ -696,12 +696,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
       "Minimiser le coût du capital",
+      "Équilibrer les actifs",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Maximiser la dette"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_052",
@@ -709,12 +709,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
       "Un potentiel problème de liquidité",
       "Une forte rentabilité",
-      "Une expansion"
+      "Une expansion",
+      "Une bonne gestion"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_053",
@@ -722,12 +722,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
-      "Actif / Passif",
+      "Profit / Actif",
       "Cash / Dettes",
-      "Profit / Actif"
+      "Actif / Passif",
+      "Dette / Capitaux propres"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_054",
@@ -735,12 +735,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
       "Le coût d'investissement",
-      "Le revenu annuel"
+      "Le revenu annuel",
+      "Le profit brut",
+      "La différence entre la valeur actualisée des entrées et sorties de cash"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_055",
@@ -748,12 +748,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "VAN = Profit",
-      "VAN = 0",
+      "VAN = Coût",
       "VAN = Maximum",
-      "VAN = Coût"
+      "VAN = Profit",
+      "VAN = 0"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_056",
@@ -763,13 +763,13 @@
     "options": [
       "Les stocks",
       "Les créances clients",
-      "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les emprunts",
+      "Les dettes fournisseurs"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -778,8 +778,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
       "Le cours de l'action",
+      "La structure financière",
       "la liquidité de l'entreprise",
       "L'impôt des actionnaires"
     ],
@@ -797,11 +797,11 @@
     "type": "singleChoice",
     "options": [
       "Suppression de comptes",
-      "Reclassement selon le cycle d'exploitation",
       "Augmentation des valeurs",
+      "Reclassement selon le cycle d'exploitation",
       "Réduction des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_059",
@@ -809,12 +809,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
       "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
-      "Les passifs"
+      "Les passifs",
+      "Le profit"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_060",
@@ -822,12 +822,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
       "L'effet de l'endettement sur la rentabilité",
       "La liquidité",
-      "La croissance"
+      "La croissance",
+      "Le profit net"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_061",
@@ -835,12 +835,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
-      "Minimiser le coût du capital",
+      "Équilibrer les actifs",
       "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Minimiser le coût du capital",
+      "Maximiser la dette"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_062",
@@ -849,11 +849,11 @@
     "type": "singleChoice",
     "options": [
       "Une bonne gestion",
+      "Une expansion",
       "Un potentiel problème de liquidité",
-      "Une forte rentabilité",
-      "Une expansion"
+      "Une forte rentabilité"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_063",
@@ -861,12 +861,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
-      "Actif / Passif",
       "Cash / Dettes",
-      "Profit / Actif"
+      "Profit / Actif",
+      "Actif / Passif",
+      "Dette / Capitaux propres"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_064",
@@ -874,12 +874,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le revenu annuel",
       "Le coût d'investissement",
-      "Le revenu annuel"
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le profit brut"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_065",
@@ -888,11 +888,11 @@
     "type": "singleChoice",
     "options": [
       "VAN = Profit",
-      "VAN = 0",
       "VAN = Maximum",
-      "VAN = Coût"
+      "VAN = Coût",
+      "VAN = 0"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_dentreprise_easy_066",
@@ -900,15 +900,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les emprunts",
       "Les stocks",
       "Les créances clients",
-      "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les dettes fournisseurs"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -917,10 +917,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
-      "Le cours de l'action",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "L'impôt des actionnaires",
+      "La structure financière",
+      "Le cours de l'action"
     ],
     "correctIndexes": [
       0,
@@ -935,12 +935,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Suppression de comptes",
-      "Reclassement selon le cycle d'exploitation",
+      "Réduction des actifs",
       "Augmentation des valeurs",
-      "Réduction des actifs"
+      "Reclassement selon le cycle d'exploitation",
+      "Suppression de comptes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_069",
@@ -948,12 +948,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
       "La capacité à supporter une baisse d'activité",
-      "Les actifs fixes",
-      "Les passifs"
+      "Le profit",
+      "Les passifs",
+      "Les actifs fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_070",
@@ -961,10 +961,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
-      "L'effet de l'endettement sur la rentabilité",
       "La liquidité",
-      "La croissance"
+      "L'effet de l'endettement sur la rentabilité",
+      "La croissance",
+      "Le profit net"
     ],
     "correctIndex": 1
   },
@@ -975,11 +975,11 @@
     "type": "singleChoice",
     "options": [
       "Maximiser la dette",
+      "Équilibrer les actifs",
       "Minimiser le coût du capital",
-      "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Maximiser les fonds propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_072",
@@ -988,11 +988,11 @@
     "type": "singleChoice",
     "options": [
       "Une bonne gestion",
+      "Une expansion",
       "Un potentiel problème de liquidité",
-      "Une forte rentabilité",
-      "Une expansion"
+      "Une forte rentabilité"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_073",
@@ -1000,12 +1000,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
+      "Profit / Actif",
       "Actif / Passif",
-      "Cash / Dettes",
-      "Profit / Actif"
+      "Dette / Capitaux propres",
+      "Cash / Dettes"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_074",
@@ -1013,10 +1013,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
+      "Le revenu annuel",
       "La différence entre la valeur actualisée des entrées et sorties de cash",
-      "Le coût d'investissement",
-      "Le revenu annuel"
+      "Le profit brut",
+      "Le coût d'investissement"
     ],
     "correctIndex": 1
   },
@@ -1039,9 +1039,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les stocks",
       "Les créances clients",
       "Les dettes fournisseurs",
+      "Les stocks",
       "Les emprunts"
     ],
     "correctIndexes": [
@@ -1056,9 +1056,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "la liquidité de l'entreprise",
       "La structure financière",
       "Le cours de l'action",
-      "la liquidité de l'entreprise",
       "L'impôt des actionnaires"
     ],
     "correctIndexes": [
@@ -1076,8 +1076,8 @@
     "options": [
       "Suppression de comptes",
       "Reclassement selon le cycle d'exploitation",
-      "Augmentation des valeurs",
-      "Réduction des actifs"
+      "Réduction des actifs",
+      "Augmentation des valeurs"
     ],
     "correctIndex": 1
   },
@@ -1087,10 +1087,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
-      "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
-      "Les passifs"
+      "La capacité à supporter une baisse d'activité",
+      "Les passifs",
+      "Le profit"
     ],
     "correctIndex": 1
   },
@@ -1100,12 +1100,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
       "L'effet de l'endettement sur la rentabilité",
+      "Le profit net",
       "La liquidité",
       "La croissance"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_081",
@@ -1115,8 +1115,8 @@
     "options": [
       "Maximiser la dette",
       "Minimiser le coût du capital",
-      "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Équilibrer les actifs",
+      "Maximiser les fonds propres"
     ],
     "correctIndex": 1
   },
@@ -1126,12 +1126,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
       "Un potentiel problème de liquidité",
       "Une forte rentabilité",
+      "Une bonne gestion",
       "Une expansion"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_083",
@@ -1139,12 +1139,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Dette / Capitaux propres",
       "Actif / Passif",
+      "Dette / Capitaux propres",
       "Cash / Dettes",
       "Profit / Actif"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "finance_dentreprise_easy_084",
@@ -1152,12 +1152,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Le coût d'investissement",
       "Le profit brut",
       "La différence entre la valeur actualisée des entrées et sorties de cash",
-      "Le coût d'investissement",
       "Le revenu annuel"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_085",
@@ -1166,11 +1166,11 @@
     "type": "singleChoice",
     "options": [
       "VAN = Profit",
-      "VAN = 0",
       "VAN = Maximum",
+      "VAN = 0",
       "VAN = Coût"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_086",
@@ -1178,15 +1178,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les stocks",
+      "Les emprunts",
       "Les créances clients",
       "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les stocks"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1195,10 +1195,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
       "Le cours de l'action",
-      "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "L'impôt des actionnaires",
+      "La structure financière",
+      "la liquidité de l'entreprise"
     ],
     "correctIndexes": [
       0,
@@ -1213,12 +1213,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Augmentation des valeurs",
       "Suppression de comptes",
       "Reclassement selon le cycle d'exploitation",
-      "Augmentation des valeurs",
       "Réduction des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_089",
@@ -1227,11 +1227,11 @@
     "type": "singleChoice",
     "options": [
       "Le profit",
+      "Les passifs",
       "La capacité à supporter une baisse d'activité",
-      "Les actifs fixes",
-      "Les passifs"
+      "Les actifs fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_090",
@@ -1252,12 +1252,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Maximiser la dette",
       "Minimiser le coût du capital",
-      "Maximiser les fonds propres",
-      "Équilibrer les actifs"
+      "Équilibrer les actifs",
+      "Maximiser la dette",
+      "Maximiser les fonds propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_092",
@@ -1265,12 +1265,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une bonne gestion",
       "Un potentiel problème de liquidité",
-      "Une forte rentabilité",
-      "Une expansion"
+      "Une expansion",
+      "Une bonne gestion",
+      "Une forte rentabilité"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_093",
@@ -1279,9 +1279,9 @@
     "type": "singleChoice",
     "options": [
       "Dette / Capitaux propres",
-      "Actif / Passif",
+      "Profit / Actif",
       "Cash / Dettes",
-      "Profit / Actif"
+      "Actif / Passif"
     ],
     "correctIndex": 0
   },
@@ -1291,9 +1291,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit brut",
-      "La différence entre la valeur actualisée des entrées et sorties de cash",
       "Le coût d'investissement",
+      "La différence entre la valeur actualisée des entrées et sorties de cash",
+      "Le profit brut",
       "Le revenu annuel"
     ],
     "correctIndex": 1
@@ -1304,12 +1304,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "VAN = Profit",
       "VAN = 0",
+      "VAN = Coût",
       "VAN = Maximum",
-      "VAN = Coût"
+      "VAN = Profit"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_dentreprise_easy_096",
@@ -1317,15 +1317,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les stocks",
       "Les créances clients",
-      "Les dettes fournisseurs",
-      "Les emprunts"
+      "Les emprunts",
+      "Les stocks",
+      "Les dettes fournisseurs"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1334,10 +1334,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La structure financière",
-      "Le cours de l'action",
+      "L'impôt des actionnaires",
       "la liquidité de l'entreprise",
-      "L'impôt des actionnaires"
+      "La structure financière",
+      "Le cours de l'action"
     ],
     "correctIndexes": [
       0,
@@ -1353,11 +1353,11 @@
     "type": "singleChoice",
     "options": [
       "Suppression de comptes",
-      "Reclassement selon le cycle d'exploitation",
       "Augmentation des valeurs",
+      "Reclassement selon le cycle d'exploitation",
       "Réduction des actifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_dentreprise_easy_099",
@@ -1365,9 +1365,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit",
-      "La capacité à supporter une baisse d'activité",
       "Les actifs fixes",
+      "La capacité à supporter une baisse d'activité",
+      "Le profit",
       "Les passifs"
     ],
     "correctIndex": 1
@@ -1378,11 +1378,11 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le profit net",
       "L'effet de l'endettement sur la rentabilité",
+      "La croissance",
       "La liquidité",
-      "La croissance"
+      "Le profit net"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

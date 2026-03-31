@@ -5,10 +5,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'opérateur comme propriétaire",
+      "L'État comme régulateur",
       "L'opérateur comme agent",
       "Le client comme propriétaire",
-      "L'État comme régulateur"
+      "L'opérateur comme propriétaire"
     ],
     "correctIndex": 1
   },
@@ -18,15 +18,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Harmonisation réglementaire",
       "Standardisation des produits",
-      "Manque de capital",
-      "Faible demande"
+      "Faible demande",
+      "Harmonisation réglementaire",
+      "Manque de capital"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -53,12 +53,12 @@
     "level": "hard",
     "type": "dropdown",
     "options": [
-      "10 branches",
-      "15 branches",
       "20 branches",
-      "25 branches"
+      "10 branches",
+      "25 branches",
+      "15 branches"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_006",
@@ -66,15 +66,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'absence de Riba",
       "Le respect de la Charia",
-      "La mutualité des risques",
-      "La propriété partagée"
+      "La propriété partagée",
+      "L'absence de Riba",
+      "La mutualité des risques"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -83,15 +83,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
-      "La responsabilité civile",
+      "Les placements spéculatifs",
       "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "La responsabilité civile",
+      "Les dommages aux biens"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -102,8 +102,8 @@
     "options": [
       "Les contrats sont identiques",
       "Les produits s'adaptent à la Charia",
-      "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les clauses ne changent jamais",
+      "Les prix sont fixes"
     ],
     "correctIndex": 1
   },
@@ -114,14 +114,14 @@
     "type": "multipleChoice",
     "options": [
       "Une indemnisation",
+      "Une compensation financière",
       "Une assistance du fonds collectif",
-      "L'intercession divine en plus",
-      "Une compensation financière"
+      "L'intercession divine en plus"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -130,12 +130,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
       "À la Charia",
-      "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "Aux normes classiques",
+      "Au droit des sociétés",
+      "Aux droits commerciaux"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_011",
@@ -145,8 +145,8 @@
     "options": [
       "La responsabilité mutuelle",
       "Le partage des risques",
-      "La solidarité",
-      "L'assistance commune"
+      "L'assistance commune",
+      "La solidarité"
     ],
     "correctIndexes": [
       0,
@@ -161,12 +161,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
+      "Un créancier",
       "Un actionnaire",
-      "Un créancier"
+      "Un propriétaire et un bénéficiaire",
+      "Un client uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_013",
@@ -191,11 +191,11 @@
     "type": "singleChoice",
     "options": [
       "Une partie des primes",
+      "Rien du tout",
       "Une commission de gestion",
-      "L'intégralité des primes",
-      "Rien du tout"
+      "L'intégralité des primes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_015",
@@ -203,12 +203,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'opérateur seul",
       "Les participants",
+      "L'opérateur seul",
       "L'État",
       "Les investisseurs externes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_016",
@@ -217,8 +217,8 @@
     "type": "multipleChoice",
     "options": [
       "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
+      "Le respect de la Charia",
       "La propriété partagée"
     ],
     "correctIndexes": [
@@ -233,9 +233,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
       "La responsabilité civile",
       "L'assurance-vie avec investissement",
+      "Les dommages aux biens",
       "Les placements spéculatifs"
     ],
     "correctIndexes": [
@@ -251,11 +251,11 @@
     "type": "singleChoice",
     "options": [
       "Les contrats sont identiques",
-      "Les produits s'adaptent à la Charia",
+      "Les clauses ne changent jamais",
       "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les produits s'adaptent à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_019",
@@ -263,15 +263,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
-      "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une compensation financière",
+      "Une assistance du fonds collectif",
+      "Une indemnisation"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -281,11 +281,11 @@
     "type": "singleChoice",
     "options": [
       "Aux normes classiques",
-      "À la Charia",
+      "Au droit des sociétés",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "À la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_021",
@@ -294,8 +294,8 @@
     "type": "multipleChoice",
     "options": [
       "La responsabilité mutuelle",
-      "Le partage des risques",
       "La solidarité",
+      "Le partage des risques",
       "L'assistance commune"
     ],
     "correctIndexes": [
@@ -311,12 +311,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
+      "Un créancier",
       "Un actionnaire",
-      "Un créancier"
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_023",
@@ -324,13 +324,13 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'immobilier halal",
       "Les obligations islamiques",
-      "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "L'immobilier halal",
+      "L'alcool et les jeux"
     ],
     "correctIndexes": [
-      2,
+      1,
       3
     ]
   },
@@ -341,11 +341,11 @@
     "type": "singleChoice",
     "options": [
       "Une partie des primes",
+      "Rien du tout",
       "Une commission de gestion",
-      "L'intégralité des primes",
-      "Rien du tout"
+      "L'intégralité des primes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_025",
@@ -353,12 +353,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Les investisseurs externes",
       "L'opérateur seul",
-      "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "Les participants"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_026",
@@ -366,15 +366,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "La propriété partagée",
       "L'absence de Riba",
       "Le respect de la Charia",
-      "La mutualité des risques",
-      "La propriété partagée"
+      "La mutualité des risques"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -383,15 +383,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Les placements spéculatifs",
       "Les dommages aux biens",
       "La responsabilité civile",
-      "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "L'assurance-vie avec investissement"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -401,11 +401,11 @@
     "type": "singleChoice",
     "options": [
       "Les contrats sont identiques",
+      "Les clauses ne changent jamais",
       "Les produits s'adaptent à la Charia",
-      "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les prix sont fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_029",
@@ -413,15 +413,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
-      "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une indemnisation",
+      "Une compensation financière",
+      "Une assistance du fonds collectif"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -431,11 +431,11 @@
     "type": "singleChoice",
     "options": [
       "Aux normes classiques",
+      "Au droit des sociétés",
       "À la Charia",
-      "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "Aux droits commerciaux"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_031",
@@ -443,10 +443,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
-      "Le partage des risques",
       "La solidarité",
-      "L'assistance commune"
+      "La responsabilité mutuelle",
+      "L'assistance commune",
+      "Le partage des risques"
     ],
     "correctIndexes": [
       0,
@@ -461,12 +461,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
       "Un propriétaire et un bénéficiaire",
-      "Un actionnaire",
-      "Un créancier"
+      "Un créancier",
+      "Un client uniquement",
+      "Un actionnaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_033",
@@ -474,10 +474,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'immobilier halal",
       "Les obligations islamiques",
-      "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "L'immobilier halal",
+      "Les secteurs interdits",
+      "L'alcool et les jeux"
     ],
     "correctIndexes": [
       2,
@@ -490,10 +490,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
+      "Rien du tout",
       "Une commission de gestion",
-      "L'intégralité des primes",
-      "Rien du tout"
+      "Une partie des primes",
+      "L'intégralité des primes"
     ],
     "correctIndex": 1
   },
@@ -503,12 +503,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'État",
       "L'opérateur seul",
       "Les participants",
-      "L'État",
       "Les investisseurs externes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_036",
@@ -516,15 +516,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'absence de Riba",
+      "La propriété partagée",
       "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "L'absence de Riba"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -533,9 +533,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
       "La responsabilité civile",
       "L'assurance-vie avec investissement",
+      "Les dommages aux biens",
       "Les placements spéculatifs"
     ],
     "correctIndexes": [
@@ -550,12 +550,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Les contrats sont identiques",
       "Les produits s'adaptent à la Charia",
       "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les clauses ne changent jamais",
+      "Les contrats sont identiques"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_039",
@@ -563,15 +563,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
-      "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une compensation financière",
+      "Une assistance du fonds collectif",
+      "Une indemnisation"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -580,12 +580,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
       "À la Charia",
-      "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "Aux normes classiques",
+      "Au droit des sociétés",
+      "Aux droits commerciaux"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_041",
@@ -593,9 +593,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
-      "Le partage des risques",
       "La solidarité",
+      "Le partage des risques",
+      "La responsabilité mutuelle",
       "L'assistance commune"
     ],
     "correctIndexes": [
@@ -611,12 +611,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
+      "Un créancier",
       "Un actionnaire",
-      "Un créancier"
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_043",
@@ -626,8 +626,8 @@
     "options": [
       "L'immobilier halal",
       "Les obligations islamiques",
-      "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "L'alcool et les jeux"
     ],
     "correctIndexes": [
       2,
@@ -640,10 +640,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
+      "Rien du tout",
       "Une commission de gestion",
-      "L'intégralité des primes",
-      "Rien du tout"
+      "Une partie des primes",
+      "L'intégralité des primes"
     ],
     "correctIndex": 1
   },
@@ -653,12 +653,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'opérateur seul",
-      "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "L'opérateur seul",
+      "Les investisseurs externes",
+      "Les participants"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_046",
@@ -667,14 +667,14 @@
     "type": "multipleChoice",
     "options": [
       "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "La propriété partagée",
+      "Le respect de la Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -684,14 +684,14 @@
     "type": "multipleChoice",
     "options": [
       "Les dommages aux biens",
-      "La responsabilité civile",
+      "Les placements spéculatifs",
       "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "La responsabilité civile"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -700,12 +700,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Les clauses ne changent jamais",
       "Les contrats sont identiques",
-      "Les produits s'adaptent à la Charia",
       "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les produits s'adaptent à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_049",
@@ -713,15 +713,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
+      "Une compensation financière",
       "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une indemnisation"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -730,10 +730,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
-      "À la Charia",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "À la Charia",
+      "Au droit des sociétés",
+      "Aux normes classiques"
     ],
     "correctIndex": 1
   },
@@ -743,10 +743,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
       "Le partage des risques",
       "La solidarité",
-      "L'assistance commune"
+      "L'assistance commune",
+      "La responsabilité mutuelle"
     ],
     "correctIndexes": [
       0,
@@ -762,11 +762,11 @@
     "type": "singleChoice",
     "options": [
       "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
       "Un actionnaire",
+      "Un propriétaire et un bénéficiaire",
       "Un créancier"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_053",
@@ -774,13 +774,13 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'immobilier halal",
       "Les obligations islamiques",
-      "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "L'immobilier halal",
+      "L'alcool et les jeux"
     ],
     "correctIndexes": [
-      2,
+      1,
       3
     ]
   },
@@ -791,11 +791,11 @@
     "type": "singleChoice",
     "options": [
       "Une partie des primes",
-      "Une commission de gestion",
+      "Rien du tout",
       "L'intégralité des primes",
-      "Rien du tout"
+      "Une commission de gestion"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_055",
@@ -804,11 +804,11 @@
     "type": "singleChoice",
     "options": [
       "L'opérateur seul",
-      "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "Les investisseurs externes",
+      "Les participants"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_056",
@@ -817,14 +817,14 @@
     "type": "multipleChoice",
     "options": [
       "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "La propriété partagée",
+      "Le respect de la Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -833,9 +833,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
-      "La responsabilité civile",
       "L'assurance-vie avec investissement",
+      "La responsabilité civile",
+      "Les dommages aux biens",
       "Les placements spéculatifs"
     ],
     "correctIndexes": [
@@ -850,12 +850,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Les contrats sont identiques",
       "Les produits s'adaptent à la Charia",
-      "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les clauses ne changent jamais",
+      "Les contrats sont identiques",
+      "Les prix sont fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_059",
@@ -863,15 +863,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
       "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une compensation financière",
+      "Une indemnisation"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -880,12 +880,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
-      "À la Charia",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "Au droit des sociétés",
+      "Aux normes classiques",
+      "À la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_061",
@@ -893,10 +893,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
-      "Le partage des risques",
+      "L'assistance commune",
       "La solidarité",
-      "L'assistance commune"
+      "Le partage des risques",
+      "La responsabilité mutuelle"
     ],
     "correctIndexes": [
       0,
@@ -911,12 +911,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
       "Un actionnaire",
-      "Un créancier"
+      "Un créancier",
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_063",
@@ -924,14 +924,14 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'immobilier halal",
-      "Les obligations islamiques",
       "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "Les obligations islamiques",
+      "L'immobilier halal"
     ],
     "correctIndexes": [
-      2,
-      3
+      0,
+      1
     ]
   },
   {
@@ -940,12 +940,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
       "Une commission de gestion",
+      "Rien du tout",
       "L'intégralité des primes",
-      "Rien du tout"
+      "Une partie des primes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_065",
@@ -953,12 +953,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'opérateur seul",
       "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "Les investisseurs externes",
+      "L'opérateur seul"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_066",
@@ -966,15 +966,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "La propriété partagée",
       "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "Le respect de la Charia"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -983,15 +983,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
-      "La responsabilité civile",
       "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "Les placements spéculatifs",
+      "La responsabilité civile",
+      "Les dommages aux biens"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1001,11 +1001,11 @@
     "type": "singleChoice",
     "options": [
       "Les contrats sont identiques",
-      "Les produits s'adaptent à la Charia",
       "Les prix sont fixes",
+      "Les produits s'adaptent à la Charia",
       "Les clauses ne changent jamais"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_069",
@@ -1013,15 +1013,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Une compensation financière",
       "Une indemnisation",
-      "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une assistance du fonds collectif"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1030,12 +1030,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
-      "À la Charia",
+      "Au droit des sociétés",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "À la Charia",
+      "Aux normes classiques"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_071",
@@ -1043,10 +1043,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
-      "Le partage des risques",
       "La solidarité",
-      "L'assistance commune"
+      "Le partage des risques",
+      "L'assistance commune",
+      "La responsabilité mutuelle"
     ],
     "correctIndexes": [
       0,
@@ -1061,12 +1061,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
       "Un actionnaire",
-      "Un créancier"
+      "Un créancier",
+      "Un client uniquement",
+      "Un propriétaire et un bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_073",
@@ -1074,8 +1074,8 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'immobilier halal",
       "Les obligations islamiques",
+      "L'immobilier halal",
       "L'alcool et les jeux",
       "Les secteurs interdits"
     ],
@@ -1090,12 +1090,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
-      "Une commission de gestion",
       "L'intégralité des primes",
-      "Rien du tout"
+      "Rien du tout",
+      "Une partie des primes",
+      "Une commission de gestion"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_075",
@@ -1104,11 +1104,11 @@
     "type": "singleChoice",
     "options": [
       "L'opérateur seul",
-      "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "Les investisseurs externes",
+      "Les participants"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_076",
@@ -1116,15 +1116,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'absence de Riba",
+      "La propriété partagée",
       "Le respect de la Charia",
-      "La mutualité des risques",
-      "La propriété partagée"
+      "L'absence de Riba",
+      "La mutualité des risques"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1133,15 +1133,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
       "La responsabilité civile",
+      "Les placements spéculatifs",
       "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "Les dommages aux biens"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1150,12 +1150,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Les clauses ne changent jamais",
       "Les contrats sont identiques",
-      "Les produits s'adaptent à la Charia",
       "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les produits s'adaptent à la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_079",
@@ -1163,8 +1163,8 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
       "Une assistance du fonds collectif",
+      "Une indemnisation",
       "L'intercession divine en plus",
       "Une compensation financière"
     ],
@@ -1180,10 +1180,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
-      "À la Charia",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "À la Charia",
+      "Au droit des sociétés",
+      "Aux normes classiques"
     ],
     "correctIndex": 1
   },
@@ -1193,9 +1193,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
       "Le partage des risques",
       "La solidarité",
+      "La responsabilité mutuelle",
       "L'assistance commune"
     ],
     "correctIndexes": [
@@ -1212,11 +1212,11 @@
     "type": "singleChoice",
     "options": [
       "Un client uniquement",
-      "Un propriétaire et un bénéficiaire",
       "Un actionnaire",
-      "Un créancier"
+      "Un créancier",
+      "Un propriétaire et un bénéficiaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "takaful_hard_083",
@@ -1225,13 +1225,13 @@
     "type": "multipleChoice",
     "options": [
       "L'immobilier halal",
-      "Les obligations islamiques",
       "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "Les obligations islamiques"
     ],
     "correctIndexes": [
-      2,
-      3
+      1,
+      2
     ]
   },
   {
@@ -1240,12 +1240,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
       "Une commission de gestion",
       "L'intégralité des primes",
-      "Rien du tout"
+      "Rien du tout",
+      "Une partie des primes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_085",
@@ -1253,10 +1253,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'opérateur seul",
+      "Les investisseurs externes",
       "Les participants",
       "L'État",
-      "Les investisseurs externes"
+      "L'opérateur seul"
     ],
     "correctIndex": 1
   },
@@ -1266,15 +1266,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "La propriété partagée",
+      "Le respect de la Charia",
+      "L'absence de Riba"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1283,15 +1283,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
+      "Les placements spéculatifs",
       "La responsabilité civile",
-      "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "Les dommages aux biens",
+      "L'assurance-vie avec investissement"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1300,12 +1300,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Les contrats sont identiques",
       "Les produits s'adaptent à la Charia",
-      "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les contrats sont identiques",
+      "Les clauses ne changent jamais",
+      "Les prix sont fixes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_089",
@@ -1313,15 +1313,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
-      "Une assistance du fonds collectif",
       "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une assistance du fonds collectif",
+      "Une compensation financière",
+      "Une indemnisation"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1331,11 +1331,11 @@
     "type": "singleChoice",
     "options": [
       "Aux normes classiques",
-      "À la Charia",
       "Aux droits commerciaux",
+      "À la Charia",
       "Au droit des sociétés"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_091",
@@ -1343,10 +1343,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "La responsabilité mutuelle",
+      "L'assistance commune",
       "Le partage des risques",
-      "La solidarité",
-      "L'assistance commune"
+      "La responsabilité mutuelle",
+      "La solidarité"
     ],
     "correctIndexes": [
       0,
@@ -1361,12 +1361,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Un client uniquement",
       "Un propriétaire et un bénéficiaire",
-      "Un actionnaire",
-      "Un créancier"
+      "Un créancier",
+      "Un client uniquement",
+      "Un actionnaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_093",
@@ -1375,13 +1375,13 @@
     "type": "multipleChoice",
     "options": [
       "L'immobilier halal",
-      "Les obligations islamiques",
       "L'alcool et les jeux",
-      "Les secteurs interdits"
+      "Les secteurs interdits",
+      "Les obligations islamiques"
     ],
     "correctIndexes": [
-      2,
-      3
+      1,
+      2
     ]
   },
   {
@@ -1390,10 +1390,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une partie des primes",
+      "Rien du tout",
       "Une commission de gestion",
-      "L'intégralité des primes",
-      "Rien du tout"
+      "Une partie des primes",
+      "L'intégralité des primes"
     ],
     "correctIndex": 1
   },
@@ -1403,12 +1403,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'État",
       "L'opérateur seul",
       "Les participants",
-      "L'État",
       "Les investisseurs externes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "takaful_hard_096",
@@ -1416,15 +1416,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "L'absence de Riba",
-      "Le respect de la Charia",
       "La mutualité des risques",
-      "La propriété partagée"
+      "La propriété partagée",
+      "Le respect de la Charia",
+      "L'absence de Riba"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1433,15 +1433,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Les dommages aux biens",
       "La responsabilité civile",
-      "L'assurance-vie avec investissement",
-      "Les placements spéculatifs"
+      "Les placements spéculatifs",
+      "Les dommages aux biens",
+      "L'assurance-vie avec investissement"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1450,12 +1450,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Les contrats sont identiques",
       "Les produits s'adaptent à la Charia",
+      "Les clauses ne changent jamais",
       "Les prix sont fixes",
-      "Les clauses ne changent jamais"
+      "Les contrats sont identiques"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "takaful_hard_099",
@@ -1463,15 +1463,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Une indemnisation",
       "Une assistance du fonds collectif",
-      "L'intercession divine en plus",
-      "Une compensation financière"
+      "Une indemnisation",
+      "Une compensation financière",
+      "L'intercession divine en plus"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1480,11 +1480,11 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Aux normes classiques",
-      "À la Charia",
       "Aux droits commerciaux",
-      "Au droit des sociétés"
+      "Au droit des sociétés",
+      "Aux normes classiques",
+      "À la Charia"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

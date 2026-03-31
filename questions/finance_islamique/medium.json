@@ -5,9 +5,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Garantie",
-      "Mandat",
       "Partenariat",
+      "Mandat",
+      "Garantie",
       "Assurance"
     ],
     "correctIndex": 1
@@ -18,14 +18,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Sukuk",
-      "Islamic Mutual Funds",
       "Options Halal",
-      "Leverage Trading"
+      "Sukuk",
+      "Leverage Trading",
+      "Islamic Mutual Funds"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      3
     ]
   },
   {
@@ -53,11 +53,11 @@
     "type": "dropdown",
     "options": [
       "LIBOR",
-      "EIBOR",
+      "Sharia Index",
       "Islamic HIBOR",
-      "Sharia Index"
+      "EIBOR"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_006",
@@ -65,8 +65,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
       "Les banques islamiques",
+      "Les marchés secondaires",
       "Les fenêtres islamiques",
       "Les instruments éthiques"
     ],
@@ -82,12 +82,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
       "Positif par l'exclusion des secteurs nuisibles",
+      "Neutre",
       "Négatif",
       "Inexistant"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_008",
@@ -95,15 +95,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un intérêt",
-      "Un revenu du partage de profits",
       "Une rente garantie",
-      "Une commission"
+      "Un revenu du partage de profits",
+      "Une commission",
+      "Un intérêt"
     ],
     "correctIndexes": [
+      0,
       1,
-      2,
-      3
+      2
     ]
   },
   {
@@ -112,9 +112,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les conseils Charia",
       "Les autorités nationales",
       "Les normes IFSB",
-      "Les conseils Charia",
       "Les auditeurs internes"
     ],
     "correctIndexes": [
@@ -129,8 +129,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
       "L'incertitude excessive (Gharar)",
+      "Le Riba",
       "Les contrats noirs",
       "Les spéculations"
     ],
@@ -146,12 +146,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
-      "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Une obligation convertible",
+      "Un contrat d'assurance",
+      "Un emprunt classique"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_012",
@@ -159,12 +159,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
       "La participation à la gestion par le partenaire financier",
-      "Le montant investi",
-      "Le secteur d'activité"
+      "La durée du contrat",
+      "Le secteur d'activité",
+      "Le montant investi"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_013",
@@ -172,12 +172,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Un Conseil de Conformité Charia",
-      "Les actionnaires",
-      "Les clients"
+      "L'État",
+      "Les clients",
+      "Les actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_014",
@@ -185,8 +185,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
       "L'intérêt",
+      "Les secteurs haram",
       "La spéculation",
       "Les entreprises polluantes"
     ],
@@ -202,12 +202,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
-      "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
-      "Une assurance"
+      "Une assurance",
+      "Un engagement unilatéral non contraignant",
+      "Un contrat obligatoire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_016",
@@ -215,15 +215,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
-      "Les banques islamiques",
+      "Les instruments éthiques",
       "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les banques islamiques",
+      "Les marchés secondaires"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -232,12 +232,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
       "Négatif",
-      "Inexistant"
+      "Inexistant",
+      "Neutre",
+      "Positif par l'exclusion des secteurs nuisibles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_018",
@@ -245,13 +245,13 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Une commission",
       "Un intérêt",
-      "Un revenu du partage de profits",
       "Une rente garantie",
-      "Une commission"
+      "Un revenu du partage de profits"
     ],
     "correctIndexes": [
-      1,
+      0,
       2,
       3
     ]
@@ -264,13 +264,13 @@
     "options": [
       "Les autorités nationales",
       "Les normes IFSB",
-      "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les auditeurs internes",
+      "Les conseils Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -279,15 +279,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
-      "L'incertitude excessive (Gharar)",
       "Les contrats noirs",
-      "Les spéculations"
+      "Les spéculations",
+      "L'incertitude excessive (Gharar)",
+      "Le Riba"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -296,12 +296,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
       "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
+      "Un emprunt classique",
       "Un contrat d'assurance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_022",
@@ -309,10 +309,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
+      "Le secteur d'activité",
       "La participation à la gestion par le partenaire financier",
-      "Le montant investi",
-      "Le secteur d'activité"
+      "La durée du contrat",
+      "Le montant investi"
     ],
     "correctIndex": 1
   },
@@ -322,12 +322,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Un Conseil de Conformité Charia",
       "Les actionnaires",
-      "Les clients"
+      "Les clients",
+      "Un Conseil de Conformité Charia",
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_024",
@@ -335,15 +335,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
-      "L'intérêt",
       "La spéculation",
-      "Les entreprises polluantes"
+      "Les secteurs haram",
+      "Les entreprises polluantes",
+      "L'intérêt"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -352,12 +352,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
       "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
+      "Un contrat obligatoire",
       "Une assurance"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_026",
@@ -365,15 +365,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
-      "Les banques islamiques",
       "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les instruments éthiques",
+      "Les banques islamiques",
+      "Les marchés secondaires"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -382,10 +382,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
+      "Inexistant",
       "Positif par l'exclusion des secteurs nuisibles",
       "Négatif",
-      "Inexistant"
+      "Neutre"
     ],
     "correctIndex": 1
   },
@@ -395,14 +395,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un intérêt",
       "Un revenu du partage de profits",
-      "Une rente garantie",
-      "Une commission"
+      "Une commission",
+      "Un intérêt",
+      "Une rente garantie"
     ],
     "correctIndexes": [
+      0,
       1,
-      2,
       3
     ]
   },
@@ -412,15 +412,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
       "Les normes IFSB",
-      "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les autorités nationales",
+      "Les auditeurs internes",
+      "Les conseils Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -446,12 +446,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
+      "Un contrat d'assurance",
       "Une obligation convertible",
-      "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Un emprunt classique",
+      "Un titre de propriété associé à des actifs"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_032",
@@ -459,10 +459,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
+      "Le secteur d'activité",
       "La participation à la gestion par le partenaire financier",
       "Le montant investi",
-      "Le secteur d'activité"
+      "La durée du contrat"
     ],
     "correctIndex": 1
   },
@@ -472,12 +472,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Un Conseil de Conformité Charia",
-      "Les actionnaires",
-      "Les clients"
+      "L'État",
+      "Les clients",
+      "Les actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_034",
@@ -485,15 +485,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
-      "L'intérêt",
+      "Les entreprises polluantes",
       "La spéculation",
-      "Les entreprises polluantes"
+      "L'intérêt",
+      "Les secteurs haram"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -502,12 +502,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
       "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
-      "Une assurance"
+      "Une assurance",
+      "Un contrat obligatoire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_036",
@@ -516,14 +516,14 @@
     "type": "multipleChoice",
     "options": [
       "Les marchés secondaires",
+      "Les instruments éthiques",
       "Les banques islamiques",
-      "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les fenêtres islamiques"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -532,10 +532,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
       "Négatif",
-      "Inexistant"
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
+      "Neutre"
     ],
     "correctIndex": 1
   },
@@ -562,15 +562,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
       "Les normes IFSB",
-      "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les autorités nationales",
+      "Les auditeurs internes",
+      "Les conseils Charia"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -581,13 +581,13 @@
     "options": [
       "Le Riba",
       "L'incertitude excessive (Gharar)",
-      "Les contrats noirs",
-      "Les spéculations"
+      "Les spéculations",
+      "Les contrats noirs"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -597,11 +597,11 @@
     "type": "singleChoice",
     "options": [
       "Un emprunt classique",
-      "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
+      "Une obligation convertible",
       "Un contrat d'assurance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_042",
@@ -609,10 +609,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
+      "Le secteur d'activité",
       "La participation à la gestion par le partenaire financier",
-      "Le montant investi",
-      "Le secteur d'activité"
+      "La durée du contrat",
+      "Le montant investi"
     ],
     "correctIndex": 1
   },
@@ -622,10 +622,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
+      "Les clients",
       "Un Conseil de Conformité Charia",
       "Les actionnaires",
-      "Les clients"
+      "L'État"
     ],
     "correctIndex": 1
   },
@@ -635,15 +635,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Les entreprises polluantes",
       "Les secteurs haram",
-      "L'intérêt",
       "La spéculation",
-      "Les entreprises polluantes"
+      "L'intérêt"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -654,8 +654,8 @@
     "options": [
       "Un contrat obligatoire",
       "Un engagement unilatéral non contraignant",
-      "Une garantie bancaire",
-      "Une assurance"
+      "Une assurance",
+      "Une garantie bancaire"
     ],
     "correctIndex": 1
   },
@@ -665,9 +665,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
       "Les banques islamiques",
       "Les fenêtres islamiques",
+      "Les marchés secondaires",
       "Les instruments éthiques"
     ],
     "correctIndexes": [
@@ -682,10 +682,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
       "Négatif",
-      "Inexistant"
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
+      "Neutre"
     ],
     "correctIndex": 1
   },
@@ -695,14 +695,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un intérêt",
+      "Une commission",
       "Un revenu du partage de profits",
-      "Une rente garantie",
-      "Une commission"
+      "Un intérêt",
+      "Une rente garantie"
     ],
     "correctIndexes": [
+      0,
       1,
-      2,
       3
     ]
   },
@@ -712,15 +712,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
+      "Les auditeurs internes",
       "Les normes IFSB",
       "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les autorités nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -729,15 +729,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
       "L'incertitude excessive (Gharar)",
-      "Les contrats noirs",
-      "Les spéculations"
+      "Les spéculations",
+      "Le Riba",
+      "Les contrats noirs"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -746,12 +746,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
-      "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Un contrat d'assurance",
+      "Une obligation convertible",
+      "Un emprunt classique"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_052",
@@ -774,8 +774,8 @@
     "options": [
       "L'État",
       "Un Conseil de Conformité Charia",
-      "Les actionnaires",
-      "Les clients"
+      "Les clients",
+      "Les actionnaires"
     ],
     "correctIndex": 1
   },
@@ -785,15 +785,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
-      "L'intérêt",
+      "Les entreprises polluantes",
       "La spéculation",
-      "Les entreprises polluantes"
+      "Les secteurs haram",
+      "L'intérêt"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -802,12 +802,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
       "Un engagement unilatéral non contraignant",
-      "Une garantie bancaire",
-      "Une assurance"
+      "Une assurance",
+      "Un contrat obligatoire",
+      "Une garantie bancaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_056",
@@ -815,15 +815,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
-      "Les banques islamiques",
       "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les marchés secondaires",
+      "Les instruments éthiques",
+      "Les banques islamiques"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -832,12 +832,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
       "Négatif",
-      "Inexistant"
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Neutre"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_058",
@@ -845,14 +845,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un intérêt",
-      "Un revenu du partage de profits",
       "Une rente garantie",
+      "Un revenu du partage de profits",
+      "Un intérêt",
       "Une commission"
     ],
     "correctIndexes": [
+      0,
       1,
-      2,
       3
     ]
   },
@@ -862,15 +862,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
-      "Les normes IFSB",
+      "Les auditeurs internes",
       "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les normes IFSB",
+      "Les autorités nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -879,9 +879,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
       "L'incertitude excessive (Gharar)",
       "Les contrats noirs",
+      "Le Riba",
       "Les spéculations"
     ],
     "correctIndexes": [
@@ -896,12 +896,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Un contrat d'assurance",
       "Un emprunt classique",
       "Une obligation convertible",
-      "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Un titre de propriété associé à des actifs"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_062",
@@ -909,12 +909,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Le montant investi",
       "La durée du contrat",
       "La participation à la gestion par le partenaire financier",
-      "Le montant investi",
       "Le secteur d'activité"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_063",
@@ -922,12 +922,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Un Conseil de Conformité Charia",
       "Les actionnaires",
-      "Les clients"
+      "Les clients",
+      "Un Conseil de Conformité Charia",
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_064",
@@ -936,8 +936,8 @@
     "type": "multipleChoice",
     "options": [
       "Les secteurs haram",
-      "L'intérêt",
       "La spéculation",
+      "L'intérêt",
       "Les entreprises polluantes"
     ],
     "correctIndexes": [
@@ -952,12 +952,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une garantie bancaire",
       "Un contrat obligatoire",
       "Un engagement unilatéral non contraignant",
-      "Une garantie bancaire",
       "Une assurance"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_066",
@@ -966,14 +966,14 @@
     "type": "multipleChoice",
     "options": [
       "Les marchés secondaires",
-      "Les banques islamiques",
       "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les instruments éthiques",
+      "Les banques islamiques"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -983,11 +983,11 @@
     "type": "singleChoice",
     "options": [
       "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
       "Négatif",
-      "Inexistant"
+      "Positif par l'exclusion des secteurs nuisibles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_068",
@@ -995,15 +995,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un intérêt",
+      "Une commission",
       "Un revenu du partage de profits",
       "Une rente garantie",
-      "Une commission"
+      "Un intérêt"
     ],
     "correctIndexes": [
+      0,
       1,
-      2,
-      3
+      2
     ]
   },
   {
@@ -1012,15 +1012,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
+      "Les auditeurs internes",
       "Les normes IFSB",
       "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les autorités nationales"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1030,14 +1030,14 @@
     "type": "multipleChoice",
     "options": [
       "Le Riba",
-      "L'incertitude excessive (Gharar)",
       "Les contrats noirs",
-      "Les spéculations"
+      "Les spéculations",
+      "L'incertitude excessive (Gharar)"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1046,12 +1046,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
       "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
+      "Un emprunt classique",
       "Un contrat d'assurance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "finance_islamique_medium_072",
@@ -1059,12 +1059,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
-      "La participation à la gestion par le partenaire financier",
       "Le montant investi",
-      "Le secteur d'activité"
+      "La durée du contrat",
+      "Le secteur d'activité",
+      "La participation à la gestion par le partenaire financier"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_073",
@@ -1072,12 +1072,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Un Conseil de Conformité Charia",
+      "Les clients",
       "Les actionnaires",
-      "Les clients"
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_074",
@@ -1085,15 +1085,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
-      "L'intérêt",
       "La spéculation",
-      "Les entreprises polluantes"
+      "L'intérêt",
+      "Les entreprises polluantes",
+      "Les secteurs haram"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1102,12 +1102,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Une assurance",
       "Un contrat obligatoire",
-      "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
-      "Une assurance"
+      "Un engagement unilatéral non contraignant"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_076",
@@ -1115,8 +1115,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
       "Les banques islamiques",
+      "Les marchés secondaires",
       "Les fenêtres islamiques",
       "Les instruments éthiques"
     ],
@@ -1132,12 +1132,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
       "Positif par l'exclusion des secteurs nuisibles",
+      "Neutre",
       "Négatif",
       "Inexistant"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_078",
@@ -1162,15 +1162,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
-      "Les normes IFSB",
       "Les conseils Charia",
-      "Les auditeurs internes"
+      "Les auditeurs internes",
+      "Les autorités nationales",
+      "Les normes IFSB"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1179,15 +1179,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
-      "L'incertitude excessive (Gharar)",
       "Les contrats noirs",
-      "Les spéculations"
+      "L'incertitude excessive (Gharar)",
+      "Les spéculations",
+      "Le Riba"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1197,9 +1197,9 @@
     "type": "singleChoice",
     "options": [
       "Un emprunt classique",
-      "Une obligation convertible",
+      "Un contrat d'assurance",
       "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Une obligation convertible"
     ],
     "correctIndex": 2
   },
@@ -1209,12 +1209,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
       "La participation à la gestion par le partenaire financier",
       "Le montant investi",
+      "La durée du contrat",
       "Le secteur d'activité"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_083",
@@ -1222,12 +1222,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Un Conseil de Conformité Charia",
       "Les actionnaires",
-      "Les clients"
+      "Les clients",
+      "Un Conseil de Conformité Charia",
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_084",
@@ -1235,15 +1235,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
       "L'intérêt",
       "La spéculation",
-      "Les entreprises polluantes"
+      "Les entreprises polluantes",
+      "Les secteurs haram"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1252,12 +1252,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
-      "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
-      "Une assurance"
+      "Un contrat obligatoire",
+      "Une assurance",
+      "Un engagement unilatéral non contraignant"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "finance_islamique_medium_086",
@@ -1265,9 +1265,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
-      "Les banques islamiques",
       "Les fenêtres islamiques",
+      "Les banques islamiques",
+      "Les marchés secondaires",
       "Les instruments éthiques"
     ],
     "correctIndexes": [
@@ -1282,12 +1282,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
       "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
       "Négatif",
-      "Inexistant"
+      "Neutre"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_088",
@@ -1296,9 +1296,9 @@
     "type": "multipleChoice",
     "options": [
       "Un intérêt",
-      "Un revenu du partage de profits",
+      "Une commission",
       "Une rente garantie",
-      "Une commission"
+      "Un revenu du partage de profits"
     ],
     "correctIndexes": [
       1,
@@ -1312,9 +1312,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
       "Les normes IFSB",
       "Les conseils Charia",
+      "Les autorités nationales",
       "Les auditeurs internes"
     ],
     "correctIndexes": [
@@ -1329,9 +1329,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
-      "L'incertitude excessive (Gharar)",
       "Les contrats noirs",
+      "L'incertitude excessive (Gharar)",
+      "Le Riba",
       "Les spéculations"
     ],
     "correctIndexes": [
@@ -1346,12 +1346,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un emprunt classique",
-      "Une obligation convertible",
       "Un titre de propriété associé à des actifs",
-      "Un contrat d'assurance"
+      "Une obligation convertible",
+      "Un contrat d'assurance",
+      "Un emprunt classique"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_092",
@@ -1359,12 +1359,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La durée du contrat",
-      "La participation à la gestion par le partenaire financier",
       "Le montant investi",
-      "Le secteur d'activité"
+      "Le secteur d'activité",
+      "La participation à la gestion par le partenaire financier",
+      "La durée du contrat"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "finance_islamique_medium_093",
@@ -1372,12 +1372,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Un Conseil de Conformité Charia",
-      "Les actionnaires",
-      "Les clients"
+      "L'État",
+      "Les clients",
+      "Les actionnaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "finance_islamique_medium_094",
@@ -1385,15 +1385,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les secteurs haram",
       "L'intérêt",
+      "Les entreprises polluantes",
       "La spéculation",
-      "Les entreprises polluantes"
+      "Les secteurs haram"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1402,10 +1402,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un contrat obligatoire",
+      "Une assurance",
       "Un engagement unilatéral non contraignant",
       "Une garantie bancaire",
-      "Une assurance"
+      "Un contrat obligatoire"
     ],
     "correctIndex": 1
   },
@@ -1415,15 +1415,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les marchés secondaires",
+      "Les instruments éthiques",
       "Les banques islamiques",
-      "Les fenêtres islamiques",
-      "Les instruments éthiques"
+      "Les marchés secondaires",
+      "Les fenêtres islamiques"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1432,10 +1432,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Neutre",
-      "Positif par l'exclusion des secteurs nuisibles",
       "Négatif",
-      "Inexistant"
+      "Positif par l'exclusion des secteurs nuisibles",
+      "Inexistant",
+      "Neutre"
     ],
     "correctIndex": 1
   },
@@ -1446,8 +1446,8 @@
     "type": "multipleChoice",
     "options": [
       "Un intérêt",
-      "Un revenu du partage de profits",
       "Une rente garantie",
+      "Un revenu du partage de profits",
       "Une commission"
     ],
     "correctIndexes": [
@@ -1462,9 +1462,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les autorités nationales",
       "Les normes IFSB",
       "Les conseils Charia",
+      "Les autorités nationales",
       "Les auditeurs internes"
     ],
     "correctIndexes": [
@@ -1479,15 +1479,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le Riba",
+      "Les spéculations",
       "L'incertitude excessive (Gharar)",
-      "Les contrats noirs",
-      "Les spéculations"
+      "Le Riba",
+      "Les contrats noirs"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   }
 ]

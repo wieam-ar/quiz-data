@@ -5,12 +5,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le journal",
+      "La balance",
       "Le bilan",
       "Le grand livre",
-      "La balance"
+      "Le journal"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_002",
@@ -36,14 +36,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Signature du client",
       "Date et numéro",
       "Montant TTC",
-      "Signature du client",
       "Conditions de paiement"
     ],
     "correctIndexes": [
-      0,
       1,
+      2,
       3
     ]
   },
@@ -53,12 +53,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "Actif courant",
-      "Actif non courant",
+      "Passif non courant",
       "Passif courant",
-      "Passif non courant"
+      "Actif courant",
+      "Actif non courant"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_006",
@@ -74,11 +74,11 @@
     "type": "singleChoice",
     "options": [
       "Flux",
-      "Position",
       "Performance",
+      "Position",
       "Variation"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_008",
@@ -86,15 +86,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Prudence",
-      "Sincérité",
       "Régularité",
-      "Opportunité"
+      "Prudence",
+      "Opportunité",
+      "Sincérité"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -114,10 +114,10 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "IFRS",
+      "Aucune",
       "PCG",
       "Les deux",
-      "Aucune"
+      "IFRS"
     ],
     "correctIndex": 2
   },
@@ -127,12 +127,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
       "Actif = Passif + Capitaux propres",
       "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Capitaux propres",
+      "Actif = Passif"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_012",
@@ -140,15 +140,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le capital social",
-      "Les réserves",
+      "Les dettes à long terme",
       "Les bénéfices",
-      "Les dettes à long terme"
+      "Le capital social",
+      "Les réserves"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -159,8 +159,8 @@
     "options": [
       "Plus de 2 ans",
       "Moins d'un an",
-      "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 10 ans",
+      "Plus de 5 ans"
     ],
     "correctIndex": 1
   },
@@ -171,11 +171,11 @@
     "type": "singleChoice",
     "options": [
       "L'état patrimonial",
-      "Les revenues et dépenses de l'exercice",
+      "Les variations d'actifs",
       "Les investissements",
-      "Les variations d'actifs"
+      "Les revenues et dépenses de l'exercice"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_015",
@@ -183,12 +183,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La valeur estimée",
       "Le prix d'acquisition",
       "Le coût d'acquisition moins l'amortissement",
-      "La valeur au marché",
-      "La valeur estimée"
+      "La valeur au marché"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_016",
@@ -197,11 +197,11 @@
     "type": "singleChoice",
     "options": [
       "Conservation",
+      "Spécialisation",
       "Prudence",
-      "Continuité",
-      "Spécialisation"
+      "Continuité"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_017",
@@ -222,15 +222,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
       "Des obligations probables",
-      "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des réserves optionnelles",
+      "Des liabilités certaines",
+      "Des charges réputées"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -239,10 +239,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
       "L'usure physique",
       "Le passage du temps",
-      "L'obsolescence"
+      "L'obsolescence",
+      "La dépréciation économique"
     ],
     "correctIndexes": [
       0,
@@ -257,12 +257,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les flux de l'exercice",
       "La situation financière à une date donnée",
-      "Les performances annuelles",
-      "Les prévisions futures"
+      "Les flux de l'exercice",
+      "Les prévisions futures",
+      "Les performances annuelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_021",
@@ -270,12 +270,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
-      "Actif = Passif + Capitaux propres",
       "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Passif",
+      "Actif = Capitaux propres",
+      "Actif = Passif + Capitaux propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_022",
@@ -283,15 +283,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le capital social",
       "Les réserves",
       "Les bénéfices",
-      "Les dettes à long terme"
+      "Les dettes à long terme",
+      "Le capital social"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -300,12 +300,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
-      "Moins d'un an",
       "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 10 ans",
+      "Plus de 2 ans",
+      "Moins d'un an"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_024",
@@ -315,8 +315,8 @@
     "options": [
       "L'état patrimonial",
       "Les revenues et dépenses de l'exercice",
-      "Les investissements",
-      "Les variations d'actifs"
+      "Les variations d'actifs",
+      "Les investissements"
     ],
     "correctIndex": 1
   },
@@ -339,12 +339,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
       "Prudence",
+      "Conservation",
       "Continuité",
       "Spécialisation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_027",
@@ -353,11 +353,11 @@
     "type": "singleChoice",
     "options": [
       "Les comptes soient simplifiés",
+      "Les renseignements soient incomplets",
       "Tous les éléments pertinents soient inclus",
-      "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Seuls les éléments positifs soient mentionnés"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_028",
@@ -365,15 +365,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
+      "Des réserves optionnelles",
       "Des obligations probables",
       "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des liabilités certaines"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -382,10 +382,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
       "L'usure physique",
+      "L'obsolescence",
       "Le passage du temps",
-      "L'obsolescence"
+      "La dépréciation économique"
     ],
     "correctIndexes": [
       0,
@@ -400,12 +400,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les flux de l'exercice",
       "La situation financière à une date donnée",
       "Les performances annuelles",
-      "Les prévisions futures"
+      "Les prévisions futures",
+      "Les flux de l'exercice"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_031",
@@ -413,12 +413,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
       "Actif = Passif + Capitaux propres",
       "Actif = Passif - Capitaux propres",
+      "Actif = Passif",
       "Actif = Capitaux propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_032",
@@ -426,9 +426,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les bénéfices",
       "Le capital social",
       "Les réserves",
-      "Les bénéfices",
       "Les dettes à long terme"
     ],
     "correctIndexes": [
@@ -443,10 +443,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
+      "Plus de 10 ans",
       "Moins d'un an",
       "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 2 ans"
     ],
     "correctIndex": 1
   },
@@ -456,10 +456,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
+      "Les variations d'actifs",
       "Les revenues et dépenses de l'exercice",
-      "Les investissements",
-      "Les variations d'actifs"
+      "L'état patrimonial",
+      "Les investissements"
     ],
     "correctIndex": 1
   },
@@ -469,12 +469,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le prix d'acquisition",
       "Le coût d'acquisition moins l'amortissement",
-      "La valeur au marché",
-      "La valeur estimée"
+      "La valeur estimée",
+      "Le prix d'acquisition",
+      "La valeur au marché"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_036",
@@ -482,12 +482,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
-      "Prudence",
+      "Spécialisation",
       "Continuité",
-      "Spécialisation"
+      "Conservation",
+      "Prudence"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_037",
@@ -495,12 +495,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les comptes soient simplifiés",
       "Tous les éléments pertinents soient inclus",
-      "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Les comptes soient simplifiés",
+      "Les renseignements soient incomplets",
+      "Seuls les éléments positifs soient mentionnés"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_038",
@@ -508,15 +508,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
-      "Des obligations probables",
+      "Des réserves optionnelles",
       "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des obligations probables",
+      "Des liabilités certaines"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -525,9 +525,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Le passage du temps",
       "La dépréciation économique",
       "L'usure physique",
-      "Le passage du temps",
       "L'obsolescence"
     ],
     "correctIndexes": [
@@ -543,10 +543,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les flux de l'exercice",
-      "La situation financière à une date donnée",
       "Les performances annuelles",
-      "Les prévisions futures"
+      "La situation financière à une date donnée",
+      "Les prévisions futures",
+      "Les flux de l'exercice"
     ],
     "correctIndex": 1
   },
@@ -557,11 +557,11 @@
     "type": "singleChoice",
     "options": [
       "Actif = Passif",
+      "Actif = Capitaux propres",
       "Actif = Passif + Capitaux propres",
-      "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Passif - Capitaux propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_042",
@@ -586,12 +586,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
       "Moins d'un an",
       "Plus de 5 ans",
+      "Plus de 2 ans",
       "Plus de 10 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_044",
@@ -599,12 +599,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
-      "Les revenues et dépenses de l'exercice",
       "Les investissements",
-      "Les variations d'actifs"
+      "Les variations d'actifs",
+      "Les revenues et dépenses de l'exercice",
+      "L'état patrimonial"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_045",
@@ -612,12 +612,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le prix d'acquisition",
-      "Le coût d'acquisition moins l'amortissement",
       "La valeur au marché",
-      "La valeur estimée"
+      "Le prix d'acquisition",
+      "La valeur estimée",
+      "Le coût d'acquisition moins l'amortissement"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_046",
@@ -625,12 +625,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
       "Prudence",
-      "Continuité",
-      "Spécialisation"
+      "Spécialisation",
+      "Conservation",
+      "Continuité"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_047",
@@ -638,12 +638,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les renseignements soient incomplets",
       "Les comptes soient simplifiés",
-      "Tous les éléments pertinents soient inclus",
       "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Tous les éléments pertinents soient inclus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_048",
@@ -651,15 +651,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
       "Des obligations probables",
       "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des réserves optionnelles",
+      "Des liabilités certaines"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -668,10 +668,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
+      "L'obsolescence",
       "L'usure physique",
       "Le passage du temps",
-      "L'obsolescence"
+      "La dépréciation économique"
     ],
     "correctIndexes": [
       0,
@@ -687,11 +687,11 @@
     "type": "singleChoice",
     "options": [
       "Les flux de l'exercice",
+      "Les prévisions futures",
       "La situation financière à une date donnée",
-      "Les performances annuelles",
-      "Les prévisions futures"
+      "Les performances annuelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_051",
@@ -700,11 +700,11 @@
     "type": "singleChoice",
     "options": [
       "Actif = Passif",
-      "Actif = Passif + Capitaux propres",
+      "Actif = Capitaux propres",
       "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Passif + Capitaux propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_052",
@@ -713,14 +713,14 @@
     "type": "multipleChoice",
     "options": [
       "Le capital social",
+      "Les dettes à long terme",
       "Les réserves",
-      "Les bénéfices",
-      "Les dettes à long terme"
+      "Les bénéfices"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -729,12 +729,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
-      "Moins d'un an",
       "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 2 ans",
+      "Plus de 10 ans",
+      "Moins d'un an"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_054",
@@ -742,12 +742,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
-      "Les revenues et dépenses de l'exercice",
+      "Les variations d'actifs",
       "Les investissements",
-      "Les variations d'actifs"
+      "Les revenues et dépenses de l'exercice",
+      "L'état patrimonial"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_055",
@@ -756,11 +756,11 @@
     "type": "singleChoice",
     "options": [
       "Le prix d'acquisition",
+      "La valeur estimée",
       "Le coût d'acquisition moins l'amortissement",
-      "La valeur au marché",
-      "La valeur estimée"
+      "La valeur au marché"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_056",
@@ -768,12 +768,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
-      "Prudence",
       "Continuité",
-      "Spécialisation"
+      "Spécialisation",
+      "Conservation",
+      "Prudence"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_057",
@@ -781,12 +781,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les comptes soient simplifiés",
-      "Tous les éléments pertinents soient inclus",
+      "Les renseignements soient incomplets",
       "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Les comptes soient simplifiés",
+      "Tous les éléments pertinents soient inclus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_058",
@@ -794,15 +794,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
+      "Des réserves optionnelles",
       "Des obligations probables",
       "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des liabilités certaines"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -811,10 +811,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
+      "L'obsolescence",
       "L'usure physique",
       "Le passage du temps",
-      "L'obsolescence"
+      "La dépréciation économique"
     ],
     "correctIndexes": [
       0,
@@ -829,12 +829,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les prévisions futures",
       "Les flux de l'exercice",
-      "La situation financière à une date donnée",
       "Les performances annuelles",
-      "Les prévisions futures"
+      "La situation financière à une date donnée"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_061",
@@ -842,12 +842,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
       "Actif = Passif + Capitaux propres",
+      "Actif = Passif",
       "Actif = Passif - Capitaux propres",
       "Actif = Capitaux propres"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_062",
@@ -855,15 +855,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le capital social",
       "Les réserves",
-      "Les bénéfices",
-      "Les dettes à long terme"
+      "Le capital social",
+      "Les dettes à long terme",
+      "Les bénéfices"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -872,12 +872,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
       "Moins d'un an",
-      "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 2 ans",
+      "Plus de 10 ans",
+      "Plus de 5 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_064",
@@ -885,12 +885,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
       "Les revenues et dépenses de l'exercice",
-      "Les investissements",
-      "Les variations d'actifs"
+      "L'état patrimonial",
+      "Les variations d'actifs",
+      "Les investissements"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_065",
@@ -898,12 +898,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le prix d'acquisition",
-      "Le coût d'acquisition moins l'amortissement",
       "La valeur au marché",
-      "La valeur estimée"
+      "La valeur estimée",
+      "Le coût d'acquisition moins l'amortissement",
+      "Le prix d'acquisition"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_066",
@@ -911,12 +911,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
       "Prudence",
-      "Continuité",
-      "Spécialisation"
+      "Conservation",
+      "Spécialisation",
+      "Continuité"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_067",
@@ -924,9 +924,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les comptes soient simplifiés",
-      "Tous les éléments pertinents soient inclus",
       "Seuls les éléments positifs soient mentionnés",
+      "Tous les éléments pertinents soient inclus",
+      "Les comptes soient simplifiés",
       "Les renseignements soient incomplets"
     ],
     "correctIndex": 1
@@ -939,13 +939,13 @@
     "options": [
       "Des liabilités certaines",
       "Des obligations probables",
-      "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des réserves optionnelles",
+      "Des charges réputées"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -954,9 +954,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
       "L'usure physique",
       "Le passage du temps",
+      "La dépréciation économique",
       "L'obsolescence"
     ],
     "correctIndexes": [
@@ -972,12 +972,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les prévisions futures",
       "Les flux de l'exercice",
-      "La situation financière à une date donnée",
       "Les performances annuelles",
-      "Les prévisions futures"
+      "La situation financière à une date donnée"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_071",
@@ -985,10 +985,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
+      "Actif = Capitaux propres",
       "Actif = Passif + Capitaux propres",
-      "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Passif",
+      "Actif = Passif - Capitaux propres"
     ],
     "correctIndex": 1
   },
@@ -998,15 +998,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le capital social",
       "Les réserves",
       "Les bénéfices",
-      "Les dettes à long terme"
+      "Les dettes à long terme",
+      "Le capital social"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1015,10 +1015,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
-      "Moins d'un an",
       "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Moins d'un an",
+      "Plus de 10 ans",
+      "Plus de 2 ans"
     ],
     "correctIndex": 1
   },
@@ -1029,11 +1029,11 @@
     "type": "singleChoice",
     "options": [
       "L'état patrimonial",
-      "Les revenues et dépenses de l'exercice",
       "Les investissements",
-      "Les variations d'actifs"
+      "Les variations d'actifs",
+      "Les revenues et dépenses de l'exercice"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_075",
@@ -1042,11 +1042,11 @@
     "type": "singleChoice",
     "options": [
       "Le prix d'acquisition",
-      "Le coût d'acquisition moins l'amortissement",
       "La valeur au marché",
-      "La valeur estimée"
+      "La valeur estimée",
+      "Le coût d'acquisition moins l'amortissement"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_076",
@@ -1055,11 +1055,11 @@
     "type": "singleChoice",
     "options": [
       "Conservation",
-      "Prudence",
       "Continuité",
-      "Spécialisation"
+      "Spécialisation",
+      "Prudence"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_077",
@@ -1067,10 +1067,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les comptes soient simplifiés",
+      "Les renseignements soient incomplets",
       "Tous les éléments pertinents soient inclus",
-      "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Les comptes soient simplifiés",
+      "Seuls les éléments positifs soient mentionnés"
     ],
     "correctIndex": 1
   },
@@ -1081,8 +1081,8 @@
     "type": "multipleChoice",
     "options": [
       "Des liabilités certaines",
-      "Des obligations probables",
       "Des charges réputées",
+      "Des obligations probables",
       "Des réserves optionnelles"
     ],
     "correctIndexes": [
@@ -1098,9 +1098,9 @@
     "type": "multipleChoice",
     "options": [
       "La dépréciation économique",
+      "L'obsolescence",
       "L'usure physique",
-      "Le passage du temps",
-      "L'obsolescence"
+      "Le passage du temps"
     ],
     "correctIndexes": [
       0,
@@ -1115,12 +1115,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les flux de l'exercice",
       "La situation financière à une date donnée",
-      "Les performances annuelles",
-      "Les prévisions futures"
+      "Les prévisions futures",
+      "Les flux de l'exercice",
+      "Les performances annuelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_081",
@@ -1128,10 +1128,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
+      "Actif = Capitaux propres",
       "Actif = Passif + Capitaux propres",
-      "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Passif",
+      "Actif = Passif - Capitaux propres"
     ],
     "correctIndex": 1
   },
@@ -1141,9 +1141,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les bénéfices",
       "Le capital social",
       "Les réserves",
-      "Les bénéfices",
       "Les dettes à long terme"
     ],
     "correctIndexes": [
@@ -1158,12 +1158,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
       "Moins d'un an",
-      "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 10 ans",
+      "Plus de 2 ans",
+      "Plus de 5 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_084",
@@ -1171,12 +1171,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
-      "Les revenues et dépenses de l'exercice",
+      "Les variations d'actifs",
       "Les investissements",
-      "Les variations d'actifs"
+      "Les revenues et dépenses de l'exercice",
+      "L'état patrimonial"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_085",
@@ -1184,9 +1184,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le prix d'acquisition",
-      "Le coût d'acquisition moins l'amortissement",
       "La valeur au marché",
+      "Le coût d'acquisition moins l'amortissement",
+      "Le prix d'acquisition",
       "La valeur estimée"
     ],
     "correctIndex": 1
@@ -1197,9 +1197,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Conservation",
-      "Prudence",
       "Continuité",
+      "Prudence",
+      "Conservation",
       "Spécialisation"
     ],
     "correctIndex": 1
@@ -1211,11 +1211,11 @@
     "type": "singleChoice",
     "options": [
       "Les comptes soient simplifiés",
-      "Tous les éléments pertinents soient inclus",
       "Seuls les éléments positifs soient mentionnés",
+      "Tous les éléments pertinents soient inclus",
       "Les renseignements soient incomplets"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_088",
@@ -1223,8 +1223,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des liabilités certaines",
       "Des obligations probables",
+      "Des liabilités certaines",
       "Des charges réputées",
       "Des réserves optionnelles"
     ],
@@ -1240,10 +1240,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "La dépréciation économique",
-      "L'usure physique",
       "Le passage du temps",
-      "L'obsolescence"
+      "L'usure physique",
+      "L'obsolescence",
+      "La dépréciation économique"
     ],
     "correctIndexes": [
       0,
@@ -1258,12 +1258,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les flux de l'exercice",
       "La situation financière à une date donnée",
       "Les performances annuelles",
-      "Les prévisions futures"
+      "Les prévisions futures",
+      "Les flux de l'exercice"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_091",
@@ -1271,12 +1271,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Actif = Passif",
-      "Actif = Passif + Capitaux propres",
       "Actif = Passif - Capitaux propres",
-      "Actif = Capitaux propres"
+      "Actif = Capitaux propres",
+      "Actif = Passif + Capitaux propres",
+      "Actif = Passif"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_092",
@@ -1284,15 +1284,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le capital social",
+      "Les dettes à long terme",
       "Les réserves",
       "Les bénéfices",
-      "Les dettes à long terme"
+      "Le capital social"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1301,12 +1301,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Plus de 2 ans",
       "Moins d'un an",
-      "Plus de 5 ans",
-      "Plus de 10 ans"
+      "Plus de 10 ans",
+      "Plus de 2 ans",
+      "Plus de 5 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_094",
@@ -1314,12 +1314,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'état patrimonial",
       "Les revenues et dépenses de l'exercice",
-      "Les investissements",
-      "Les variations d'actifs"
+      "L'état patrimonial",
+      "Les variations d'actifs",
+      "Les investissements"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "comptabilite_easy_095",
@@ -1327,12 +1327,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La valeur au marché",
       "Le prix d'acquisition",
       "Le coût d'acquisition moins l'amortissement",
-      "La valeur au marché",
       "La valeur estimée"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "comptabilite_easy_096",
@@ -1353,12 +1353,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Les comptes soient simplifiés",
-      "Tous les éléments pertinents soient inclus",
       "Seuls les éléments positifs soient mentionnés",
-      "Les renseignements soient incomplets"
+      "Les comptes soient simplifiés",
+      "Les renseignements soient incomplets",
+      "Tous les éléments pertinents soient inclus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "comptabilite_easy_098",
@@ -1367,14 +1367,14 @@
     "type": "multipleChoice",
     "options": [
       "Des liabilités certaines",
-      "Des obligations probables",
       "Des charges réputées",
-      "Des réserves optionnelles"
+      "Des réserves optionnelles",
+      "Des obligations probables"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1384,9 +1384,9 @@
     "type": "multipleChoice",
     "options": [
       "La dépréciation économique",
+      "L'obsolescence",
       "L'usure physique",
-      "Le passage du temps",
-      "L'obsolescence"
+      "Le passage du temps"
     ],
     "correctIndexes": [
       0,
@@ -1403,8 +1403,8 @@
     "options": [
       "Les flux de l'exercice",
       "La situation financière à une date donnée",
-      "Les performances annuelles",
-      "Les prévisions futures"
+      "Les prévisions futures",
+      "Les performances annuelles"
     ],
     "correctIndex": 1
   }

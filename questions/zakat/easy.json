@@ -23,12 +23,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "10%",
       "1%",
       "2.5%",
-      "5%",
-      "10%"
+      "5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_004",
@@ -37,13 +37,13 @@
     "type": "multipleChoice",
     "options": [
       "Zakat Al-Mal",
-      "Zakat Al-Fitr",
       "Zakat personnelle",
-      "Zakat annuelle"
+      "Zakat annuelle",
+      "Zakat Al-Fitr"
     ],
     "correctIndexes": [
       0,
-      1
+      3
     ]
   },
   {
@@ -52,12 +52,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "N'importe qui",
       "Aux pauvres",
       "À l'État",
+      "N'importe qui",
       "Aux proches"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_006",
@@ -83,12 +83,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "1%",
-      "2.5%",
       "5%",
-      "10%"
+      "10%",
+      "1%",
+      "2.5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_009",
@@ -96,14 +96,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Zakat Al-Mal",
+      "Zakat personnelle",
       "Zakat Al-Fitr",
-      "Zakat annuelle",
-      "Zakat personnelle"
+      "Zakat Al-Mal",
+      "Zakat annuelle"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -112,10 +112,10 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "Tous",
+      "Famille",
       "Pauvres",
-      "Gouvernement",
-      "Famille"
+      "Tous",
+      "Gouvernement"
     ],
     "correctIndex": 1
   },
@@ -127,8 +127,8 @@
     "options": [
       "5%",
       "10%",
-      "2,5%",
-      "20%"
+      "20%",
+      "2,5%"
     ],
     "correctIndex": 1
   },
@@ -138,12 +138,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
-      "85 grammes",
       "40 dinars",
-      "50 grammes"
+      "50 grammes",
+      "20 dinars",
+      "85 grammes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_013",
@@ -151,12 +151,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
       "Zakat al-fitr",
       "Zakat al-amal",
-      "Zakat al-ghalla"
+      "Zakat al-ghalla",
+      "Zakat al-mal"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_014",
@@ -164,10 +164,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "L'école hanbalite",
       "L'école malékite",
       "L'école hanéfite",
-      "L'école shafi'ite",
-      "L'école hanbalite"
+      "L'école shafi'ite"
     ],
     "correctIndexes": [
       0,
@@ -182,12 +182,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5",
       "7",
       "8",
-      "10"
+      "10",
+      "5"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_016",
@@ -195,12 +195,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "La nuit du Doute",
       "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Après Al-Fitr",
+      "Au début du Ramadan"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_017",
@@ -208,12 +208,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
-      "L'intention du propriétaire",
+      "La durée de possession",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "Son utilité personnelle",
+      "L'intention du propriétaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_018",
@@ -221,10 +221,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le cours de l'or et l'argent",
       "L'inflation",
-      "La région",
-      "L'année fiscale"
+      "Le cours de l'or et l'argent",
+      "L'année fiscale",
+      "La région"
     ],
     "correctIndexes": [
       0,
@@ -237,12 +237,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
-      "Solaire",
       "Grégorien",
+      "Solaire",
+      "Lunaire",
       "Commercial"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_020",
@@ -250,12 +250,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "1er pilier",
-      "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "1er pilier",
+      "4e pilier",
+      "2e pilier"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_021",
@@ -263,12 +263,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
       "10%",
-      "2,5%",
-      "20%"
+      "5%",
+      "20%",
+      "2,5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_022",
@@ -276,12 +276,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
       "85 grammes",
-      "40 dinars",
-      "50 grammes"
+      "50 grammes",
+      "20 dinars",
+      "40 dinars"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_023",
@@ -289,12 +289,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
+      "Zakat al-ghalla",
       "Zakat al-fitr",
       "Zakat al-amal",
-      "Zakat al-ghalla"
+      "Zakat al-mal"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_024",
@@ -302,10 +302,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'école malékite",
+      "L'école hanbalite",
       "L'école hanéfite",
       "L'école shafi'ite",
-      "L'école hanbalite"
+      "L'école malékite"
     ],
     "correctIndexes": [
       0,
@@ -320,12 +320,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5",
-      "7",
       "8",
-      "10"
+      "10",
+      "5",
+      "7"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_026",
@@ -333,12 +333,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "La nuit du Doute",
       "Du début à la fin du Ramadan",
+      "Au début du Ramadan",
       "Après Al-Fitr"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_027",
@@ -346,12 +346,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
       "L'intention du propriétaire",
+      "Son utilité personnelle",
       "Le statut du propriétaire",
       "La durée de possession"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_028",
@@ -360,13 +360,13 @@
     "type": "multipleChoice",
     "options": [
       "Le cours de l'or et l'argent",
-      "L'inflation",
       "La région",
+      "L'inflation",
       "L'année fiscale"
     ],
     "correctIndexes": [
       0,
-      1
+      2
     ]
   },
   {
@@ -375,12 +375,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
       "Solaire",
       "Grégorien",
-      "Commercial"
+      "Commercial",
+      "Lunaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_030",
@@ -388,12 +388,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "1er pilier",
       "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "4e pilier",
+      "1er pilier"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_031",
@@ -401,12 +401,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
       "10%",
+      "5%",
       "2,5%",
       "20%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_032",
@@ -414,12 +414,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
       "85 grammes",
+      "20 dinars",
       "40 dinars",
       "50 grammes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_033",
@@ -427,12 +427,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
-      "Zakat al-fitr",
+      "Zakat al-ghalla",
       "Zakat al-amal",
-      "Zakat al-ghalla"
+      "Zakat al-mal",
+      "Zakat al-fitr"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_034",
@@ -441,8 +441,8 @@
     "type": "multipleChoice",
     "options": [
       "L'école malékite",
-      "L'école hanéfite",
       "L'école shafi'ite",
+      "L'école hanéfite",
       "L'école hanbalite"
     ],
     "correctIndexes": [
@@ -458,10 +458,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "10",
       "5",
-      "7",
       "8",
-      "10"
+      "7"
     ],
     "correctIndex": 2
   },
@@ -484,12 +484,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
-      "L'intention du propriétaire",
+      "La durée de possession",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "L'intention du propriétaire",
+      "Son utilité personnelle"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_038",
@@ -498,13 +498,13 @@
     "type": "multipleChoice",
     "options": [
       "Le cours de l'or et l'argent",
+      "L'année fiscale",
       "L'inflation",
-      "La région",
-      "L'année fiscale"
+      "La région"
     ],
     "correctIndexes": [
       0,
-      1
+      2
     ]
   },
   {
@@ -513,12 +513,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Commercial",
       "Lunaire",
-      "Solaire",
       "Grégorien",
-      "Commercial"
+      "Solaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_040",
@@ -527,9 +527,9 @@
     "type": "singleChoice",
     "options": [
       "1er pilier",
-      "2e pilier",
+      "4e pilier",
       "3e pilier",
-      "4e pilier"
+      "2e pilier"
     ],
     "correctIndex": 2
   },
@@ -539,12 +539,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
-      "10%",
       "2,5%",
-      "20%"
+      "20%",
+      "5%",
+      "10%"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_042",
@@ -552,12 +552,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
       "85 grammes",
+      "50 grammes",
       "40 dinars",
-      "50 grammes"
+      "20 dinars"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_043",
@@ -578,10 +578,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "L'école hanbalite",
       "L'école malékite",
-      "L'école hanéfite",
       "L'école shafi'ite",
-      "L'école hanbalite"
+      "L'école hanéfite"
     ],
     "correctIndexes": [
       0,
@@ -597,11 +597,11 @@
     "type": "singleChoice",
     "options": [
       "5",
+      "10",
       "7",
-      "8",
-      "10"
+      "8"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_046",
@@ -610,11 +610,11 @@
     "type": "singleChoice",
     "options": [
       "Au début du Ramadan",
-      "La nuit du Doute",
       "Du début à la fin du Ramadan",
+      "La nuit du Doute",
       "Après Al-Fitr"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_047",
@@ -622,12 +622,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
-      "L'intention du propriétaire",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "L'intention du propriétaire",
+      "La durée de possession",
+      "Son utilité personnelle"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_048",
@@ -635,14 +635,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "La région",
       "Le cours de l'or et l'argent",
       "L'inflation",
-      "La région",
       "L'année fiscale"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -652,9 +652,9 @@
     "type": "singleChoice",
     "options": [
       "Lunaire",
-      "Solaire",
+      "Commercial",
       "Grégorien",
-      "Commercial"
+      "Solaire"
     ],
     "correctIndex": 0
   },
@@ -664,10 +664,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "4e pilier",
       "1er pilier",
-      "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "2e pilier"
     ],
     "correctIndex": 2
   },
@@ -677,12 +677,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
       "10%",
       "2,5%",
-      "20%"
+      "20%",
+      "5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_052",
@@ -690,12 +690,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
-      "85 grammes",
       "40 dinars",
-      "50 grammes"
+      "50 grammes",
+      "85 grammes",
+      "20 dinars"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_053",
@@ -703,12 +703,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Zakat al-amal",
       "Zakat al-mal",
       "Zakat al-fitr",
-      "Zakat al-amal",
       "Zakat al-ghalla"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_054",
@@ -716,8 +716,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'école malékite",
       "L'école hanéfite",
+      "L'école malékite",
       "L'école shafi'ite",
       "L'école hanbalite"
     ],
@@ -734,12 +734,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5",
-      "7",
+      "10",
       "8",
-      "10"
+      "7",
+      "5"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_056",
@@ -748,11 +748,11 @@
     "type": "singleChoice",
     "options": [
       "Au début du Ramadan",
+      "Après Al-Fitr",
       "La nuit du Doute",
-      "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Du début à la fin du Ramadan"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_057",
@@ -760,12 +760,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
       "L'intention du propriétaire",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "La durée de possession",
+      "Son utilité personnelle"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_058",
@@ -773,8 +773,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le cours de l'or et l'argent",
       "L'inflation",
+      "Le cours de l'or et l'argent",
       "La région",
       "L'année fiscale"
     ],
@@ -789,12 +789,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
       "Solaire",
+      "Lunaire",
       "Grégorien",
       "Commercial"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_060",
@@ -802,12 +802,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "1er pilier",
-      "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "4e pilier",
+      "1er pilier",
+      "2e pilier"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_061",
@@ -816,11 +816,11 @@
     "type": "singleChoice",
     "options": [
       "5%",
-      "10%",
       "2,5%",
+      "10%",
       "20%"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_062",
@@ -828,12 +828,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "50 grammes",
       "20 dinars",
-      "85 grammes",
       "40 dinars",
-      "50 grammes"
+      "85 grammes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_063",
@@ -841,12 +841,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
+      "Zakat al-ghalla",
       "Zakat al-fitr",
-      "Zakat al-amal",
-      "Zakat al-ghalla"
+      "Zakat al-mal",
+      "Zakat al-amal"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_064",
@@ -872,12 +872,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5",
       "7",
       "8",
-      "10"
+      "10",
+      "5"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_066",
@@ -886,11 +886,11 @@
     "type": "singleChoice",
     "options": [
       "Au début du Ramadan",
-      "La nuit du Doute",
       "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Après Al-Fitr",
+      "La nuit du Doute"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_067",
@@ -898,12 +898,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La durée de possession",
       "Son utilité personnelle",
       "L'intention du propriétaire",
-      "Le statut du propriétaire",
-      "La durée de possession"
+      "Le statut du propriétaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_068",
@@ -911,14 +911,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le cours de l'or et l'argent",
+      "L'année fiscale",
       "L'inflation",
-      "La région",
-      "L'année fiscale"
+      "Le cours de l'or et l'argent",
+      "La région"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -927,12 +927,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
       "Solaire",
       "Grégorien",
-      "Commercial"
+      "Commercial",
+      "Lunaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_070",
@@ -941,11 +941,11 @@
     "type": "singleChoice",
     "options": [
       "1er pilier",
-      "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "4e pilier",
+      "2e pilier"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_071",
@@ -979,12 +979,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
       "Zakat al-fitr",
       "Zakat al-amal",
+      "Zakat al-mal",
       "Zakat al-ghalla"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_074",
@@ -994,8 +994,8 @@
     "options": [
       "L'école malékite",
       "L'école hanéfite",
-      "L'école shafi'ite",
-      "L'école hanbalite"
+      "L'école hanbalite",
+      "L'école shafi'ite"
     ],
     "correctIndexes": [
       0,
@@ -1010,12 +1010,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "10",
       "5",
       "7",
-      "8",
-      "10"
+      "8"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_076",
@@ -1023,10 +1023,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
+      "Après Al-Fitr",
       "La nuit du Doute",
       "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Au début du Ramadan"
     ],
     "correctIndex": 2
   },
@@ -1036,12 +1036,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
-      "L'intention du propriétaire",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "L'intention du propriétaire",
+      "La durée de possession",
+      "Son utilité personnelle"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_078",
@@ -1049,14 +1049,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le cours de l'or et l'argent",
       "L'inflation",
+      "L'année fiscale",
       "La région",
-      "L'année fiscale"
+      "Le cours de l'or et l'argent"
     ],
     "correctIndexes": [
       0,
-      1
+      3
     ]
   },
   {
@@ -1065,12 +1065,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
       "Solaire",
+      "Lunaire",
       "Grégorien",
       "Commercial"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_080",
@@ -1078,10 +1078,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "4e pilier",
       "1er pilier",
-      "2e pilier",
       "3e pilier",
-      "4e pilier"
+      "2e pilier"
     ],
     "correctIndex": 2
   },
@@ -1091,12 +1091,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
       "10%",
       "2,5%",
-      "20%"
+      "20%",
+      "5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_082",
@@ -1104,12 +1104,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "40 dinars",
       "20 dinars",
       "85 grammes",
-      "40 dinars",
       "50 grammes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_083",
@@ -1117,12 +1117,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Zakat al-amal",
       "Zakat al-mal",
       "Zakat al-fitr",
-      "Zakat al-amal",
       "Zakat al-ghalla"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_084",
@@ -1130,9 +1130,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'école malékite",
-      "L'école hanéfite",
       "L'école shafi'ite",
+      "L'école hanéfite",
+      "L'école malékite",
       "L'école hanbalite"
     ],
     "correctIndexes": [
@@ -1148,12 +1148,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "8",
       "5",
       "7",
-      "8",
       "10"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_086",
@@ -1161,10 +1161,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
+      "Après Al-Fitr",
       "La nuit du Doute",
       "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Au début du Ramadan"
     ],
     "correctIndex": 2
   },
@@ -1174,12 +1174,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Son utilité personnelle",
-      "L'intention du propriétaire",
       "Le statut du propriétaire",
-      "La durée de possession"
+      "La durée de possession",
+      "L'intention du propriétaire",
+      "Son utilité personnelle"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_088",
@@ -1187,14 +1187,14 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Le cours de l'or et l'argent",
-      "L'inflation",
       "La région",
+      "L'inflation",
+      "Le cours de l'or et l'argent",
       "L'année fiscale"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -1203,12 +1203,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Lunaire",
-      "Solaire",
+      "Commercial",
       "Grégorien",
-      "Commercial"
+      "Lunaire",
+      "Solaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_easy_090",
@@ -1218,10 +1218,10 @@
     "options": [
       "1er pilier",
       "2e pilier",
-      "3e pilier",
-      "4e pilier"
+      "4e pilier",
+      "3e pilier"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "zakat_easy_091",
@@ -1229,12 +1229,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5%",
       "10%",
-      "2,5%",
-      "20%"
+      "20%",
+      "5%",
+      "2,5%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_092",
@@ -1242,12 +1242,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "20 dinars",
       "85 grammes",
       "40 dinars",
-      "50 grammes"
+      "50 grammes",
+      "20 dinars"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_easy_093",
@@ -1255,12 +1255,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Zakat al-mal",
-      "Zakat al-fitr",
       "Zakat al-amal",
-      "Zakat al-ghalla"
+      "Zakat al-mal",
+      "Zakat al-ghalla",
+      "Zakat al-fitr"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_094",
@@ -1268,9 +1268,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "L'école malékite",
-      "L'école hanéfite",
       "L'école shafi'ite",
+      "L'école hanéfite",
+      "L'école malékite",
       "L'école hanbalite"
     ],
     "correctIndexes": [
@@ -1286,12 +1286,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "5",
-      "7",
+      "10",
       "8",
-      "10"
+      "5",
+      "7"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_096",
@@ -1299,10 +1299,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "La nuit du Doute",
+      "Après Al-Fitr",
       "Du début à la fin du Ramadan",
-      "Après Al-Fitr"
+      "Au début du Ramadan"
     ],
     "correctIndex": 2
   },
@@ -1313,9 +1313,9 @@
     "type": "singleChoice",
     "options": [
       "Son utilité personnelle",
+      "La durée de possession",
       "L'intention du propriétaire",
-      "Le statut du propriétaire",
-      "La durée de possession"
+      "Le statut du propriétaire"
     ],
     "correctIndex": 0
   },
@@ -1326,13 +1326,13 @@
     "type": "multipleChoice",
     "options": [
       "Le cours de l'or et l'argent",
-      "L'inflation",
+      "L'année fiscale",
       "La région",
-      "L'année fiscale"
+      "L'inflation"
     ],
     "correctIndexes": [
       0,
-      1
+      3
     ]
   },
   {
@@ -1341,12 +1341,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Commercial",
       "Lunaire",
-      "Solaire",
       "Grégorien",
-      "Commercial"
+      "Solaire"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_easy_100",
@@ -1354,8 +1354,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "1er pilier",
       "2e pilier",
+      "1er pilier",
       "3e pilier",
       "4e pilier"
     ],

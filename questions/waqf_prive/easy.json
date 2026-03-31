@@ -5,12 +5,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "La famille du donateur",
       "Le public",
-      "Les institutions religieuses"
+      "L'État",
+      "Les institutions religieuses",
+      "La famille du donateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_002",
@@ -36,15 +36,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Étrangers",
       "Enfants",
-      "Petits-enfants",
       "Frères et sœurs",
-      "Étrangers"
+      "Petits-enfants"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -53,12 +53,12 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
+      "Perpétuité",
       "Quelques années",
-      "Une génération",
       "Plusieurs générations",
-      "Perpétuité"
+      "Une génération"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_006",
@@ -66,15 +66,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des propriétés immobilières",
       "Des entreprises",
+      "Des fonds en espèces",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des propriétés immobilières"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -83,10 +83,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
+      "Ne change rien",
       "Transfère le bénéfice aux autres branches",
-      "Transforme le Wakf en public",
-      "Ne change rien"
+      "Invalide le Wakf",
+      "Transforme le Wakf en public"
     ],
     "correctIndex": 1
   },
@@ -96,12 +96,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
-      "Permise librement",
-      "À la discrétion du Mutawalli"
+      "Interdite complètement",
+      "À la discrétion du Mutawalli",
+      "Permise librement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_009",
@@ -109,8 +109,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
       "Partiellement exonérés",
+      "Entièrement dus",
       "Totalement exonérés",
       "Doublement taxés"
     ],
@@ -122,9 +122,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
-      "La famille du Wakif",
       "L'État",
+      "La famille du Wakif",
+      "La communauté",
       "Les organismes de bienfaisance"
     ],
     "correctIndex": 1
@@ -150,8 +150,8 @@
     "options": [
       "L'État uniquement",
       "Le Wakif ou ses héritiers",
-      "Le juge",
-      "Le Conseil communal"
+      "Le Conseil communal",
+      "Le juge"
     ],
     "correctIndex": 1
   },
@@ -174,12 +174,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "L'ordre de succession naturelle",
+      "Aléatoirement",
+      "Uniquement les males"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_015",
@@ -188,11 +188,11 @@
     "type": "singleChoice",
     "options": [
       "Interdite",
-      "Permise si elle augmente les revenus",
       "Obligatoire",
-      "Facultative"
+      "Facultative",
+      "Permise si elle augmente les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_016",
@@ -217,12 +217,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
       "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf",
       "Transforme le Wakf en public",
       "Ne change rien"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_018",
@@ -230,12 +230,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
       "Permise librement",
-      "À la discrétion du Mutawalli"
+      "À la discrétion du Mutawalli",
+      "Interdite complètement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_019",
@@ -245,10 +245,10 @@
     "options": [
       "Entièrement dus",
       "Partiellement exonérés",
-      "Totalement exonérés",
-      "Doublement taxés"
+      "Doublement taxés",
+      "Totalement exonérés"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_020",
@@ -256,12 +256,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
       "La famille du Wakif",
-      "L'État",
-      "Les organismes de bienfaisance"
+      "Les organismes de bienfaisance",
+      "La communauté",
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_021",
@@ -269,12 +269,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
-      "Le Wakif le décide",
       "Le juge l'ordonne",
-      "Les bénéficiaires le demandent"
+      "Le Wakif le décide",
+      "Les bénéficiaires le demandent",
+      "La descendance s'éteint"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_022",
@@ -282,12 +282,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État uniquement",
       "Le Wakif ou ses héritiers",
-      "Le juge",
-      "Le Conseil communal"
+      "Le Conseil communal",
+      "L'État uniquement",
+      "Le juge"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_023",
@@ -295,12 +295,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Le Réserve de Wakf",
       "À la distribution selon le contrat",
-      "Tous les points"
+      "Tous les points",
+      "L'État",
+      "Le Réserve de Wakf"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_024",
@@ -309,11 +309,11 @@
     "type": "singleChoice",
     "options": [
       "Uniquement les males",
+      "Aléatoirement",
       "L'ordre de succession naturelle",
-      "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Ordre fixé par le Wakif"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_025",
@@ -321,12 +321,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
       "Permise si elle augmente les revenus",
+      "Interdite",
       "Obligatoire",
       "Facultative"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_026",
@@ -334,15 +334,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des propriétés immobilières",
-      "Des entreprises",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des fonds en espèces",
+      "Des entreprises",
+      "Des propriétés immobilières"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -351,9 +351,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
+      "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf",
       "Ne change rien"
     ],
     "correctIndex": 1
@@ -364,12 +364,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
+      "Interdite complètement",
       "Permise librement",
       "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_029",
@@ -379,10 +379,10 @@
     "options": [
       "Entièrement dus",
       "Partiellement exonérés",
-      "Totalement exonérés",
-      "Doublement taxés"
+      "Doublement taxés",
+      "Totalement exonérés"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_030",
@@ -390,12 +390,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
       "La famille du Wakif",
+      "Les organismes de bienfaisance",
       "L'État",
-      "Les organismes de bienfaisance"
+      "La communauté"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_031",
@@ -403,12 +403,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
       "Le Wakif le décide",
       "Le juge l'ordonne",
+      "La descendance s'éteint",
       "Les bénéficiaires le demandent"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_032",
@@ -416,12 +416,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Le juge",
       "L'État uniquement",
       "Le Wakif ou ses héritiers",
-      "Le juge",
       "Le Conseil communal"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_033",
@@ -429,12 +429,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Le Réserve de Wakf",
+      "Tous les points",
       "À la distribution selon le contrat",
-      "Tous les points"
+      "Le Réserve de Wakf",
+      "L'État"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_034",
@@ -442,12 +442,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
       "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Aléatoirement",
+      "Uniquement les males"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_035",
@@ -455,12 +455,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
-      "Permise si elle augmente les revenus",
       "Obligatoire",
-      "Facultative"
+      "Facultative",
+      "Interdite",
+      "Permise si elle augmente les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_036",
@@ -468,15 +468,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Des fonds en espèces",
       "Des propriétés immobilières",
-      "Des entreprises",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des entreprises"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -485,12 +485,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
-      "Ne change rien"
+      "Ne change rien",
+      "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_038",
@@ -500,8 +500,8 @@
     "options": [
       "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
-      "Permise librement",
-      "À la discrétion du Mutawalli"
+      "À la discrétion du Mutawalli",
+      "Permise librement"
     ],
     "correctIndex": 1
   },
@@ -511,12 +511,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
-      "Partiellement exonérés",
       "Totalement exonérés",
-      "Doublement taxés"
+      "Partiellement exonérés",
+      "Doublement taxés",
+      "Entièrement dus"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_040",
@@ -526,8 +526,8 @@
     "options": [
       "La communauté",
       "La famille du Wakif",
-      "L'État",
-      "Les organismes de bienfaisance"
+      "Les organismes de bienfaisance",
+      "L'État"
     ],
     "correctIndex": 1
   },
@@ -538,8 +538,8 @@
     "type": "singleChoice",
     "options": [
       "La descendance s'éteint",
-      "Le Wakif le décide",
       "Le juge l'ordonne",
+      "Le Wakif le décide",
       "Les bénéficiaires le demandent"
     ],
     "correctIndex": 0
@@ -550,10 +550,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État uniquement",
+      "Le Conseil communal",
       "Le Wakif ou ses héritiers",
       "Le juge",
-      "Le Conseil communal"
+      "L'État uniquement"
     ],
     "correctIndex": 1
   },
@@ -563,12 +563,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Le Réserve de Wakf",
-      "À la distribution selon le contrat",
-      "Tous les points"
+      "Tous les points",
+      "L'État",
+      "À la distribution selon le contrat"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_044",
@@ -576,12 +576,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Uniquement les males",
+      "Aléatoirement",
+      "L'ordre de succession naturelle"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_045",
@@ -589,12 +589,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
-      "Permise si elle augmente les revenus",
+      "Facultative",
       "Obligatoire",
-      "Facultative"
+      "Interdite",
+      "Permise si elle augmente les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_046",
@@ -603,14 +603,14 @@
     "type": "multipleChoice",
     "options": [
       "Des propriétés immobilières",
-      "Des entreprises",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des fonds en espèces",
+      "Des entreprises"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -619,12 +619,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
+      "Ne change rien",
       "Transforme le Wakf en public",
-      "Ne change rien"
+      "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_048",
@@ -634,8 +634,8 @@
     "options": [
       "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
-      "Permise librement",
-      "À la discrétion du Mutawalli"
+      "À la discrétion du Mutawalli",
+      "Permise librement"
     ],
     "correctIndex": 1
   },
@@ -645,12 +645,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
       "Partiellement exonérés",
       "Totalement exonérés",
-      "Doublement taxés"
+      "Doublement taxés",
+      "Entièrement dus"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_050",
@@ -659,11 +659,11 @@
     "type": "singleChoice",
     "options": [
       "La communauté",
-      "La famille du Wakif",
+      "Les organismes de bienfaisance",
       "L'État",
-      "Les organismes de bienfaisance"
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_051",
@@ -671,12 +671,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
-      "Le Wakif le décide",
       "Le juge l'ordonne",
-      "Les bénéficiaires le demandent"
+      "Les bénéficiaires le demandent",
+      "Le Wakif le décide",
+      "La descendance s'éteint"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_052",
@@ -684,9 +684,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État uniquement",
-      "Le Wakif ou ses héritiers",
       "Le juge",
+      "Le Wakif ou ses héritiers",
+      "L'État uniquement",
       "Le Conseil communal"
     ],
     "correctIndex": 1
@@ -698,9 +698,9 @@
     "type": "singleChoice",
     "options": [
       "L'État",
-      "Le Réserve de Wakf",
+      "Tous les points",
       "À la distribution selon le contrat",
-      "Tous les points"
+      "Le Réserve de Wakf"
     ],
     "correctIndex": 2
   },
@@ -711,11 +711,11 @@
     "type": "singleChoice",
     "options": [
       "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
+      "L'ordre de succession naturelle",
       "Aléatoirement"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_055",
@@ -723,12 +723,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
       "Permise si elle augmente les revenus",
       "Obligatoire",
-      "Facultative"
+      "Facultative",
+      "Interdite"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_056",
@@ -736,15 +736,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Des fonds en espèces",
       "Des propriétés immobilières",
       "Des entreprises",
-      "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des titres de propriété"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -753,9 +753,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
+      "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf",
       "Ne change rien"
     ],
     "correctIndex": 1
@@ -767,11 +767,11 @@
     "type": "singleChoice",
     "options": [
       "Interdite complètement",
-      "Permise par décision judiciaire en cas de nécessité",
       "Permise librement",
+      "Permise par décision judiciaire en cas de nécessité",
       "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_059",
@@ -779,12 +779,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
-      "Partiellement exonérés",
       "Totalement exonérés",
-      "Doublement taxés"
+      "Doublement taxés",
+      "Entièrement dus",
+      "Partiellement exonérés"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_060",
@@ -794,8 +794,8 @@
     "options": [
       "La communauté",
       "La famille du Wakif",
-      "L'État",
-      "Les organismes de bienfaisance"
+      "Les organismes de bienfaisance",
+      "L'État"
     ],
     "correctIndex": 1
   },
@@ -805,12 +805,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les bénéficiaires le demandent",
       "La descendance s'éteint",
-      "Le Wakif le décide",
       "Le juge l'ordonne",
-      "Les bénéficiaires le demandent"
+      "Le Wakif le décide"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_062",
@@ -820,8 +820,8 @@
     "options": [
       "L'État uniquement",
       "Le Wakif ou ses héritiers",
-      "Le juge",
-      "Le Conseil communal"
+      "Le Conseil communal",
+      "Le juge"
     ],
     "correctIndex": 1
   },
@@ -831,12 +831,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Le Réserve de Wakf",
       "À la distribution selon le contrat",
-      "Tous les points"
+      "Tous les points",
+      "L'État",
+      "Le Réserve de Wakf"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_064",
@@ -844,12 +844,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Aléatoirement",
+      "L'ordre de succession naturelle",
+      "Uniquement les males"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_065",
@@ -857,12 +857,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
       "Permise si elle augmente les revenus",
       "Obligatoire",
+      "Interdite",
       "Facultative"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_066",
@@ -870,15 +870,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des propriétés immobilières",
       "Des entreprises",
+      "Des fonds en espèces",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des propriétés immobilières"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -889,8 +889,8 @@
     "options": [
       "Invalide le Wakf",
       "Transfère le bénéfice aux autres branches",
-      "Transforme le Wakf en public",
-      "Ne change rien"
+      "Ne change rien",
+      "Transforme le Wakf en public"
     ],
     "correctIndex": 1
   },
@@ -900,12 +900,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
+      "Interdite complètement",
       "Permise librement",
       "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_069",
@@ -913,12 +913,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
-      "Partiellement exonérés",
       "Totalement exonérés",
-      "Doublement taxés"
+      "Partiellement exonérés",
+      "Doublement taxés",
+      "Entièrement dus"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_070",
@@ -939,12 +939,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
       "Le Wakif le décide",
+      "La descendance s'éteint",
       "Le juge l'ordonne",
       "Les bénéficiaires le demandent"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_072",
@@ -952,12 +952,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État uniquement",
       "Le Wakif ou ses héritiers",
       "Le juge",
-      "Le Conseil communal"
+      "Le Conseil communal",
+      "L'État uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_073",
@@ -965,12 +965,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
       "Le Réserve de Wakf",
       "À la distribution selon le contrat",
+      "L'État",
       "Tous les points"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_074",
@@ -978,8 +978,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
       "L'ordre de succession naturelle",
+      "Uniquement les males",
       "Ordre fixé par le Wakif",
       "Aléatoirement"
     ],
@@ -991,10 +991,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
+      "Facultative",
       "Permise si elle augmente les revenus",
       "Obligatoire",
-      "Facultative"
+      "Interdite"
     ],
     "correctIndex": 1
   },
@@ -1004,15 +1004,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Des propriétés immobilières",
+      "Des fonds en espèces",
       "Des entreprises",
-      "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des propriétés immobilières",
+      "Des titres de propriété"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1022,11 +1022,11 @@
     "type": "singleChoice",
     "options": [
       "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
+      "Transfère le bénéfice aux autres branches",
       "Ne change rien"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_078",
@@ -1035,11 +1035,11 @@
     "type": "singleChoice",
     "options": [
       "Interdite complètement",
-      "Permise par décision judiciaire en cas de nécessité",
+      "À la discrétion du Mutawalli",
       "Permise librement",
-      "À la discrétion du Mutawalli"
+      "Permise par décision judiciaire en cas de nécessité"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_079",
@@ -1047,8 +1047,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
       "Partiellement exonérés",
+      "Entièrement dus",
       "Totalement exonérés",
       "Doublement taxés"
     ],
@@ -1060,12 +1060,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
-      "La famille du Wakif",
       "L'État",
-      "Les organismes de bienfaisance"
+      "La communauté",
+      "Les organismes de bienfaisance",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_081",
@@ -1073,12 +1073,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
+      "Les bénéficiaires le demandent",
       "Le Wakif le décide",
       "Le juge l'ordonne",
-      "Les bénéficiaires le demandent"
+      "La descendance s'éteint"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_082",
@@ -1086,12 +1086,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État uniquement",
       "Le Wakif ou ses héritiers",
-      "Le juge",
-      "Le Conseil communal"
+      "L'État uniquement",
+      "Le Conseil communal",
+      "Le juge"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_083",
@@ -1112,12 +1112,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Aléatoirement",
+      "L'ordre de succession naturelle",
+      "Uniquement les males"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_085",
@@ -1125,12 +1125,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Interdite",
-      "Permise si elle augmente les revenus",
+      "Facultative",
       "Obligatoire",
-      "Facultative"
+      "Permise si elle augmente les revenus",
+      "Interdite"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_086",
@@ -1138,15 +1138,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Des fonds en espèces",
       "Des propriétés immobilières",
-      "Des entreprises",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des entreprises"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1155,9 +1155,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
+      "Transfère le bénéfice aux autres branches",
+      "Invalide le Wakf",
       "Ne change rien"
     ],
     "correctIndex": 1
@@ -1181,8 +1181,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
       "Partiellement exonérés",
+      "Entièrement dus",
       "Totalement exonérés",
       "Doublement taxés"
     ],
@@ -1194,12 +1194,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
-      "La famille du Wakif",
       "L'État",
-      "Les organismes de bienfaisance"
+      "Les organismes de bienfaisance",
+      "La famille du Wakif",
+      "La communauté"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_091",
@@ -1207,12 +1207,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La descendance s'éteint",
       "Le Wakif le décide",
-      "Le juge l'ordonne",
-      "Les bénéficiaires le demandent"
+      "Les bénéficiaires le demandent",
+      "La descendance s'éteint",
+      "Le juge l'ordonne"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_092",
@@ -1221,11 +1221,11 @@
     "type": "singleChoice",
     "options": [
       "L'État uniquement",
-      "Le Wakif ou ses héritiers",
       "Le juge",
+      "Le Wakif ou ses héritiers",
       "Le Conseil communal"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_093",
@@ -1233,12 +1233,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "L'État",
-      "Le Réserve de Wakf",
       "À la distribution selon le contrat",
-      "Tous les points"
+      "L'État",
+      "Tous les points",
+      "Le Réserve de Wakf"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_094",
@@ -1247,11 +1247,11 @@
     "type": "singleChoice",
     "options": [
       "Uniquement les males",
-      "L'ordre de succession naturelle",
       "Ordre fixé par le Wakif",
-      "Aléatoirement"
+      "Aléatoirement",
+      "L'ordre de succession naturelle"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_prive_easy_095",
@@ -1260,11 +1260,11 @@
     "type": "singleChoice",
     "options": [
       "Interdite",
-      "Permise si elle augmente les revenus",
       "Obligatoire",
-      "Facultative"
+      "Facultative",
+      "Permise si elle augmente les revenus"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_prive_easy_096",
@@ -1273,14 +1273,14 @@
     "type": "multipleChoice",
     "options": [
       "Des propriétés immobilières",
-      "Des entreprises",
+      "Des fonds en espèces",
       "Des titres de propriété",
-      "Des fonds en espèces"
+      "Des entreprises"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1290,11 +1290,11 @@
     "type": "singleChoice",
     "options": [
       "Invalide le Wakf",
-      "Transfère le bénéfice aux autres branches",
       "Transforme le Wakf en public",
+      "Transfère le bénéfice aux autres branches",
       "Ne change rien"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_098",
@@ -1302,12 +1302,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Permise librement",
       "Interdite complètement",
       "Permise par décision judiciaire en cas de nécessité",
-      "Permise librement",
       "À la discrétion du Mutawalli"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_prive_easy_099",
@@ -1315,12 +1315,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Entièrement dus",
-      "Partiellement exonérés",
       "Totalement exonérés",
-      "Doublement taxés"
+      "Entièrement dus",
+      "Doublement taxés",
+      "Partiellement exonérés"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_prive_easy_100",
@@ -1328,9 +1328,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La communauté",
-      "La famille du Wakif",
       "L'État",
+      "La famille du Wakif",
+      "La communauté",
       "Les organismes de bienfaisance"
     ],
     "correctIndex": 1

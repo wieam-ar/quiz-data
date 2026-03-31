@@ -6,9 +6,9 @@
     "type": "singleChoice",
     "options": [
       "L'intention du donateur",
-      "L'objectif du bien",
+      "L'intérêt public",
       "La perpétuité",
-      "L'intérêt public"
+      "L'objectif du bien"
     ],
     "correctIndex": 2
   },
@@ -18,10 +18,10 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
+      "Protection des actifs",
       "Transparence",
       "Audit régulier",
-      "Rapport public",
-      "Protection des actifs"
+      "Rapport public"
     ],
     "correctIndexes": [
       0,
@@ -54,12 +54,12 @@
     "level": "hard",
     "type": "dropdown",
     "options": [
-      "Hérédité",
+      "Élection démocratique",
       "Droit civil",
-      "Waqfnama",
-      "Élection démocratique"
+      "Hérédité",
+      "Waqfnama"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_006",
@@ -67,12 +67,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
       "De l'intérêt (Riba)",
       "Des bénéfices",
+      "Des revenus",
       "Des loyers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_007",
@@ -80,8 +80,8 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
       "Possible par le juge",
+      "Possible avant le décès du Wakif",
       "Impossible définitivement",
       "L'affaire de la famille"
     ],
@@ -93,12 +93,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "La famille",
-      "L'ensemble de la communauté",
-      "L'État uniquement"
+      "L'État uniquement",
+      "Une personne",
+      "L'ensemble de la communauté"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_009",
@@ -107,11 +107,11 @@
     "type": "singleChoice",
     "options": [
       "Selon la convenance",
+      "Pour le seul Wakif",
       "Obligatoirement par l'administration",
-      "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Jamais nécessaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_010",
@@ -119,12 +119,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Une location",
       "Une donation ordinaire",
-      "Une immobilisation perpétuelle pour une fin charitable",
       "Un héritage",
-      "Une location"
+      "Une immobilisation perpétuelle pour une fin charitable"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_011",
@@ -132,12 +132,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Utilisé",
       "Amélioré",
       "Vendu ou loué",
-      "Géré"
+      "Géré",
+      "Utilisé"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_012",
@@ -145,15 +145,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
       "Des objectifs sociaux",
-      "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs personnels",
+      "Des objectifs religieux",
+      "Des objectifs familiaux"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -163,11 +163,11 @@
     "type": "singleChoice",
     "options": [
       "La communauté",
-      "La famille du Wakif",
       "L'État",
-      "Les pauvres"
+      "Les pauvres",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_014",
@@ -175,12 +175,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
-      "Un administrator nommé (Mutawalli)",
+      "L'assemblée générale",
       "Le donateur seul",
-      "L'assemblée générale"
+      "Un administrator nommé (Mutawalli)",
+      "L'État seul"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_015",
@@ -188,10 +188,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
+      "Le profit personnel",
       "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
-      "Le profit personnel"
+      "L'épargne"
     ],
     "correctIndex": 1
   },
@@ -201,9 +201,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
-      "De l'intérêt (Riba)",
       "Des bénéfices",
+      "De l'intérêt (Riba)",
+      "Des revenus",
       "Des loyers"
     ],
     "correctIndex": 1
@@ -214,12 +214,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
-      "Possible par le juge",
       "Impossible définitivement",
-      "L'affaire de la famille"
+      "Possible avant le décès du Wakif",
+      "L'affaire de la famille",
+      "Possible par le juge"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_018",
@@ -227,10 +227,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
+      "L'État uniquement",
       "La famille",
       "L'ensemble de la communauté",
-      "L'État uniquement"
+      "Une personne"
     ],
     "correctIndex": 2
   },
@@ -240,12 +240,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
-      "Obligatoirement par l'administration",
+      "Pour le seul Wakif",
       "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Obligatoirement par l'administration",
+      "Selon la convenance"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_020",
@@ -253,12 +253,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
       "Un héritage",
+      "Une donation ordinaire",
       "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_021",
@@ -266,12 +266,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Vendu ou loué",
       "Utilisé",
       "Amélioré",
-      "Vendu ou loué",
       "Géré"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_022",
@@ -279,15 +279,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
-      "Des objectifs sociaux",
+      "Des objectifs personnels",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs religieux",
+      "Des objectifs sociaux"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -298,8 +298,8 @@
     "options": [
       "La communauté",
       "La famille du Wakif",
-      "L'État",
-      "Les pauvres"
+      "Les pauvres",
+      "L'État"
     ],
     "correctIndex": 1
   },
@@ -309,10 +309,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
-      "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
-      "L'assemblée générale"
+      "Un administrator nommé (Mutawalli)",
+      "L'assemblée générale",
+      "L'État seul"
     ],
     "correctIndex": 1
   },
@@ -322,9 +322,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
-      "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
+      "La maintenance et les objectifs du Wakf",
+      "L'épargne",
       "Le profit personnel"
     ],
     "correctIndex": 1
@@ -335,12 +335,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
       "De l'intérêt (Riba)",
       "Des bénéfices",
+      "Des revenus",
       "Des loyers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_027",
@@ -348,8 +348,8 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
       "Possible par le juge",
+      "Possible avant le décès du Wakif",
       "Impossible définitivement",
       "L'affaire de la famille"
     ],
@@ -361,8 +361,8 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "La famille",
+      "Une personne",
       "L'ensemble de la communauté",
       "L'État uniquement"
     ],
@@ -374,12 +374,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
       "Obligatoirement par l'administration",
-      "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Selon la convenance",
+      "Pour le seul Wakif",
+      "Jamais nécessaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_030",
@@ -387,12 +387,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
-      "Une immobilisation perpétuelle pour une fin charitable",
       "Un héritage",
-      "Une location"
+      "Une location",
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Une donation ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_031",
@@ -414,14 +414,14 @@
     "type": "multipleChoice",
     "options": [
       "Des objectifs religieux",
-      "Des objectifs sociaux",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs personnels",
+      "Des objectifs sociaux"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -430,12 +430,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "La communauté",
       "La famille du Wakif",
       "L'État",
+      "La communauté",
       "Les pauvres"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_034",
@@ -443,12 +443,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
       "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
+      "L'État seul",
       "L'assemblée générale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_035",
@@ -456,12 +456,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
       "La maintenance et les objectifs du Wakf",
-      "L'investissement uniquement",
-      "Le profit personnel"
+      "Le profit personnel",
+      "L'épargne",
+      "L'investissement uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_036",
@@ -469,12 +469,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
-      "De l'intérêt (Riba)",
+      "Des loyers",
       "Des bénéfices",
-      "Des loyers"
+      "Des revenus",
+      "De l'intérêt (Riba)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_037",
@@ -483,11 +483,11 @@
     "type": "singleChoice",
     "options": [
       "Possible avant le décès du Wakif",
+      "L'affaire de la famille",
       "Possible par le juge",
-      "Impossible définitivement",
-      "L'affaire de la famille"
+      "Impossible définitivement"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_038",
@@ -495,12 +495,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "La famille",
-      "L'ensemble de la communauté",
-      "L'État uniquement"
+      "Une personne",
+      "L'État uniquement",
+      "L'ensemble de la communauté"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_039",
@@ -508,12 +508,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
-      "Obligatoirement par l'administration",
       "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Pour le seul Wakif",
+      "Selon la convenance",
+      "Obligatoirement par l'administration"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_040",
@@ -521,12 +521,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Une location",
       "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
-      "Un héritage",
-      "Une location"
+      "Un héritage"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_041",
@@ -534,12 +534,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Utilisé",
-      "Amélioré",
       "Vendu ou loué",
-      "Géré"
+      "Amélioré",
+      "Géré",
+      "Utilisé"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_042",
@@ -547,15 +547,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
+      "Des objectifs personnels",
       "Des objectifs sociaux",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs religieux"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -564,12 +564,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Les pauvres",
       "La communauté",
       "La famille du Wakif",
-      "L'État",
-      "Les pauvres"
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_044",
@@ -577,12 +577,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
       "Un administrator nommé (Mutawalli)",
+      "L'État seul",
       "Le donateur seul",
       "L'assemblée générale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_045",
@@ -590,9 +590,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
-      "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
+      "La maintenance et les objectifs du Wakf",
+      "L'épargne",
       "Le profit personnel"
     ],
     "correctIndex": 1
@@ -603,12 +603,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
       "De l'intérêt (Riba)",
+      "Des revenus",
       "Des bénéfices",
       "Des loyers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_047",
@@ -616,10 +616,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
       "Possible par le juge",
+      "L'affaire de la famille",
       "Impossible définitivement",
-      "L'affaire de la famille"
+      "Possible avant le décès du Wakif"
     ],
     "correctIndex": 2
   },
@@ -629,12 +629,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
-      "La famille",
+      "L'État uniquement",
       "L'ensemble de la communauté",
-      "L'État uniquement"
+      "La famille",
+      "Une personne"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_049",
@@ -642,12 +642,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Pour le seul Wakif",
       "Selon la convenance",
       "Obligatoirement par l'administration",
-      "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Jamais nécessaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_050",
@@ -655,12 +655,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Un héritage",
       "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
-      "Un héritage",
       "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_051",
@@ -668,12 +668,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Géré",
       "Utilisé",
       "Amélioré",
-      "Vendu ou loué",
-      "Géré"
+      "Vendu ou loué"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_052",
@@ -681,15 +681,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
-      "Des objectifs sociaux",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs personnels",
+      "Des objectifs sociaux",
+      "Des objectifs religieux"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -698,12 +698,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Les pauvres",
       "La communauté",
-      "La famille du Wakif",
       "L'État",
-      "Les pauvres"
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_054",
@@ -712,11 +712,11 @@
     "type": "singleChoice",
     "options": [
       "L'État seul",
-      "Un administrator nommé (Mutawalli)",
+      "L'assemblée générale",
       "Le donateur seul",
-      "L'assemblée générale"
+      "Un administrator nommé (Mutawalli)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_055",
@@ -725,11 +725,11 @@
     "type": "singleChoice",
     "options": [
       "L'épargne",
-      "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
-      "Le profit personnel"
+      "Le profit personnel",
+      "La maintenance et les objectifs du Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_056",
@@ -737,10 +737,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
+      "Des loyers",
       "De l'intérêt (Riba)",
       "Des bénéfices",
-      "Des loyers"
+      "Des revenus"
     ],
     "correctIndex": 1
   },
@@ -750,12 +750,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Impossible définitivement",
       "Possible avant le décès du Wakif",
       "Possible par le juge",
-      "Impossible définitivement",
       "L'affaire de la famille"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_058",
@@ -763,12 +763,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "La famille",
-      "L'ensemble de la communauté",
-      "L'État uniquement"
+      "Une personne",
+      "L'État uniquement",
+      "L'ensemble de la communauté"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_059",
@@ -789,12 +789,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
-      "Une immobilisation perpétuelle pour une fin charitable",
+      "Une location",
       "Un héritage",
-      "Une location"
+      "Une immobilisation perpétuelle pour une fin charitable",
+      "Une donation ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_061",
@@ -802,12 +802,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "Géré",
       "Utilisé",
       "Amélioré",
-      "Vendu ou loué",
-      "Géré"
+      "Vendu ou loué"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_062",
@@ -815,15 +815,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
-      "Des objectifs sociaux",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs personnels",
+      "Des objectifs religieux",
+      "Des objectifs sociaux"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -832,12 +832,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "La communauté",
       "La famille du Wakif",
       "L'État",
-      "Les pauvres"
+      "Les pauvres",
+      "La communauté"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_064",
@@ -845,9 +845,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
-      "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
+      "Un administrator nommé (Mutawalli)",
+      "L'État seul",
       "L'assemblée générale"
     ],
     "correctIndex": 1
@@ -858,12 +858,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
       "La maintenance et les objectifs du Wakf",
-      "L'investissement uniquement",
-      "Le profit personnel"
+      "Le profit personnel",
+      "L'épargne",
+      "L'investissement uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_066",
@@ -871,12 +871,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
-      "De l'intérêt (Riba)",
       "Des bénéfices",
-      "Des loyers"
+      "Des loyers",
+      "Des revenus",
+      "De l'intérêt (Riba)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_067",
@@ -885,9 +885,9 @@
     "type": "singleChoice",
     "options": [
       "Possible avant le décès du Wakif",
-      "Possible par le juge",
+      "L'affaire de la famille",
       "Impossible définitivement",
-      "L'affaire de la famille"
+      "Possible par le juge"
     ],
     "correctIndex": 2
   },
@@ -897,12 +897,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
-      "La famille",
       "L'ensemble de la communauté",
+      "La famille",
+      "Une personne",
       "L'État uniquement"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_069",
@@ -910,12 +910,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
-      "Obligatoirement par l'administration",
       "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Pour le seul Wakif",
+      "Obligatoirement par l'administration",
+      "Selon la convenance"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_070",
@@ -923,12 +923,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
+      "Une location",
       "Un héritage",
-      "Une location"
+      "Une donation ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_071",
@@ -937,11 +937,11 @@
     "type": "singleChoice",
     "options": [
       "Utilisé",
-      "Amélioré",
       "Vendu ou loué",
+      "Amélioré",
       "Géré"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_072",
@@ -950,14 +950,14 @@
     "type": "multipleChoice",
     "options": [
       "Des objectifs religieux",
-      "Des objectifs sociaux",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs personnels",
+      "Des objectifs sociaux"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -967,11 +967,11 @@
     "type": "singleChoice",
     "options": [
       "La communauté",
+      "Les pauvres",
       "La famille du Wakif",
-      "L'État",
-      "Les pauvres"
+      "L'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_hard_074",
@@ -979,12 +979,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'État seul",
       "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
+      "L'État seul",
       "L'assemblée générale"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_075",
@@ -992,10 +992,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
+      "Le profit personnel",
       "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
-      "Le profit personnel"
+      "L'épargne"
     ],
     "correctIndex": 1
   },
@@ -1005,9 +1005,9 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Des revenus",
-      "De l'intérêt (Riba)",
       "Des bénéfices",
+      "De l'intérêt (Riba)",
+      "Des revenus",
       "Des loyers"
     ],
     "correctIndex": 1
@@ -1018,12 +1018,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
       "Possible par le juge",
-      "Impossible définitivement",
-      "L'affaire de la famille"
+      "Possible avant le décès du Wakif",
+      "L'affaire de la famille",
+      "Impossible définitivement"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_078",
@@ -1031,12 +1031,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "La famille",
       "L'ensemble de la communauté",
-      "L'État uniquement"
+      "L'État uniquement",
+      "Une personne"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_079",
@@ -1044,12 +1044,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
-      "Obligatoirement par l'administration",
+      "Pour le seul Wakif",
       "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Selon la convenance",
+      "Obligatoirement par l'administration"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_080",
@@ -1057,10 +1057,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
+      "Une location",
       "Une immobilisation perpétuelle pour une fin charitable",
       "Un héritage",
-      "Une location"
+      "Une donation ordinaire"
     ],
     "correctIndex": 1
   },
@@ -1070,12 +1070,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Utilisé",
-      "Amélioré",
+      "Géré",
       "Vendu ou loué",
-      "Géré"
+      "Utilisé",
+      "Amélioré"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_082",
@@ -1083,15 +1083,15 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
-      "Des objectifs sociaux",
+      "Des objectifs personnels",
       "Des objectifs familiaux",
-      "Des objectifs personnels"
+      "Des objectifs religieux",
+      "Des objectifs sociaux"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1101,11 +1101,11 @@
     "type": "singleChoice",
     "options": [
       "La communauté",
-      "La famille du Wakif",
       "L'État",
-      "Les pauvres"
+      "Les pauvres",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_084",
@@ -1113,12 +1113,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'assemblée générale",
       "L'État seul",
-      "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
-      "L'assemblée générale"
+      "Un administrator nommé (Mutawalli)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_085",
@@ -1127,11 +1127,11 @@
     "type": "singleChoice",
     "options": [
       "L'épargne",
-      "La maintenance et les objectifs du Wakf",
+      "Le profit personnel",
       "L'investissement uniquement",
-      "Le profit personnel"
+      "La maintenance et les objectifs du Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_086",
@@ -1141,8 +1141,8 @@
     "options": [
       "Des revenus",
       "De l'intérêt (Riba)",
-      "Des bénéfices",
-      "Des loyers"
+      "Des loyers",
+      "Des bénéfices"
     ],
     "correctIndex": 1
   },
@@ -1152,12 +1152,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Possible avant le décès du Wakif",
       "Possible par le juge",
       "Impossible définitivement",
-      "L'affaire de la famille"
+      "L'affaire de la famille",
+      "Possible avant le décès du Wakif"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_088",
@@ -1165,12 +1165,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'ensemble de la communauté",
       "Une personne",
       "La famille",
-      "L'ensemble de la communauté",
       "L'État uniquement"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_089",
@@ -1191,12 +1191,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
+      "Une location",
       "Un héritage",
-      "Une location"
+      "Une donation ordinaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_091",
@@ -1204,12 +1204,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Utilisé",
-      "Amélioré",
+      "Géré",
       "Vendu ou loué",
-      "Géré"
+      "Amélioré",
+      "Utilisé"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_092",
@@ -1217,9 +1217,9 @@
     "level": "hard",
     "type": "multipleChoice",
     "options": [
-      "Des objectifs religieux",
       "Des objectifs sociaux",
       "Des objectifs familiaux",
+      "Des objectifs religieux",
       "Des objectifs personnels"
     ],
     "correctIndexes": [
@@ -1234,12 +1234,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "La communauté",
       "La famille du Wakif",
       "L'État",
-      "Les pauvres"
+      "Les pauvres",
+      "La communauté"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_hard_094",
@@ -1247,12 +1247,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
+      "L'assemblée générale",
       "L'État seul",
-      "Un administrator nommé (Mutawalli)",
       "Le donateur seul",
-      "L'assemblée générale"
+      "Un administrator nommé (Mutawalli)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_095",
@@ -1260,10 +1260,10 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "L'épargne",
+      "Le profit personnel",
       "La maintenance et les objectifs du Wakf",
       "L'investissement uniquement",
-      "Le profit personnel"
+      "L'épargne"
     ],
     "correctIndex": 1
   },
@@ -1287,11 +1287,11 @@
     "type": "singleChoice",
     "options": [
       "Possible avant le décès du Wakif",
-      "Possible par le juge",
       "Impossible définitivement",
-      "L'affaire de la famille"
+      "L'affaire de la famille",
+      "Possible par le juge"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_hard_098",
@@ -1300,11 +1300,11 @@
     "type": "singleChoice",
     "options": [
       "Une personne",
+      "L'État uniquement",
       "La famille",
-      "L'ensemble de la communauté",
-      "L'État uniquement"
+      "L'ensemble de la communauté"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_099",
@@ -1312,12 +1312,12 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Selon la convenance",
-      "Obligatoirement par l'administration",
       "Jamais nécessaire",
-      "Pour le seul Wakif"
+      "Pour le seul Wakif",
+      "Selon la convenance",
+      "Obligatoirement par l'administration"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_hard_100",
@@ -1325,11 +1325,11 @@
     "level": "hard",
     "type": "singleChoice",
     "options": [
-      "Une donation ordinaire",
       "Une immobilisation perpétuelle pour une fin charitable",
       "Un héritage",
+      "Une donation ordinaire",
       "Une location"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

@@ -5,12 +5,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Une personne",
       "L'État",
       "L'utilité publique",
-      "Une banque"
+      "Une banque",
+      "Une personne"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_easy_002",
@@ -37,8 +37,8 @@
     "type": "multipleChoice",
     "options": [
       "Mosquée",
-      "École",
       "Hôpital",
+      "École",
       "Bibliothèque"
     ],
     "correctIndexes": [
@@ -54,10 +54,10 @@
     "level": "easy",
     "type": "dropdown",
     "options": [
-      "Toujours",
+      "Avec autorisation",
       "Jamais",
-      "Rarement",
-      "Avec autorisation"
+      "Toujours",
+      "Rarement"
     ],
     "correctIndex": 1
   },
@@ -67,12 +67,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
+      "La réserve et l'amélioration du Wakf",
       "L'État",
       "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "Le Wakif"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_007",
@@ -80,12 +80,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "C'est la volonté du Wakif",
-      "L'objectif du Wakf est devenu impossible",
       "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "C'est la volonté du Wakif",
+      "Les bénéficiaires le demandent",
+      "L'objectif du Wakf est devenu impossible"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_008",
@@ -93,10 +93,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "Les rapports réguliers",
+      "La supervision de l'État",
+      "L'audit externe"
     ],
     "correctIndexes": [
       0,
@@ -112,11 +112,11 @@
     "type": "singleChoice",
     "options": [
       "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
+      "Peut être confié à un nouvel administrateur par le juge",
       "Revient au gouvernement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_010",
@@ -124,12 +124,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
-      "Les autorités religieuses"
+      "Les autorités religieuses",
+      "L'ensemble de la communauté",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_011",
@@ -137,12 +137,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Le juge",
       "Le Wakif exclusivement",
-      "L'État et ses institutions",
       "Una association privée",
-      "Le juge"
+      "L'État et ses institutions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_012",
@@ -150,12 +150,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
+      "Le juge",
       "Impossibilité absolue",
-      "Volonté des bénéficiaires",
-      "Le juge"
+      "Le Mutawalli",
+      "Volonté des bénéficiaires"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_013",
@@ -163,15 +163,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les mosquées",
       "Les écoles",
-      "Les hôpitaux",
-      "Les routes"
+      "Les mosquées",
+      "Les routes",
+      "Les hôpitaux"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -180,12 +180,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les investissements spéculatifs",
       "La famille du Wakif",
       "L'entretien et l'objectif du Wakf",
-      "L'enrichissement de l'État",
-      "Les investissements spéculatifs"
+      "L'enrichissement de l'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_015",
@@ -195,8 +195,8 @@
     "options": [
       "Wakf temporaire",
       "Wakf permanent à objectif social",
-      "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf gouvernemental",
+      "Wakf commercial"
     ],
     "correctIndex": 1
   },
@@ -207,8 +207,8 @@
     "type": "singleChoice",
     "options": [
       "Le Wakif",
-      "L'État",
       "Les bénéficiaires",
+      "L'État",
       "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
@@ -220,11 +220,11 @@
     "type": "singleChoice",
     "options": [
       "C'est la volonté du Wakif",
-      "L'objectif du Wakf est devenu impossible",
+      "Les bénéficiaires le demandent",
       "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "L'objectif du Wakf est devenu impossible"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_018",
@@ -232,9 +232,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "La publication des comptes",
       "Les rapports réguliers",
       "L'audit externe",
-      "La publication des comptes",
       "La supervision de l'État"
     ],
     "correctIndexes": [
@@ -251,11 +251,11 @@
     "type": "singleChoice",
     "options": [
       "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
+      "Peut être confié à un nouvel administrateur par le juge",
       "Revient au gouvernement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_020",
@@ -263,10 +263,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
+      "Les autorités religieuses",
       "L'ensemble de la communauté",
-      "L'État uniquement",
-      "Les autorités religieuses"
+      "La famille du Wakif",
+      "L'État uniquement"
     ],
     "correctIndex": 1
   },
@@ -276,12 +276,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
       "L'État et ses institutions",
       "Una association privée",
-      "Le juge"
+      "Le juge",
+      "Le Wakif exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_022",
@@ -289,12 +289,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
       "Impossibilité absolue",
       "Volonté des bénéficiaires",
-      "Le juge"
+      "Le juge",
+      "Le Mutawalli"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_023",
@@ -302,15 +302,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les mosquées",
+      "Les routes",
       "Les écoles",
-      "Les hôpitaux",
-      "Les routes"
+      "Les mosquées",
+      "Les hôpitaux"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -319,12 +319,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les investissements spéculatifs",
       "La famille du Wakif",
-      "L'entretien et l'objectif du Wakf",
       "L'enrichissement de l'État",
-      "Les investissements spéculatifs"
+      "L'entretien et l'objectif du Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_025",
@@ -332,12 +332,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Wakf temporaire",
-      "Wakf permanent à objectif social",
+      "Wakf gouvernemental",
       "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf temporaire",
+      "Wakf permanent à objectif social"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_026",
@@ -345,12 +345,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
+      "La réserve et l'amélioration du Wakf",
       "L'État",
-      "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "Le Wakif",
+      "Les bénéficiaires"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_027",
@@ -358,12 +358,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "L'État le demande",
       "C'est la volonté du Wakif",
       "L'objectif du Wakf est devenu impossible",
-      "L'État le demande",
       "Les bénéficiaires le demandent"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_028",
@@ -371,10 +371,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "La supervision de l'État",
+      "Les rapports réguliers",
+      "L'audit externe"
     ],
     "correctIndexes": [
       0,
@@ -390,11 +390,11 @@
     "type": "singleChoice",
     "options": [
       "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
+      "Revient au gouvernement",
       "Doit être vendu",
-      "Revient au gouvernement"
+      "Peut être confié à un nouvel administrateur par le juge"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_030",
@@ -403,11 +403,11 @@
     "type": "singleChoice",
     "options": [
       "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
-      "Les autorités religieuses"
+      "Les autorités religieuses",
+      "L'ensemble de la communauté"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_031",
@@ -415,12 +415,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
-      "L'État et ses institutions",
+      "Le juge",
       "Una association privée",
-      "Le juge"
+      "L'État et ses institutions",
+      "Le Wakif exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_032",
@@ -428,8 +428,8 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
       "Impossibilité absolue",
+      "Le Mutawalli",
       "Volonté des bénéficiaires",
       "Le juge"
     ],
@@ -441,15 +441,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les mosquées",
       "Les écoles",
-      "Les hôpitaux",
-      "Les routes"
+      "Les mosquées",
+      "Les routes",
+      "Les hôpitaux"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -458,12 +458,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'entretien et l'objectif du Wakf",
       "L'enrichissement de l'État",
-      "Les investissements spéculatifs"
+      "Les investissements spéculatifs",
+      "L'entretien et l'objectif du Wakf",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_035",
@@ -473,8 +473,8 @@
     "options": [
       "Wakf temporaire",
       "Wakf permanent à objectif social",
-      "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf gouvernemental",
+      "Wakf commercial"
     ],
     "correctIndex": 1
   },
@@ -484,9 +484,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
-      "L'État",
       "Les bénéficiaires",
+      "L'État",
+      "Le Wakif",
       "La réserve et l'amélioration du Wakf"
     ],
     "correctIndex": 3
@@ -497,12 +497,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "C'est la volonté du Wakif",
-      "L'objectif du Wakf est devenu impossible",
       "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "Les bénéficiaires le demandent",
+      "C'est la volonté du Wakif",
+      "L'objectif du Wakf est devenu impossible"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_038",
@@ -510,10 +510,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "La supervision de l'État",
+      "Les rapports réguliers",
+      "L'audit externe"
     ],
     "correctIndexes": [
       0,
@@ -530,8 +530,8 @@
     "options": [
       "Reste sous le même administrateur",
       "Peut être confié à un nouvel administrateur par le juge",
-      "Doit être vendu",
-      "Revient au gouvernement"
+      "Revient au gouvernement",
+      "Doit être vendu"
     ],
     "correctIndex": 1
   },
@@ -541,9 +541,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
+      "L'ensemble de la communauté",
+      "La famille du Wakif",
       "Les autorités religieuses"
     ],
     "correctIndex": 1
@@ -555,11 +555,11 @@
     "type": "singleChoice",
     "options": [
       "Le Wakif exclusivement",
+      "Le juge",
       "L'État et ses institutions",
-      "Una association privée",
-      "Le juge"
+      "Una association privée"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_042",
@@ -567,9 +567,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
       "Impossibilité absolue",
       "Volonté des bénéficiaires",
+      "Le Mutawalli",
       "Le juge"
     ],
     "correctIndex": 3
@@ -580,15 +580,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les mosquées",
+      "Les routes",
       "Les écoles",
       "Les hôpitaux",
-      "Les routes"
+      "Les mosquées"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -597,12 +597,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
       "L'entretien et l'objectif du Wakf",
       "L'enrichissement de l'État",
+      "La famille du Wakif",
       "Les investissements spéculatifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_045",
@@ -611,11 +611,11 @@
     "type": "singleChoice",
     "options": [
       "Wakf temporaire",
-      "Wakf permanent à objectif social",
       "Wakf commercial",
+      "Wakf permanent à objectif social",
       "Wakf gouvernemental"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_046",
@@ -623,12 +623,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La réserve et l'amélioration du Wakf",
       "Le Wakif",
-      "L'État",
       "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "L'État"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_047",
@@ -637,11 +637,11 @@
     "type": "singleChoice",
     "options": [
       "C'est la volonté du Wakif",
-      "L'objectif du Wakf est devenu impossible",
       "L'État le demande",
+      "L'objectif du Wakf est devenu impossible",
       "Les bénéficiaires le demandent"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_048",
@@ -649,9 +649,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "La publication des comptes",
       "Les rapports réguliers",
       "L'audit externe",
-      "La publication des comptes",
       "La supervision de l'État"
     ],
     "correctIndexes": [
@@ -667,10 +667,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
-      "Revient au gouvernement"
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Revient au gouvernement",
+      "Reste sous le même administrateur"
     ],
     "correctIndex": 1
   },
@@ -680,12 +680,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
+      "Les autorités religieuses",
       "L'État uniquement",
-      "Les autorités religieuses"
+      "L'ensemble de la communauté",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_051",
@@ -693,12 +693,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
-      "L'État et ses institutions",
+      "Le juge",
       "Una association privée",
-      "Le juge"
+      "Le Wakif exclusivement",
+      "L'État et ses institutions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_052",
@@ -706,12 +706,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
+      "Le juge",
       "Impossibilité absolue",
       "Volonté des bénéficiaires",
-      "Le juge"
+      "Le Mutawalli"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_053",
@@ -719,15 +719,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les routes",
       "Les mosquées",
-      "Les écoles",
       "Les hôpitaux",
-      "Les routes"
+      "Les écoles"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -736,12 +736,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "L'enrichissement de l'État",
       "La famille du Wakif",
       "L'entretien et l'objectif du Wakf",
-      "L'enrichissement de l'État",
       "Les investissements spéculatifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_055",
@@ -749,12 +749,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Wakf gouvernemental",
       "Wakf temporaire",
       "Wakf permanent à objectif social",
-      "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf commercial"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_056",
@@ -763,11 +763,11 @@
     "type": "singleChoice",
     "options": [
       "Le Wakif",
-      "L'État",
+      "La réserve et l'amélioration du Wakf",
       "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "L'État"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_easy_057",
@@ -775,12 +775,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Les bénéficiaires le demandent",
       "C'est la volonté du Wakif",
       "L'objectif du Wakf est devenu impossible",
-      "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "L'État le demande"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_058",
@@ -788,10 +788,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "La supervision de l'État",
+      "L'audit externe",
+      "Les rapports réguliers"
     ],
     "correctIndexes": [
       0,
@@ -806,10 +806,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
-      "Revient au gouvernement"
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Revient au gouvernement",
+      "Reste sous le même administrateur"
     ],
     "correctIndex": 1
   },
@@ -819,12 +819,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
-      "Les autorités religieuses"
+      "Les autorités religieuses",
+      "L'ensemble de la communauté",
+      "La famille du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_061",
@@ -832,10 +832,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
+      "Le juge",
       "L'État et ses institutions",
-      "Una association privée",
-      "Le juge"
+      "Le Wakif exclusivement",
+      "Una association privée"
     ],
     "correctIndex": 1
   },
@@ -846,8 +846,8 @@
     "type": "singleChoice",
     "options": [
       "Le Mutawalli",
-      "Impossibilité absolue",
       "Volonté des bénéficiaires",
+      "Impossibilité absolue",
       "Le juge"
     ],
     "correctIndex": 3
@@ -859,14 +859,14 @@
     "type": "multipleChoice",
     "options": [
       "Les mosquées",
-      "Les écoles",
+      "Les routes",
       "Les hôpitaux",
-      "Les routes"
+      "Les écoles"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -876,11 +876,11 @@
     "type": "singleChoice",
     "options": [
       "La famille du Wakif",
-      "L'entretien et l'objectif du Wakf",
+      "Les investissements spéculatifs",
       "L'enrichissement de l'État",
-      "Les investissements spéculatifs"
+      "L'entretien et l'objectif du Wakf"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_065",
@@ -889,11 +889,11 @@
     "type": "singleChoice",
     "options": [
       "Wakf temporaire",
-      "Wakf permanent à objectif social",
       "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf gouvernemental",
+      "Wakf permanent à objectif social"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_066",
@@ -901,12 +901,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
-      "L'État",
       "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "L'État",
+      "La réserve et l'amélioration du Wakf",
+      "Le Wakif"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_067",
@@ -914,12 +914,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "C'est la volonté du Wakif",
       "L'objectif du Wakf est devenu impossible",
+      "Les bénéficiaires le demandent",
       "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "C'est la volonté du Wakif"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_068",
@@ -927,10 +927,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "La supervision de l'État",
+      "Les rapports réguliers",
+      "L'audit externe"
     ],
     "correctIndexes": [
       0,
@@ -945,12 +945,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
-      "Revient au gouvernement"
+      "Revient au gouvernement",
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Reste sous le même administrateur"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_070",
@@ -960,8 +960,8 @@
     "options": [
       "La famille du Wakif",
       "L'ensemble de la communauté",
-      "L'État uniquement",
-      "Les autorités religieuses"
+      "Les autorités religieuses",
+      "L'État uniquement"
     ],
     "correctIndex": 1
   },
@@ -971,10 +971,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
-      "L'État et ses institutions",
       "Una association privée",
-      "Le juge"
+      "L'État et ses institutions",
+      "Le juge",
+      "Le Wakif exclusivement"
     ],
     "correctIndex": 1
   },
@@ -984,12 +984,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
+      "Le juge",
       "Impossibilité absolue",
-      "Volonté des bénéficiaires",
-      "Le juge"
+      "Le Mutawalli",
+      "Volonté des bénéficiaires"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_073",
@@ -997,9 +997,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
+      "Les hôpitaux",
       "Les mosquées",
       "Les écoles",
-      "Les hôpitaux",
       "Les routes"
     ],
     "correctIndexes": [
@@ -1014,12 +1014,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "L'enrichissement de l'État",
       "La famille du Wakif",
       "L'entretien et l'objectif du Wakf",
-      "L'enrichissement de l'État",
       "Les investissements spéculatifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_075",
@@ -1028,11 +1028,11 @@
     "type": "singleChoice",
     "options": [
       "Wakf temporaire",
+      "Wakf gouvernemental",
       "Wakf permanent à objectif social",
-      "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf commercial"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_076",
@@ -1040,12 +1040,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
-      "L'État",
       "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "L'État",
+      "La réserve et l'amélioration du Wakf",
+      "Le Wakif"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_077",
@@ -1053,12 +1053,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "C'est la volonté du Wakif",
       "L'objectif du Wakf est devenu impossible",
       "L'État le demande",
+      "C'est la volonté du Wakif",
       "Les bénéficiaires le demandent"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_078",
@@ -1066,10 +1066,10 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
-      "L'audit externe",
       "La publication des comptes",
-      "La supervision de l'État"
+      "La supervision de l'État",
+      "L'audit externe",
+      "Les rapports réguliers"
     ],
     "correctIndexes": [
       0,
@@ -1084,12 +1084,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Doit être vendu",
       "Reste sous le même administrateur",
       "Peut être confié à un nouvel administrateur par le juge",
-      "Doit être vendu",
       "Revient au gouvernement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_080",
@@ -1097,9 +1097,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
+      "L'ensemble de la communauté",
+      "La famille du Wakif",
       "Les autorités religieuses"
     ],
     "correctIndex": 1
@@ -1110,10 +1110,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif exclusivement",
+      "Le juge",
       "L'État et ses institutions",
-      "Una association privée",
-      "Le juge"
+      "Le Wakif exclusivement",
+      "Una association privée"
     ],
     "correctIndex": 1
   },
@@ -1123,12 +1123,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
       "Impossibilité absolue",
+      "Le juge",
       "Volonté des bénéficiaires",
-      "Le juge"
+      "Le Mutawalli"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_easy_083",
@@ -1136,15 +1136,15 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les mosquées",
-      "Les écoles",
       "Les hôpitaux",
-      "Les routes"
+      "Les écoles",
+      "Les routes",
+      "Les mosquées"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1153,10 +1153,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
+      "Les investissements spéculatifs",
       "L'entretien et l'objectif du Wakf",
       "L'enrichissement de l'État",
-      "Les investissements spéculatifs"
+      "La famille du Wakif"
     ],
     "correctIndex": 1
   },
@@ -1166,12 +1166,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Wakf temporaire",
-      "Wakf permanent à objectif social",
       "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf gouvernemental",
+      "Wakf permanent à objectif social",
+      "Wakf temporaire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_086",
@@ -1179,12 +1179,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Wakif",
+      "La réserve et l'amélioration du Wakf",
       "L'État",
-      "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "Le Wakif",
+      "Les bénéficiaires"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_087",
@@ -1193,11 +1193,11 @@
     "type": "singleChoice",
     "options": [
       "C'est la volonté du Wakif",
+      "Les bénéficiaires le demandent",
       "L'objectif du Wakf est devenu impossible",
-      "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "L'État le demande"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "waqf_public_easy_088",
@@ -1205,9 +1205,9 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
       "L'audit externe",
       "La publication des comptes",
+      "Les rapports réguliers",
       "La supervision de l'État"
     ],
     "correctIndexes": [
@@ -1223,10 +1223,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Reste sous le même administrateur",
-      "Peut être confié à un nouvel administrateur par le juge",
       "Doit être vendu",
-      "Revient au gouvernement"
+      "Peut être confié à un nouvel administrateur par le juge",
+      "Revient au gouvernement",
+      "Reste sous le même administrateur"
     ],
     "correctIndex": 1
   },
@@ -1236,12 +1236,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
       "L'ensemble de la communauté",
       "L'État uniquement",
+      "La famille du Wakif",
       "Les autorités religieuses"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_091",
@@ -1249,12 +1249,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "Le juge",
       "Le Wakif exclusivement",
-      "L'État et ses institutions",
       "Una association privée",
-      "Le juge"
+      "L'État et ses institutions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_092",
@@ -1262,12 +1262,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Le Mutawalli",
-      "Impossibilité absolue",
       "Volonté des bénéficiaires",
-      "Le juge"
+      "Le juge",
+      "Le Mutawalli",
+      "Impossibilité absolue"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "waqf_public_easy_093",
@@ -1276,14 +1276,14 @@
     "type": "multipleChoice",
     "options": [
       "Les mosquées",
-      "Les écoles",
+      "Les routes",
       "Les hôpitaux",
-      "Les routes"
+      "Les écoles"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1292,12 +1292,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
       "L'entretien et l'objectif du Wakf",
       "L'enrichissement de l'État",
+      "La famille du Wakif",
       "Les investissements spéculatifs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_095",
@@ -1305,10 +1305,10 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Wakf temporaire",
+      "Wakf gouvernemental",
       "Wakf permanent à objectif social",
       "Wakf commercial",
-      "Wakf gouvernemental"
+      "Wakf temporaire"
     ],
     "correctIndex": 1
   },
@@ -1318,12 +1318,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
+      "La réserve et l'amélioration du Wakf",
       "Le Wakif",
       "L'État",
-      "Les bénéficiaires",
-      "La réserve et l'amélioration du Wakf"
+      "Les bénéficiaires"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_097",
@@ -1331,12 +1331,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "C'est la volonté du Wakif",
-      "L'objectif du Wakf est devenu impossible",
       "L'État le demande",
-      "Les bénéficiaires le demandent"
+      "C'est la volonté du Wakif",
+      "Les bénéficiaires le demandent",
+      "L'objectif du Wakf est devenu impossible"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "waqf_public_easy_098",
@@ -1344,8 +1344,8 @@
     "level": "easy",
     "type": "multipleChoice",
     "options": [
-      "Les rapports réguliers",
       "L'audit externe",
+      "Les rapports réguliers",
       "La publication des comptes",
       "La supervision de l'État"
     ],
@@ -1362,12 +1362,12 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "Reste sous le même administrateur",
       "Peut être confié à un nouvel administrateur par le juge",
-      "Doit être vendu",
-      "Revient au gouvernement"
+      "Revient au gouvernement",
+      "Reste sous le même administrateur",
+      "Doit être vendu"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "waqf_public_easy_100",
@@ -1375,9 +1375,9 @@
     "level": "easy",
     "type": "singleChoice",
     "options": [
-      "La famille du Wakif",
-      "L'ensemble de la communauté",
       "L'État uniquement",
+      "L'ensemble de la communauté",
+      "La famille du Wakif",
       "Les autorités religieuses"
     ],
     "correctIndex": 1

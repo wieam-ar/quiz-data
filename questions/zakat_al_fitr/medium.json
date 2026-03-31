@@ -5,12 +5,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Le chef de famille uniquement",
-      "Chaque individu",
       "Le père de famille",
-      "L'aîné de la famille"
+      "L'aîné de la famille",
+      "Chaque individu",
+      "Le chef de famille uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_002",
@@ -18,10 +18,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Blé",
-      "Orge",
       "Dattes",
-      "Argent en espèces"
+      "Argent en espèces",
+      "Blé",
+      "Orge"
     ],
     "correctIndexes": [
       0,
@@ -67,12 +67,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'Asr du 29ème jour de Ramadan",
       "Quelques jours avant l'Aïd",
       "Le jour de l'Aïd exclusivement",
+      "L'Asr du 29ème jour de Ramadan",
       "La fin de l'année"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_007",
@@ -82,13 +82,13 @@
     "options": [
       "Le timing de versement",
       "Le bénéficiaire",
-      "Le montant",
-      "Le calcul de la base"
+      "Le calcul de la base",
+      "Le montant"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -98,11 +98,11 @@
     "type": "singleChoice",
     "options": [
       "Permis et valide",
-      "Non valide et devient une vidya",
       "Encouragé",
+      "Non valide et devient une vidya",
       "Obligatoire"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_009",
@@ -110,12 +110,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
       "2 kg environ",
       "1 kg précisément",
-      "500 mesure unique"
+      "500 mesure unique",
+      "500 grammes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_010",
@@ -123,12 +123,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "Avant la prière de l'Aïd",
+      "Au début du Ramadan",
       "Après le Ramadan",
       "N'importe quand"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_011",
@@ -136,12 +136,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un quart de sa",
-      "Un Sa'a de nourriture",
+      "Libre",
       "Un dinar par jour",
-      "Libre"
+      "Un quart de sa",
+      "Un Sa'a de nourriture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_012",
@@ -156,12 +156,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les riches",
-      "Les pauvres et les nécessiteux",
+      "Les commerces",
       "Les investisseurs",
-      "Les commerces"
+      "Les pauvres et les nécessiteux",
+      "Les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_014",
@@ -169,15 +169,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
-      "Aider les pauvres",
       "Créer de l'équité sociale",
-      "Resocialiser"
+      "Resocialiser",
+      "Purifier le Ramadan de manquements",
+      "Aider les pauvres"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -186,12 +186,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
+      "Double",
       "Facultative",
-      "Double"
+      "Obligatoire au lieu de déplacement"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_016",
@@ -199,12 +199,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'Asr du 29ème jour de Ramadan",
       "Quelques jours avant l'Aïd",
-      "Le jour de l'Aïd exclusivement",
-      "La fin de l'année"
+      "L'Asr du 29ème jour de Ramadan",
+      "La fin de l'année",
+      "Le jour de l'Aïd exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_017",
@@ -212,15 +212,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
       "Le bénéficiaire",
-      "Le montant",
-      "Le calcul de la base"
+      "Le timing de versement",
+      "Le calcul de la base",
+      "Le montant"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -229,10 +229,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Permis et valide",
-      "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Non valide et devient une vidya",
+      "Obligatoire",
+      "Permis et valide"
     ],
     "correctIndex": 1
   },
@@ -242,12 +242,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
       "2 kg environ",
       "1 kg précisément",
+      "500 grammes",
       "500 mesure unique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_020",
@@ -255,12 +255,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "N'importe quand",
       "Au début du Ramadan",
-      "Avant la prière de l'Aïd",
       "Après le Ramadan",
-      "N'importe quand"
+      "Avant la prière de l'Aïd"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_021",
@@ -269,11 +269,11 @@
     "type": "singleChoice",
     "options": [
       "Un quart de sa",
-      "Un Sa'a de nourriture",
       "Un dinar par jour",
-      "Libre"
+      "Libre",
+      "Un Sa'a de nourriture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_022",
@@ -288,12 +288,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les riches",
-      "Les pauvres et les nécessiteux",
       "Les investisseurs",
-      "Les commerces"
+      "Les riches",
+      "Les commerces",
+      "Les pauvres et les nécessiteux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_024",
@@ -301,15 +301,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
       "Aider les pauvres",
-      "Créer de l'équité sociale",
-      "Resocialiser"
+      "Resocialiser",
+      "Purifier le Ramadan de manquements",
+      "Créer de l'équité sociale"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -318,12 +318,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
-      "Facultative",
-      "Double"
+      "Double",
+      "Obligatoire au lieu de déplacement",
+      "Facultative"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_026",
@@ -331,12 +331,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'Asr du 29ème jour de Ramadan",
       "Quelques jours avant l'Aïd",
-      "Le jour de l'Aïd exclusivement",
-      "La fin de l'année"
+      "L'Asr du 29ème jour de Ramadan",
+      "La fin de l'année",
+      "Le jour de l'Aïd exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_027",
@@ -344,15 +344,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
       "Le bénéficiaire",
       "Le montant",
-      "Le calcul de la base"
+      "Le calcul de la base",
+      "Le timing de versement"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -361,12 +361,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Obligatoire",
       "Permis et valide",
       "Non valide et devient une vidya",
-      "Encouragé",
-      "Obligatoire"
+      "Encouragé"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_029",
@@ -374,12 +374,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "500 mesure unique",
       "500 grammes",
-      "2 kg environ",
       "1 kg précisément",
-      "500 mesure unique"
+      "2 kg environ"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_030",
@@ -388,11 +388,11 @@
     "type": "singleChoice",
     "options": [
       "Au début du Ramadan",
-      "Avant la prière de l'Aïd",
+      "N'importe quand",
       "Après le Ramadan",
-      "N'importe quand"
+      "Avant la prière de l'Aïd"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_031",
@@ -402,8 +402,8 @@
     "options": [
       "Un quart de sa",
       "Un Sa'a de nourriture",
-      "Un dinar par jour",
-      "Libre"
+      "Libre",
+      "Un dinar par jour"
     ],
     "correctIndex": 1
   },
@@ -421,11 +421,11 @@
     "type": "singleChoice",
     "options": [
       "Les riches",
-      "Les pauvres et les nécessiteux",
       "Les investisseurs",
-      "Les commerces"
+      "Les commerces",
+      "Les pauvres et les nécessiteux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_034",
@@ -435,13 +435,13 @@
     "options": [
       "Purifier le Ramadan de manquements",
       "Aider les pauvres",
-      "Créer de l'équité sociale",
-      "Resocialiser"
+      "Resocialiser",
+      "Créer de l'équité sociale"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -450,12 +450,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
-      "Obligatoire au lieu de résidence",
       "Facultative",
+      "Obligatoire au lieu de résidence",
+      "Obligatoire au lieu de déplacement",
       "Double"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_036",
@@ -464,11 +464,11 @@
     "type": "singleChoice",
     "options": [
       "L'Asr du 29ème jour de Ramadan",
-      "Quelques jours avant l'Aïd",
       "Le jour de l'Aïd exclusivement",
+      "Quelques jours avant l'Aïd",
       "La fin de l'année"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_037",
@@ -476,15 +476,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
-      "Le bénéficiaire",
       "Le montant",
-      "Le calcul de la base"
+      "Le calcul de la base",
+      "Le timing de versement",
+      "Le bénéficiaire"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -493,10 +493,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Permis et valide",
+      "Obligatoire",
       "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Permis et valide"
     ],
     "correctIndex": 1
   },
@@ -506,12 +506,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
-      "2 kg environ",
+      "500 mesure unique",
       "1 kg précisément",
-      "500 mesure unique"
+      "500 grammes",
+      "2 kg environ"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_040",
@@ -519,10 +519,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
+      "N'importe quand",
       "Avant la prière de l'Aïd",
       "Après le Ramadan",
-      "N'importe quand"
+      "Au début du Ramadan"
     ],
     "correctIndex": 1
   },
@@ -552,12 +552,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les commerces",
       "Les riches",
       "Les pauvres et les nécessiteux",
-      "Les investisseurs",
-      "Les commerces"
+      "Les investisseurs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_044",
@@ -565,15 +565,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
-      "Aider les pauvres",
       "Créer de l'équité sociale",
-      "Resocialiser"
+      "Aider les pauvres",
+      "Resocialiser",
+      "Purifier le Ramadan de manquements"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -582,12 +582,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Double",
       "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
-      "Facultative",
-      "Double"
+      "Facultative"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_medium_046",
@@ -596,11 +596,11 @@
     "type": "singleChoice",
     "options": [
       "L'Asr du 29ème jour de Ramadan",
-      "Quelques jours avant l'Aïd",
+      "La fin de l'année",
       "Le jour de l'Aïd exclusivement",
-      "La fin de l'année"
+      "Quelques jours avant l'Aïd"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_047",
@@ -608,15 +608,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
+      "Le calcul de la base",
       "Le bénéficiaire",
-      "Le montant",
-      "Le calcul de la base"
+      "Le timing de versement",
+      "Le montant"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -625,12 +625,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Obligatoire",
       "Permis et valide",
-      "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Non valide et devient une vidya"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_049",
@@ -639,11 +639,11 @@
     "type": "singleChoice",
     "options": [
       "500 grammes",
+      "500 mesure unique",
       "2 kg environ",
-      "1 kg précisément",
-      "500 mesure unique"
+      "1 kg précisément"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_050",
@@ -651,12 +651,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "N'importe quand",
       "Au début du Ramadan",
       "Avant la prière de l'Aïd",
-      "Après le Ramadan",
-      "N'importe quand"
+      "Après le Ramadan"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_051",
@@ -664,12 +664,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un quart de sa",
       "Un Sa'a de nourriture",
-      "Un dinar par jour",
-      "Libre"
+      "Un quart de sa",
+      "Libre",
+      "Un dinar par jour"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_052",
@@ -685,11 +685,11 @@
     "type": "singleChoice",
     "options": [
       "Les riches",
+      "Les commerces",
       "Les pauvres et les nécessiteux",
-      "Les investisseurs",
-      "Les commerces"
+      "Les investisseurs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_054",
@@ -697,9 +697,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
       "Aider les pauvres",
       "Créer de l'équité sociale",
+      "Purifier le Ramadan de manquements",
       "Resocialiser"
     ],
     "correctIndexes": [
@@ -714,12 +714,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Double",
       "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
-      "Facultative",
-      "Double"
+      "Facultative"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_medium_056",
@@ -740,15 +740,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
-      "Le bénéficiaire",
       "Le montant",
-      "Le calcul de la base"
+      "Le bénéficiaire",
+      "Le calcul de la base",
+      "Le timing de versement"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -757,10 +757,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Permis et valide",
+      "Obligatoire",
       "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Permis et valide"
     ],
     "correctIndex": 1
   },
@@ -770,12 +770,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
       "2 kg environ",
       "1 kg précisément",
+      "500 grammes",
       "500 mesure unique"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_060",
@@ -796,12 +796,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Un dinar par jour",
       "Un quart de sa",
       "Un Sa'a de nourriture",
-      "Un dinar par jour",
       "Libre"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_062",
@@ -817,11 +817,11 @@
     "type": "singleChoice",
     "options": [
       "Les riches",
-      "Les pauvres et les nécessiteux",
+      "Les commerces",
       "Les investisseurs",
-      "Les commerces"
+      "Les pauvres et les nécessiteux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_064",
@@ -829,15 +829,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
+      "Resocialiser",
       "Aider les pauvres",
-      "Créer de l'équité sociale",
-      "Resocialiser"
+      "Purifier le Ramadan de manquements",
+      "Créer de l'équité sociale"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -846,12 +846,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
       "Facultative",
+      "Obligatoire au lieu de déplacement",
       "Double"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_066",
@@ -859,12 +859,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'Asr du 29ème jour de Ramadan",
       "Quelques jours avant l'Aïd",
-      "Le jour de l'Aïd exclusivement",
-      "La fin de l'année"
+      "L'Asr du 29ème jour de Ramadan",
+      "La fin de l'année",
+      "Le jour de l'Aïd exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_067",
@@ -873,14 +873,14 @@
     "type": "multipleChoice",
     "options": [
       "Le timing de versement",
-      "Le bénéficiaire",
+      "Le calcul de la base",
       "Le montant",
-      "Le calcul de la base"
+      "Le bénéficiaire"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -902,9 +902,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
-      "2 kg environ",
       "1 kg précisément",
+      "2 kg environ",
+      "500 grammes",
       "500 mesure unique"
     ],
     "correctIndex": 1
@@ -915,12 +915,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "Avant la prière de l'Aïd",
+      "N'importe quand",
       "Après le Ramadan",
-      "N'importe quand"
+      "Au début du Ramadan"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_071",
@@ -948,12 +948,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les riches",
-      "Les pauvres et les nécessiteux",
+      "Les commerces",
       "Les investisseurs",
-      "Les commerces"
+      "Les pauvres et les nécessiteux",
+      "Les riches"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_074",
@@ -978,12 +978,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
+      "Double",
       "Obligatoire au lieu de résidence",
-      "Facultative",
-      "Double"
+      "Obligatoire au lieu de déplacement",
+      "Facultative"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_076",
@@ -991,12 +991,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "L'Asr du 29ème jour de Ramadan",
       "Quelques jours avant l'Aïd",
+      "L'Asr du 29ème jour de Ramadan",
       "Le jour de l'Aïd exclusivement",
       "La fin de l'année"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_077",
@@ -1004,15 +1004,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Le calcul de la base",
       "Le timing de versement",
       "Le bénéficiaire",
-      "Le montant",
-      "Le calcul de la base"
+      "Le montant"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1022,11 +1022,11 @@
     "type": "singleChoice",
     "options": [
       "Permis et valide",
-      "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Obligatoire",
+      "Non valide et devient une vidya"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_079",
@@ -1034,9 +1034,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "500 grammes",
-      "2 kg environ",
       "1 kg précisément",
+      "2 kg environ",
+      "500 grammes",
       "500 mesure unique"
     ],
     "correctIndex": 1
@@ -1060,12 +1060,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un quart de sa",
       "Un Sa'a de nourriture",
       "Un dinar par jour",
+      "Un quart de sa",
       "Libre"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_082",
@@ -1080,12 +1080,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les commerces",
       "Les riches",
-      "Les pauvres et les nécessiteux",
       "Les investisseurs",
-      "Les commerces"
+      "Les pauvres et les nécessiteux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_084",
@@ -1093,15 +1093,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
-      "Aider les pauvres",
       "Créer de l'équité sociale",
-      "Resocialiser"
+      "Purifier le Ramadan de manquements",
+      "Resocialiser",
+      "Aider les pauvres"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1110,12 +1110,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
       "Facultative",
+      "Obligatoire au lieu de déplacement",
       "Double"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_086",
@@ -1124,11 +1124,11 @@
     "type": "singleChoice",
     "options": [
       "L'Asr du 29ème jour de Ramadan",
+      "La fin de l'année",
       "Quelques jours avant l'Aïd",
-      "Le jour de l'Aïd exclusivement",
-      "La fin de l'année"
+      "Le jour de l'Aïd exclusivement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_087",
@@ -1153,12 +1153,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Permis et valide",
-      "Non valide et devient une vidya",
       "Encouragé",
-      "Obligatoire"
+      "Obligatoire",
+      "Permis et valide",
+      "Non valide et devient une vidya"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "zakat_al_fitr_medium_089",
@@ -1166,12 +1166,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "1 kg précisément",
       "500 grammes",
       "2 kg environ",
-      "1 kg précisément",
       "500 mesure unique"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_090",
@@ -1179,12 +1179,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
-      "Avant la prière de l'Aïd",
       "Après le Ramadan",
-      "N'importe quand"
+      "N'importe quand",
+      "Avant la prière de l'Aïd",
+      "Au début du Ramadan"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_091",
@@ -1192,12 +1192,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Un quart de sa",
-      "Un Sa'a de nourriture",
+      "Libre",
       "Un dinar par jour",
-      "Libre"
+      "Un Sa'a de nourriture",
+      "Un quart de sa"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_092",
@@ -1212,12 +1212,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Les riches",
       "Les pauvres et les nécessiteux",
-      "Les investisseurs",
-      "Les commerces"
+      "Les riches",
+      "Les commerces",
+      "Les investisseurs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "zakat_al_fitr_medium_094",
@@ -1225,15 +1225,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Purifier le Ramadan de manquements",
-      "Aider les pauvres",
       "Créer de l'équité sociale",
-      "Resocialiser"
+      "Resocialiser",
+      "Aider les pauvres",
+      "Purifier le Ramadan de manquements"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1242,12 +1242,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Double",
       "Obligatoire au lieu de déplacement",
       "Obligatoire au lieu de résidence",
-      "Facultative",
-      "Double"
+      "Facultative"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "zakat_al_fitr_medium_096",
@@ -1256,11 +1256,11 @@
     "type": "singleChoice",
     "options": [
       "L'Asr du 29ème jour de Ramadan",
-      "Quelques jours avant l'Aïd",
       "Le jour de l'Aïd exclusivement",
+      "Quelques jours avant l'Aïd",
       "La fin de l'année"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_097",
@@ -1268,15 +1268,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Le timing de versement",
-      "Le bénéficiaire",
       "Le montant",
-      "Le calcul de la base"
+      "Le calcul de la base",
+      "Le bénéficiaire",
+      "Le timing de versement"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1286,11 +1286,11 @@
     "type": "singleChoice",
     "options": [
       "Permis et valide",
+      "Obligatoire",
       "Non valide et devient une vidya",
-      "Encouragé",
-      "Obligatoire"
+      "Encouragé"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_099",
@@ -1299,11 +1299,11 @@
     "type": "singleChoice",
     "options": [
       "500 grammes",
-      "2 kg environ",
       "1 kg précisément",
+      "2 kg environ",
       "500 mesure unique"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "zakat_al_fitr_medium_100",
@@ -1311,11 +1311,11 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Au début du Ramadan",
       "Avant la prière de l'Aïd",
+      "N'importe quand",
       "Après le Ramadan",
-      "N'importe quand"
+      "Au début du Ramadan"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

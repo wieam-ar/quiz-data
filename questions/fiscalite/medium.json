@@ -5,12 +5,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "La TVA déductible",
       "La TVA collectée",
       "La TVA facturée",
-      "La TVA déductible",
       "La TVA totale"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_002",
@@ -18,14 +18,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Charges personnelles non nécessaires",
       "Charges directes",
       "Charges indirectes",
-      "Charges personnelles",
-      "Charges personnelles non nécessaires"
+      "Charges personnelles"
     ],
     "correctIndexes": [
-      0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -53,9 +53,9 @@
     "type": "dropdown",
     "options": [
       "Chiffre d'affaires - Charges",
-      "Chiffre d'affaires - Charges - Amortissements",
       "Chiffre d'affaires × Coefficient",
-      "Recettes - Dépenses"
+      "Recettes - Dépenses",
+      "Chiffre d'affaires - Charges - Amortissements"
     ],
     "correctIndex": 0
   },
@@ -65,10 +65,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
       "Des intérêts de retard",
+      "Des poursuites pénales",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des pénalités"
     ],
     "correctIndexes": [
       0,
@@ -83,12 +83,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "15 ans",
       "3 ans",
       "6 ans",
-      "10 ans",
-      "15 ans"
+      "10 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_008",
@@ -97,9 +97,9 @@
     "type": "singleChoice",
     "options": [
       "Non déductibles",
-      "Partiellement déductibles",
+      "Taxées différemment",
       "Entièrement déductibles",
-      "Taxées différemment"
+      "Partiellement déductibles"
     ],
     "correctIndex": 2
   },
@@ -109,9 +109,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Une garantie du fisc",
       "Un paiement d'acompte",
       "Un impôt définitif",
-      "Une garantie du fisc",
       "Une protection du fisc"
     ],
     "correctIndexes": [
@@ -126,12 +126,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "80 à 100%",
       "0 à 10%",
       "10 à 45%",
-      "50 à 70%",
-      "80 à 100%"
+      "50 à 70%"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_011",
@@ -139,10 +139,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
+      "Municipal",
       "Indirect",
-      "Conjoint",
-      "Municipal"
+      "Direct",
+      "Conjoint"
     ],
     "correctIndex": 1
   },
@@ -153,11 +153,11 @@
     "type": "singleChoice",
     "options": [
       "La base imposable",
+      "Les dépenses",
       "L'impôt dû",
-      "Le revenu brut",
-      "Les dépenses"
+      "Le revenu brut"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_013",
@@ -179,8 +179,8 @@
     "type": "multipleChoice",
     "options": [
       "PME",
-      "Commerçants",
       "Petites entreprises",
+      "Commerçants",
       "Grandes sociétés"
     ],
     "correctIndexes": [
@@ -195,12 +195,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
-      "Illégale et pénalisée",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Un conseil d'investisseur",
+      "Illégale et pénalisée",
+      "Légale et recommandée"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_016",
@@ -208,10 +208,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
+      "Des poursuites pénales",
       "Des intérêts de retard",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des pénalités"
     ],
     "correctIndexes": [
       0,
@@ -226,12 +226,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
-      "6 ans",
+      "15 ans",
       "10 ans",
-      "15 ans"
+      "6 ans",
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_018",
@@ -239,12 +239,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
       "Partiellement déductibles",
-      "Entièrement déductibles",
-      "Taxées différemment"
+      "Non déductibles",
+      "Taxées différemment",
+      "Entièrement déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_019",
@@ -252,15 +252,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Une protection du fisc",
       "Un paiement d'acompte",
-      "Un impôt définitif",
       "Une garantie du fisc",
-      "Une protection du fisc"
+      "Un impôt définitif"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -270,11 +270,11 @@
     "type": "singleChoice",
     "options": [
       "0 à 10%",
+      "80 à 100%",
       "10 à 45%",
-      "50 à 70%",
-      "80 à 100%"
+      "50 à 70%"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_021",
@@ -282,12 +282,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Conjoint",
       "Direct",
       "Indirect",
-      "Conjoint",
       "Municipal"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_022",
@@ -295,12 +295,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les dépenses",
       "La base imposable",
       "L'impôt dû",
-      "Le revenu brut",
-      "Les dépenses"
+      "Le revenu brut"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_023",
@@ -308,12 +308,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La consommation",
       "L'épargne",
-      "L'investissement productif",
-      "Les importations"
+      "Les importations",
+      "La consommation",
+      "L'investissement productif"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_024",
@@ -321,15 +321,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
+      "Grandes sociétés",
       "Commerçants",
       "Petites entreprises",
-      "Grandes sociétés"
+      "PME"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -339,11 +339,11 @@
     "type": "singleChoice",
     "options": [
       "Légale et recommandée",
-      "Illégale et pénalisée",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Un conseil d'investisseur",
+      "Illégale et pénalisée"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_026",
@@ -351,9 +351,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
-      "Des intérêts de retard",
       "Une fermeture d'entreprise",
+      "Des intérêts de retard",
+      "Des pénalités",
       "Des poursuites pénales"
     ],
     "correctIndexes": [
@@ -369,12 +369,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
       "6 ans",
       "10 ans",
+      "3 ans",
       "15 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_028",
@@ -382,12 +382,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
-      "Partiellement déductibles",
       "Entièrement déductibles",
-      "Taxées différemment"
+      "Taxées différemment",
+      "Non déductibles",
+      "Partiellement déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_029",
@@ -395,9 +395,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
       "Un impôt définitif",
       "Une garantie du fisc",
+      "Un paiement d'acompte",
       "Une protection du fisc"
     ],
     "correctIndexes": [
@@ -412,12 +412,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
       "10 à 45%",
       "50 à 70%",
-      "80 à 100%"
+      "80 à 100%",
+      "0 à 10%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_031",
@@ -425,12 +425,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Municipal",
       "Direct",
       "Indirect",
-      "Conjoint",
-      "Municipal"
+      "Conjoint"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_032",
@@ -438,12 +438,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La base imposable",
-      "L'impôt dû",
+      "Les dépenses",
       "Le revenu brut",
-      "Les dépenses"
+      "L'impôt dû",
+      "La base imposable"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_033",
@@ -451,12 +451,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La consommation",
       "L'épargne",
-      "L'investissement productif",
-      "Les importations"
+      "Les importations",
+      "La consommation",
+      "L'investissement productif"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_034",
@@ -464,15 +464,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Grandes sociétés",
       "PME",
-      "Commerçants",
       "Petites entreprises",
-      "Grandes sociétés"
+      "Commerçants"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -481,12 +481,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
       "Illégale et pénalisée",
-      "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée",
+      "Un conseil d'investisseur",
+      "Une forme de fiscalité"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_036",
@@ -494,9 +494,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
       "Des intérêts de retard",
       "Une fermeture d'entreprise",
+      "Des pénalités",
       "Des poursuites pénales"
     ],
     "correctIndexes": [
@@ -513,11 +513,11 @@
     "type": "singleChoice",
     "options": [
       "3 ans",
-      "6 ans",
+      "15 ans",
       "10 ans",
-      "15 ans"
+      "6 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_038",
@@ -526,11 +526,11 @@
     "type": "singleChoice",
     "options": [
       "Non déductibles",
+      "Taxées différemment",
       "Partiellement déductibles",
-      "Entièrement déductibles",
-      "Taxées différemment"
+      "Entièrement déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_039",
@@ -539,14 +539,14 @@
     "type": "multipleChoice",
     "options": [
       "Un paiement d'acompte",
-      "Un impôt définitif",
+      "Une protection du fisc",
       "Une garantie du fisc",
-      "Une protection du fisc"
+      "Un impôt définitif"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -555,12 +555,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
       "10 à 45%",
+      "0 à 10%",
       "50 à 70%",
       "80 à 100%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_041",
@@ -568,12 +568,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
       "Indirect",
-      "Conjoint",
-      "Municipal"
+      "Municipal",
+      "Direct",
+      "Conjoint"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_042",
@@ -581,12 +581,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La base imposable",
       "L'impôt dû",
       "Le revenu brut",
-      "Les dépenses"
+      "Les dépenses",
+      "La base imposable"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_043",
@@ -594,8 +594,8 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La consommation",
       "L'épargne",
+      "La consommation",
       "L'investissement productif",
       "Les importations"
     ],
@@ -607,15 +607,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
+      "Grandes sociétés",
       "Commerçants",
-      "Petites entreprises",
-      "Grandes sociétés"
+      "PME",
+      "Petites entreprises"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -624,10 +624,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
+      "Un conseil d'investisseur",
       "Illégale et pénalisée",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée"
     ],
     "correctIndex": 1
   },
@@ -638,9 +638,9 @@
     "type": "multipleChoice",
     "options": [
       "Des pénalités",
-      "Des intérêts de retard",
+      "Des poursuites pénales",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des intérêts de retard"
     ],
     "correctIndexes": [
       0,
@@ -655,10 +655,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
+      "15 ans",
       "6 ans",
-      "10 ans",
-      "15 ans"
+      "3 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
@@ -668,10 +668,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
+      "Taxées différemment",
       "Partiellement déductibles",
       "Entièrement déductibles",
-      "Taxées différemment"
+      "Non déductibles"
     ],
     "correctIndex": 2
   },
@@ -681,15 +681,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
+      "Une protection du fisc",
       "Un impôt définitif",
-      "Une garantie du fisc",
-      "Une protection du fisc"
+      "Un paiement d'acompte",
+      "Une garantie du fisc"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -700,8 +700,8 @@
     "options": [
       "0 à 10%",
       "10 à 45%",
-      "50 à 70%",
-      "80 à 100%"
+      "80 à 100%",
+      "50 à 70%"
     ],
     "correctIndex": 1
   },
@@ -711,10 +711,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
+      "Municipal",
       "Indirect",
-      "Conjoint",
-      "Municipal"
+      "Direct",
+      "Conjoint"
     ],
     "correctIndex": 1
   },
@@ -724,12 +724,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La base imposable",
       "L'impôt dû",
+      "Les dépenses",
       "Le revenu brut",
-      "Les dépenses"
+      "La base imposable"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_053",
@@ -737,10 +737,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La consommation",
       "L'épargne",
+      "Les importations",
       "L'investissement productif",
-      "Les importations"
+      "La consommation"
     ],
     "correctIndex": 2
   },
@@ -750,15 +750,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Grandes sociétés",
       "PME",
       "Commerçants",
-      "Petites entreprises",
-      "Grandes sociétés"
+      "Petites entreprises"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -767,10 +767,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
+      "Un conseil d'investisseur",
       "Illégale et pénalisée",
-      "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée",
+      "Une forme de fiscalité"
     ],
     "correctIndex": 1
   },
@@ -780,10 +780,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
-      "Des intérêts de retard",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des poursuites pénales",
+      "Des pénalités",
+      "Des intérêts de retard"
     ],
     "correctIndexes": [
       0,
@@ -800,8 +800,8 @@
     "options": [
       "3 ans",
       "6 ans",
-      "10 ans",
-      "15 ans"
+      "15 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
@@ -813,10 +813,10 @@
     "options": [
       "Non déductibles",
       "Partiellement déductibles",
-      "Entièrement déductibles",
-      "Taxées différemment"
+      "Taxées différemment",
+      "Entièrement déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_059",
@@ -824,15 +824,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
       "Un impôt définitif",
       "Une garantie du fisc",
-      "Une protection du fisc"
+      "Une protection du fisc",
+      "Un paiement d'acompte"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -841,12 +841,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
       "10 à 45%",
       "50 à 70%",
-      "80 à 100%"
+      "80 à 100%",
+      "0 à 10%"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_061",
@@ -854,9 +854,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
-      "Indirect",
       "Conjoint",
+      "Indirect",
+      "Direct",
       "Municipal"
     ],
     "correctIndex": 1
@@ -867,12 +867,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La base imposable",
       "L'impôt dû",
       "Le revenu brut",
-      "Les dépenses"
+      "Les dépenses",
+      "La base imposable"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_063",
@@ -881,9 +881,9 @@
     "type": "singleChoice",
     "options": [
       "La consommation",
-      "L'épargne",
+      "Les importations",
       "L'investissement productif",
-      "Les importations"
+      "L'épargne"
     ],
     "correctIndex": 2
   },
@@ -893,15 +893,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
       "Commerçants",
       "Petites entreprises",
-      "Grandes sociétés"
+      "Grandes sociétés",
+      "PME"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -910,12 +910,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
       "Illégale et pénalisée",
+      "Légale et recommandée",
       "Une forme de fiscalité",
       "Un conseil d'investisseur"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_066",
@@ -923,10 +923,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
-      "Des intérêts de retard",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des poursuites pénales",
+      "Des intérêts de retard",
+      "Des pénalités"
     ],
     "correctIndexes": [
       0,
@@ -941,10 +941,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
+      "15 ans",
       "6 ans",
-      "10 ans",
-      "15 ans"
+      "3 ans",
+      "10 ans"
     ],
     "correctIndex": 1
   },
@@ -954,8 +954,8 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
       "Partiellement déductibles",
+      "Non déductibles",
       "Entièrement déductibles",
       "Taxées différemment"
     ],
@@ -967,9 +967,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
       "Un impôt définitif",
       "Une garantie du fisc",
+      "Un paiement d'acompte",
       "Une protection du fisc"
     ],
     "correctIndexes": [
@@ -984,10 +984,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
+      "80 à 100%",
       "10 à 45%",
       "50 à 70%",
-      "80 à 100%"
+      "0 à 10%"
     ],
     "correctIndex": 1
   },
@@ -997,10 +997,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
+      "Municipal",
       "Indirect",
       "Conjoint",
-      "Municipal"
+      "Direct"
     ],
     "correctIndex": 1
   },
@@ -1011,11 +1011,11 @@
     "type": "singleChoice",
     "options": [
       "La base imposable",
-      "L'impôt dû",
+      "Les dépenses",
       "Le revenu brut",
-      "Les dépenses"
+      "L'impôt dû"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_073",
@@ -1024,11 +1024,11 @@
     "type": "singleChoice",
     "options": [
       "La consommation",
-      "L'épargne",
       "L'investissement productif",
-      "Les importations"
+      "Les importations",
+      "L'épargne"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fiscalite_medium_074",
@@ -1036,15 +1036,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
-      "Commerçants",
       "Petites entreprises",
-      "Grandes sociétés"
+      "Grandes sociétés",
+      "PME",
+      "Commerçants"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1053,12 +1053,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
-      "Illégale et pénalisée",
+      "Un conseil d'investisseur",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée",
+      "Illégale et pénalisée"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_076",
@@ -1066,10 +1066,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Des pénalités",
-      "Des intérêts de retard",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des poursuites pénales",
+      "Des intérêts de retard",
+      "Des pénalités"
     ],
     "correctIndexes": [
       0,
@@ -1085,11 +1085,11 @@
     "type": "singleChoice",
     "options": [
       "3 ans",
-      "6 ans",
       "10 ans",
+      "6 ans",
       "15 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fiscalite_medium_078",
@@ -1097,12 +1097,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
       "Partiellement déductibles",
-      "Entièrement déductibles",
-      "Taxées différemment"
+      "Taxées différemment",
+      "Non déductibles",
+      "Entièrement déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_079",
@@ -1110,9 +1110,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
-      "Un impôt définitif",
       "Une garantie du fisc",
+      "Un impôt définitif",
+      "Un paiement d'acompte",
       "Une protection du fisc"
     ],
     "correctIndexes": [
@@ -1127,9 +1127,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
-      "10 à 45%",
       "50 à 70%",
+      "10 à 45%",
+      "0 à 10%",
       "80 à 100%"
     ],
     "correctIndex": 1
@@ -1141,11 +1141,11 @@
     "type": "singleChoice",
     "options": [
       "Direct",
-      "Indirect",
+      "Municipal",
       "Conjoint",
-      "Municipal"
+      "Indirect"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_082",
@@ -1154,11 +1154,11 @@
     "type": "singleChoice",
     "options": [
       "La base imposable",
-      "L'impôt dû",
+      "Les dépenses",
       "Le revenu brut",
-      "Les dépenses"
+      "L'impôt dû"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_083",
@@ -1166,12 +1166,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Les importations",
       "La consommation",
       "L'épargne",
-      "L'investissement productif",
-      "Les importations"
+      "L'investissement productif"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_084",
@@ -1179,15 +1179,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
       "Commerçants",
-      "Petites entreprises",
-      "Grandes sociétés"
+      "Grandes sociétés",
+      "PME",
+      "Petites entreprises"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1196,10 +1196,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
+      "Un conseil d'investisseur",
       "Illégale et pénalisée",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée"
     ],
     "correctIndex": 1
   },
@@ -1209,9 +1209,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Une fermeture d'entreprise",
       "Des pénalités",
       "Des intérêts de retard",
-      "Une fermeture d'entreprise",
       "Des poursuites pénales"
     ],
     "correctIndexes": [
@@ -1227,12 +1227,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
       "6 ans",
       "10 ans",
-      "15 ans"
+      "15 ans",
+      "3 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_088",
@@ -1240,12 +1240,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
-      "Partiellement déductibles",
+      "Taxées différemment",
       "Entièrement déductibles",
-      "Taxées différemment"
+      "Partiellement déductibles",
+      "Non déductibles"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fiscalite_medium_089",
@@ -1253,15 +1253,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
+      "Une protection du fisc",
       "Un paiement d'acompte",
       "Un impôt définitif",
-      "Une garantie du fisc",
-      "Une protection du fisc"
+      "Une garantie du fisc"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1271,11 +1271,11 @@
     "type": "singleChoice",
     "options": [
       "0 à 10%",
-      "10 à 45%",
       "50 à 70%",
-      "80 à 100%"
+      "80 à 100%",
+      "10 à 45%"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_091",
@@ -1283,12 +1283,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Direct",
       "Indirect",
-      "Conjoint",
-      "Municipal"
+      "Direct",
+      "Municipal",
+      "Conjoint"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_092",
@@ -1296,12 +1296,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La base imposable",
       "L'impôt dû",
       "Le revenu brut",
+      "La base imposable",
       "Les dépenses"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_093",
@@ -1309,12 +1309,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La consommation",
-      "L'épargne",
+      "Les importations",
       "L'investissement productif",
-      "Les importations"
+      "La consommation",
+      "L'épargne"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fiscalite_medium_094",
@@ -1322,15 +1322,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "PME",
       "Commerçants",
-      "Petites entreprises",
-      "Grandes sociétés"
+      "PME",
+      "Grandes sociétés",
+      "Petites entreprises"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -1339,12 +1339,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Légale et recommandée",
-      "Illégale et pénalisée",
       "Une forme de fiscalité",
-      "Un conseil d'investisseur"
+      "Légale et recommandée",
+      "Un conseil d'investisseur",
+      "Illégale et pénalisée"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fiscalite_medium_096",
@@ -1353,9 +1353,9 @@
     "type": "multipleChoice",
     "options": [
       "Des pénalités",
-      "Des intérêts de retard",
+      "Des poursuites pénales",
       "Une fermeture d'entreprise",
-      "Des poursuites pénales"
+      "Des intérêts de retard"
     ],
     "correctIndexes": [
       0,
@@ -1370,12 +1370,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "3 ans",
       "6 ans",
+      "3 ans",
       "10 ans",
       "15 ans"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "fiscalite_medium_098",
@@ -1383,8 +1383,8 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Non déductibles",
       "Partiellement déductibles",
+      "Non déductibles",
       "Entièrement déductibles",
       "Taxées différemment"
     ],
@@ -1396,8 +1396,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Un paiement d'acompte",
       "Un impôt définitif",
+      "Un paiement d'acompte",
       "Une garantie du fisc",
       "Une protection du fisc"
     ],
@@ -1413,11 +1413,11 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "0 à 10%",
-      "10 à 45%",
+      "80 à 100%",
       "50 à 70%",
-      "80 à 100%"
+      "0 à 10%",
+      "10 à 45%"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

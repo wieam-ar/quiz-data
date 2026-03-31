@@ -7,8 +7,8 @@
     "options": [
       "Les responsabilités",
       "L'indépendance requise",
-      "Les techniques",
-      "Les rapports émis"
+      "Les rapports émis",
+      "Les techniques"
     ],
     "correctIndex": 0
   },
@@ -18,10 +18,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Conseils financiers",
-      "Restructuration",
       "Transmission d'entreprise",
-      "Gestion de salaires"
+      "Conseils financiers",
+      "Gestion de salaires",
+      "Restructuration"
     ],
     "correctIndexes": [
       0,
@@ -54,12 +54,12 @@
     "level": "medium",
     "type": "dropdown",
     "options": [
+      "Contrôlés",
       "Certifiés",
       "Régulièrement tenus",
-      "Contrôlés",
       "Automatiquement acceptés"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_006",
@@ -67,12 +67,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
-      "Ses connaissances professionnelles",
+      "Son assurance automobile",
       "Son passeport",
-      "Son assurance automobile"
+      "Son permis de conduire",
+      "Ses connaissances professionnelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_007",
@@ -80,12 +80,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Garder le silence",
       "Ignorer le problème",
       "Signaler à l'unité de renseignement financier (URF)",
-      "En parler avec le client uniquement",
-      "Garder le silence"
+      "En parler avec le client uniquement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_008",
@@ -93,12 +93,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Imposés par l'État",
       "Secrets",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
       "Gratuits"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_009",
@@ -106,9 +106,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
       "Le conseil fiscal",
       "La gestion administrative",
+      "L'audit financier",
       "La représentation légale"
     ],
     "correctIndexes": [
@@ -123,12 +123,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "La conduite routière",
       "La route",
       "La déontologie",
-      "La conduite routière",
       "L'amitié"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_011",
@@ -138,13 +138,13 @@
     "options": [
       "Les informations du client",
       "Les documents confidentiels",
-      "Les discussions de travail",
-      "Les tiers"
+      "Les tiers",
+      "Les discussions de travail"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -153,12 +153,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Il en a envie",
       "Il possède les compétences nécessaires",
       "Le client l'exige",
+      "Il en a envie",
       "L'État le demande"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_013",
@@ -166,8 +166,8 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
       "Le respect des normes d'audit",
+      "La tenue des comptes",
       "La lutte antiblanchiment",
       "La déclaration fiscale"
     ],
@@ -184,12 +184,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Information positive",
       "Soupçon de blanchiment de capitaux",
       "Bonne nouvelle",
+      "Information positive",
       "Audit réussi"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_015",
@@ -197,14 +197,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
-      "Il prodigue des conseils objectifs",
+      "Il maintient ses compétences",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il prodigue des conseils objectifs",
+      "Il a des conflits d'intérêts"
     ],
     "correctIndexes": [
-      0,
-      2
+      1,
+      3
     ]
   },
   {
@@ -213,12 +213,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
       "Ses connaissances professionnelles",
       "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Son permis de conduire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_017",
@@ -226,12 +226,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
       "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Garder le silence",
+      "Ignorer le problème"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_018",
@@ -239,12 +239,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Gratuits",
       "Secrets",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
-      "Gratuits"
+      "Imposés par l'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_019",
@@ -252,15 +252,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
+      "La représentation légale",
       "Le conseil fiscal",
-      "La gestion administrative",
-      "La représentation légale"
+      "L'audit financier",
+      "La gestion administrative"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -269,12 +269,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
       "La déontologie",
       "La conduite routière",
+      "La route",
       "L'amitié"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_021",
@@ -284,13 +284,13 @@
     "options": [
       "Les informations du client",
       "Les documents confidentiels",
-      "Les discussions de travail",
-      "Les tiers"
+      "Les tiers",
+      "Les discussions de travail"
     ],
     "correctIndexes": [
       0,
       1,
-      2
+      3
     ]
   },
   {
@@ -299,12 +299,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "L'État le demande",
       "Il en a envie",
       "Il possède les compétences nécessaires",
-      "Le client l'exige",
-      "L'État le demande"
+      "Le client l'exige"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_023",
@@ -312,10 +312,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
       "Le respect des normes d'audit",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La déclaration fiscale",
+      "La tenue des comptes"
     ],
     "correctIndexes": [
       0,
@@ -330,10 +330,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Information positive",
+      "Audit réussi",
       "Soupçon de blanchiment de capitaux",
-      "Bonne nouvelle",
-      "Audit réussi"
+      "Information positive",
+      "Bonne nouvelle"
     ],
     "correctIndex": 1
   },
@@ -343,14 +343,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
       "Il prodigue des conseils objectifs",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il maintient ses compétences",
+      "Il a des conflits d'intérêts"
     ],
     "correctIndexes": [
-      0,
-      2
+      1,
+      3
     ]
   },
   {
@@ -359,12 +359,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
       "Ses connaissances professionnelles",
+      "Son assurance automobile",
       "Son passeport",
-      "Son assurance automobile"
+      "Son permis de conduire"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_027",
@@ -372,12 +372,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
       "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
+      "Ignorer le problème",
       "Garder le silence"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_028",
@@ -385,12 +385,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Secrets",
-      "Clairs et convenus à l'avance",
+      "Gratuits",
       "Imposés par l'État",
-      "Gratuits"
+      "Secrets",
+      "Clairs et convenus à l'avance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_029",
@@ -398,15 +398,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
+      "La représentation légale",
       "Le conseil fiscal",
-      "La gestion administrative",
-      "La représentation légale"
+      "L'audit financier",
+      "La gestion administrative"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -415,12 +415,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
       "La déontologie",
-      "La conduite routière",
-      "L'amitié"
+      "La route",
+      "L'amitié",
+      "La conduite routière"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_031",
@@ -428,15 +428,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les informations du client",
-      "Les documents confidentiels",
+      "Les tiers",
       "Les discussions de travail",
-      "Les tiers"
+      "Les documents confidentiels",
+      "Les informations du client"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -445,12 +445,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "L'État le demande",
       "Il en a envie",
       "Il possède les compétences nécessaires",
-      "Le client l'exige",
-      "L'État le demande"
+      "Le client l'exige"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_033",
@@ -459,9 +459,9 @@
     "type": "multipleChoice",
     "options": [
       "La tenue des comptes",
-      "Le respect des normes d'audit",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La déclaration fiscale",
+      "Le respect des normes d'audit"
     ],
     "correctIndexes": [
       0,
@@ -477,11 +477,11 @@
     "type": "singleChoice",
     "options": [
       "Information positive",
-      "Soupçon de blanchiment de capitaux",
       "Bonne nouvelle",
-      "Audit réussi"
+      "Audit réussi",
+      "Soupçon de blanchiment de capitaux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_035",
@@ -489,14 +489,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
-      "Il prodigue des conseils objectifs",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il a des conflits d'intérêts",
+      "Il maintient ses compétences",
+      "Il prodigue des conseils objectifs"
     ],
     "correctIndexes": [
       0,
-      2
+      1
     ]
   },
   {
@@ -507,8 +507,8 @@
     "options": [
       "Son permis de conduire",
       "Ses connaissances professionnelles",
-      "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Son passeport"
     ],
     "correctIndex": 1
   },
@@ -518,12 +518,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
-      "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Garder le silence",
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_038",
@@ -531,12 +531,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Secrets",
-      "Clairs et convenus à l'avance",
+      "Gratuits",
       "Imposés par l'État",
-      "Gratuits"
+      "Secrets",
+      "Clairs et convenus à l'avance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_039",
@@ -544,15 +544,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
-      "Le conseil fiscal",
       "La gestion administrative",
-      "La représentation légale"
+      "La représentation légale",
+      "Le conseil fiscal",
+      "L'audit financier"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -561,10 +561,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
-      "La déontologie",
       "La conduite routière",
-      "L'amitié"
+      "La déontologie",
+      "L'amitié",
+      "La route"
     ],
     "correctIndex": 1
   },
@@ -575,14 +575,14 @@
     "type": "multipleChoice",
     "options": [
       "Les informations du client",
-      "Les documents confidentiels",
+      "Les tiers",
       "Les discussions de travail",
-      "Les tiers"
+      "Les documents confidentiels"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -592,11 +592,11 @@
     "type": "singleChoice",
     "options": [
       "Il en a envie",
+      "L'État le demande",
       "Il possède les compétences nécessaires",
-      "Le client l'exige",
-      "L'État le demande"
+      "Le client l'exige"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_043",
@@ -604,10 +604,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
-      "Le respect des normes d'audit",
+      "La déclaration fiscale",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "Le respect des normes d'audit",
+      "La tenue des comptes"
     ],
     "correctIndexes": [
       0,
@@ -623,11 +623,11 @@
     "type": "singleChoice",
     "options": [
       "Information positive",
+      "Audit réussi",
       "Soupçon de blanchiment de capitaux",
-      "Bonne nouvelle",
-      "Audit réussi"
+      "Bonne nouvelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_045",
@@ -635,14 +635,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
       "Il prodigue des conseils objectifs",
+      "Il maintient ses compétences",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il a des conflits d'intérêts"
     ],
     "correctIndexes": [
-      0,
-      2
+      2,
+      3
     ]
   },
   {
@@ -651,12 +651,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
-      "Ses connaissances professionnelles",
       "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Son permis de conduire",
+      "Ses connaissances professionnelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_047",
@@ -664,12 +664,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
-      "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Garder le silence",
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_048",
@@ -678,11 +678,11 @@
     "type": "singleChoice",
     "options": [
       "Secrets",
+      "Gratuits",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
-      "Gratuits"
+      "Imposés par l'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_049",
@@ -690,9 +690,9 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
-      "Le conseil fiscal",
       "La gestion administrative",
+      "Le conseil fiscal",
+      "L'audit financier",
       "La représentation légale"
     ],
     "correctIndexes": [
@@ -707,9 +707,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
-      "La déontologie",
       "La conduite routière",
+      "La déontologie",
+      "La route",
       "L'amitié"
     ],
     "correctIndex": 1
@@ -721,14 +721,14 @@
     "type": "multipleChoice",
     "options": [
       "Les informations du client",
+      "Les tiers",
       "Les documents confidentiels",
-      "Les discussions de travail",
-      "Les tiers"
+      "Les discussions de travail"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -737,12 +737,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "L'État le demande",
       "Il en a envie",
       "Il possède les compétences nécessaires",
-      "Le client l'exige",
-      "L'État le demande"
+      "Le client l'exige"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_053",
@@ -750,10 +750,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
+      "La déclaration fiscale",
       "Le respect des normes d'audit",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La tenue des comptes"
     ],
     "correctIndexes": [
       0,
@@ -768,12 +768,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
+      "Audit réussi",
       "Information positive",
-      "Soupçon de blanchiment de capitaux",
       "Bonne nouvelle",
-      "Audit réussi"
+      "Soupçon de blanchiment de capitaux"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_055",
@@ -782,13 +782,13 @@
     "type": "multipleChoice",
     "options": [
       "Il a des conflits d'intérêts",
-      "Il prodigue des conseils objectifs",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il maintient ses compétences",
+      "Il prodigue des conseils objectifs"
     ],
     "correctIndexes": [
       0,
-      2
+      1
     ]
   },
   {
@@ -797,12 +797,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
       "Ses connaissances professionnelles",
-      "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Son permis de conduire",
+      "Son passeport"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_057",
@@ -825,8 +825,8 @@
     "options": [
       "Secrets",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
-      "Gratuits"
+      "Gratuits",
+      "Imposés par l'État"
     ],
     "correctIndex": 1
   },
@@ -836,15 +836,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
+      "La représentation légale",
       "Le conseil fiscal",
       "La gestion administrative",
-      "La représentation légale"
+      "L'audit financier"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -853,12 +853,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
       "La déontologie",
+      "L'amitié",
       "La conduite routière",
-      "L'amitié"
+      "La route"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_061",
@@ -866,15 +866,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les informations du client",
       "Les documents confidentiels",
-      "Les discussions de travail",
-      "Les tiers"
+      "Les tiers",
+      "Les informations du client",
+      "Les discussions de travail"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -883,12 +883,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Il en a envie",
       "Il possède les compétences nécessaires",
       "Le client l'exige",
-      "L'État le demande"
+      "L'État le demande",
+      "Il en a envie"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_063",
@@ -896,10 +896,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
-      "Le respect des normes d'audit",
+      "La déclaration fiscale",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "Le respect des normes d'audit",
+      "La tenue des comptes"
     ],
     "correctIndexes": [
       0,
@@ -914,12 +914,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Information positive",
       "Soupçon de blanchiment de capitaux",
-      "Bonne nouvelle",
-      "Audit réussi"
+      "Audit réussi",
+      "Information positive",
+      "Bonne nouvelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_065",
@@ -927,14 +927,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
+      "Il maintient ses compétences",
       "Il prodigue des conseils objectifs",
-      "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il a des conflits d'intérêts",
+      "Il accepte des cadeaux importants"
     ],
     "correctIndexes": [
-      0,
-      2
+      2,
+      3
     ]
   },
   {
@@ -944,11 +944,11 @@
     "type": "singleChoice",
     "options": [
       "Son permis de conduire",
-      "Ses connaissances professionnelles",
       "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Ses connaissances professionnelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_067",
@@ -956,10 +956,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
-      "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Signaler à l'unité de renseignement financier (URF)",
+      "Garder le silence",
+      "Ignorer le problème"
     ],
     "correctIndex": 1
   },
@@ -969,10 +969,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Secrets",
+      "Gratuits",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
-      "Gratuits"
+      "Secrets",
+      "Imposés par l'État"
     ],
     "correctIndex": 1
   },
@@ -982,15 +982,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
-      "Le conseil fiscal",
       "La gestion administrative",
-      "La représentation légale"
+      "La représentation légale",
+      "Le conseil fiscal",
+      "L'audit financier"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -999,12 +999,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
       "La déontologie",
-      "La conduite routière",
-      "L'amitié"
+      "L'amitié",
+      "La route",
+      "La conduite routière"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_071",
@@ -1013,8 +1013,8 @@
     "type": "multipleChoice",
     "options": [
       "Les informations du client",
-      "Les documents confidentiels",
       "Les discussions de travail",
+      "Les documents confidentiels",
       "Les tiers"
     ],
     "correctIndexes": [
@@ -1030,11 +1030,11 @@
     "type": "singleChoice",
     "options": [
       "Il en a envie",
+      "L'État le demande",
       "Il possède les compétences nécessaires",
-      "Le client l'exige",
-      "L'État le demande"
+      "Le client l'exige"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_073",
@@ -1043,9 +1043,9 @@
     "type": "multipleChoice",
     "options": [
       "La tenue des comptes",
+      "La déclaration fiscale",
       "Le respect des normes d'audit",
-      "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La lutte antiblanchiment"
     ],
     "correctIndexes": [
       0,
@@ -1060,10 +1060,10 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Information positive",
+      "Audit réussi",
       "Soupçon de blanchiment de capitaux",
-      "Bonne nouvelle",
-      "Audit réussi"
+      "Information positive",
+      "Bonne nouvelle"
     ],
     "correctIndex": 1
   },
@@ -1073,14 +1073,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
-      "Il prodigue des conseils objectifs",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il a des conflits d'intérêts",
+      "Il maintient ses compétences",
+      "Il prodigue des conseils objectifs"
     ],
     "correctIndexes": [
       0,
-      2
+      1
     ]
   },
   {
@@ -1089,9 +1089,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
-      "Ses connaissances professionnelles",
       "Son passeport",
+      "Ses connaissances professionnelles",
+      "Son permis de conduire",
       "Son assurance automobile"
     ],
     "correctIndex": 1
@@ -1102,12 +1102,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
       "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
+      "Ignorer le problème",
       "Garder le silence"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_078",
@@ -1116,11 +1116,11 @@
     "type": "singleChoice",
     "options": [
       "Secrets",
-      "Clairs et convenus à l'avance",
+      "Gratuits",
       "Imposés par l'État",
-      "Gratuits"
+      "Clairs et convenus à l'avance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_079",
@@ -1128,15 +1128,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
+      "La représentation légale",
       "Le conseil fiscal",
-      "La gestion administrative",
-      "La représentation légale"
+      "L'audit financier",
+      "La gestion administrative"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1145,9 +1145,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
-      "La déontologie",
       "La conduite routière",
+      "La déontologie",
+      "La route",
       "L'amitié"
     ],
     "correctIndex": 1
@@ -1158,15 +1158,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les informations du client",
-      "Les documents confidentiels",
+      "Les tiers",
       "Les discussions de travail",
-      "Les tiers"
+      "Les informations du client",
+      "Les documents confidentiels"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1176,11 +1176,11 @@
     "type": "singleChoice",
     "options": [
       "Il en a envie",
-      "Il possède les compétences nécessaires",
       "Le client l'exige",
-      "L'État le demande"
+      "L'État le demande",
+      "Il possède les compétences nécessaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_083",
@@ -1188,10 +1188,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
-      "Le respect des normes d'audit",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La déclaration fiscale",
+      "Le respect des normes d'audit",
+      "La tenue des comptes"
     ],
     "correctIndexes": [
       0,
@@ -1207,11 +1207,11 @@
     "type": "singleChoice",
     "options": [
       "Information positive",
+      "Audit réussi",
       "Soupçon de blanchiment de capitaux",
-      "Bonne nouvelle",
-      "Audit réussi"
+      "Bonne nouvelle"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "expertise_comptable_medium_085",
@@ -1219,14 +1219,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
-      "Il prodigue des conseils objectifs",
       "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il maintient ses compétences",
+      "Il prodigue des conseils objectifs",
+      "Il a des conflits d'intérêts"
     ],
     "correctIndexes": [
       0,
-      2
+      3
     ]
   },
   {
@@ -1235,9 +1235,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Son permis de conduire",
-      "Ses connaissances professionnelles",
       "Son passeport",
+      "Ses connaissances professionnelles",
+      "Son permis de conduire",
       "Son assurance automobile"
     ],
     "correctIndex": 1
@@ -1248,12 +1248,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Ignorer le problème",
-      "Signaler à l'unité de renseignement financier (URF)",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Garder le silence",
+      "Ignorer le problème",
+      "Signaler à l'unité de renseignement financier (URF)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_088",
@@ -1261,12 +1261,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Secrets",
-      "Clairs et convenus à l'avance",
       "Imposés par l'État",
-      "Gratuits"
+      "Secrets",
+      "Gratuits",
+      "Clairs et convenus à l'avance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_089",
@@ -1275,8 +1275,8 @@
     "type": "multipleChoice",
     "options": [
       "L'audit financier",
-      "Le conseil fiscal",
       "La gestion administrative",
+      "Le conseil fiscal",
       "La représentation légale"
     ],
     "correctIndexes": [
@@ -1304,15 +1304,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Les informations du client",
-      "Les documents confidentiels",
       "Les discussions de travail",
-      "Les tiers"
+      "Les tiers",
+      "Les informations du client",
+      "Les documents confidentiels"
     ],
     "correctIndexes": [
       0,
-      1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1322,11 +1322,11 @@
     "type": "singleChoice",
     "options": [
       "Il en a envie",
-      "Il possède les compétences nécessaires",
+      "L'État le demande",
       "Le client l'exige",
-      "L'État le demande"
+      "Il possède les compétences nécessaires"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_093",
@@ -1334,10 +1334,10 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "La tenue des comptes",
-      "Le respect des normes d'audit",
       "La lutte antiblanchiment",
-      "La déclaration fiscale"
+      "La tenue des comptes",
+      "La déclaration fiscale",
+      "Le respect des normes d'audit"
     ],
     "correctIndexes": [
       0,
@@ -1352,9 +1352,9 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Information positive",
-      "Soupçon de blanchiment de capitaux",
       "Bonne nouvelle",
+      "Soupçon de blanchiment de capitaux",
+      "Information positive",
       "Audit réussi"
     ],
     "correctIndex": 1
@@ -1365,14 +1365,14 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "Il a des conflits d'intérêts",
       "Il prodigue des conseils objectifs",
-      "Il accepte des cadeaux importants",
-      "Il maintient ses compétences"
+      "Il a des conflits d'intérêts",
+      "Il maintient ses compétences",
+      "Il accepte des cadeaux importants"
     ],
     "correctIndexes": [
-      0,
-      2
+      1,
+      3
     ]
   },
   {
@@ -1382,11 +1382,11 @@
     "type": "singleChoice",
     "options": [
       "Son permis de conduire",
-      "Ses connaissances professionnelles",
       "Son passeport",
-      "Son assurance automobile"
+      "Son assurance automobile",
+      "Ses connaissances professionnelles"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_097",
@@ -1395,11 +1395,11 @@
     "type": "singleChoice",
     "options": [
       "Ignorer le problème",
-      "Signaler à l'unité de renseignement financier (URF)",
+      "Garder le silence",
       "En parler avec le client uniquement",
-      "Garder le silence"
+      "Signaler à l'unité de renseignement financier (URF)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "expertise_comptable_medium_098",
@@ -1407,12 +1407,12 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "Secrets",
       "Clairs et convenus à l'avance",
-      "Imposés par l'État",
-      "Gratuits"
+      "Secrets",
+      "Gratuits",
+      "Imposés par l'État"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "expertise_comptable_medium_099",
@@ -1420,15 +1420,15 @@
     "level": "medium",
     "type": "multipleChoice",
     "options": [
-      "L'audit financier",
-      "Le conseil fiscal",
+      "La représentation légale",
       "La gestion administrative",
-      "La représentation légale"
+      "L'audit financier",
+      "Le conseil fiscal"
     ],
     "correctIndexes": [
-      0,
       1,
-      2
+      2,
+      3
     ]
   },
   {
@@ -1437,11 +1437,11 @@
     "level": "medium",
     "type": "singleChoice",
     "options": [
-      "La route",
       "La déontologie",
-      "La conduite routière",
-      "L'amitié"
+      "La route",
+      "L'amitié",
+      "La conduite routière"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]
